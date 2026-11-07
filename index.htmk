@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Agrégateur de Médias</title>
+    <style>
+        :root {
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+            --primary: #2563eb;
+            --primary-hover: #1d4ed8;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+        }
+
+        header {
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        header h1 a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        input, select {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: var(--card-bg);
+            color: var(--text-main);
+        }
+
+        main {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .media-banner {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+        }
+
+        .media-banner h2 {
+            margin-top: 0;
+            text-transform: capitalize;
+            color: var(--primary);
+        }
+
+        .article-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.01);
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+        }
+
+        .article-card:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+        }
+
+        .article-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 0.35rem;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .article-card h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.1rem;
+        }
+
+        .article-card h3 a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .article-card h3 a:hover {
+            color: var(--primary);
+        }
+
+        .article-snippet {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .view-article {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+        }
+
+        .view-article h2 {
+            margin-top: 0;
+            font-size: 1.75rem;
+            line-height: 1.3;
+        }
+
+        .source-link-box {
+            background: #f1f5f9;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .source-link-box a {
+            color: var(--primary);
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .source-link-box a:hover {
+            text-decoration: underline;
+        }
+
+        .article-content {
+            font-size: 1.05rem;
+            line-height: 1.7;
+            white-space: pre-line;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .back-btn:hover {
+            text-decoration: underline;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1><a href="#" id="home-link">Mon Agrégateur</a></h1>
+        <div class="controls" id="search-controls">
+            <input type="text" id="search-input" placeholder="Rechercher un article...">
+            <select id="date-select">
+                <option value="">Tous les jours</option>
+                <option value="2026-11-07">Aujourd'hui (07/11/2026)</option>
+                <option value="2026-11-06">Hier (06/11/2026)</option>
+            </select>
+        </div>
+    </header>
+
+    <main id="app-container">
+        <!-- Vue dynamique injectée ici par JavaScript -->
+    </main>
+
+    <script>
+        // Fausse base de données locale (à la place du JSON sur GitHub) pour tester instantanément
+        const db = {
+            "mediapart": [
+                {
+                    "slug": "enquete-exclusive-numerique",
+                    "title": "Enquête exclusive sur les nouveaux systèmes numériques",
+                    "date": "2026-11-07",
+                    "source": "Mediapart",
+                    "content": "Ceci est le texte intégral et propre de l'article de Mediapart, extrait automatiquement sans aucune publicité ni image superflue.\n\nLe journalisme d'investigation exige une lecture fluide, centrée uniquement sur les faits et les mots rédigés par les journalistes. Grâce à ce système, l'archive textuelle demeure accessible même si la page d'origine venait à disparaître.",
+                    "original_url": "https://www.mediapart.fr/journal/france/071126/exemple-article"
+                }
+            ],
+            "figaro": [
+                {
+                    "slug": "actualite-politique-nationale",
+                    "title": "Point sur l'actualité politique et institutionnelle",
+                    "date": "2026-11-07",
+                    "source": "Le Figaro",
+                    "content": "Résumé des grands dossiers de la semaine traités par la rédaction.\n\nLes discussions se poursuivent autour des orientations budgétaires et des mesures prises par les différents ministères concernés.",
+                    "original_url": "https://www.lefigaro.fr/politique/exemple-article"
+                }
+            ]
+        };
+
+        function router() {
+            const hash = window.location.hash;
+            const container = document.getElementById('app-container');
+            const searchControls = document.getElementById('search-controls');
+
+            // Route 1 : Lecture d'un article spécifique (#article/mediapart/slug)
+            if (hash.startsWith('#article/')) {
+                searchControls.classList.add('hidden');
+                const parts = hash.replace('#article/', '').split('/');
+                const media = parts[0];
+                const slug = parts[1];
+                
+                const article = (db[media] || []).find(a => a.slug === slug);
+                if (!article) {
+                    container.innerHTML = '<p>Article introuvable.</p>';
+                    return;
+                }
+
+                container.innerHTML = `
+                    <a href="#media/${media}" class="back-btn">&larr; Retour au flux ${article.source}</a>
+                    <article class="view-article">
+                        <div class="article-meta">
+                            <span>${article.source}</span>
+                            <span>&bull;</span>
+                            <span>${article.date}</span>
+                        </div>
+                        <h2>${article.title}</h2>
+                        <div class="source-link-box">
+                            <span>Consulter la publication originale sur le site officiel :</span>
+                            <a href="${article.original_url}" target="_blank" rel="noopener">Voir sur ${article.source} &rarr;</a>
+                        </div>
+                        <div class="article-content">${article.content}</div>
+                    </article>
+                `;
+                return;
+            }
+
+            // Route 2 : Vue d'un média spécifique (#media/mediapart)
+            if (hash.startsWith('#media/')) {
+                searchControls.classList.remove('hidden');
+                const media = hash.replace('#media/', '');
+                const articles = db[media] || [];
+
+                container.innerHTML = `
+                    <a href="#" class="back-btn">&larr; Retour à l'accueil général</a>
+                    <div class="media-banner">
+                        <h2>Espace ${media}</h2>
+                        <p>Retrouvez ici l'ensemble des archives textuelles triées par date.</p>
+                    </div>
+                    <div id="articles-list">
+                        ${articles.length === 0 ? '<p>Aucun article archivé pour ce média.</p>' : 
+                          articles.map(a => `
+                            <div class="article-card">
+                                <div class="article-meta">
+                                    <span>${a.date}</span>
+                                </div>
+                                <h3><a href="#article/${media}/${a.slug}">${a.title}</a></h3>
+                                <p class="article-snippet">${a.content.substring(0, 120)}...</p>
+                            </div>
+                          `).join('')}
+                    </div>
+                `;
+                return;
+            }
+
+            // Route 3 : Accueil général (liste des choix de médias)
+            searchControls.classList.remove('hidden');
+            container.innerHTML = `
+                <div class="media-banner">
+                    <h2>Sélectionnez un média</h2>
+                    <p>Choisissez une source pour consulter les archives textuelles enregistrées.</p>
+                </div>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+                    <a href="#media/mediapart" style="text-decoration: none;">
+                        <div class="article-card" style="text-align: center; padding: 2rem;">
+                            <h3 style="color: var(--primary);">Mediapart</h3>
+                            <p class="article-snippet">Investigation et enquêtes</p>
+                        </div>
+                    </a>
+                    <a href="#media/figaro" style="text-decoration: none;">
+                        <div class="article-card" style="text-align: center; padding: 2rem;">
+                            <h3 style="color: var(--primary);">Le Figaro</h3>
+                            <p class="article-snippet">Actualité générale</p>
+                        </div>
+                    </a>
+                </div>
+            `;
+        }
+
+        window.addEventListener('hashchange', router);
+        window.addEventListener('load', router);
+    </script>
+</body>
+</html>
