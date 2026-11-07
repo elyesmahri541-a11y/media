@@ -18,14 +18,19 @@ FEEDS = {
 articles = []
 
 for source, url in FEEDS.items():
+    print(f"Lecture de {source}...")
     try:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:25]:
+        for entry in feed.entries[:15]:
             title = entry.get("title", "Sans titre")
             link = entry.get("link", "")
-            date = entry.get("published", entry.get("updated", ""))
+            date = entry.get("published", entry.get("updated", "Date inconnue"))
             summary = entry.get("summary", entry.get("description", ""))
             
+            # Nettoyage basique des balises HTML dans le résumé si besoin
+            if not link:
+                continue
+                
             article_id = hashlib.md5(link.encode()).hexdigest()
             
             articles.append({
@@ -37,9 +42,9 @@ for source, url in FEEDS.items():
                 "summary": summary
             })
     except Exception as e:
-        print(f"Erreur {source}: {e}")
+        print(f"Erreur sur {source}: {e}")
+
+print(f"Total articles trouvés : {len(articles)}")
 
 with open("articles.json", "w", encoding="utf-8") as f:
     json.dump(articles, f, ensure_ascii=False, indent=2)
-
-print(f"Total : {len(articles)} articles.")
