@@ -1,0 +1,10 @@
+[
+  {
+    "id": "test-1",
+    "source": "Mediapart",
+    "title": "Ceci est un test d'article",
+    "link": "https://www.mediapart.fr",
+    "date": "2026-11-07",
+    "summary": "Ceci est un résumé de test pour vérifier que la page web fonctionne."
+  }
+]
