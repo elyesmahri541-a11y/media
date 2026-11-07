@@ -1,10 +1,34 @@
 [
   {
-    "id": "test-1",
+    "id": "1",
     "source": "Mediapart",
-    "title": "Ceci est un test d'article",
+    "title": "Enquête sur les nouvelles pratiques de financement",
     "link": "https://www.mediapart.fr",
     "date": "2026-11-07",
-    "summary": "Ceci est un résumé de test pour vérifier que la page web fonctionne."
+    "summary": "Un article d'investigation détaillé sur la transparence financière et les nouveaux acteurs du secteur."
+  },
+  {
+    "id": "2",
+    "source": "Blast",
+    "title": "Révélations sur les coulisses du pouvoir",
+    "link": "https://www.blast-info.fr",
+    "date": "2026-11-07",
+    "summary": "Nouvelle enquête vidéo et écrite sur la gestion des dossiers politiques récents."
+  },
+  {
+    "id": "3",
+    "source": "Le Figaro",
+    "title": "Point sur la situation économique nationale",
+    "link": "https://www.lefigaro.fr",
+    "date": "2026-11-07",
+    "summary": "Analyse des derniers chiffres de l'emploi et des perspectives pour les mois à venir."
+  },
+  {
+    "id": "4",
+    "source": "Le Monde",
+    "title": "Dossier spécial sur les enjeux climatiques",
+    "link": "https://www.lemonde.fr",
+    "date": "2026-11-07",
+    "summary": "Le point complet sur les mesures prises lors des derniers sommets internationaux."
   }
 ]
