@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrégateur & Archive de Médias</title>
+    <style>
+        :root {
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+            --primary: #2563eb;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1.25rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        header h1 a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        input, select {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-size: 0.9rem;
+            background: var(--card-bg);
+            color: var(--text-main);
+        }
+
+        main {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .media-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .media-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.5rem;
+            text-align: center;
+            text-decoration: none;
+            color: var(--text-main);
+            font-weight: 600;
+            transition: border-color 0.2s, transform 0.2s;
+        }
+
+        .media-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-2px);
+        }
+
+        .article-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .article-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 0.35rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .article-card h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.15rem;
+        }
+
+        .article-card h3 a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .article-card h3 a:hover {
+            color: var(--primary);
+        }
+
+        .view-article {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+        }
+
+        .source-box {
+            background: #f1f5f9;
+            padding: 0.75rem 1rem;
+            border-radius: 6px;
+            margin: 1rem 0 1.5rem 0;
+            font-size: 0.85rem;
+        }
+
+        .source-box a {
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .article-body {
+            font-size: 1.05rem;
+            white-space: pre-line;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1><a href="#">Archive Médias</a></h1>
+        <div class="controls">
+            <input type="text" id="search-input" placeholder="Rechercher...">
+        </div>
+    </header>
+
+    <main id="app">
+        <p>Chargement des articles...</p>
+    </main>
+
+    <script>
+        let allArticles = [];
+
+        // Charger le fichier JSON contenant tous les vrais articles
+        fetch('articles.json')
+            .then(res => res.json())
+            .then(data => {
+                allArticles = data;
+                render();
+            })
+            .catch(() => {
+                document.getElementById('app').innerHTML = `
+                    <div style="background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; padding: 1rem; border-radius: 8px;">
+                        <strong>Aucun article trouvé pour le moment.</strong><br>
+                        Le fichier <code>articles.json</code> n'a pas encore été généré par le script Python.
+                    </div>
+                `;
+            });
+
+        function render() {
+            const hash = window.location.hash;
+            const app = document.getElementById('app');
+
+            // Vue 1 : Lecture d'un article spécifique (#article/ID)
+            if (hash.startsWith('#article/')) {
+                const id = hash.replace('#article/', '');
+                const article = allArticles.find(a => a.id === id);
+                if (!article) {
+                    app.innerHTML = '<p>Article introuvable.</p>';
+                    return;
+                }
+                app.innerHTML = `
+                    <a href="#media/${encodeURIComponent(article.source)}" class="back-btn">&larr; Retour aux articles de ${article.source}</a>
+                    <div class="view-article">
+                        <div class="article-meta">
+                            <span><strong>${article.source}</strong></span>
+                            <span>&bull;</span>
+                            <span>${article.date}</span>
+                        </div>
+                        <h2>${article.title}</h2>
+                        <div class="source-box">
+                            Article original publié sur <a href="${article.link}" target="_blank" rel="noopener">${article.source} &rarr;</a>
+                        </div>
+                        <div class="article-body">${article.content || article.summary || 'Pas de contenu textuel extrait.'}</div>
+                    </div>
+                `;
+                return;
+            }
+
+            // Vue 2 : Liste des articles d'un média spécifique (#media/NOM_DU_MEDIA)
+            if (hash.startsWith('#media/')) {
+                const mediaName = decodeURIComponent(hash.replace('#media/', ''));
+                const filtered = allArticles.filter(a => a.source.toLowerCase() === mediaName.toLowerCase());
+                app.innerHTML = `
+                    <a href="#" class="back-btn">&larr; Tous les médias</a>
+                    <h2>Articles : ${mediaName}</h2>
+                    ${filtered.map(a => `
+                        <div class="article-card">
+                            <div class="article-meta">
+                                <span>${a.date}</span>
+                            </div>
+                            <h3><a href="#article/${a.id}">${a.title}</a></h3>
+                            <p style="color: var(--text-muted); font-size: 0.9rem;">${(a.summary || '').substring(0, 150)}...</p>
+                        </div>
+                    `).join('')}
+                `;
+                return;
+            }
+
+            // Vue 3 : Accueil (Liste de tous les médias disponibles dans le JSON)
+            const sources = [...new Set(allArticles.map(a => a.source))];
+            app.innerHTML = `
+                <h2>Sélectionnez un média (${sources.length} sources actives)</h2>
+                <div class="media-grid">
+                    ${sources.map(s => `
+                        <a href="#media/${encodeURIComponent(s)}" class="media-card">
+                            ${s}
+                        </a>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        window.addEventListener('hashchange', render);
+    </script>
+</body>
+</html>
