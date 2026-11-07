@@ -1,34 +1,810 @@
 [
   {
-    "id": "1",
+    "id": "1eda11f992066425a9a360578f7c14ad",
     "source": "Mediapart",
-    "title": "Enquête sur les nouvelles pratiques de financement",
-    "link": "https://www.mediapart.fr",
-    "date": "2026-11-07",
-    "summary": "Un article d'investigation détaillé sur la transparence financière et les nouveaux acteurs du secteur."
+    "title": "Gadi Eisenkot, opposant à Nétanyahou, chargé de trouver un gouvernement à Israël",
+    "link": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel",
+    "date": "Sat, 07 Nov 2026 21:45:32 +0100",
+    "summary": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d'Israël."
   },
   {
-    "id": "2",
-    "source": "Blast",
-    "title": "Révélations sur les coulisses du pouvoir",
-    "link": "https://www.blast-info.fr",
-    "date": "2026-11-07",
-    "summary": "Nouvelle enquête vidéo et écrite sur la gestion des dossiers politiques récents."
+    "id": "a6c5872439ca9b8e995fccb0cf7aa27d",
+    "source": "Mediapart",
+    "title": "Pologne: un tireur abat six personnes dans le centre touristique de Cracovie",
+    "link": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie",
+    "date": "Sat, 07 Nov 2026 21:22:44 +0100",
+    "summary": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts d’après le dernier bilan et une dizaine de blessés. Selon le ministre de l'intérieur, il était «fasciné par les idéologies d'extrême droite»."
   },
   {
-    "id": "3",
-    "source": "Le Figaro",
-    "title": "Point sur la situation économique nationale",
-    "link": "https://www.lefigaro.fr",
-    "date": "2026-11-07",
-    "summary": "Analyse des derniers chiffres de l'emploi et des perspectives pour les mois à venir."
+    "id": "2c3e3041ffec815a37c3aa1d11b66c56",
+    "source": "Mediapart",
+    "title": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
+    "link": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire",
+    "date": "Sat, 07 Nov 2026 21:01:46 +0100",
+    "summary": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui pour battre l’extrême droite, sans rien céder sur la radicalité de son programme."
   },
   {
-    "id": "4",
+    "id": "979a5a09d207997e73faf1b75c34e18c",
+    "source": "Mediapart",
+    "title": "Mobilisation sociale: à Paris, un cortège encore assez fourni pour maintenir la pression",
+    "link": "https://www.mediapart.fr/journal/france/071126/mobilisation-sociale-paris-un-cortege-encore-assez-fourni-pour-maintenir-la-pression",
+    "date": "Sat, 07 Nov 2026 19:29:38 +0100",
+    "summary": "L’acte 4 du mouvement social a réuni au moins 46 000 personnes dans la capitale, à deux jours de la conférence sociale organisée à Matignon. Les participants rencontrés sur le boulevard Voltaire, qui aspirent à des réformes ambitieuses et des changements de fond, n’en attendent pas grand-chose."
+  },
+  {
+    "id": "71c205d2ea2775ca1425bc413e0dd603",
+    "source": "Mediapart",
+    "title": "«On a été arrêtés au hasard»: des manifestants embarqués dans un bus de la ville de Strasbourg",
+    "link": "https://www.mediapart.fr/journal/france/071126/ete-arretes-au-hasard-des-manifestants-embarques-dans-un-bus-de-la-ville-de-strasbourg",
+    "date": "Sat, 07 Nov 2026 15:44:35 +0100",
+    "summary": "Jeudi 5 novembre, 62 manifestants qui s’étaient mis à l’abri des gaz lacrymogènes dans un restaurant ont été embarqués dans un bus réquisitionné par la police. Dans la soirée, 60 ont été relâchés et 2 ont été placés en garde à vue, d’après le parquet."
+  },
+  {
+    "id": "7c4228dd8bccc9917472387f1d11b68a",
+    "source": "Mediapart",
+    "title": "Un policier condamné à dix ans de prison joue sa dernière chance en appel",
+    "link": "https://www.mediapart.fr/journal/france/071126/un-policier-condamne-dix-ans-de-prison-joue-sa-derniere-chance-en-appel",
+    "date": "Sat, 07 Nov 2026 14:21:57 +0100",
+    "summary": "En mars, la cour d’assises avait condamné Gilles Guilbert à dix ans de réclusion criminelle pour le meurtre d’Olivio Gomes. Quelques jours avant son procès en appel, l’accusé a accordé une interview à un collectif de «soutien à la police» lancé par une figure du RN."
+  },
+  {
+    "id": "5371954cdf362c1fa7529b32ee5a0013",
+    "source": "Mediapart",
+    "title": "La fonte des glaciers perturbe aussi l’agriculture et la santé",
+    "link": "https://www.mediapart.fr/journal/ecologie/071126/la-fonte-des-glaciers-perturbe-aussi-l-agriculture-et-la-sante",
+    "date": "Sat, 07 Nov 2026 14:21:34 +0100",
+    "summary": "Malmenés par le changement climatique, nos glaciers et calottes glaciaires s’amenuisent. De nouvelles études montrent que cette fonte, généralement associée à une hausse du niveau des mers, aurait aussi des impacts agricoles et sur la santé."
+  },
+  {
+    "id": "2732b9c5279cdb48de2131fc519aad05",
+    "source": "Mediapart",
+    "title": "Dans la péninsule Arabique, le Yémen se distingue de ses riches voisins",
+    "link": "https://www.mediapart.fr/journal/international/071126/dans-la-peninsule-arabique-le-yemen-se-distingue-de-ses-riches-voisins",
+    "date": "Sat, 07 Nov 2026 14:20:09 +0100",
+    "summary": "L’État le plus pauvre et le plus peuplé de la région, secoué par une nouvelle offensive houthiste, a toujours occupé une place à part, notamment en raison du projet républicain qui s’y est développé. La guerre civile a exacerbé des lignes de fracture qui menacent son avenir en tant que nation unifiée."
+  },
+  {
+    "id": "a13ad7040541326de062bcbf530468f9",
+    "source": "Mediapart",
+    "title": "LFI dévoile son programme pour plier la bataille de la crédibilité",
+    "link": "https://www.mediapart.fr/journal/politique/071126/lfi-devoile-son-programme-pour-plier-la-bataille-de-la-credibilite",
+    "date": "Sat, 07 Nov 2026 12:50:57 +0100",
+    "summary": "Cette actualisation des versions précédentes sera présentée lors du meeting de Jean-Luc Mélenchon, samedi au Bourget. «On prend au sérieux l’idée qu’on va gouverner en mai», affirme la députée Clémence Guetté. En dépit des polémiques et des fractures à gauche."
+  },
+  {
+    "id": "e6fdd5d4b5e212f07f2d701a1b5c49e4",
+    "source": "Mediapart",
+    "title": "Grenoble: à la clinique de «la Mut’», six ans de lutte pour sortir du groupe Avec",
+    "link": "https://www.mediapart.fr/journal/france/071126/grenoble-la-clinique-de-la-mut-six-ans-de-lutte-pour-sortir-du-groupe-avec",
+    "date": "Sat, 07 Nov 2026 09:52:18 +0100",
+    "summary": "Le Groupement hospitalier mutualiste (GHM) de Grenoble n’est plus. Repris par une fondation et renommé le 1er novembre, ce pilier du système de santé local sort de six années tourmentées sous la gestion du groupe Avec, dont l’ancien dirigeant sera jugé en février 2027 pour détournement de fonds."
+  },
+  {
+    "id": "a2c08e3b094b8bf39aeba02bc4c3b3d4",
     "source": "Le Monde",
-    "title": "Dossier spécial sur les enjeux climatiques",
-    "link": "https://www.lemonde.fr",
-    "date": "2026-11-07",
-    "summary": "Le point complet sur les mesures prises lors des derniers sommets internationaux."
+    "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
+    "date": "Sat, 07 Nov 2026 20:25:00 +0100",
+    "summary": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales."
+  },
+  {
+    "id": "60adcb15e34dddbd8bcd3d0cec5ce76c",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html",
+    "date": "Sat, 07 Nov 2026 17:21:22 +0100",
+    "summary": "« Nous sommes en train d’ouvrir le chemin d’un grand changement politique en France », a affirmé le candidat « insoumis » samedi, lors d’un meeting de campagne pour la présentation du programme présidentiel de La France insoumise."
+  },
+  {
+    "id": "e5aefd971b3efadc3d9e1e3c00d8cc95",
+    "source": "Le Monde",
+    "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+    "date": "Sat, 07 Nov 2026 20:51:02 +0100",
+    "summary": "L’ancien chef d’état-major israélien, aujourd’hui à la tête du parti Yashar !, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a annoncé samedi soir la présidence."
+  },
+  {
+    "id": "8e0f370fb30a5477c1884f6946baab64",
+    "source": "Le Monde",
+    "title": "EN DIRECT, France-Fidji : les Bleus prennent le large  malgré la blessure de Romain Ntamack",
+    "link": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
+    "date": "Sat, 07 Nov 2026 19:10:03 +0100",
+    "summary": "Après deux victoires et une défaite en juillet dans l’hémisphère Sud, les Bleus continuent leur parcours dans le Championnat des nations de rugby, samedi, avec un match contre les Fidji."
+  },
+  {
+    "id": "4fb143f313fa67a9ab8afdd95b112226",
+    "source": "Le Monde",
+    "title": "Dans les cabinets d’affaires, l’inquiétude des jeunes avocats : « D’ici à cinq ans, l’IA sera capable d’exécuter la quasi-totalité des tâches aujourd’hui confiées à un stagiaire ou à un jeune collaborateur »",
+    "link": "https://www.lemonde.fr/campus/article/2026/11/07/dans-les-cabinets-d-affaires-l-inquietude-des-jeunes-avocats-d-ici-a-cinq-ans-l-ia-sera-capable-d-executer-la-quasi-totalite-des-taches-aujourd-hui-confiees-a-un-stagiaire-ou-a-un-jeune-collaborateur_6808299_4401467.html",
+    "date": "Sat, 07 Nov 2026 18:00:14 +0100",
+    "summary": "Alors que l’intelligence artificielle générative déferle dans le monde du droit, une partie de la jeune génération d’avocats s’interroge sur ses perspectives de carrière."
+  },
+  {
+    "id": "ba8413bcf166b32ce3d51ea4c0e3958b",
+    "source": "Le Monde",
+    "title": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
+    "date": "Sat, 07 Nov 2026 18:00:33 +0100",
+    "summary": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au profit d’un gouvernement autoritaire qui redonnerait au peuple une place centrale."
+  },
+  {
+    "id": "a174bc9bc67e16adc66e9c4065b5a31a",
+    "source": "Le Monde",
+    "title": "Aux obsèques de Pengo Bossio Wangi, une foule de proches et d’anonymes réunis : « C’est important d’être là pour montrer notre solidarité, quelle que soit la religion, la couleur »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-d-anonymes-reunis-c-est-important-d-etre-la-pour-montrer-notre-solidarite-quelle-que-soit-la-religion-la-couleur_6808310_3224.html",
+    "date": "Sat, 07 Nov 2026 19:45:55 +0100",
+    "summary": "Les obsèques de Pengo Bossio Wangi, tué dans l’attentat raciste de Trappes, le 23 octobre, se sont déroulées samedi à Guyancourt (Yvelines)."
+  },
+  {
+    "id": "2babddef9d79f5d09046867d7493071e",
+    "source": "Le Monde",
+    "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+    "date": "Sat, 07 Nov 2026 18:34:57 +0100",
+    "summary": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits était « fasciné par les idéologies d’extrême droite », a affirmé le ministre de l’intérieur."
+  },
+  {
+    "id": "6b8de8fff2554a1d7114ff7734b18811",
+    "source": "Le Monde",
+    "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+    "date": "Sat, 07 Nov 2026 21:53:11 +0100",
+    "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée »."
+  },
+  {
+    "id": "81e5c71adfce2b28dc1ce2568d736176",
+    "source": "Le Monde",
+    "title": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
+    "link": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
+    "date": "Sat, 07 Nov 2026 19:00:05 +0100",
+    "summary": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo  formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenus collaborateurs."
+  },
+  {
+    "id": "96eae5e96771281a6c7b2d140f402e9a",
+    "source": "Le Monde",
+    "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
+    "date": "Sat, 07 Nov 2026 18:00:13 +0100",
+    "summary": "L’Union européenne et Ottawa s’inspirent de la stratégie de la « révolution autolimitée », pensée par les dissidents d’Europe de l’Est dans les années 1970 pour bâtir une société parallèle à côté de la société officielle, sans chercher à la réformer, note le politiste bulgare Ivan Krastev, dans une tribune au « Monde »."
+  },
+  {
+    "id": "ba4eb52b851ceb39719349b9a44a539f",
+    "source": "Le Monde",
+    "title": "Carla Shatz, neuroscientifique : « La notion que le cerveau est déjà plastique in utero, bien avant la naissance, a été déterminante »",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
+    "date": "Sat, 07 Nov 2026 18:00:18 +0100",
+    "summary": "La chercheuse américaine a reçu le 3 novembre la Grande Médaille de l’Académie des sciences, une récompense qui met en valeur ses découvertes sur le développement du cerveau. Elle raconte dans un entretien au « Monde » cette aventure, qui a permis d’influencer les politiques éducatives."
+  },
+  {
+    "id": "9833f718f56f96351ccf9e213354abca",
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+    "date": "Sat, 07 Nov 2026 19:24:37 +0100",
+    "summary": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv."
+  },
+  {
+    "id": "5281dae21a54ab848fcb0dd70acaeaa1",
+    "source": "Le Monde",
+    "title": "Edwin Pindi, président du club de football de Troyes : « Même sous pavillon étranger, il y a un vrai respect de l’identité locale »",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/07/edwin-pindi-president-du-club-de-football-de-troyes-meme-sous-pavillon-etranger-il-y-a-un-vrai-respect-de-l-identite-locale_6808295_3242.html",
+    "date": "Sat, 07 Nov 2026 17:00:11 +0100",
+    "summary": "Alors que la formation auboise affronte le PSG au Parc des Princes, samedi, en Ligue 1, son dirigeant revient, dans un entretien au « Monde », sur les relations avec son puissant propriétaire, le City Football Group, également à la tête des Skyblues outre-Manche."
+  },
+  {
+    "id": "385f1e81238143fbbb5b4b6471004ab8",
+    "source": "Le Monde",
+    "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
+    "date": "Sat, 07 Nov 2026 17:30:10 +0100",
+    "summary": "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire."
+  },
+  {
+    "id": "5dc3f57b102eafa2ed58de318c822410",
+    "source": "Le Monde",
+    "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+    "date": "Sat, 07 Nov 2026 05:55:01 +0100",
+    "summary": "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ? Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat."
+  },
+  {
+    "id": "04cf0f2a3057a92b4bff378877b50fff",
+    "source": "Libération",
+    "title": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+    "link": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
+    "date": "Sat, 07 Nov 2026 19:35:59 +0000",
+    "summary": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines. Stratégie par étapes ou sectarisme suicidaire ?"
+  },
+  {
+    "id": "ea1e1b8f208771a8e432ac7f90c55738",
+    "source": "Libération",
+    "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
+    "link": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
+    "date": "Sat, 07 Nov 2026 19:12:33 +0000",
+    "summary": "Samedi, pour le quatrième week-end consécutif, de nouvelles manifestations se sont déroulées sous haute sécurité policière et dans le calme, avec pour épicentre Paris, où des gilets jaunes se sont rassemblés à Concorde malgré l’interdiction de la préfecture de police."
+  },
+  {
+    "id": "265cfd133bf64e6be72736a74260b901",
+    "source": "Libération",
+    "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
+    "link": "https://www.liberation.fr/societe/on-est-epuises-emotionnellement-mais-il-y-a-des-choses-qui-nous-font-tenir-a-paris-les-jeunes-manifestants-restent-mobilises-20261107_YNKADUBQ7RGRDGA2IDM4FOIZNM/",
+    "date": "Sat, 07 Nov 2026 18:57:58 +0000",
+    "summary": "Si le quatrième samedi du mouvement social a affiché une participation en baisse, étudiants et lycéens ont continué de défiler joyeusement à Paris."
+  },
+  {
+    "id": "5ad538f2a30a191d8f440f6f7ee0a4d0",
+    "source": "Libération",
+    "title": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
+    "link": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/",
+    "date": "Sat, 07 Nov 2026 18:49:39 +0000",
+    "summary": "Le candidat insoumis a rassemblé plus de 20 000 personnes au Parc des expositions en Seine-Saint-Denis, selon les chiffres des organisateurs, lors d’une convention de présentation de son programme, ce samedi 7 novembre."
+  },
+  {
+    "id": "6d4b772372af57492983d99b80c390e2",
+    "source": "Libération",
+    "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 6 morts et une dizaine de blessés dans une fusillade",
+    "link": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
+    "date": "Sat, 07 Nov 2026 18:12:18 +0000",
+    "summary": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital."
+  },
+  {
+    "id": "70834613c4e851c7b2404c2d41adc60d",
+    "source": "Libération",
+    "title": "«Moi qui pensais vivre dans le pays des droits de l’homme» : à Nantes, recherche manif désespérément",
+    "link": "https://www.liberation.fr/societe/moi-qui-pensais-vivre-dans-le-pays-des-droits-de-lhomme-a-nantes-recherche-manif-desesperement-20261107_W3KQ42IC7JBMTOKFRXGBHIBTDI/",
+    "date": "Sat, 07 Nov 2026 18:02:06 +0000",
+    "summary": "Dans la ville, où le rassemblement était interdit, les manifestants ont été rapidement dispersés par les forces de l’ordre, entre colère et confusion."
+  },
+  {
+    "id": "53ba6ace754cc8ff62a5d5d12c0a0f20",
+    "source": "Libération",
+    "title": "«On est là pour se montrer unis, ce que les politiques n’ont pas su faire» : aux obsèques de Pengo Bossio Wangi, un «dernier au revoir du peuple»",
+    "link": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/",
+    "date": "Sat, 07 Nov 2026 17:58:09 +0000",
+    "summary": "Ce samedi 7 novembre, plusieurs centaines de personnes se sont rassemblées au cimetière de Guyancourt, dans les Yvelines, pour un dernier hommage public au jeune homme de 26 ans tué dans l’attentat de Trappes."
+  },
+  {
+    "id": "0bf0f402ee986e54c1a846a6ee139910",
+    "source": "Libération",
+    "title": "«La musique est un dialogue plus fort que les mots» : à Nice, l’Orchestre du nouveau monde fait des petits",
+    "link": "https://www.liberation.fr/societe/la-musique-est-un-dialogue-plus-fort-que-les-mots-a-nice-lorchestre-du-nouveau-monde-fait-des-petits-20261107_YIWY4TLCHJHORBYN7BBVB72SUE/",
+    "date": "Sat, 07 Nov 2026 17:15:26 +0000",
+    "summary": "Avant que ne s’élance le cortège dans la capitale azuréenne, samedi, une cinquantaine de musiciens ont constitué une formation symphonique, en mimétisme à l’Orchestre du nouveau monde et en déroulant les mêmes morceaux."
+  },
+  {
+    "id": "7b67d028dcd763ee3ea78cf40f213174",
+    "source": "Libération",
+    "title": "Ce film de Sylvain Chomet pour Dior a-t-il été réalisé avec l’IA ?",
+    "link": "https://www.liberation.fr/checknews/ce-film-de-sylvain-chomet-pour-dior-a-t-il-ete-realise-avec-lia-20261107_QURVF5TQIJC7LCFJ6JA2TS5WFQ/",
+    "date": "Sat, 07 Nov 2026 17:12:59 +0000",
+    "summary": "Accusé d’avoir largement utilisé l’intelligence artificielle, le réalisateur des «Triplettes de Belleville» assure avoir tout «dessiné à la main» mais reconnaît «avoir eu recours à l’interpolation automatisée» pour l’animation."
+  },
+  {
+    "id": "39fcaab57facd44d7b913bc03692df17",
+    "source": "Libération",
+    "title": "Au Yémen, 22 morts dans des bombardements saoudiens autour de Sanaa, annoncent les Houthis",
+    "link": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
+    "date": "Sat, 07 Nov 2026 16:47:17 +0000",
+    "summary": "Le conflit s’intensifie sur le sol yéménite, depuis la reprise des hostilités cet été, l’offensive du groupe sur le littoral en septembre et les représailles saoudiennes en octobre."
+  },
+  {
+    "id": "22fa1571986cf758fe05a496cf20b5ea",
+    "source": "Libération",
+    "title": "Les groupes de parole de Terreur Graphique : «Bonjour… vous savez très bien qui je suis»",
+    "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-vous-savez-tres-bien-qui-je-suis-20261107_JQHJNMLLZVHLPPMNTXUKZTGDCY/",
+    "date": "Sat, 07 Nov 2026 15:25:00 +0000",
+    "summary": "Parce que ça va mieux en le disant, tour d’horizon des groupes de parole."
+  },
+  {
+    "id": "34a7d9a0c9df60750ee47e0676d494ca",
+    "source": "Libération",
+    "title": "«Une avancée considérable» : aux Etats-Unis, la vague démocrate aux midterms porte aussi les femmes",
+    "link": "https://www.liberation.fr/international/amerique/une-avancee-considerable-aux-etats-unis-la-vague-democrate-aux-midterms-porte-aussi-les-femmes-20261107_6RGVHTOLARAKRIXIJ37PDL7NJI/",
+    "date": "Sat, 07 Nov 2026 15:14:00 +0000",
+    "summary": "Record de femmes gouverneures, progression au Congrès, diversité inédite : les élections de mi-mandat marquent un tournant dans la représentation politique féminine, comme l’analyse la chercheuse Kelly Dittmar."
+  },
+  {
+    "id": "d94936e9cef8a15d0da2399434ccda27",
+    "source": "Libération",
+    "title": "A Gaza, des pluies diluviennes privent d’abri des dizaines de milliers de déplacés",
+    "link": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
+    "date": "Sat, 07 Nov 2026 14:57:38 +0000",
+    "summary": "La coalition des organisations de la société civile palestinienne a mis en garde contre le risque de propagation de maladies et «la catastrophe» qui menacent les habitants de l’enclave palestinienne ravagée par plusieurs années de guerre contre Israël."
+  },
+  {
+    "id": "8bb71a9740d253f4749e296e9e5f0325",
+    "source": "Libération",
+    "title": "«Chacun» de Jean-Paul Dubois, ceux qui manquent à la peine",
+    "link": "https://www.liberation.fr/culture/livres/chacun-de-jean-paul-dubois-ceux-qui-manquent-a-la-peine-20261107_ZM6DHIUIUFH23JNYLSGS3T5RCQ/",
+    "date": "Sat, 07 Nov 2026 13:42:00 +0000",
+    "summary": "Malade de tristesse, un homme vit entouré par le passé et ses fantômes."
+  },
+  {
+    "id": "1ab455777f80ab6af912c16e42c63165",
+    "source": "Libération",
+    "title": "«Doveland» de Django Django : le spleen leur va si bien",
+    "link": "https://www.liberation.fr/culture/musique/doveland-de-django-django-le-spleen-leur-va-si-bien-20261107_XFYC4QH5ZBGIBJGSHW3SVK45TU/",
+    "date": "Sat, 07 Nov 2026 13:41:00 +0000",
+    "summary": "Pur disque de folk-rock, le sixième album des Anglais est une superbe ode à la nostalgie."
+  },
+  {
+    "id": "25ba1526146777a0d9df5550f25cc5b4",
+    "source": "Libération",
+    "title": "Présidentielle : les députés qui soutiennent Jean-Luc Mélenchon se sont mis «en dehors du parti», réagit le PCF",
+    "link": "https://www.liberation.fr/politique/elections/presidentielle-les-deputes-qui-soutiennent-jean-luc-melenchon-se-sont-mis-en-dehors-du-parti-reagit-le-pcf-20261107_WTSZWGQPBVCPBJTMAUO5WZCEFE/",
+    "date": "Sat, 07 Nov 2026 12:55:49 +0000",
+    "summary": "Deux jours après que quatre élus communistes ont annoncé leur soutien au leader LFI pour l’élection à venir, le Conseil national du Parti communiste français a rappelé ce samedi 7 novembre que tout adhérent «se doit de respecter le choix majoritaire»."
+  },
+  {
+    "id": "3b6c0a89209adab9b54daf42aa8e7840",
+    "source": "Libération",
+    "title": "Des nus hantés par Eugen Sandow : «Nous voulions faire du mapping mais en version porno»",
+    "link": "https://www.liberation.fr/lifestyle/intimites/des-nus-hantes-par-eugen-sandow-nous-voulions-faire-du-mapping-mais-en-version-porno-20261107_BY4QFBH4XFH5DJWIM753L3GW7E/",
+    "date": "Sat, 07 Nov 2026 12:50:00 +0000",
+    "summary": "Faisant coïter des corps par projection d’images, le duo d’artistes E&amp;B expose à Paris Photo un travail fascinant sur le fantasme du mâle musclé et fait revivre la mémoire du pionnier du culturisme."
+  },
+  {
+    "id": "1e55b2382179f018247b0edc44457afd",
+    "source": "Libération",
+    "title": "Tennis : Gaël Monfils nommé capitaine de l’équipe de France pour la Coupe Davis",
+    "link": "https://www.liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU/",
+    "date": "Sat, 07 Nov 2026 12:35:22 +0000",
+    "summary": "Le Français, ancien numéro 6 mondial qui vient de prendre sa retraite sportive, fait son retour en tant qu’encadrant, a annoncé ce samedi 7 novembre la Fédération française de tennis (FFT)."
+  },
+  {
+    "id": "fd3546b79e9cab3e1e50819ef9204c3a",
+    "source": "Libération",
+    "title": "Incendie mortel du gîte de Wintzenheim : la propriétaire sera jugée début 2027",
+    "link": "https://www.liberation.fr/societe/police-justice/incendie-mortel-du-gite-de-wintzenheim-la-proprietaire-sera-jugee-debut-2027-20261107_EA6QRUYRDJHMPJN43LVZIBRIRU/",
+    "date": "Sat, 07 Nov 2026 11:31:58 +0000",
+    "summary": "Laure Beccuau, procureure de la République de Paris, a annoncé vendredi 6 novembre que le procès pour homicides involontaires et blessures involontaires se tiendrait du 25 janvier au 10 février après la mort de 11 personnes en août 2023."
+  },
+  {
+    "id": "7700ceef232e2e4abbac284fee3c3a64",
+    "source": "Libération",
+    "title": "L’Ukraine frappée par des bombardements nocturnes russes «massifs» contre ses infrastructures énergétiques",
+    "link": "https://www.liberation.fr/international/europe/lukraine-frappee-par-des-bombardements-nocturnes-russes-massives-contre-ses-infrastructures-energetiques-20261107_XUOSMUOROVBORMAZZESV3UUISQ/",
+    "date": "Sat, 07 Nov 2026 11:01:25 +0000",
+    "summary": "L’offensive lancée par Moscou dans la nuit de vendredi à samedi entraîne des coupures de courant dans cinq régions, dont celle de Kyiv, la capitale ukrainienne."
+  },
+  {
+    "id": "bb40ebb5fbff648e4afb95df6fc79e98",
+    "source": "Libération",
+    "title": "La semaine vue par Coco : Trump face au «blunami» démocrate",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-trump-face-au-blunami-democrate-20261107_QPDZ2YMJNVE7TIPB7N6E56FJM4/",
+    "date": "Sat, 07 Nov 2026 11:00:00 +0000",
+    "summary": "L’actualité croquée par notre dessinatrice."
+  },
+  {
+    "id": "edc50df68d819d7097ba7588c226004a",
+    "source": "Libération",
+    "title": "Les produits végétaux «ultratransformés» sont-ils par définition mauvais pour la santé ?",
+    "link": "https://www.liberation.fr/checknews/les-produits-vegetaux-ultratransformes-sont-ils-par-definition-mauvais-pour-la-sante-20261107_ZWIDVHEJ7VEVZH55JZSCAJYBNU/",
+    "date": "Sat, 07 Nov 2026 10:45:00 +0000",
+    "summary": "Les steaks et nuggets vegan, a priori préférables à la viande dans des perspectives d’éthique animale ou climatique, sont parfois raillés car relevant d’une alimentation «ultratransformée». Les données scientifiques incitent pourtant à dépasser cette seule catégorisation."
+  },
+  {
+    "id": "ed7f72b3c43a121ebdaa75e462603dca",
+    "source": "Libération",
+    "title": "Joutes à vélo, duels à l’épée : à Londres et New York, le carton des combats médiévaux revisités",
+    "link": "https://www.liberation.fr/lifestyle/hightech/joutes-a-velo-duels-a-lepee-a-londres-et-new-york-le-carton-des-combats-medievaux-revisites-20261107_3EOATNI3OVEKZPNOAVF4ENYJDM/",
+    "date": "Sat, 07 Nov 2026 10:10:00 +0000",
+    "summary": "Annoncés sur les réseaux sociaux, des spectacles et défis inspirés du Moyen Age ont attiré des milliers de curieux au mois d’octobre. L’historien Florian Besson analyse le phénomène."
+  },
+  {
+    "id": "08aa05dd805a7aac8ea4dee44f7cd71f",
+    "source": "Libération",
+    "title": "Affaire Sonia Mabrouk à BFM TV : l’étincelle Igor Sahiri, par Daniel Schneidermann",
+    "link": "https://www.liberation.fr/idees-et-debats/opinions/affaire-sonia-mabrouk-a-bfm-tv-letincelle-igor-sahiri-par-daniel-schneidermann-20261107_4FEK6VJXJNC3XMAE3232HNGRIA/",
+    "date": "Sat, 07 Nov 2026 10:04:00 +0000",
+    "summary": "Sur le plateau de «Quotidien», le reporter de terrain de la chaîne d’info en continu s’est risqué à relayer le malaise interne et externe autour de la transfuge de CNews. Une séquence tombée dans l’engrenage guerrier de la bollosphère."
+  },
+  {
+    "id": "e8f3d1f589b0762e2d8b555fb3ddb380",
+    "source": "Libération",
+    "title": "EN IMAGES - En Afrique du Sud, les mythes de Mpumalanga",
+    "link": "https://www.liberation.fr/international/en-images-en-afrique-du-sud-les-mythes-de-mpumalanga-20261107_TIRJ23ZXQVHCDDGDFCP63EOIPU/",
+    "date": "Sat, 07 Nov 2026 10:00:00 +0000",
+    "summary": "Dans son livre «Mapalakata», Robin Berstein explore avec délicatesse et onirisme l’imaginaire de cette province sud-africaine."
+  },
+  {
+    "id": "cabd39999151419894ed84d7e92b49fb",
+    "source": "Reporterre",
+    "title": "Ouverture de l'A69 : retour sur 4 années d'une lutte farouche et inventive",
+    "link": "https://reporterre.net/Ouverture-de-l-A69-retour-sur-4-annees-d-une-lutte-farouche-et-inventive",
+    "date": "2026-11-07T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/06-aberlioz-2023-12-09-a4671.jpg?1794033000\" width=\"700\" />\n<p>L'autoroute A69 reliant Toulouse à Castres a été ouverte aux voitures le 6 novembre. Un dénouement qui ne fera pas oublier quatre années de lutte acharnée, menées par des opposants qui auront tout tenté contre le chantier, malgré la répression de l'État. <br class=\"autobr\" /> 11 février 2023 — Depuis plusieurs semaines, le concessionnaire Atosca a lancé des fouilles archéologiques sur les 53 kilomètres du tracé entre Toulouse et Castres, alors même que l'enquête publique, dont dépend le feu vert à la (…)</p>\n\n            <a href=\"https://reporterre.net/Ouverture-de-l-A69-retour-sur-4-annees-d-une-lutte-farouche-et-inventive?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Autoroutes\" rel=\"tag\">Autoroutes</a>\n            , \n                <a href=\"https://reporterre.net/A69\" rel=\"tag\">A69</a>"
+  },
+  {
+    "id": "2bf8ffc4c614c51e62218977638c67fc",
+    "source": "Reporterre",
+    "title": "COP31 : pour éviter l'avion, Reporterre a fait 54 heures de train jusqu'en Turquie",
+    "link": "https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie",
+    "date": "2026-11-07T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/copturquie_v2-b0b04.jpg?1794033001\" width=\"700\" />\n<p>Une addition de <span class=\"caps\">CO</span>₂ divisée par trois : pour couvrir la <span class=\"caps\">COP31</span>, qui a lieu à Antalya, notre journaliste Emmanuel Clévenot a préféré partir de la gare de l'Est à Paris et traverser sept pays, plutôt que de l'aéroport. <br class=\"autobr\" /> «<small class=\"fine d-inline\"> </small>Bon, j'ai une mauvaise nouvelle.<small class=\"fine d-inline\"> </small>» Il fallait bien que ça arrive un jour. Dans un anglais coupé à l'accent bulgare, le contrôleur m'informe que le train restera bloqué à quai pour une durée indéterminée. Dehors, la nuit est tombée depuis quelques heures déjà. Placardées sur (…)</p>\n\n            <a href=\"https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>\n            , \n                <a href=\"https://reporterre.net/Preferer-le-train\" rel=\"tag\">Voyagez en train</a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
+  },
+  {
+    "id": "f86929f81c756b08e5c56f5ef55583ff",
+    "source": "Reporterre",
+    "title": "« La montagne est éventrée » : en Toscane, les dégâts du business du marbre",
+    "link": "https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre",
+    "date": "2026-11-07T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/marble_quarries_in_carrara_italy_22_of_30_-eb3d9.jpg?1794033001\" width=\"700\" />\n<p>Le marbre de Carrare, en Toscane, est connu dans le monde entier pour sa pureté exceptionnelle. Longtemps restée artisanale, sa production s'est intensifiée. Désormais, la pierre de luxe est extraite aux dépens de l'environnement et des habitants. <br class=\"autobr\" />\nAlpes apuanes (Italie), reportage <br class=\"autobr\" />\nDepuis le belvédère de Campocecina, surplombant la ville toscane de Carrare, une randonneuse se penche par-dessus un mur en pierre pour voir ce qu'il y a en contrebas. «<small class=\"fine d-inline\"> </small>C'est trop beau<small class=\"fine d-inline\"> </small>!<small class=\"fine d-inline\"> </small>» s'extasie-t-elle en (…)</p>\n\n            <a href=\"https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Photographies\" rel=\"tag\">Photographies</a>\n            , \n                <a href=\"https://reporterre.net/Mines-et-Gaz-de-schiste\" rel=\"tag\">Mines et métaux</a>"
+  },
+  {
+    "id": "dc3f86302f96af42a38b72a1b22e47d4",
+    "source": "Reporterre",
+    "title": "Poulets labellisés « Bien-être animal » : des associations animalistes attaquent les marques en justice",
+    "link": "https://reporterre.net/Poulets-labellises-Bien-etre-animal-des-associations-animalistes-attaquent-les-marques-en",
+    "date": "2026-11-06T17:40:29Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/croustywout-f869c.jpg?1793986832\" width=\"700\" />\n<p><span class=\"caps\">LDC</span>, leader français de la volaille, va devoir s'expliquer devant le juge, deux mois à peine après le lancement de son logo «<small class=\"fine d-inline\"> </small>Bien-être animal - Filière agricole engagée<small class=\"fine d-inline\"> </small>». L'Oaba (Œuvre d'assistance aux bêtes d'abattoirs) et Welfarm ont annoncé le 4 novembre avoir assigné l'industriel devant le tribunal judiciaire de Paris afin de faire cesser l'utilisation de ce logo, progressivement déployé sur les emballages de viande de poulet Le Gaulois et Maître Coq. <br class=\"autobr\" />\n«<small class=\"fine d-inline\"> </small>La communication de <span class=\"caps\">LDC</span> laisse (…)</p>\n\n            <a href=\"https://reporterre.net/Poulets-labellises-Bien-etre-animal-des-associations-animalistes-attaquent-les-marques-en?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Animaux\" rel=\"tag\">Animaux</a>\n            , \n                <a href=\"https://reporterre.net/Alimentation\" rel=\"tag\">Alimentation</a>"
+  },
+  {
+    "id": "2917013dffdb13cfc6ba2a032546408c",
+    "source": "Reporterre",
+    "title": "Lumir Lapray détaille les recettes de la victoire contre Trump, transposables en France",
+    "link": "https://reporterre.net/Lumir-Lapray-detaille-les-recettes-de-la-victoire-contre-Trump-transposables-en-France",
+    "date": "2026-11-06T15:33:09Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/lumir_lapray_3_resized-20ebd_jpg_-322e6.webp?1793979197\" width=\"700\" />\n<p>La gauche a gagné aux États-Unis grâce à une mobilisation de terrain et des solutions concrètes, estime cette essayiste, qui appelle à s'inspirer de ce «<small class=\"fine d-inline\"> </small>community organizing<small class=\"fine d-inline\"> </small>» pour contrer l'extrême droite en France. <br class=\"autobr\" /> En reprenant le contrôle des deux chambres du Congrès, les démocrates ont remporté une large victoire aux élections de mi-mandat étasuniennes, le 3 novembre. Selon l'activiste francaise Lumir Lapray, ce désaveu cinglant infligé au président Donald Trump a été rendu possible (…)</p>\n\n            <a href=\"https://reporterre.net/Lumir-Lapray-detaille-les-recettes-de-la-victoire-contre-Trump-transposables-en-France?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "174cbddf2844a4f85a25c6c55845f838",
+    "source": "Reporterre",
+    "title": "Les techniques des géants du tabac utilisées pour nous rendre dépendants aux aliments ultratransformés",
+    "link": "https://reporterre.net/Les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre-dependants-aux-aliments",
+    "date": "2026-11-06T15:01:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/montage_tabac_grain-59188.png?1793977263\" width=\"700\" />\n<p>Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre une enquête au «<small class=\"fine d-inline\"> </small>lien historique<small class=\"fine d-inline\"> </small>» entre ces deux industries. <br class=\"autobr\" /> Dans son nouveau hors-série, le magazine 60 Millions de consommateurs s'attaque aux aliments ultratransformés — ces aliments farcis d'additifs, fabriqués à l'aide des procédés de transformation industrielle les plus poussés. <br class=\"autobr\" />\nAlors que leurs effets délétères sur la (…)</p>\n\n            <a href=\"https://reporterre.net/Les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre-dependants-aux-aliments?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Sante\" rel=\"tag\">Santé</a>\n            , \n                <a href=\"https://reporterre.net/Alimentation\" rel=\"tag\">Alimentation</a>"
+  },
+  {
+    "id": "a5e5543f969008b778962c44d503752b",
+    "source": "Reporterre",
+    "title": "COP31 : pour stopper les pollueurs, « il est grand temps de réformer la gouvernance climatique »",
+    "link": "https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique",
+    "date": "2026-11-06T15:00:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/photoafp-5458a.jpg?1793977202\" width=\"700\" />\n<p>À l'approche de la <span class=\"caps\">COP31</span>, les auteurs de cette tribune appellent la France, garante de l'Accord de Paris, à mettre fin à la redoutable influence de l'industrie fossile dans les <span class=\"caps\">COP</span>. Et à permettre, enfin, des décisions à hauteur de la situation. <br class=\"autobr\" /> Morgane Créach est directrice du Réseau Action Climat France<small class=\"fine d-inline\"> </small>; Nikki Reisch est directrice du programme climat et énergie du Center for international environmental law (Ciel)<small class=\"fine d-inline\"> </small>; Ethan Spaner est conseiller principal en politiques internationales au (…)</p>\n\n            <a href=\"https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Tribune-15\" rel=\"directory\">Tribune</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
+  },
+  {
+    "id": "5ec12a9af53a118dd6106cb56ba1a6b1",
+    "source": "Reporterre",
+    "title": "Le mois d'octobre 2026 a été le plus chaud jamais enregistré",
+    "link": "https://reporterre.net/Le-mois-d-octobre-2026-a-ete-le-plus-chaud-jamais-enregistre",
+    "date": "2026-11-06T14:00:37Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/photo-1507100403890-47482dcd79e0-5ef90.jpg?1793973640\" width=\"700\" />\n<p>Le mois d'octobre a été le plus chaud jamais enregistré à l'échelle mondiale, avec une température moyenne de 15,35 °C, soit 0,90 °C au-dessus de la moyenne de la période 1991-2020, selon le bulletin mensuel de l'Institut Copernicus, publié le 5 novembre. <br class=\"autobr\" />\nEn conséquence, il a été marqué par «<small class=\"fine d-inline\"> </small>des conditions de sécheresse dans l'ouest de la péninsule ibérique, dans certaines régions de France, en Europe centrale et orientale (notamment dans l'est de l'Allemagne et en Pologne), dans une (…)</p>\n\n            <a href=\"https://reporterre.net/Le-mois-d-octobre-2026-a-ete-le-plus-chaud-jamais-enregistre?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>"
+  },
+  {
+    "id": "63dc00c5aa7c6572ea0496b046f803be",
+    "source": "Reporterre",
+    "title": "Les plus riches les plus exposés aux catastrophes naturelles… parce qu'ils ont plus de maisons",
+    "link": "https://reporterre.net/Les-plus-riches-les-plus-exposes-aux-catastrophes-naturelles-parce-qu-ils-ont-plus-de",
+    "date": "2026-11-06T11:33:02Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/craclamaison-93f11.jpg?1793964788\" width=\"700\" />\n<p>Les plus aisés seraient davantage exposés, matériellement, aux risques climatiques. Et pour cause, comme ils vivent davantage en maison, leurs biens immobiliers subissent davantage les dégâts causés par les catastrophes naturelles, selon une étude de l'Institut national de la statistique et des études économiques (Insee) publiée le 3 novembre. D'autant qu'ils sont également davantage multipropriétaires. <br class=\"autobr\" />\nLe principal risque pour les logements, c'est le retrait gonflement des argiles. «<small class=\"fine d-inline\"> </small>(…)</p>\n\n            <a href=\"https://reporterre.net/Les-plus-riches-les-plus-exposes-aux-catastrophes-naturelles-parce-qu-ils-ont-plus-de?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Habitat\" rel=\"tag\">Habitat et urbanisme</a>"
+  },
+  {
+    "id": "3ab03ab6d9618d811164fff65b9c4da7",
+    "source": "Reporterre",
+    "title": "Comment manifester quand on a de jeunes enfants ? Une garderie solidaire soulage les parents",
+    "link": "https://reporterre.net/Cette-garderie-solidaire-permet-aux-parents-d-aller-en-manif",
+    "date": "2026-11-06T08:24:54Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/atelierbarricade-caee8.jpg?1793953509\" width=\"700\" />\n<p>Comment manifester quand on craint d'exposer ses enfants à la répression policière<small class=\"fine d-inline\"> </small>? À Grenoble, une garderie solidaire s'organise pour permettre aux parents d'aller défiler plus sereinement. <br class=\"autobr\" />\nGrenoble (Isère), reportage <br class=\"autobr\" />\n«<small class=\"fine d-inline\"> </small>Bonjour, bienvenue<small class=\"fine d-inline\"> </small>!<small class=\"fine d-inline\"> </small>» Les portes de la garderie solidaire du centre social Chorier-Berriat, à Grenoble, ont à peine ouvert ce 5 novembre au matin que deux petites filles se précipitent, tout sourire. En ce jour d'appel national à la grève, parents et enfants affluent à (…)</p>\n\n            <a href=\"https://reporterre.net/Cette-garderie-solidaire-permet-aux-parents-d-aller-en-manif?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Pedagogie-Education\" rel=\"tag\">Pédagogie Éducation</a>"
+  },
+  {
+    "id": "869382d8f09840e4441b993af4b70bf7",
+    "source": "Reporterre",
+    "title": "Pétition contre CNews : face au racisme, l'indulgence des autorités",
+    "link": "https://reporterre.net/Fermer-CNews-face-au-racisme-l-indulgence-des-autorites",
+    "date": "2026-11-06T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240502__koebel-notitle240501_nperx__v1__highres__maydaydemonstration_1_-d87fa.jpg?1793923260\" width=\"700\" />\n<p>Une pétition réclamant la suppression de CNews a recueilli plus de 900 000 signatures. La chaîne d'extrême droite peut-elle vraiment disparaître<small class=\"fine d-inline\"> </small>? Les sanctions n'ont jusqu'ici pas fait cesser les injures racistes et les fausses informations répétées. Dernier recours : lui retirer son canal <span class=\"caps\">TNT</span>. <br class=\"autobr\" /> Carton plein. Créée en juin, elle a vu son score bondir dans la foulée de l'attentat raciste commis à Trappes (Yvelines) le 23 octobre : à cette date, la pétition réclamant de «<small class=\"fine d-inline\"> </small>Supprimer CNews de (…)</p>\n\n            <a href=\"https://reporterre.net/Fermer-CNews-face-au-racisme-l-indulgence-des-autorites?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Medias\" rel=\"tag\">Médias</a>\n            , \n                <a href=\"https://reporterre.net/Antiracisme\" rel=\"tag\">Antiracisme</a>"
+  },
+  {
+    "id": "56aeca8558a8666c77b81b4e8815079f",
+    "source": "Reporterre",
+    "title": "Clémence Guetté : « Les sujets écologiques sont la colonne vertébrale du nouveau programme de LFI »",
+    "link": "https://reporterre.net/Clemence-Guette-Les-sujets-ecologiques-sont-la-colonne-vertebrale-du-nouveau-programme-de",
+    "date": "2026-11-06T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/20261029_reporterre_clemence_guette__004_1_-bd836.jpg?1793923261\" width=\"700\" />\n<p>Pour 2027, La France insoumise veut prendre «<small class=\"fine d-inline\"> </small>à bras le corps l'urgence sociale et l'urgence écologique<small class=\"fine d-inline\"> </small>», soutient la députée Clémence Guetté, responsable du programme des insoumis publié le 6 novembre. La «<small class=\"fine d-inline\"> </small>crise existentielle<small class=\"fine d-inline\"> </small>» actuelle les pousse à en faire une question centrale. <br class=\"autobr\" /> Un nouvel ouvrage va faire son apparition sur les rayonnages de librairies, à partir du 6 novembre. Sur la couverture, un Jean-Luc Mélenchon tout sourire, avec ce titre : L'Avenir en commun, toujours le même (…)</p>\n\n            <a href=\"https://reporterre.net/Clemence-Guette-Les-sujets-ecologiques-sont-la-colonne-vertebrale-du-nouveau-programme-de?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Presidentielle\" rel=\"tag\">Présidentielle</a>"
+  },
+  {
+    "id": "16bb156d45bf8db7876f102b8489ced7",
+    "source": "Reporterre",
+    "title": "Le scénario d'une Terre invivable pourrait être plus proche que prévu",
+    "link": "https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu",
+    "date": "2026-11-06T00:01:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261016__d3hr6g3__v1__highres__franceenvironmentclimatewater_1_-3b34e.jpg?1793923261\" width=\"700\" />\n<p>Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversible des calottes glaciaires ou la transformation de l'Amazonie en savane, qui contribueraient à transformer notre monde en une «<small class=\"fine d-inline\"> </small>Terre étuve<small class=\"fine d-inline\"> </small>». Une planète invivable, où le réchauffement global dépasserait les 5 °C. <br class=\"autobr\" />\nLe seuil à partir duquel tout pourrait (…)</p>\n\n            <a href=\"https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>"
+  },
+  {
+    "id": "8542784353bdc8355ed23cee7d98f85f",
+    "source": "Reporterre",
+    "title": "Le bruit, une « source de stress omniprésent » pour la biodiversité",
+    "link": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
+    "date": "2026-11-05T19:00:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"473\" src=\"https://reporterre.net/local/cache-vignettes/L700xH473/sturnus_vulgaris_2__marek_szczepanek_-fc828.jpg?1793905200\" width=\"700\" />\n<p>Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant, qui émane d'une étude réalisée par deux chercheurs de l'université Queen's de Belfast, en Irlande du Nord, et publiée le 5 novembre dans la revue Science. Leur méta-analyse, regroupant 214 études expérimentales menées sur 177 espèces terrestres et marines des six continents, conclut à l'existence de perturbations causées par les bruits d'origine humaine chez 80<small class=\"fine d-inline\"> </small>% (…)</p>\n\n            <a href=\"https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nature\" rel=\"tag\">Nature</a>"
+  },
+  {
+    "id": "e14777a3db0107265ace6bd292de7c59",
+    "source": "Reporterre",
+    "title": "« Ils ont peur de vivre en dictature » : l'angoisse de la Gen Z, un carburant des mobilisations",
+    "link": "https://reporterre.net/Je-n-ai-jamais-ressenti-un-tel-sentiment-de-communaute-se-mobiliser-un-remede-aux",
+    "date": "2026-11-05T17:27:33Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/nmn_6200-0a4a0.jpg?1793899658\" width=\"700\" />\n<p>Beaucoup de jeunes trouvent dans les mobilisations collectives une réponse au mélange d'inquiétudes qui obscurcit leur vision de l'avenir. Avec le recul des libertés et le chaos climatique comme point central. <br class=\"autobr\" />\nParis, Aubervilliers et Saint-Denis, reportage <br class=\"autobr\" />\nC'est la génération Gaza, canicules et <span class=\"caps\">IA</span>. Les cortèges et les blocus sont un exutoire à des angoisses ténues, souvent sourdes, pour bon nombre de lycéens et d'étudiants. Si Parcoursup est devenu le symbole d'un avenir empêché, les (…)</p>\n\n            <a href=\"https://reporterre.net/Je-n-ai-jamais-ressenti-un-tel-sentiment-de-communaute-se-mobiliser-un-remede-aux?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "4f4c6cfa864cae91072058db64c6a8fd",
+    "source": "Reporterre",
+    "title": "En Californie, la « taxe Zucman » rejetée par les électeurs",
+    "link": "https://reporterre.net/En-Californie-la-taxe-Zucman-rejetee-par-les-electeurs",
+    "date": "2026-11-05T16:12:49Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20251002__hl_fscheiber_2903652__v1__highres__francedemostrikeunions_1_-945c0.jpg?1793895175\" width=\"700\" />\n<p>La «<small class=\"fine d-inline\"> </small>taxe Zucman<small class=\"fine d-inline\"> </small>» en Californie, c'est raté. Les Californiens ont rejeté le 3 novembre la «<small class=\"fine d-inline\"> </small>Proposition 40<small class=\"fine d-inline\"> </small>», qui visait à prélever 5<small class=\"fine d-inline\"> </small>% du patrimoine mondial des 250 plus grandes fortunes de l'État pour lever 100 milliards de dollars destinés aux hôpitaux publics. <br class=\"autobr\" />\nSelon les premiers dépouillements du secrétariat d'État de Californie, sur 50<small class=\"fine d-inline\"> </small>% des bulletins comptabilisés, le «<small class=\"fine d-inline\"> </small>non<small class=\"fine d-inline\"> </small>» l'emportait à 56,41<small class=\"fine d-inline\"> </small>% contre 43,59<small class=\"fine d-inline\"> </small>% pour le «<small class=\"fine d-inline\"> </small>oui<small class=\"fine d-inline\"> </small>». Le texte, inspiré des travaux de l'économiste Gabriel (…)</p>\n\n            <a href=\"https://reporterre.net/En-Californie-la-taxe-Zucman-rejetee-par-les-electeurs?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Economie\" rel=\"tag\">Économie</a>\n            , \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>"
+  },
+  {
+    "id": "2ae8a2b1700be224a979ba38896c74ff",
+    "source": "Reporterre",
+    "title": "Une université libre et autonome : l'expérimentation d'une fac occupée à Toulouse",
+    "link": "https://reporterre.net/Une-universite-libre-et-autonome-l-experimentation-d-une-fac-occupee-a-Toulouse",
+    "date": "2026-11-05T15:14:29Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/05-aberlioz-2026-11-04-bc9e8.jpg?1793891672\" width=\"700\" />\n<p>La faculté Toulouse-Mirail est occupée depuis début octobre par des étudiants en soutien au mouvement lycéen. Malgré sa fermeture administrative, le lieu foisonne d'activités : cours autogérés, ateliers et assemblées s'y succèdent. <br class=\"autobr\" />\nToulouse (Haute-Garonne), reportage <br class=\"autobr\" />\nIl est à peine 10 heures, mercredi 4 novembre, et les étudiants se pressent déjà devant l'accueil de la faculté Jean-Jaurès, dans le quartier du Mirail, à Toulouse. Pourtant, depuis le 2 octobre et la première occupation (…)</p>\n\n            <a href=\"https://reporterre.net/Une-universite-libre-et-autonome-l-experimentation-d-une-fac-occupee-a-Toulouse?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Pedagogie-Education\" rel=\"tag\">Pédagogie Éducation</a>"
+  },
+  {
+    "id": "e75c254f7439b8a4865fb46ea8c012ae",
+    "source": "Reporterre",
+    "title": "Fonds chaleur : le gouvernement suspend les nouvelles demandes de financements",
+    "link": "https://reporterre.net/Le-gouvernement-suspend-les-nouvelles-demandes-de-financements-du-Fonds-chaleur",
+    "date": "2026-11-05T14:01:30Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"466\" src=\"https://reporterre.net/local/cache-vignettes/L700xH466/afp__20261001__c9wf3k7__v1__highres__francepoliticsgovernmenteconomybudget-46076.jpg?1793887294\" width=\"700\" />\n<p>Le ministère de la Transition écologique a annoncé le 3 novembre la suspension immédiate des nouvelles demandes de financement auprès du Fonds chaleur — qui aide à accélérer le déploiement des réseaux de chaleur et de froid renouvelables. <br class=\"autobr\" />\nLe cabinet du ministère a justifié cette décision auprès de l'Agence France-Presse en invoquant le «<small class=\"fine d-inline\"> </small>nombre important de projets déposés en 2026<small class=\"fine d-inline\"> </small>» et les «<small class=\"fine d-inline\"> </small>contraintes budgétaires<small class=\"fine d-inline\"> </small>» liées à la baisse de la dotation de l'Ademe (l'Agence de la transition (…)</p>\n\n            <a href=\"https://reporterre.net/Le-gouvernement-suspend-les-nouvelles-demandes-de-financements-du-Fonds-chaleur?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Energie\" rel=\"tag\">Énergie</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "00b64b85c140c71126f297499fb679a0",
+    "source": "Reporterre",
+    "title": "Cyberattaque : de fausses alertes nucléaires envoyées aux Ukrainiens et aux Russes",
+    "link": "https://reporterre.net/Cyberattaque-de-fausses-alertes-nucleaires-envoyees-aux-Ukrainiens-et-aux-Russes",
+    "date": "2026-11-05T11:07:14Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261104__d6f3664__v1__highres__ukrainerussiaconflict_1_-712df.jpg?1793876850\" width=\"700\" />\n<p>Des pirates informatiques ont semé la confusion en faisant croire à des attaques nucléaires en Ukraine et en Russie. Dans la nuit du dimanche 1<sup class=\"typo_exposants\">er</sup> au lundi 2 novembre, les applications mobiles d'alerte à la population des deux pays ont été victimes de cyberattaques, selon les autorités, rapportait Reuters le 1<sup class=\"typo_exposants\">er</sup> novembre. <br class=\"autobr\" />\nEn Ukraine, l'application nationale d'alerte aérienne, utilisée par des millions d'Ukrainiens, a diffusé peu avant 23 heures de fausses notifications sur des risques de (…)</p>\n\n            <a href=\"https://reporterre.net/Cyberattaque-de-fausses-alertes-nucleaires-envoyees-aux-Ukrainiens-et-aux-Russes?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>"
+  },
+  {
+    "id": "f20cfba375c3c3e305bac3d28a472509",
+    "source": "Reporterre",
+    "title": "Ouvriers, militants et agriculteurs bloquent un entrepôt de logistique dans les Hauts-de-Seine",
+    "link": "https://reporterre.net/Ouvriers-militants-et-agriculteurs-bloquent-un-entrepot-de-logistique-dans-les-Hauts-de",
+    "date": "2026-11-05T09:24:06Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/bloque-48070.jpg?1793870649\" width=\"700\" />\n<p>Une centaine de personnes ont bloqué pendant deux heures l'entrepôt Geodis à Gennevilliers (Hauts-de-Seine) selon des informations reçues par Reporterre. Ce blocage a été organisé en soutien aux ouvriers de la logistique qui dénoncent une dure répression syndicale, après une grève victorieuse de 2025, grâce à laquelle ils avaient obtenu jusqu'à 150 euros supplémentaires sur leur salaire mensuel. <br class=\"autobr\" />\nPlus de vingt personnes ont été licenciées en un an et de nombreuses personnes ont été mises à (…)</p>\n\n            <a href=\"https://reporterre.net/Ouvriers-militants-et-agriculteurs-bloquent-un-entrepot-de-logistique-dans-les-Hauts-de?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>"
+  },
+  {
+    "id": "e63da8c9e4a8cb3600bdca6b8172dc93",
+    "source": "Reporterre",
+    "title": "Les oiseaux migrateurs, autres victimes de « la folie meurtrière des hommes » au Liban",
+    "link": "https://reporterre.net/Bombes-et-drones-les-oiseaux-migrateurs-bouleverses-par-la-guerre-au-Liban",
+    "date": "2026-11-05T06:32:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/oiseauessai-e3317.png?1793860325\" width=\"700\" />\n<p>Plusieurs millions d'oiseaux migrateurs traversent le Liban chaque année, via la route migratoire qui relie l'Afrique à l'Europe. Déjà menacés par la chasse illégale, ces animaux subissent eux aussi la guerre menée par Israël. <br class=\"autobr\" />\nZone humide d'Aammiq (Liban) reportage <br class=\"autobr\" />\nLe vent joue avec les feuilles de saules et d'ormes qui bordent l'un des sentiers du marécage d'Ammiq, dans la Bekaa, dans l'est du Liban. En ce début d'automne, même si l'eau se fait de plus en plus rare, l'endroit est une (…)</p>\n\n            <a href=\"https://reporterre.net/Bombes-et-drones-les-oiseaux-migrateurs-bouleverses-par-la-guerre-au-Liban?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Animaux\" rel=\"tag\">Animaux</a>"
+  },
+  {
+    "id": "8cd8a03ebd3ead28570c06173a5e0107",
+    "source": "Reporterre",
+    "title": "« L'Amazonie est une zone en guerre, la guerre du climat »",
+    "link": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
+    "date": "2026-11-05T06:31:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/grasset_2_-d8187.jpg?1793860263\" width=\"700\" />\n<p>Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88<sup class=\"typo_exposants\">e</sup> prix Albert Londres pour ses reportages sur l'Amazonie publiés dans «<small class=\"fine d-inline\"> </small>Le Monde<small class=\"fine d-inline\"> </small>». C'est la première fois en presse écrite que ce prix récompense des articles sur la catastrophe écologique. <br class=\"autobr\" /> Journaliste indépendant, Bruno Meyerfeld vient de remporter le 88<sup class=\"typo_exposants\">e</sup> prix Albert Londres — l'équivalent du prix Goncourt pour la presse — pour ses grands reportages publiés dans Le Monde, sur l'Amazonie. <br class=\"autobr\" />\nDans ses articles, le reporter raconte (…)</p>\n\n            <a href=\"https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Forets-tropicales\" rel=\"tag\">Forêts tropicales</a>\n            , \n                <a href=\"https://reporterre.net/Medias\" rel=\"tag\">Médias</a>"
+  },
+  {
+    "id": "ca02865ab6fcfcac2a39c5c2a0e45a6f",
+    "source": "Reporterre",
+    "title": "Grève, blocages : « On peut arracher dès maintenant des victoires »",
+    "link": "https://reporterre.net/Mouvement-social-Le-desir-revolutionnaire-n-est-pas-si-minoritaire-dans-le-pays",
+    "date": "2026-11-05T06:30:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261103__aa_03112026_3024149__v1__highres__studentdemonstrationinpariscallsfor_resized-c5ec2.jpg?1793860201\" width=\"700\" />\n<p>Pour Arya Meroni, journaliste et militante, le mouvement social actuel invite à repenser les modes de mobilisation. L'enjeu est aujourd'hui d'imbriquer les stratégies de grève à des stratégies de débordement, estime-t-elle. <br class=\"autobr\" /> Grève du 5 novembre, retour des blocages dans les lycées, acte <span class=\"caps\">IV</span> samedi 7 novembre… Le mouvement social se poursuit après plusieurs semaines intenses de mobilisations. Comment maintenir la dynamique<small class=\"fine d-inline\"> </small>? Et comment obtenir des victoires<small class=\"fine d-inline\"> </small>? Reporterre a interrogé Arya (…)</p>\n\n            <a href=\"https://reporterre.net/Mouvement-social-Le-desir-revolutionnaire-n-est-pas-si-minoritaire-dans-le-pays?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Idees\" rel=\"tag\">Idées</a>"
+  },
+  {
+    "id": "50aaa404840de03ffcf0f31d046ec784",
+    "source": "Reporterre",
+    "title": "Projet de loi de finances : 10 postes en moins prévus pour les parcs nationaux",
+    "link": "https://reporterre.net/Projet-de-loi-de-finances-10-postes-en-moins-prevus-pour-les-parcs-nationaux",
+    "date": "2026-11-04T16:11:28Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/france_lozere_parc_national_des_cevennes_mas_camargues_08-46422.jpg?1793808719\" width=\"700\" />\n<p>Le parc national des Cévennes risque de perdre des postes. Le Projet de loi de finances 2027 prévoit de supprimer dix emplois dans les parcs nationaux de France, dont 2,3 équivalents temps plein annuels pour celui des Cévennes. D'autres parcs sont concernés, notamment celui des Pyrénées avec trois postes, et celui des Écrins. <br class=\"autobr\" />\nLe président du parc national des Cévennes Stéphan Maurin incite les membres de son conseil d'administration à voter contre le budget proposé par l'État. Une première (…)</p>\n\n            <a href=\"https://reporterre.net/Projet-de-loi-de-finances-10-postes-en-moins-prevus-pour-les-parcs-nationaux?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nature\" rel=\"tag\">Nature</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "bb7b1eb9c6248a20dfb46da0720986c9",
+    "source": "Reporterre",
+    "title": "Une « faute historique » : l'UE veut simplifier les directives Oiseaux et Habitats en 2027",
+    "link": "https://reporterre.net/Une-faute-historique-l-UE-veut-simplifier-les-directives-Oiseaux-et-Habitats-en-2027",
+    "date": "2026-11-04T16:04:21Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/mohamed-fsili-cgoxinowq0y-unsplash_1_-b7328.jpg?1793808263\" width=\"700\" />\n<p>En 2027, quels acquis écologiques seront-ils détricotés par la droite et l'extrême droite européennes<small class=\"fine d-inline\"> </small>? La Commission européenne a présenté le 4 novembre son programme de travail pour 2027, qui compte 23 nouvelles initiatives placées, encore une fois, sous le signe de la «<small class=\"fine d-inline\"> </small>simplification<small class=\"fine d-inline\"> </small>». Parmi elles, la révision des directives Oiseaux et Habitats — les deux textes fondateurs de la protection de la nature en Europe —, des normes <span class=\"caps\">CO</span><sub>2</sub> sur les poids lourds, ou encore du cadre énergétique (…)</p>\n\n            <a href=\"https://reporterre.net/Une-faute-historique-l-UE-veut-simplifier-les-directives-Oiseaux-et-Habitats-en-2027?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Europe\" rel=\"tag\">Europe</a>"
+  },
+  {
+    "id": "1e8a3835c6fcdb76ed17728ba7657a5a",
+    "source": "BFMTV",
+    "title": "Crise sociale: \"Ce n’est pas du bleu qu'il faut, mais des actes\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-ce-n-est-pas-du-bleu-qu-il-faut-mais-des-actes-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070511.html",
+    "date": "Sat, 07 Nov 2026 20:56:12 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/j_Mbu8PL3PwllvUODLyq6_1DOEM=/0x0:1280x720/800x0/images/Crise-sociale-Ce-n-est-pas-du-bleu-qu-il-faut-mais-des-actes-declare-Fabien-Roussel-candidat-PCF-a-la-presidentielle-2380040.jpg\" />"
+  },
+  {
+    "id": "287c75845c598a832248819a45888dcd",
+    "source": "BFMTV",
+    "title": "\"Je refuse les discours déclinistes\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-refuse-les-discours-declinistes-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070510.html",
+    "date": "Sat, 07 Nov 2026 20:55:35 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f-vp6PZg_FLBHYr2yR2e3Q5rGZI=/0x0:1280x720/800x0/images/Je-refuse-les-discours-declinistes-declare-Fabien-Roussel-candidat-PCF-a-la-presidentielle-2380038.jpg\" />"
+  },
+  {
+    "id": "7390ee440f8d96136d654b6485db7ca7",
+    "source": "BFMTV",
+    "title": "INFO BFMTV. Hauts-de-Seine: un jeune homme en urgence absolue après un rodéo urbain et l'intervention de la police",
+    "link": "https://www.bfmtv.com/paris/hauts-de-seine/info-bfm-tv-hauts-de-seine-un-jeune-homme-en-urgence-absolue-apres-un-rodeo-urbain-et-l-intervention-de-la-police_AN-202611070508.html",
+    "date": "Sat, 07 Nov 2026 20:31:55 GMT",
+    "summary": "Un jeune homme âgé d'une vingtaine d'années a été grièvement blessé ce samedi à Chaville (Hauts-de-Seine) après un rodéo urbain et l'intervention de la police, a appris BFMTV de sources concordantes. Il aurait percuté une barrière en tentant de fuir les forces de l'ordre, selon une source police. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vNtKij2FaOhzOoHvQj8AHesvSoA=/0x106:2048x1258/800x0/images/Un-officier-de-police-photo-d-illustration-2088070.jpg\" />"
+  },
+  {
+    "id": "cdba406dc4327343d098047b486683b1",
+    "source": "BFMTV",
+    "title": "Crise sociale: \"Est-ce qu'aujourd'hui, le gouvernement aura la capacité de recevoir d'autres personnes que celles qu'il a l'habitude de recevoir ?\", se demande Jérôme Rodrigues, membre du mouvement des Gilets Jaunes",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-crise-sociale-est-ce-qu-aujourd-hui-le-gouvernement-aura-la-capacite-de-recevoir-d-autres-personnes-que-celles-qu-il-a-l-habitude-de-recevoir-se-demande-jerome-rodrigues-membre-du-mouvement-des-gilets-jaunes_VN-202611070507.html",
+    "date": "Sat, 07 Nov 2026 20:30:13 GMT",
+    "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-villes seront protégés systématiquement\", a annoncé le ministre de l'Intérieur Laurent Nuñez.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6mvmGhfSl7HHps2ZHlCA42CArmU=/0x0:1280x720/800x0/images/Crise-sociale-Est-ce-qu-aujourd-hui-le-gouvernement-aura-la-capacite-de-recevoir-d-autres-personnes-que-celles-qu-il-a-l-habitude-de-recevoir-se-demande-Jerome-Rodrigues-membre-du-mouvement-des-Gilets-Jaunes-2380028.jpg\" />"
+  },
+  {
+    "id": "f94bcd491435ab5435245ae3d7aaac1b",
+    "source": "BFMTV",
+    "title": "Primaire à droite: \"Édouard Philippe n'a pas raison de refuser la primaire\", estime Gérard Longuet, ancien ministre de la Défense",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-a-droite-edouard-philippe-n-a-pas-raison-de-refuser-la-primaire-estime-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070501.html",
+    "date": "Sat, 07 Nov 2026 20:10:16 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/UApxHxpnKJxKif1bUx8Ng6GJbmo=/0x0:1280x720/800x0/images/Primaire-a-droite-Edouard-Philippe-n-a-pas-raison-de-refuser-la-primaire-estime-Gerard-Longuet-ancien-ministre-de-la-Defense-2380021.jpg\" />"
+  },
+  {
+    "id": "8f5647af8739554468d3bafcad6e9c74",
+    "source": "BFMTV",
+    "title": "DIRECT. Présidentielle: Édouard Philippe regrette la vision pessimiste de l’avenir des Français",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-attendu-pour-un-meeting-au-bourget-edouard-philippe-a-la-ciotat-et-saint-raphael_LN-202611070180.html",
+    "date": "Sat, 07 Nov 2026 09:34:21 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) doit pour sa part participer à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/044gGpCRYKzvjxtpvckSxMcKXC0=/0x0:2048x1152/800x0/images/Edouard-Philippe-2358223.jpg\" />"
+  },
+  {
+    "id": "0be8174ec43c6ce1776834b709c2f6ae",
+    "source": "BFMTV",
+    "title": "Meeting au Bourget: \"Jean-Luc Mélenchon est une bête de scène, il sait parler mais ne sait pas compter\", observe Gérard Longuet, ancien ministre de la Défense",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-meeting-au-bourget-jean-luc-melenchon-est-une-bete-de-scene-il-sait-parler-mais-ne-sait-pas-compter-observe-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070497.html",
+    "date": "Sat, 07 Nov 2026 19:51:59 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vd0xQaKRW2ZuoHTVvBolcHNS4XM=/0x0:1280x720/800x0/images/Meeting-au-Bourget-Jean-Luc-Melenchon-est-une-bete-de-scene-il-sait-parler-mais-ne-sait-pas-compter-observe-Gerard-Longuet-ancien-ministre-de-la-Defense-2380019.jpg\" />"
+  },
+  {
+    "id": "573c4afd18f18367e872b50abb5066e3",
+    "source": "BFMTV",
+    "title": "Présidentielle 2027: \"Mettre de l'eau dans mon vin? Je ne le ferai pas\", assure Jean-Luc Mélenchon (LFI)",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas-assure-jean-luc-melenchon-lfi_VN-202611070496.html",
+    "date": "Sat, 07 Nov 2026 19:48:33 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme, samedi 7 novembre. Évacuant les appels à se montrer \"moins clivant\" et les pronostics qui le donnent perdant en cas de second tour de l’élection présidentielle face à Marine Le Pen, Jean-Luc Mélenchon prévient qu’il ne mettra pas \"d’eau dans son vin\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6IsE9F4o9gY5UB4k9yh8r8vEt0k=/0x0:1280x720/800x0/images/Presidentielle-2027-Mettre-de-l-eau-dans-mon-vin-Je-ne-le-ferai-pas-assure-Jean-Luc-Melenchon-LFI-2380018.jpg\" />"
+  },
+  {
+    "id": "19b9af2a2a09b23e626c598e4d68865e",
+    "source": "BFMTV",
+    "title": "\"Je pense que moins le président de la République s'occupera de la vie politique et de l'élection présidentielle mieux ce sera, y compris pour sa fin de mandat\", déclare l'ancien président de la République François Hollande à RTL",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-pense-que-moins-le-president-de-la-republique-s-occupera-de-la-vie-politique-et-de-l-election-presidentielle-mieux-ce-sera-y-compris-pour-sa-fin-de-mandat-declare-l-ancien-president-de-la-republique-francois-hollande-a-rtl_VN-202611070493.html",
+    "date": "Sat, 07 Nov 2026 19:42:34 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9TN3QEDEhfNQbMPTmNNqZD8e1kk=/0x0:1280x720/800x0/images/Je-pense-que-moins-le-president-de-la-Republique-s-occupera-de-la-vie-politique-et-de-l-election-presidentielle-mieux-ce-sera-y-compris-pour-sa-fin-de-mandat-declare-l-ancien-president-de-la-Republique-Francois-Hollande-a-RTL-2380017.jpg\" />"
+  },
+  {
+    "id": "eab252ca3124bfd06791f282363e8e88",
+    "source": "BFMTV",
+    "title": "Programme de LFI: \"Le peuple de gauche doit comprendre qu'il ne faut pas travailler à nos divisions\", lance Alexis Corbière, député (L'Après)",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-le-peuple-de-gauche-doit-comprendre-qu-il-ne-faut-pas-travailler-a-nos-divisions-lance-alexis-corbiere-depute-l-apres_VN-202611070491.html",
+    "date": "Sat, 07 Nov 2026 19:29:45 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/t-iCK55IyQHwdcHFP-tjy1FlLYM=/0x0:1280x720/800x0/images/Programme-de-LFI-Le-peuple-de-gauche-doit-comprendre-qu-il-ne-faut-pas-travailler-a-nos-divisions-lance-Alexis-Corbiere-depute-L-Apres-2380014.jpg\" />"
+  },
+  {
+    "id": "0451bcf6d94c15ee4ee3fdbe1cd05f9c",
+    "source": "BFMTV",
+    "title": "Programme de LFI: \"J'ai envie de dire aux gens réveillez-vous\", lance Florence Portelli, vice-présidente du parti LR",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-j-ai-envie-de-dire-aux-gens-reveillez-vous-lance-florence-portelli-vice-presidente-du-parti-lr_VN-202611070489.html",
+    "date": "Sat, 07 Nov 2026 19:16:41 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) doit pour sa part participer à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/E2xgqNKiqUaDERU_FBA-35gzMek=/0x0:1280x720/800x0/images/Programme-de-LFI-J-ai-envie-de-dire-aux-gens-reveillez-vous-lance-Florence-Portelli-vice-presidente-du-parti-LR-2380011.jpg\" />"
+  },
+  {
+    "id": "b327b21a780dcc268b311587bcc001e8",
+    "source": "BFMTV",
+    "title": "“Il n’est pas possible de redresser les comptes si on ne fait pas une réforme de retraites” : Eric Lombard, ancien ministre de l'Économie, évoque les pistes qui permettraient à la France de faire des économies",
+    "link": "https://www.bfmtv.com/politique/video-il-n-est-pas-possible-de-redresser-les-comptes-si-on-ne-fait-pas-une-reforme-de-retraites-eric-lombard-ancien-ministre-de-l-economie-evoque-les-pistes-qui-permettraient-a-la-france-de-faire-des-economies_VN-202611070488.html",
+    "date": "Sat, 07 Nov 2026 19:15:48 GMT",
+    "summary": "Ancien ministre de l'Économie, Éric Lombard a évoqué ce samedi 7 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), les pistes qui permettraient à la France de faire des économies et notamment l’importance d’une réforme des retraites<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/T71G7ukpnxYzlaAcbhFrmVoMMOA=/0x0:1280x720/800x0/images/Il-n-est-pas-possible-de-redresser-les-comptes-si-on-ne-fait-pas-une-reforme-de-retraites-Eric-Lombard-ancien-ministre-de-l-Economie-evoque-les-pistes-qui-permettraient-a-la-France-de-faire-des-economies-2380010.jpg\" />"
+  },
+  {
+    "id": "a30e29c9f42446aa187a0e6984bfae19",
+    "source": "BFMTV",
+    "title": "Sarah Knafo propose “de supprimer 800.000 postes dans la fonction publique” afin de faire des économies",
+    "link": "https://www.bfmtv.com/politique/video-sarah-knafo-propose-de-supprimer-800-000-postes-dans-la-fonction-publique-afin-de-faire-des-economies_VN-202611070487.html",
+    "date": "Sat, 07 Nov 2026 19:14:26 GMT",
+    "summary": "La députée européenne et secrétaire générale de Reconquête Sarah Knafo a annoncé ce samedi 7 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), vouloir proposer “de supprimer 800 000 postes dans la fonction publique” afin de faire des économies\n   <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/pPUEHXeBm15Wl8BRJKNe5jHpvxE=/0x0:1280x720/800x0/images/Sarah-Knafo-propose-de-supprimer-800-000-postes-dans-la-fonction-publique-afin-de-faire-des-economies-2380009.jpg\" />"
+  },
+  {
+    "id": "4d61385e5db41a28c9a46a9f5971e195",
+    "source": "BFMTV",
+    "title": "Manifestations: le ministère de l'Intérieur indique 360 interpellations dans toute la France",
+    "link": "https://www.bfmtv.com/police-justice/video-manifestations-le-ministere-de-l-interieur-indique-360-interpellations-dans-toute-la-france_VN-202611070484.html",
+    "date": "Sat, 07 Nov 2026 19:10:34 GMT",
+    "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-villes seront protégés systématiquement\", a annoncé le ministre de l'Intérieur Laurent Nuñez.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GDAJYn9xiJHbJx6rF7UUmzZenhc=/0x0:1280x720/800x0/images/Manifestations-le-ministere-de-l-Interieur-indique-360-interpellations-dans-toute-la-France-2380008.jpg\" />"
+  },
+  {
+    "id": "7ee371ce96563818d08f60e9bbab03db",
+    "source": "BFMTV",
+    "title": "Édouard Philippe, candidat (Horizons) à l'élection présidentielle explique ses propos concernant \"les Français issus de l'immigration\"",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-edouard-philippe-candidat-horizons-a-l-election-presidentielle-explique-ses-propos-concernant-les-francais-issus-de-l-immigration_VN-202611070483.html",
+    "date": "Sat, 07 Nov 2026 19:03:37 GMT",
+    "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) doit pour sa part participer à un débat aux Rencontres de l'Avenir dans le Var.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GambnFzW40LKaVtWm55c9vzw084=/0x0:1280x720/800x0/images/Edouard-Philippe-candidat-Horizons-a-l-election-presidentielle-explique-ses-propos-concernant-les-Francais-issus-de-l-immigration-2380007.jpg\" />"
+  },
+  {
+    "id": "eff90151dd767eea2de86578adfbfec9",
+    "source": "BFMTV",
+    "title": "\"J'ai proposé à Dana White de devenir porte-parole de la Maison Blanche\": l'annonce improbable de Donald Trump sur le patron de l'UFC",
+    "link": "https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/j-ai-propose-a-dana-white-de-devenir-porte-parole-de-la-maison-blanche-l-annonce-improbable-de-donald-trump-sur-le-patron-de-l-ufc_AV-202611070481.html",
+    "date": "Sat, 07 Nov 2026 19:02:39 GMT",
+    "summary": "Alors que les Républicains ont subi une lourde défaite aux élections de mi-mandat en perdant la majorité des deux chambres au profit des Démocrates, Donald Trump a fait une nouvelle annonce. Sur son réseau social, le président des États-Unis assure avoir proposé à Dana White, patron de l'UFC, de devenir porte-parole de la Maison Blanche. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Pii7eUQ8f2woRJxU7Eh8rXKad2U=/0x67:2048x1219/800x0/images/Dana-White-le-patron-de-l-UFC-et-le-president-des-Etats-Unis-Donald-Trump-en-avril-2025-2249348.jpg\" />"
+  },
+  {
+    "id": "d5e8f1608c8c6f76029dd05b13fee316",
+    "source": "BFMTV",
+    "title": "DIRECT. Manifestations du 7 novembre: 250.000 manifestants en France selon les syndicats, 146.000 selon le ministère de l'Intérieur",
+    "link": "https://www.bfmtv.com/societe/manifestations/direct-mobilisation-du-7-novembre-de-nouvelles-manifestations-prevues-sous-haute-securite-pour-l-acte-iv-de-la-contestation-70-000-forces-de-l-ordre-mobilisees_LN-202611070074.html",
+    "date": "Sat, 07 Nov 2026 04:50:08 GMT",
+    "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, 250.000 personnes ont manifesté sur le territoire selon l'intersyndicale de la jeunesse et 146.000 selon le ministère de l'Intérieur. Quelque 70.000 policiers et gendarmes ont encore été mobilisés sur le territoire.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBM4IWpZmg1fjKJ8k6ChGA2Oszw=/0x40:768x472/800x0/images/Manifestation-a-Paris-le-7-novembre-2026-dans-le-cadre-d-une-journee-de-mobilisation-nationale-2379880.jpg\" />"
+  },
+  {
+    "id": "52199ae50355afebaa8d92a2870886b2",
+    "source": "BFMTV",
+    "title": "\"Il faut tout changer\", Sixième République, désarmement nucléaire... Ce qu'il faut retenir du meeting de Jean-Luc Mélenchon au Bourget",
+    "link": "https://www.bfmtv.com/politique/la-france-insoumise/il-faut-tout-changer-sixieme-republique-desarmement-nucleaire-ce-qu-il-faut-retenir-du-meeting-de-jean-luc-melenchon-au-bourget_AV-202611070479.html",
+    "date": "Sat, 07 Nov 2026 18:58:27 GMT",
+    "summary": "Face à une salle pleine, Jean-Luc Mélenchon a développé les idées de son programme présidentiel au Bourget (Seine-Saint-Denis), ce samedi. Il a évoqué la situation nationale mais aussi internationale et a appelé à \"tout changer\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7Hv4U47V8_2hvkDCT7i40kFn2IM=/0x0:1920x1080/800x0/images/Le-candidat-LFI-a-la-presidentielle-Jean-Luc-Melenchon-lors-d-un-discours-au-Bourget-ce-samedi-7-novembre-2026-2379999.jpg\" />"
+  },
+  {
+    "id": "74cc895290830d0e853fc5f544ae29d0",
+    "source": "BFMTV",
+    "title": "Mobilisations du 7 novembre: 250.000 manifestants en France selon les syndicats, 146.000 d'après le ministère de l'Intérieur",
+    "link": "https://www.bfmtv.com/societe/manifestations/mobilisations-du-7-novembre-250-000-manifestants-en-france-selon-les-syndicats-146-000-d-apres-le-ministere-de-l-interieur_AD-202611070477.html",
+    "date": "Sat, 07 Nov 2026 18:45:56 GMT",
+    "summary": "Les défilés contre la vie chère ce samedi 7 novembre se sont globalement déroulés dans le calme. La mobilisation est en baisse mais toujours vivace.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IBM4IWpZmg1fjKJ8k6ChGA2Oszw=/0x40:768x472/800x0/images/Manifestation-a-Paris-le-7-novembre-2026-dans-le-cadre-d-une-journee-de-mobilisation-nationale-2379880.jpg\" />"
+  },
+  {
+    "id": "d4994c9cc92c06189970bea00d98a28a",
+    "source": "BFMTV",
+    "title": "Toulon 43-23 Stade Français : \"Sauter dans les tribunes...\" Rebbadj rayonne après son triplé",
+    "link": "https://rmcsport.bfmtv.com/rugby/top-14/video-toulon-43-23-stade-francais-sauter-dans-les-tribunes-rebbadj-rayonne-apres-son-triple_VN-202611070476.html",
+    "date": "Sat, 07 Nov 2026 18:38:19 GMT",
+    "summary": "Le RCT a facilement battu le Stade Français 43-23, ce samedi pour la 9e journée du TOP 14. C'est la 5e victoire consécutive de Toulon, grâce notamment au triplé de son ailier Rayan Rebbadj.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GdgFtIFOGSYsAutZzJuIEFtENMs=/0x0:1280x720/800x0/images/Toulon-43-23-Stade-Francais-Sauter-dans-les-tribunes-Rebbadj-rayonne-apres-son-triple-2380005.jpg\" />"
+  },
+  {
+    "id": "aed0c5d9546ca8ae4fb8a801b06fc008",
+    "source": "BFMTV",
+    "title": "Le réalisateur chilien Sebastián Lelio, oscarisé pour \"Une femme fantastique\", est mort à 52 ans",
+    "link": "https://www.bfmtv.com/culture/cinema-series/le-realisateur-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-52-ans_AD-202611070474.html",
+    "date": "Sat, 07 Nov 2026 18:31:03 GMT",
+    "summary": "Né en Argentine mais élevé au Chili, Sebastián Lelio s'est fait connaître sur la scène internationale avec son film \"Gloria\", en 2013.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fmlts0DSpYYoSJyBqD_-Z4eQpeA=/0x106:2048x1258/800x0/images/Le-cineaste-chilien-Sebastian-Lelio-lors-du-Festival-de-Cannes-le-17-ai-2025-2379997.jpg\" />"
+  },
+  {
+    "id": "0c0b1820f00ca0ffbeee7a50ba5fd2be",
+    "source": "BFMTV",
+    "title": "Manifestation à Paris: \"On restera ouvert tant qu'on le peut\", témoigne Cédric Laurent, gérant d'un magasin dans la capitale",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-manifestation-a-paris-on-restera-ouvert-tant-qu-on-le-peut-temoigne-cedric-laurent-gerant-d-un-magasin-dans-la-capitale_VN-202611070473.html",
+    "date": "Sat, 07 Nov 2026 18:28:23 GMT",
+    "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-villes seront protégés systématiquement\", a annoncé le ministre de l'Intérieur Laurent Nuñez.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iFLJfOPwUUClxgvB63j_uUCg-1I=/0x0:1280x720/800x0/images/Manifestation-a-Paris-On-restera-ouvert-tant-qu-on-le-peut-temoigne-Cedric-Laurent-gerant-d-un-magasin-dans-la-capitale-2380000.jpg\" />"
+  },
+  {
+    "id": "f390720a40bdfe5c1123afd309fe41ec",
+    "source": "BFMTV",
+    "title": "“La primaire va conduire à diviser, à distendre, à critiquer et à attaquer” : Édouard Philippe justifie son opposition à l’organisation d’une primaire de la droite et du centre pour l’élection présidentielle de 2027",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-primaire-va-conduire-a-diviser-a-distendre-a-critiquer-et-a-attaquer-edouard-philippe-justifie-son-opposition-a-l-organisation-d-une-primaire-de-la-droite-et-du-centre-pour-l-election-presidentielle-de-2027_VN-202611070471.html",
+    "date": "Sat, 07 Nov 2026 18:23:36 GMT",
+    "summary": "Édouard Philippe, candidat Horizons à l'élection présidentielle, a justifié, ce samedi 7 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), son opposition à l’organisation d’une primaire de la droite et du centre pour l’élection présidentielle de 2027, expliquant qu’elle conduirait à diviser, à distendre, à critiquer et à attaquer.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/i1OPw4orEE_hVy_ck1ggwVRqx9U=/0x0:1280x720/800x0/images/La-primaire-va-conduire-a-diviser-a-distendre-a-critiquer-et-a-attaquer-Edouard-Philippe-justifie-son-opposition-a-l-organisation-d-une-primaire-de-la-droite-et-du-centre-pour-l-election-presidentielle-de-2027-2379998.jpg\" />"
+  },
+  {
+    "id": "a72c684e3e6fcbacf8e58d7cfa3bb2cf",
+    "source": "BFMTV",
+    "title": "Jacky Paillusson (Farméo) : Farméo, plateforme pour les acteurs du monde agricole - 07/11",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-jacky-paillusson-farmeo-farmeo-plateforme-pour-les-acteurs-du-monde-agricole-07-11_VN-202611070469.html",
+    "date": "Sat, 07 Nov 2026 18:14:12 GMT",
+    "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 7 novembre, Jacky Paillusson, directeur général de Farméo, est revenu sur l'assistance aux agriculteurs en ce qui concerne la déclaration administrative, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias France. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kUyFIF6EYp1b05R1Y0GfzYE37so=/0x0:1280x720/800x0/images/Jacky-Paillusson-Farmeo-Farmeo-plateforme-pour-les-acteurs-du-monde-agricole-07-11-2379995.jpg\" />"
+  },
+  {
+    "id": "cbde0b5be08062b9e1ef48ad172f5194",
+    "source": "BFMTV",
+    "title": "“L’intelligence artificielle est devenue un élément de puissance” : Édouard Philippe expose sa vision sur l’intelligence artificielle et les régulations nécéssaires",
+    "link": "https://www.bfmtv.com/politique/video-l-intelligence-artificielle-est-devenue-un-element-de-puissance-edouard-philippe-expose-sa-vision-sur-l-intelligence-artificielle-et-les-regulations-necessaires_VN-202611070468.html",
+    "date": "Sat, 07 Nov 2026 18:11:18 GMT",
+    "summary": "Édouard Philippe, candidat Horizons à l'élection présidentielle, a exposé, ce samedi 7 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), sa vision sur l’intelligence artificielle et les régulations nécessaires.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5aarwNuB5p4D1N4fyiVh4tI67rw=/0x0:1280x720/800x0/images/L-intelligence-artificielle-est-devenue-un-element-de-puissance-Edouard-Philippe-expose-sa-vision-sur-l-intelligence-artificielle-et-les-regulations-necessaires-2379994.jpg\" />"
   }
 ]
