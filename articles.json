@@ -1,11 +1,75 @@
 [
   {
+    "id": "60399c1f99db2024b118a20b207abea0",
+    "source": "Mediapart",
+    "title": "Clara, l’amie de Rosa",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/081126/clara-l-amie-de-rosa",
+    "date": "Sun, 08 Nov 2026 14:51:38 +0100",
+    "summary": "La biographie qu’avait consacrée il y a plus de trente ans le germaniste Gilbert Badia à Clara Zetkin est rééditée. Basées sur des archives de l’ex-RDA qui venaient de s’ouvrir, les recherches de Badia devaient enfin redonner sa place entière à cette pionnière du féminisme."
+  },
+  {
+    "id": "0031e825cbcea444e58ab296583d0b13",
+    "source": "Mediapart",
+    "title": "Une histoire du cinéma français nourrie de ses «héritages maghrébins»",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/081126/une-histoire-du-cinema-francais-nourrie-de-ses-heritages-maghrebins",
+    "date": "Sun, 08 Nov 2026 12:34:36 +0100",
+    "summary": "Vingt ans après le succès d’«Indigènes» de Rachid Bouchareb, le palais de la Porte-Dorée, à Paris, montre comment le cinéma français s’est réinventé depuis soixante ans grâce à des cinéastes et à des comédiens issus de l’immigration maghrébine, dans une exposition aussi indispensable que frustrante dans ses dernières salles."
+  },
+  {
+    "id": "55028ab150b02e72d49d9c1d2b806838",
+    "source": "Mediapart",
+    "title": "«L’esprit critique» cinéma: Jean Moulin dépolitisé et Albert Camus décolonisé",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/081126/l-esprit-critique-cinema-jean-moulin-depolitise-et-albert-camus-decolonise",
+    "date": "Sun, 08 Nov 2026 12:34:26 +0100",
+    "summary": "Le podcast culturel de «Mediapart» discute du «Moulin», proposé par László Nemes, du blockbuster coréen «Hope», signé Na Hong-jin, et de «L’Arabe», premier long métrage de fiction du documentariste algérien Malek Bensmaïl."
+  },
+  {
+    "id": "abb9ca873b33c96d60638cb7e3d14fe6",
+    "source": "Mediapart",
+    "title": "Aïcha Dahdouh: «Je ne peux pas accepter que la voix de Kamel Daoud efface la mienne»",
+    "link": "https://www.mediapart.fr/journal/france/081126/aicha-dahdouh-je-ne-peux-pas-accepter-que-la-voix-de-kamel-daoud-efface-la-mienne",
+    "date": "Sun, 08 Nov 2026 12:34:17 +0100",
+    "summary": "Accusée d’avoir trahi la confiance d’une de ses patientes après que son époux, Kamel Daoud, a publié le roman «Houris», inspiré de son histoire, Aïcha Dahdouh prend la parole pour la première fois, dans «Mediapart». Elle clame son innocence et annonce son divorce avec le Prix Goncourt 2024."
+  },
+  {
+    "id": "d0457829c19704c9f2154e105750db12",
+    "source": "Mediapart",
+    "title": "Pologne: un tireur «fasciné par l’extrême droite» abat six personnes à Cracovie",
+    "link": "https://www.mediapart.fr/journal/international/081126/pologne-un-tireur-fascine-par-l-extreme-droite-abat-six-personnes-cracovie",
+    "date": "Sun, 08 Nov 2026 10:40:59 +0100",
+    "summary": "L’homme a ouvert le feu sur des passants samedi à Cracovie, faisant six morts et une quinzaine de blessés, un acte qualifié de «terrorisme» par le premier ministre Donald Tusk. Trois corps ont également été retrouvés à son domicile."
+  },
+  {
+    "id": "e05f1e1224f1b4b41e74642370fb1d7e",
+    "source": "Mediapart",
+    "title": "Au Liban, la population épuisée par six ans de crise: «Qu’est-ce qui est assuré dans ce pays?»",
+    "link": "https://www.mediapart.fr/journal/international/081126/au-liban-la-population-epuisee-par-six-ans-de-crise-qu-est-ce-qui-est-assure-dans-ce-pays",
+    "date": "Sun, 08 Nov 2026 09:37:18 +0100",
+    "summary": "La guerre contre l’Iran s’est ajoutée à la dégradation des conditions de vie de la population libanaise, déjà confrontée à un écroulement économique brutal en 2019. De l’électricité inabordable aux frais de santé exorbitants, la plupart des ménages peinent à subvenir à leurs besoins essentiels."
+  },
+  {
+    "id": "1072575bf011f6a7d4b751e80684208d",
+    "source": "Mediapart",
+    "title": "Hôte de la COP31, la Turquie continue à exploiter du charbon en balayant les protestations citoyennes",
+    "link": "https://www.mediapart.fr/journal/international/081126/hote-de-la-cop31-la-turquie-continue-exploiter-du-charbon-en-balayant-les-protestations-citoyennes",
+    "date": "Sun, 08 Nov 2026 09:31:28 +0100",
+    "summary": "Malgré la destruction de l’environnement, la mort des mineurs et celle des habitants voisins des centrales, le pouvoir turc veut produire toujours davantage de charbon. Dans le sud-ouest du pays, le village d’Ikizköy tente de résister."
+  },
+  {
+    "id": "8e38bfa4e58fbf13d7134c57ad4ca137",
+    "source": "Mediapart",
+    "title": "En Turquie, un sommet climat pour éviter tout recul face à la surchauffe planétaire",
+    "link": "https://www.mediapart.fr/journal/ecologie/081126/en-turquie-un-sommet-climat-pour-eviter-tout-recul-face-la-surchauffe-planetaire",
+    "date": "Sun, 08 Nov 2026 09:31:18 +0100",
+    "summary": "La 31e conférence internationale pour le climat se tiendra du 9 au 20 novembre à Antalya, en Turquie. Dans un contexte de crise pétrolière et alors que le monde est en passe de dépasser 1,5 °C de réchauffement, les États plancheront sur l’électrification de la demande énergétique et l’adaptation au changement climatique."
+  },
+  {
     "id": "1eda11f992066425a9a360578f7c14ad",
     "source": "Mediapart",
     "title": "Gadi Eisenkot, opposant à Nétanyahou, chargé de trouver un gouvernement à Israël",
     "link": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel",
     "date": "Sat, 07 Nov 2026 21:45:32 +0100",
-    "summary": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d'Israël."
+    "summary": "Le chef du bloc de l’opposition au premier ministre sortant Benyamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d’Israël."
   },
   {
     "id": "a6c5872439ca9b8e995fccb0cf7aa27d",
@@ -13,311 +77,247 @@
     "title": "Pologne: un tireur abat six personnes dans le centre touristique de Cracovie",
     "link": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie",
     "date": "Sat, 07 Nov 2026 21:22:44 +0100",
-    "summary": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts d’après le dernier bilan et une dizaine de blessés. Selon le ministre de l'intérieur, il était «fasciné par les idéologies d'extrême droite»."
+    "summary": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts, d’après le dernier bilan, et une dizaine de blessés. Selon le ministre de l’intérieur, il était «fasciné par les idéologies d’extrême droite»\".\""
   },
   {
-    "id": "2c3e3041ffec815a37c3aa1d11b66c56",
-    "source": "Mediapart",
-    "title": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
-    "link": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire",
-    "date": "Sat, 07 Nov 2026 21:01:46 +0100",
-    "summary": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui pour battre l’extrême droite, sans rien céder sur la radicalité de son programme."
-  },
-  {
-    "id": "979a5a09d207997e73faf1b75c34e18c",
-    "source": "Mediapart",
-    "title": "Mobilisation sociale: à Paris, un cortège encore assez fourni pour maintenir la pression",
-    "link": "https://www.mediapart.fr/journal/france/071126/mobilisation-sociale-paris-un-cortege-encore-assez-fourni-pour-maintenir-la-pression",
-    "date": "Sat, 07 Nov 2026 19:29:38 +0100",
-    "summary": "L’acte 4 du mouvement social a réuni au moins 46 000 personnes dans la capitale, à deux jours de la conférence sociale organisée à Matignon. Les participants rencontrés sur le boulevard Voltaire, qui aspirent à des réformes ambitieuses et des changements de fond, n’en attendent pas grand-chose."
-  },
-  {
-    "id": "71c205d2ea2775ca1425bc413e0dd603",
-    "source": "Mediapart",
-    "title": "«On a été arrêtés au hasard»: des manifestants embarqués dans un bus de la ville de Strasbourg",
-    "link": "https://www.mediapart.fr/journal/france/071126/ete-arretes-au-hasard-des-manifestants-embarques-dans-un-bus-de-la-ville-de-strasbourg",
-    "date": "Sat, 07 Nov 2026 15:44:35 +0100",
-    "summary": "Jeudi 5 novembre, 62 manifestants qui s’étaient mis à l’abri des gaz lacrymogènes dans un restaurant ont été embarqués dans un bus réquisitionné par la police. Dans la soirée, 60 ont été relâchés et 2 ont été placés en garde à vue, d’après le parquet."
-  },
-  {
-    "id": "7c4228dd8bccc9917472387f1d11b68a",
-    "source": "Mediapart",
-    "title": "Un policier condamné à dix ans de prison joue sa dernière chance en appel",
-    "link": "https://www.mediapart.fr/journal/france/071126/un-policier-condamne-dix-ans-de-prison-joue-sa-derniere-chance-en-appel",
-    "date": "Sat, 07 Nov 2026 14:21:57 +0100",
-    "summary": "En mars, la cour d’assises avait condamné Gilles Guilbert à dix ans de réclusion criminelle pour le meurtre d’Olivio Gomes. Quelques jours avant son procès en appel, l’accusé a accordé une interview à un collectif de «soutien à la police» lancé par une figure du RN."
-  },
-  {
-    "id": "5371954cdf362c1fa7529b32ee5a0013",
-    "source": "Mediapart",
-    "title": "La fonte des glaciers perturbe aussi l’agriculture et la santé",
-    "link": "https://www.mediapart.fr/journal/ecologie/071126/la-fonte-des-glaciers-perturbe-aussi-l-agriculture-et-la-sante",
-    "date": "Sat, 07 Nov 2026 14:21:34 +0100",
-    "summary": "Malmenés par le changement climatique, nos glaciers et calottes glaciaires s’amenuisent. De nouvelles études montrent que cette fonte, généralement associée à une hausse du niveau des mers, aurait aussi des impacts agricoles et sur la santé."
-  },
-  {
-    "id": "2732b9c5279cdb48de2131fc519aad05",
-    "source": "Mediapart",
-    "title": "Dans la péninsule Arabique, le Yémen se distingue de ses riches voisins",
-    "link": "https://www.mediapart.fr/journal/international/071126/dans-la-peninsule-arabique-le-yemen-se-distingue-de-ses-riches-voisins",
-    "date": "Sat, 07 Nov 2026 14:20:09 +0100",
-    "summary": "L’État le plus pauvre et le plus peuplé de la région, secoué par une nouvelle offensive houthiste, a toujours occupé une place à part, notamment en raison du projet républicain qui s’y est développé. La guerre civile a exacerbé des lignes de fracture qui menacent son avenir en tant que nation unifiée."
-  },
-  {
-    "id": "a13ad7040541326de062bcbf530468f9",
-    "source": "Mediapart",
-    "title": "LFI dévoile son programme pour plier la bataille de la crédibilité",
-    "link": "https://www.mediapart.fr/journal/politique/071126/lfi-devoile-son-programme-pour-plier-la-bataille-de-la-credibilite",
-    "date": "Sat, 07 Nov 2026 12:50:57 +0100",
-    "summary": "Cette actualisation des versions précédentes sera présentée lors du meeting de Jean-Luc Mélenchon, samedi au Bourget. «On prend au sérieux l’idée qu’on va gouverner en mai», affirme la députée Clémence Guetté. En dépit des polémiques et des fractures à gauche."
-  },
-  {
-    "id": "e6fdd5d4b5e212f07f2d701a1b5c49e4",
-    "source": "Mediapart",
-    "title": "Grenoble: à la clinique de «la Mut’», six ans de lutte pour sortir du groupe Avec",
-    "link": "https://www.mediapart.fr/journal/france/071126/grenoble-la-clinique-de-la-mut-six-ans-de-lutte-pour-sortir-du-groupe-avec",
-    "date": "Sat, 07 Nov 2026 09:52:18 +0100",
-    "summary": "Le Groupement hospitalier mutualiste (GHM) de Grenoble n’est plus. Repris par une fondation et renommé le 1er novembre, ce pilier du système de santé local sort de six années tourmentées sous la gestion du groupe Avec, dont l’ancien dirigeant sera jugé en février 2027 pour détournement de fonds."
-  },
-  {
-    "id": "40d47460bb60262b36a3b8c46f53d67d",
+    "id": "3ecde453f0946c653c120e8889817989",
     "source": "Le Monde",
-    "title": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html",
-    "date": "Sun, 08 Nov 2026 05:00:04 +0100",
-    "summary": "Le candidat de La France insoumise a présenté samedi son programme, « L’Avenir en commun », devant plusieurs milliers de sympathisants. Tout en assurant qu’il n’avait pas l’intention de « mettre de l’eau dans son vin », le tribun s’est livré à une rhétorique moins conflictuelle."
+    "title": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la guerre en Ukraine",
+    "link": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
+    "date": "Sun, 08 Nov 2026 06:00:09 +0100",
+    "summary": "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev. Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment par les partis d’extrême droite ou au sein de la gauche radicale."
   },
   {
-    "id": "53fbbdd8e9b5e6f3df8cc2682d26d1c8",
+    "id": "4b5ea607caaad54e512e19e9704d0675",
     "source": "Le Monde",
-    "title": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
-    "date": "Sun, 08 Nov 2026 05:00:08 +0100",
-    "summary": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue après des législatives qui n’ont donné aucune majorité à la Knesset."
+    "title": "Après l’attentat de Cracovie, la Pologne en état de choc",
+    "link": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+    "date": "Sun, 08 Nov 2026 12:03:01 +0100",
+    "summary": "Six personnes ont été tuées et quinze autres ont été blessées, samedi, dans le centre historique de Cracovie, par un Polonais de 24 ans « fasciné par l’extrême droite », selon les termes du ministre de l’intérieur. Le parquet a ouvert dimanche une enquête pour acte à « caractère terroriste »."
   },
   {
-    "id": "04acc82c1c8aba816382a7e2be9ea6c5",
+    "id": "97dace51d2304af258dc77b44684695b",
     "source": "Le Monde",
-    "title": "Route du rhum 2026 : Tom Laperche triomphe en Ultim et établit un nouveau record",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/08/route-du-rhum-2026-tom-laperche-remporte-l-epreuve-en-ultim-et-etablit-un-nouveau-record_6808351_3242.html",
-    "date": "Sun, 08 Nov 2026 03:53:14 +0100",
-    "summary": "Le skippeur français a franchi, samedi 7 novembre au soir, à Pointe-à-Pitre, en Guadeloupe, la ligne d’arrivée de l’épreuve transatlantique à bord de son maxi-trimaran « SVR-Lazartigue ». Il efface la précédente marque établie par Charles Caudrelier en 2022."
+    "title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+    "date": "Sun, 08 Nov 2026 06:30:11 +0100",
+    "summary": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie et défense."
   },
   {
-    "id": "2babddef9d79f5d09046867d7493071e",
+    "id": "47e37d3348511b6adaaa34fb4beee8f1",
     "source": "Le Monde",
-    "title": "En Pologne, un tireur « fasciné par les idéologies d’extrême droite » fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-    "date": "Sat, 07 Nov 2026 18:34:57 +0100",
-    "summary": "L’attaquant, un Polonais de 24 ans, a ouvert le feu « au hasard » sur la grande place de la vieille ville avant d’être blessé et neutralisé par la police. Deux jours de deuil national ont été décrétés."
+    "title": "Chez Grasset, un supplice mortifère après sept mois sans patron",
+    "link": "https://www.lemonde.fr/livres/article/2026/11/08/chez-grasset-un-supplice-mortifere-apres-sept-mois-sans-patron_6808405_3260.html",
+    "date": "Sun, 08 Nov 2026 06:30:05 +0100",
+    "summary": "Depuis le limogeage brutal de son PDG Olivier Nora en avril, débarqué par son propriétaire, Vincent Bolloré, la maison parisienne de la rue des Saints-Pères attend, muette et tétanisée, de connaître son sort."
   },
   {
-    "id": "a2c08e3b094b8bf39aeba02bc4c3b3d4",
+    "id": "f4cbe52e4a42918ff1b755f5e7fe5258",
     "source": "Le Monde",
-    "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
-    "date": "Sat, 07 Nov 2026 20:25:00 +0100",
-    "summary": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales."
+    "title": "Après le Stade toulousain à Rennes, le RC Vannes accueille l’UBB à Nantes, une stratégie d’exil populaire et fructueuse",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/08/apres-le-stade-toulousain-a-rennes-le-rc-vannes-accueille-l-ubb-a-nantes-une-strategie-d-exil-populaire-et-fructueuse_6808419_3242.html",
+    "date": "Sun, 08 Nov 2026 11:00:14 +0100",
+    "summary": "Pour la deuxième fois de la saison, le club breton de rugby délaisse son stade de la Rabine. Dimanche, il va disputer son match de championnat contre la formation girondine dans l’enceinte historique de l’équipe de football du FC Nantes."
   },
   {
-    "id": "98e8015dc6169b7094181ebf9a04e720",
+    "id": "55d5177c186d4d4ad652becf664e0f75",
     "source": "Le Monde",
-    "title": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
-    "date": "Sat, 07 Nov 2026 23:50:47 +0100",
-    "summary": "Les hommes de Fabien Galthié ont étrillé les joueurs du Pacifique, samedi, au Groupama Stadium de Décines-Charpieu. Mais ils ont perdu leur ouvreur Romain Ntamack, à six jours du choc contre l’Afrique du Sud."
+    "title": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
+    "date": "Sun, 08 Nov 2026 14:48:04 +0100",
+    "summary": "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février. Le candidat Renaissance juge, lui, que la « division » est déjà à l’œuvre."
   },
   {
-    "id": "dcd0b6fc6ef8278d8b0688b5082d046b",
+    "id": "d5d2d2755701089251bc9abdbcd0db16",
     "source": "Le Monde",
-    "title": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
-    "date": "Sat, 07 Nov 2026 22:09:52 +0100",
-    "summary": "Des centaines de personnes, proches et anonymes, sont venues rendre un dernier hommage au jeune homme de 26 ans, tué lors d’un attentat raciste à Trappes, le 23 octobre."
+    "title": "Antonin Baudry, réalisateur : « Pour faire des films, j’ai sauté dans le vide »",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/08/antonin-baudry-realisateur-pour-faire-des-films-j-ai-saute-dans-le-vide_6808395_3246.html",
+    "date": "Sun, 08 Nov 2026 06:00:05 +0100",
+    "summary": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le réalisateur de « La Bataille de Gaulle » revient sur son choix d’abandonner sa carrière de diplomate."
   },
   {
-    "id": "6b8de8fff2554a1d7114ff7734b18811",
+    "id": "aadb372e09613953490be5be3f030e39",
     "source": "Le Monde",
-    "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
-    "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
-    "date": "Sat, 07 Nov 2026 21:53:11 +0100",
-    "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée »."
+    "title": "A Saint-Denis, des familles roms expulsées illégalement par les polices nationale et municipale",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+    "date": "Sun, 08 Nov 2026 14:39:05 +0100",
+    "summary": "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement. Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler."
   },
   {
-    "id": "4054ec97a1363555206e22a1f4b5c698",
+    "id": "557326256c1015fa64d8c3d3f3e068f0",
     "source": "Le Monde",
-    "title": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le cadre d’une relation sentimentale",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-    "date": "Sun, 08 Nov 2026 05:55:15 +0100",
-    "summary": "Selon des révélations du « New York Times », Jensen Huang, dont l’entreprise fabrique des puces de pointe indispensables au développement de l’intelligence artificielle, aurait entretenu des rapports avec une cheffe d’entreprise, Alice Huang, recrutée par Pékin. Il a été invité à s’en expliquer devant des parlementaires."
+    "title": "Léon XIV attendu en Argentine, un pays où l’Eglise se positionne aux antipodes du projet de société de Javier Milei",
+    "link": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-attendu-en-argentine-un-pays-ou-l-eglise-se-positionne-aux-antipodes-du-projet-de-societe-de-javier-milei_6808418_3210.html",
+    "date": "Sun, 08 Nov 2026 11:00:10 +0100",
+    "summary": "Baptisée ainsi en hommage au pape François, natif du pays, la « Ciudad Papa Francisco », un ensemble de quartiers populaires dans la banlieue de Buenos Aires illustre le combat d’une l’Eglise catholique qui s’est érigée en pilier de l’opposition à la politique ultralibérale du président argentin."
   },
   {
-    "id": "cdd421993183b7c42361ba2ac5dd5d41",
+    "id": "bb362c28f778aa12ed471bf83716a06c",
     "source": "Le Monde",
-    "title": "« Poop » culture : quand les excréments sortent de l’ombre",
-    "link": "https://www.lemonde.fr/m-perso/article/2026/11/07/poop-culture-quand-les-excrements-sortent-de-l-ombre_6808241_4497916.html",
-    "date": "Sat, 07 Nov 2026 06:00:35 +0100",
-    "summary": "Sur les réseaux sociaux comme dans l’espace public, le « poop », terme anglo-saxon pour désigner nos fèces, s’expose, se partage, se discute. Jusqu’à être (re)valorisé comme une ressource précieuse pour la planète. La fin d’un grand tabou biologique ?"
+    "title": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/08/moins-de-touristes-etrangers-dans-les-commerces-parisiens-autre-consequence-des-manifestations_6808417_3234.html",
+    "date": "Sun, 08 Nov 2026 10:30:07 +0100",
+    "summary": "Les mobilisations sociales et les scènes de violences impactent les commerces parisiens. Dans le quartier touristique du Marais, les magasins se barricadent. Fini le lèche-vitrine pour les visiteurs internationaux."
   },
   {
-    "id": "d5eb13435db7b3ca9d5da52485b7fdb3",
+    "id": "a50da1976244cd06d11d404c3549f523",
     "source": "Le Monde",
-    "title": "Léon XIV en Uruguay : mariage, pauvreté, IA et maté… le pape clôt la première étape de son voyage en Amérique latine",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
-    "date": "Sun, 08 Nov 2026 07:39:50 +0100",
-    "summary": "A Montevideo, le souverain pontife de 71 ans a notamment parcouru à pied les rues du quartier de Casavalle, qui affiche le taux d’homicides le plus élevé du pays, sur fond d’affrontements entre bandes rivales impliquées dans le narcotrafic."
+    "title": "Le domicile d’un policier d’Auch, dans le Gers, incendié ; Laurent Nuñez dénonce un « acte criminel intolérable »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/le-domicile-d-un-policier-d-auch-dans-le-gers-incendie-laurent-nunez-denonce-un-acte-criminel-intolerable_6808426_3224.html",
+    "date": "Sun, 08 Nov 2026 12:27:28 +0100",
+    "summary": "Selon le ministre de l’intérieur, « tout laisse à penser » que l’agent a été visé en raison de sa profession."
   },
   {
-    "id": "9466d4bd7ff6092f5bb598b014a3600b",
+    "id": "7f43c47036907cc07368233ac6c9f717",
     "source": "Le Monde",
-    "title": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
-    "link": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
-    "date": "Sun, 08 Nov 2026 05:00:31 +0100",
-    "summary": "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %. Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher."
+    "title": "Où manger une pizza végétarienne à Paris et alentours ? Nos 5 adresses du moment",
+    "link": "https://www.lemonde.fr/m-styles/article/2026/11/08/a-paris-et-a-puteaux-cinq-adresses-ou-deguster-les-pizzas-vegetariennes-les-plus-convaincantes_6808384_4497319.html",
+    "date": "Sun, 08 Nov 2026 04:30:05 +0100",
+    "summary": "Au zaatar, aux épinards et ricotta, au pesto de betterave et artichaut ou au scamorza et confiture d’orange, les alternatives à la margherita ne manquent pas."
   },
   {
-    "id": "4fb3e3f3a857de5a8abf7b7ae526a106",
+    "id": "32a9fcc1c68ceacc06d3f4055f4f9c06",
     "source": "Le Monde",
-    "title": "Grâce à Anne Delrez, les photos de famille ont une seconde vie",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/08/grace-a-anne-delrez-les-photos-de-famille-ont-une-seconde-vie_6808388_4500055.html",
-    "date": "Sun, 08 Nov 2026 05:00:28 +0100",
-    "summary": "L’artiste collecte et numérise des dizaines de milliers de photos de familles du XXᵉ siècle. Des images qu’elle stocke et expose à La Conserverie, association qu’elle a créée. Ce fonds iconographique quitte Metz et rouvrira ses portes au public à Nancy, début 2027."
+    "title": "Ilija Srdanović, celui qui a fait triompher l’opposition serbe",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/07/ilija-srdanovi-celui-qui-a-fait-triompher-l-opposition-serbe_6808263_4500055.html",
+    "date": "Sat, 07 Nov 2026 11:00:15 +0100",
+    "summary": "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité. Cette semaine, la tête de liste du très populaire mouvement étudiant qui a remporté les élections législatives serbes le 25 octobre. Sans expérience politique, cet universitaire pourrait devenir le prochain premier ministre."
   },
   {
-    "id": "9833f718f56f96351ccf9e213354abca",
+    "id": "b01e1a23bfadd70365e21a289376fc1a",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-    "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
-    "date": "Sat, 07 Nov 2026 19:24:37 +0100",
-    "summary": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv."
+    "title": "« On en a marre de sortir avec des hommes plus petits que nous ! » : à Barcelone, à une fête réservée aux grands",
+    "link": "https://www.lemonde.fr/intimites/article/2026/11/08/on-en-a-marre-de-sortir-avec-des-hommes-plus-petits-que-nous-a-barcelone-a-une-fete-reservee-aux-grands_6808400_6190330.html",
+    "date": "Sun, 08 Nov 2026 06:10:06 +0100",
+    "summary": "« Transports amoureux ». Comment se rencontre-t-on, s’aime-t-on, vit-on en couple ailleurs ? En Espagne et au Portugal, les soirées Tall People, réservées aux personnes de grande taille, font un tabac. Leur fondateur, un Catalan de 24 ans, prépare le lancement d’une application de rencontres communautaires."
   },
   {
-    "id": "ba4eb52b851ceb39719349b9a44a539f",
+    "id": "679575a992813fc5db8ada47fc675ef7",
     "source": "Le Monde",
-    "title": "Carla Shatz, neuroscientifique : « La notion que le cerveau est déjà plastique in utero, bien avant la naissance, a été déterminante »",
-    "link": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
-    "date": "Sat, 07 Nov 2026 18:00:18 +0100",
-    "summary": "La chercheuse américaine a reçu le 3 novembre la Grande Médaille de l’Académie des sciences, une récompense qui met en valeur ses découvertes sur le développement du cerveau. Elle raconte dans un entretien au « Monde » cette aventure, qui a permis d’influencer les politiques éducatives."
+    "title": "Le « super El Niño » inquiète les horticulteurs kényans, qui fournissent un tiers des fleurs importées de l’UE",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html",
+    "date": "Sun, 08 Nov 2026 06:25:07 +0100",
+    "summary": "Ce pays d’Afrique de l’Est fournit aux étals européens de nombreux produits agricoles et horticoles. Les producteurs se préparent à un El Niño d’une puissance peut-être jamais vue."
   },
   {
-    "id": "38445af9cc8a8aa7fa3c3071d421b949",
+    "id": "aa7d376af34bc9eab547db572838139c",
     "source": "Libération",
-    "title": "Tom Laperche, le surdoué qui a su «garder les idées claires», remporte la Route du rhum en Ultim",
-    "link": "https://www.liberation.fr/sports/tom-laperche-le-surdoue-qui-a-su-garder-les-idees-claires-remporte-la-route-du-rhum-en-ultim-20261108_43MX4C74EVGJ3LUCGO6J6SOWWM/",
-    "date": "Sun, 08 Nov 2026 06:46:17 +0000",
-    "summary": "Vainqueur pour sa première participation sur son Ultim «SVR-Lazartigue», le marin de 29 ans a bouclé la traversée de Saint-Malo à Pointe-à-Pitre en moins d’une semaine, battant le record de l’épreuve détenu depuis 2022 par Charles Caudrelier."
+    "title": "Le fond de l’air n’est pas rouge, il n’est pas brun, il est bleu-blanc-rouge",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/le-fond-de-lair-nest-pas-rouge-il-nest-pas-brun-il-est-bleu-blanc-rouge-20261108_BODNBJUXQBGW7CC7GIAXO7FO7M/",
+    "date": "Sun, 08 Nov 2026 13:30:00 +0000",
+    "summary": "Du rassemblement à Trappes aux mobilisations des jeunes, le drapeau tricolore et «la Marseillaise» redeviennent une ressource politique dans les quartiers populaires qui prennent au sérieux la promesse d’égalité que d’autres ont renoncé à défendre, relèvent le politologue Ulysse Rabaté et le militant Abdel Yassine."
   },
   {
-    "id": "8486b34d870febd92871005d6e1b4da2",
+    "id": "85bdf521ed8ee1eb318bfb8f770d36ed",
     "source": "Libération",
-    "title": "«Le Prix de la vérité» de Robert Crais : du rififi dans les rues de Los Angeles",
-    "link": "https://www.liberation.fr/culture/livres/le-prix-de-la-verite-de-robert-crais-du-rififi-dans-les-rues-de-los-angeles-20261108_SAA6EC2NAND5LBPONG5ZGZIRRM/",
-    "date": "Sun, 08 Nov 2026 06:45:00 +0000",
-    "summary": "La nouvelle aventure de bonne facture de l’écrivain américain est un polar très classique mais pétri de bons mots et de sarcasmes, à lire au coin du feu."
+    "title": "Le skipper breton Kevin Escoffier jugé lundi à Lorient pour quatre agressions sexuelles",
+    "link": "https://www.liberation.fr/societe/police-justice/le-skipper-breton-kevin-escoffier-juge-lundi-a-lorient-pour-quatre-agressions-sexuelles-20261108_RJG7DKJCG5EKBL3QN7WXSYOGUA/",
+    "date": "Sun, 08 Nov 2026 13:28:40 +0000",
+    "summary": "Le navigateur de 46 ans doit répondre d’actes perpétrés contre quatre femmes entre 2017 et 2023, en France, aux Etats-Unis, au Brésil et en Australie. Il conteste les accusations."
   },
   {
-    "id": "04cf0f2a3057a92b4bff378877b50fff",
+    "id": "f3214f93de29647ada58e14cde17ece6",
     "source": "Libération",
-    "title": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
-    "link": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
-    "date": "Sat, 07 Nov 2026 19:35:59 +0000",
-    "summary": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines. Stratégie par étapes ou sectarisme suicidaire ?"
+    "title": "Présidentielle à droite et au centre : après la tribune de 66 élus, Laurent Wauquiez veut «un candidat unique avant Noël»",
+    "link": "https://www.liberation.fr/politique/elections/philippe-attal-retailleau-lisnard-66-elus-du-centre-et-de-la-droite-appellent-a-une-primaire-pour-departager-leurs-candidats-a-la-presidentielle-20261108_MCSWXB7VPJHBDDZSFXA3QA6PLY/",
+    "date": "Sun, 08 Nov 2026 13:15:53 +0000",
+    "summary": "Face à l’accumulation du nombre de candidatures de cet espace politique, un collectif de parlementaires, principalement Renaissance, ont publié dimanche 7 novembre un appel du pied dans «la Tribune dimanche» pour l’organisation d’une primaire entre chacun de ces impétrants."
   },
   {
-    "id": "ea1e1b8f208771a8e432ac7f90c55738",
+    "id": "bdc79017afd8f85652ed5aced936d69f",
     "source": "Libération",
-    "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
-    "link": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
-    "date": "Sat, 07 Nov 2026 19:12:33 +0000",
-    "summary": "Samedi, pour le quatrième week-end consécutif, de nouvelles manifestations se sont déroulées sous haute sécurité policière et dans le calme, avec pour épicentre Paris, où des gilets jaunes se sont rassemblés à Concorde malgré l’interdiction de la préfecture de police."
+    "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 21 morts",
+    "link": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
+    "date": "Sun, 08 Nov 2026 12:48:14 +0000",
+    "summary": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes."
   },
   {
-    "id": "265cfd133bf64e6be72736a74260b901",
+    "id": "452721e37b049dcd9f9dbf95410f4756",
     "source": "Libération",
-    "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
-    "link": "https://www.liberation.fr/societe/on-est-epuises-emotionnellement-mais-il-y-a-des-choses-qui-nous-font-tenir-a-paris-les-jeunes-manifestants-restent-mobilises-20261107_YNKADUBQ7RGRDGA2IDM4FOIZNM/",
-    "date": "Sat, 07 Nov 2026 18:57:58 +0000",
-    "summary": "Si le quatrième samedi du mouvement social a affiché une participation en baisse, étudiants et lycéens ont continué de défiler joyeusement à Paris."
+    "title": "Lycéen poignardé en Seine-Saint-Denis : le suspect mis en examen et placé sous contrôle judiciaire",
+    "link": "https://www.liberation.fr/societe/police-justice/lyceen-poignarde-en-seine-saint-denis-le-suspect-mis-en-examen-et-place-sous-controle-judiciaire-20261108_5QJG6CYPCFD7RP6KMCQQI5UIXA/",
+    "date": "Sun, 08 Nov 2026 12:02:16 +0000",
+    "summary": "Un lycéen de 20 ans avait été interpellé jeudi 4 novembre, après avoir légèrement blessé un autre élève de son établissement, le lycée Denis-Papin. Une information judiciaire a été ouverte pour tentative d’homicide volontaire."
   },
   {
-    "id": "5ad538f2a30a191d8f440f6f7ee0a4d0",
+    "id": "ab899735ab1bada3fdf70e0f32afeb62",
     "source": "Libération",
-    "title": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
-    "link": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/",
-    "date": "Sat, 07 Nov 2026 18:49:39 +0000",
-    "summary": "Le candidat insoumis a rassemblé plus de 20 000 personnes au Parc des expositions en Seine-Saint-Denis, selon les chiffres des organisateurs, lors d’une convention de présentation de son programme, ce samedi 7 novembre."
+    "title": "Mobilisation sociale : France info regrette d’avoir donné la parole en direct à un enfant de 8 ans insultant Emmanuel Macron",
+    "link": "https://www.liberation.fr/economie/medias/mobilisation-sociale-franceinfo-regrette-davoir-donne-la-parole-en-direct-a-un-enfant-de-huit-ans-insultant-emmanuel-macron-20261108_4HBK6NXVLRFYJNSSPFXXS43PXQ/",
+    "date": "Sun, 08 Nov 2026 11:58:50 +0000",
+    "summary": "Interrogé en direct samedi 7 novembre dans le cortège parisien, un garçon de 8 ans a insulté le président de la République et la police. Vue des millions de fois, la séquence a contraint la chaîne publique à réagir le soir même."
   },
   {
-    "id": "6d4b772372af57492983d99b80c390e2",
+    "id": "d8fe879923657155027e2769d1b2a889",
     "source": "Libération",
-    "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 6 morts et une dizaine de blessés dans une fusillade",
-    "link": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
-    "date": "Sat, 07 Nov 2026 18:12:18 +0000",
-    "summary": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital."
+    "title": "A la BNF, les traits de génie de Louise Bourgeois",
+    "link": "https://www.liberation.fr/culture/a-la-bnf-les-traits-de-genie-de-louise-bourgeois-20261108_M3EPNV62NRGWBF4TWFUYSSCMII/",
+    "date": "Sun, 08 Nov 2026 11:50:00 +0000",
+    "summary": "La Bibliothèque nationale de France et le centre Pompidou rassemblent les dessins et gravures de la grande artiste qui éclairent les thèmes du reste de son œuvre."
   },
   {
-    "id": "70834613c4e851c7b2404c2d41adc60d",
+    "id": "78889a6d0e52f858869d30a6e498fed2",
     "source": "Libération",
-    "title": "«Moi qui pensais vivre dans le pays des droits de l’homme» : à Nantes, recherche manif désespérément",
-    "link": "https://www.liberation.fr/societe/moi-qui-pensais-vivre-dans-le-pays-des-droits-de-lhomme-a-nantes-recherche-manif-desesperement-20261107_W3KQ42IC7JBMTOKFRXGBHIBTDI/",
-    "date": "Sat, 07 Nov 2026 18:02:06 +0000",
-    "summary": "Dans la ville, où le rassemblement était interdit, les manifestants ont été rapidement dispersés par les forces de l’ordre, entre colère et confusion."
+    "title": "Paraguay : après la destitution de Santiago Peña, Pedro Alliana investi président",
+    "link": "https://www.liberation.fr/international/amerique/paraguay-apres-la-destitution-de-santiago-pena-pedro-alliana-investi-president-20261107_6D7BD6K2JFGYPGOZUWHPETBACU/",
+    "date": "Sun, 08 Nov 2026 11:25:52 +0000",
+    "summary": "Le conservateur, président depuis 2023, a été inculpé et mis en détention provisoire ce samedi 7 novembre pour «abus de confiance» et «gestion frauduleuse à des fins personnelles», à l’issue d’un scandale bancaire qui a plongé le pays dans une crise majeure."
   },
   {
-    "id": "53ba6ace754cc8ff62a5d5d12c0a0f20",
+    "id": "f9e88c65d41160d75163f072755514dc",
     "source": "Libération",
-    "title": "«On est là pour se montrer unis, ce que les politiques n’ont pas su faire» : aux obsèques de Pengo Bossio Wangi, un «dernier au revoir du peuple»",
-    "link": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/",
-    "date": "Sat, 07 Nov 2026 17:58:09 +0000",
-    "summary": "Ce samedi 7 novembre, plusieurs centaines de personnes se sont rassemblées au cimetière de Guyancourt, dans les Yvelines, pour un dernier hommage public au jeune homme de 26 ans tué dans l’attentat de Trappes."
+    "title": "«Avec les bons paramètres, on peut forger les bons comportements» : l’IA, renouveau du contrôle social à la chinoise",
+    "link": "https://www.liberation.fr/economie/economie-numerique/avec-les-bons-parametres-on-peut-forger-les-bons-comportements-lia-renouveau-du-controle-social-a-la-chinoise-20261108_LIHAJDZGQBAOXISLSJL7KFOA7Y/",
+    "date": "Sun, 08 Nov 2026 11:15:00 +0000",
+    "summary": "Pendant deux semaines, «Libération» a sillonné la Chine pour raconter la place de l’IA dans ce pays pionnier. Dans le quatrième épisode de notre série, entre supervision, limiers algorithmiques et lutte anticorruption, comment l’intelligence artificielle achève les ambitions du Parti communiste chinois en matière de surveillance."
   },
   {
-    "id": "0bf0f402ee986e54c1a846a6ee139910",
+    "id": "b7970eabf34d24bde802d35a1a8a4be8",
     "source": "Libération",
-    "title": "«La musique est un dialogue plus fort que les mots» : à Nice, l’Orchestre du nouveau monde fait des petits",
-    "link": "https://www.liberation.fr/societe/la-musique-est-un-dialogue-plus-fort-que-les-mots-a-nice-lorchestre-du-nouveau-monde-fait-des-petits-20261107_YIWY4TLCHJHORBYN7BBVB72SUE/",
-    "date": "Sat, 07 Nov 2026 17:15:26 +0000",
-    "summary": "Avant que ne s’élance le cortège dans la capitale azuréenne, samedi, une cinquantaine de musiciens ont constitué une formation symphonique, en mimétisme à l’Orchestre du nouveau monde et en déroulant les mêmes morceaux."
+    "title": "Face au mal-être des agriculteurs, une assistante sociale multiplie les visites pour «rompre l’isolement»",
+    "link": "https://www.liberation.fr/environnement/agriculture/face-au-mal-etre-des-agriculteurs-une-assistante-sociale-multiplie-les-visites-pour-rompre-lisolement-20261108_ZYX6G6HSVZECVM5X2XZLLES64U/",
+    "date": "Sun, 08 Nov 2026 11:00:00 +0000",
+    "summary": "Dans le Var, une travailleuse sociale de la Mutualité sociale agricole, équivalent de la Sécurité sociale pour les agriculteurs, se rend plusieurs fois par mois chez des professionnels en difficulté. «Libé» l’a suivie une journée lors de ses visites à domicile."
   },
   {
-    "id": "7b67d028dcd763ee3ea78cf40f213174",
+    "id": "77541b7bbe9f831a3d9b0d0af53d5faa",
     "source": "Libération",
-    "title": "Ce film de Sylvain Chomet pour Dior a-t-il été réalisé avec l’IA ?",
-    "link": "https://www.liberation.fr/checknews/ce-film-de-sylvain-chomet-pour-dior-a-t-il-ete-realise-avec-lia-20261107_QURVF5TQIJC7LCFJ6JA2TS5WFQ/",
-    "date": "Sat, 07 Nov 2026 17:12:59 +0000",
-    "summary": "Accusé d’avoir largement utilisé l’intelligence artificielle, le réalisateur des «Triplettes de Belleville» assure avoir tout «dessiné à la main» mais reconnaît «avoir eu recours à l’interpolation automatisée» pour l’animation."
+    "title": "Trump veut Dana White, patron de la fédération de MMA, comme porte-parole de la Maison Blanche",
+    "link": "https://www.liberation.fr/international/amerique/trump-veut-dana-white-patron-de-la-federation-de-mma-comme-porte-parole-de-la-maison-blanche-20261108_7RPDM2YUXFBKXLPKMH2JP2RVII/",
+    "date": "Sun, 08 Nov 2026 10:30:17 +0000",
+    "summary": "Figure conservatrice et masculiniste de 57 ans, ce «pote» du président dirige l’UFC et avait pris la parole lors de son discours de victoire en 2024. Il doit le rencontrer lundi."
   },
   {
-    "id": "39fcaab57facd44d7b913bc03692df17",
+    "id": "dfd5fb3e2040836300192138df4d8c63",
     "source": "Libération",
-    "title": "Au Yémen, 22 morts dans des bombardements saoudiens autour de Sanaa, annoncent les Houthis",
-    "link": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
-    "date": "Sat, 07 Nov 2026 16:47:17 +0000",
-    "summary": "Le conflit s’intensifie sur le sol yéménite, depuis la reprise des hostilités cet été, l’offensive du groupe sur le littoral en septembre et les représailles saoudiennes en octobre."
+    "title": "La recette des baklawas à l’algérienne pour mettre un peu de miel dans sa vie",
+    "link": "https://www.liberation.fr/lifestyle/gastronomie/la-recette-des-baklawas-a-lalgerienne-pour-mettre-un-peu-de-miel-dans-sa-vie-20261108_EXQBRLFEA5B2NMWCMQYR2CU3IQ/",
+    "date": "Sun, 08 Nov 2026 10:30:00 +0000",
+    "summary": "Ce dimanche, on passe en cuisine avec Ilyes Bachi, qui nous apprend à confectionner ces pâtisseries de fête d’amandes et de miel."
   },
   {
-    "id": "22fa1571986cf758fe05a496cf20b5ea",
+    "id": "7ec4ff3c3b0d009c8d490c7f7bbe5f15",
     "source": "Libération",
-    "title": "Les groupes de parole de Terreur Graphique : «Bonjour… vous savez très bien qui je suis»",
-    "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-vous-savez-tres-bien-qui-je-suis-20261107_JQHJNMLLZVHLPPMNTXUKZTGDCY/",
-    "date": "Sat, 07 Nov 2026 15:25:00 +0000",
-    "summary": "Parce que ça va mieux en le disant, tour d’horizon des groupes de parole."
+    "title": "Pologne : enquête ouverte pour terrorisme, des corps retrouvés chez le tireur, fascination pour l’extrême droite… Ce que l’on sait après l’attentat mortel de Cracovie",
+    "link": "https://www.liberation.fr/international/europe/pologne-des-corps-retrouves-chez-le-tireur-fascination-pour-lextreme-droite-ce-que-lon-sait-apres-lattentat-mortel-de-cracovie-20261108_X5EYERZROJAVTG4PWU44XJA5JI/",
+    "date": "Sun, 08 Nov 2026 10:16:01 +0000",
+    "summary": "Après les tirs mortels qui ont ensanglanté le cœur touristique de la deuxième ville de Pologne, samedi 7 novembre, enquêteurs et responsables politiques pointent du doigt les accointances idéologiques du tireur, qui aurait agi seul."
   },
   {
-    "id": "34a7d9a0c9df60750ee47e0676d494ca",
+    "id": "92ca62deeb57a215c51e0a6526c559ae",
     "source": "Libération",
-    "title": "«Une avancée considérable» : aux Etats-Unis, la vague démocrate aux midterms porte aussi les femmes",
-    "link": "https://www.liberation.fr/international/amerique/une-avancee-considerable-aux-etats-unis-la-vague-democrate-aux-midterms-porte-aussi-les-femmes-20261107_6RGVHTOLARAKRIXIJ37PDL7NJI/",
-    "date": "Sat, 07 Nov 2026 15:14:00 +0000",
-    "summary": "Record de femmes gouverneures, progression au Congrès, diversité inédite : les élections de mi-mandat marquent un tournant dans la représentation politique féminine, comme l’analyse la chercheuse Kelly Dittmar."
+    "title": "Economie de guerre en Russie : «Vladimir Poutine a conscience qu’une crise peut balayer le pouvoir»",
+    "link": "https://www.liberation.fr/international/europe/economie-de-guerre-en-russie-vladimir-poutine-a-conscience-quune-crise-peut-balayer-le-pouvoir-20261108_RFKSNVM4NRGCBL257LGGP3LG6M/",
+    "date": "Sun, 08 Nov 2026 09:46:00 +0000",
+    "summary": "Ni crash ni émeutes de la faim, mais une croissance en berne : pour l’économiste Sergey Aleksashenko, Moscou s’enlise, prise en étau entre crédit coûteux et budget militaire."
   },
   {
-    "id": "d94936e9cef8a15d0da2399434ccda27",
+    "id": "f51c44d231d0dcf7a507b9c0a8a41ce9",
     "source": "Libération",
-    "title": "A Gaza, des pluies diluviennes privent d’abri des dizaines de milliers de déplacés",
-    "link": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
-    "date": "Sat, 07 Nov 2026 14:57:38 +0000",
-    "summary": "La coalition des organisations de la société civile palestinienne a mis en garde contre le risque de propagation de maladies et «la catastrophe» qui menacent les habitants de l’enclave palestinienne ravagée par plusieurs années de guerre contre Israël."
+    "title": "Du miel vert récolté en Ariège : «Il est arrivé que des abeilles aillent prélever du sirop sucré dans une usine de bonbons»",
+    "link": "https://www.liberation.fr/environnement/animaux/du-miel-vert-recolte-en-ariege-il-est-arrive-que-des-abeilles-aillent-prelever-du-sirop-sucre-dans-une-usine-de-bonbons-20261108_UR3MN4YI6RHSXOUTCVC5ELGH7U/",
+    "date": "Sun, 08 Nov 2026 09:30:00 +0000",
+    "summary": "A la fin de l’été, un apiculteur de Montesquieu-Avantès, en Ariège, a découvert dans trois de ses ruches du nectar vert, que le CNRS est en train d’analyser. Henri Clément, porte-parole de l’Union nationale de l’apiculture française (Unaf), déjà témoin de cas similaires, avance auprès de «Libé» une explication."
   },
   {
     "id": "b75a084671b43024f488383b8b4f6256",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261016__d3hr6g3__v1__highres__franceenvironmentclimatewater_1_-3b34e.jpg?1793923261\" width=\"700\" />\n<p>Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversible des calottes glaciaires ou la transformation de l'Amazonie en savane, qui contribueraient à transformer notre monde en une «<small class=\"fine d-inline\"> </small>Terre étuve<small class=\"fine d-inline\"> </small>». Une planète invivable, où le réchauffement global dépasserait les 5 °C. <br class=\"autobr\" />\nLe seuil à partir duquel tout pourrait (…)</p>\n\n            <a href=\"https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>"
   },
   {
-    "id": "222dfad0a70ade2546da3a1eddcad701",
+    "id": "23dcaa7dc3a3ac072fd57157e8f6edf3",
     "source": "BFMTV",
-    "title": "Colère sociale: des annonces attendues à l'issue de la conférence sociale lundi, \"le gouvernement fera sa part\" sur les hausses de salaires",
-    "link": "https://www.bfmtv.com/politique/gouvernement/colere-sociale-des-annonces-attendues-a-l-issue-de-la-conference-sociale-lundi-le-gouvernement-fera-sa-part-sur-les-hausses-de-salaires_AN-202611080098.html",
-    "date": "Sun, 08 Nov 2026 06:48:07 GMT",
-    "summary": "Sébastien Lecornu tiendra, ce lundi 9 novembre, à Matignon, une conférence sociale avec les organisations syndicales et patronales. À la suite de cette réunion, des annonces du gouvernement sont attendues, selon les informations de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/xpU7Z5IjG7lgIivoi5gLefqj0R4=/0x106:2048x1258/800x0/images/Le-Premier-ministre-francais-Sebastien-Lecornu-a-gauche-et-le-ministre-francais-du-Travail-Jean-Pierre-Farandou-a-droite-2380137.jpg\" />"
+    "title": "DIRECT. Rennes-Lille: suivez le match de la 10e journée en live",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-lille-suivez-le-match-de-la-10e-journee-en-live_LS-202611080271.html",
+    "date": "Sun, 08 Nov 2026 13:29:25 GMT",
+    "summary": "C'est un match au sommet de la Ligue 1. Actuellement 5e avec 16 points, Rennes reçoit Lille, 3e avec seulement deux longueurs d'avance. Une rencontre cruciale pour les deux formations, qui veulent rester dans le wagon de tête du championnat. En cas de victoire, les Bretons pourraient grimper sur le podium, tandis que les Nordistes pourraient s'emparer de la deuxième place.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/txvbnEbJpAgdydG3gDVF-10qO7U=/0x157:2048x1309/800x0/images/Valentin-Rongier-avec-le-Stade-rennais-le-15-octobre-2026-2370167.jpg\" />"
   },
   {
-    "id": "1b1d418795e1a65630ac48e413746b7f",
+    "id": "03fe7b82a80976dc572561c5a88ba341",
     "source": "BFMTV",
-    "title": "70 ans des Casques bleus: la force de maintien de la paix  de l'ONU plus fragile que jamais",
-    "link": "https://www.bfmtv.com/international/70-ans-des-casques-bleus-la-force-de-maintien-de-la-paix-de-l-onu-plus-fragile-que-jamais_AN-202611080034.html",
-    "date": "Sun, 08 Nov 2026 06:47:00 GMT",
-    "summary": "La Mission des Nations unies pour l’organisation d’un référendum au Sahara occidental (Minurso), une mission de maintien de la paix de l'ONU vieille de 35 ans, a pris officiellement fin le 1er novembre. Une décision, symptôme visible d'une force de maintien de la paix affaiblie et peu soutenue, 70 ans après sa création. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zqIwC37wVEbZiPIuRo6qyPcAdE0=/0x40:2048x1192/800x0/images/Des-Casques-bleus-de-la-Finul-a-Marjayoun-au-sud-du-Liban-le-8-octobre-2024-1953995.jpg\" />"
+    "title": "Manuel Bompard plaide pour \"un état d'urgence sociale\" en cas de victoire de LFI à la présidentielle",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-politique/video-manuel-bompard-plaide-pour-un-etat-d-urgence-sociale-en-cas-de-victoire-de-lfi-a-la-presidentielle_VN-202611080276.html",
+    "date": "Sun, 08 Nov 2026 13:50:04 GMT",
+    "summary": "Manuel Bompard, député et coordinateur national de La France insoumise était l’invité de BFM Politique ce dimanche 8 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ntUsDibsLksvs8iTVTyIx5KyYQw=/0x0:1280x720/800x0/images/Manuel-Bompard-plaide-pour-un-etat-d-urgence-sociale-en-cas-de-victoire-de-LFI-a-la-presidentielle-2380293.jpg\" />"
   },
   {
-    "id": "b35b0274d611dcc42ac84a7fa883eb07",
+    "id": "8139a14eaee8ffb10bb12b98e39a4481",
     "source": "BFMTV",
-    "title": "Manifestations: les touristes désertent Strasbourg",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-manifestations-les-touristes-desertent-strasbourg_VN-202611080093.html",
-    "date": "Sun, 08 Nov 2026 06:27:49 GMT",
-    "summary": "Entre pillages, vitrines brisées et musées fermés, l’image touristique de Paris relayée par les médias du monde entier fait souffrir l’économie du secteur en France. Les débordements en marge des manifestations freinent de nombreux touristes à Strasbourg. Les demandes de réservations chutent, alors que la période la plus importante de l'année pour la ville approche : le marché de Noël.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WuYxUiOZYhYHHUOa3tHkW2jxvR8=/0x0:1280x720/800x0/images/Manifestations-les-touristes-desertent-Strasbourg-2380135.jpg\" />"
+    "title": "Affaires suivantes : Au procès de la \"martyre de l'A10\", les parents sur le banc des accusés",
+    "link": "https://www.bfmtv.com/replay-emissions/affaire-suivante/video-affaires-suivantes-au-proces-de-la-martyre-de-l-a10-les-parents-sur-le-banc-des-accuses_VN-202611080275.html",
+    "date": "Sun, 08 Nov 2026 13:49:20 GMT",
+    "summary": "Depuis le lundi 2 novembre, Halima El Bakhti et Ahmed Touloub, les parents d'Inass, la \"petite martyre de l'A10\", sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\". Après l'audition des autres enfants du couple à huis clos jeudi, Halima El Bakhti doit être interrogée sur les faits ce vendredi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Dntm92FPVpMOYnIk287h1QF9wYc=/0x0:1280x720/800x0/images/Affaires-suivantes-Au-proces-de-la-martyre-de-l-A10-les-parents-sur-le-banc-des-accuses-2380292.jpg\" />"
   },
   {
-    "id": "ee5d7ff7f3950e449faccccc9ac852df",
+    "id": "21ac1ad03261f6dc8663c88328941d63",
     "source": "BFMTV",
-    "title": "\"Elle est considérée à tort comme une maladie bénigne\": responsable de la mort de deux enfants aux États-Unis, la rougeole continue de circuler en France",
-    "link": "https://www.bfmtv.com/sante/elle-est-consideree-a-tort-comme-une-maladie-benigne-responsable-de-la-mort-de-deux-enfants-aux-etats-unis-la-rougeole-continue-de-circuler-en-france_AV-202611080044.html",
-    "date": "Sun, 08 Nov 2026 06:09:00 GMT",
-    "summary": "INTERVIEW. La mort de deux enfants dans deux États des États-Unis après avoir contracté la rougeole témoigne du funeste retour de cette maladie grave et contagieuse dont le pays s'était déclaré débarrassé au début des années 2000. La France n'est pas en reste, comme l'explique à BFM le docteur Julie Dina, responsable du Centre National de Référence Rougeole, Oreillons et Rubéole.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2r7k3F5TRZiKCZ64pFQd3QeiK98=/4x3:1252x705/800x0/images/-148802.jpg\" />"
-  },
-  {
-    "id": "f18d414e32a1b1bbdae913703880ba9f",
-    "source": "BFMTV",
-    "title": "Présidentielle 2027: Raphaël Glucksmann estime que la large coalition suggérée par Emmanuel Macron “décrédibilise la politique”",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-raphael-glucksmann-estime-que-la-large-coalition-suggeree-par-emmanuel-macron-decredibilise-la-politique_AD-202611080081.html",
-    "date": "Sun, 08 Nov 2026 06:05:51 GMT",
-    "summary": "Le président de la République, Emmanuel Macron estime que l'ensemble des forces politiques de David Lisnard à Raphaël Glucksmann doivent se mettre à \"travailler ensemble\" pour la prochaine présidentielle. Une idée que le candidat Place publique/PS a balayée ce samedi 7 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sTqrfUiXRn1DSChqPtSglzkNZgs=/0x40:768x472/800x0/images/Raphael-Glucksmann-lors-d-un-debat-a-Montrouge-dans-les-Hauts-de-Seine-le-22-juin-2026-2368458.jpg\" />"
-  },
-  {
-    "id": "44cc89494c31a41d71398c2948e10df6",
-    "source": "BFMTV",
-    "title": "\"Ramayana: l'avènement d'une légende\": la gigaproduction indienne qui veut concurrencer Hollywood",
-    "link": "https://www.bfmtv.com/culture/cinema-series/ramayana-l-avenement-d-une-legende-la-gigaproduction-indienne-qui-veut-concurrencer-hollywood_AD-202611080053.html",
-    "date": "Sun, 08 Nov 2026 06:05:00 GMT",
-    "summary": "La première partie de ce méga blockbuster mythologique à la sauce Bollywood, en salles ce 6 novembre 2026, est le film le plus cher de toute l'histoire du cinéma indien. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mvIwSyZz5gJqu9shq2kqeh70aIM=/24x1:2024x1126/800x0/images/Ramayana-2377907.jpg\" />"
-  },
-  {
-    "id": "cb9452c5907dfea1ed0298be44fabcd7",
-    "source": "BFMTV",
-    "title": "\"Il faut brûler maman\": Artus et Dupontel, l'humour à la vie à la mort",
-    "link": "https://www.bfmtv.com/culture/video-il-faut-bruler-maman-artus-et-dupontel-l-humour-a-la-vie-a-la-mort_VN-202611080083.html",
-    "date": "Sun, 08 Nov 2026 06:04:43 GMT",
-    "summary": "Attendue au cinéma le 11 novembre, la nouvelle comédie noire et irrévérencieuse du réalisateur d'Adieu les cons suit une famille de croque-morts contrainte d'accomplir seule le protocole funéraire de leur mère décédée, en raison d'une grève du personnel.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mO3XXZ1zIzGmfIOcRc4BtKRfRoc=/0x0:1280x720/800x0/images/Il-faut-bruler-maman-Artus-et-Dupontel-l-humour-a-la-vie-a-la-mort-2380130.jpg\" />"
-  },
-  {
-    "id": "2478f5f616f901889e5dc166354b62e0",
-    "source": "BFMTV",
-    "title": "Nez qui coule, mal à la gorge, fatigue... Les bons réflexes pour échapper aux maux de l'hiver",
-    "link": "https://www.bfmtv.com/sante/video-nez-qui-coule-mal-a-la-gorge-fatigue-les-bons-reflexes-pour-echapper-aux-maux-de-l-hiver_VN-202611080079.html",
-    "date": "Sun, 08 Nov 2026 06:00:30 GMT",
-    "summary": "Le froid s'installe et, avec lui, le retour des traditionnels maux de saison. Entre le nez qui coule, les otites et la gorge qui pique, l'hiver met nos organismes à rude épreuve. Mais est-il vraiment possible d'échapper aux microbes cette année ?<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9U3vnrH2nFDw9sk1fSLgDxMjMXo=/0x0:1280x720/800x0/images/Nez-qui-coule-mal-a-la-gorge-fatigue-Les-bons-reflexes-pour-echapper-aux-maux-de-l-hiver-2380128.jpg\" />"
-  },
-  {
-    "id": "973dc0de9c4330516b619aa1b4a0b007",
-    "source": "BFMTV",
-    "title": "L'ÉDITO POLITIQUE - Présidentielle: en perte de vitesse dans les sondages, Édouard Philippe contraint à la primaire?",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-edito-politique-presidentielle-en-perte-de-vitesse-dans-les-sondages-edouard-philippe-contraint-a-la-primaire_VN-202611080077.html",
-    "date": "Sun, 08 Nov 2026 05:59:35 GMT",
-    "summary": "Plus de soixante parlementaires, en grande majorité Renaissance, appellent dans une tribune publiée ce week-end à une \"primaire des démocrates et des républicains\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IoUB_V2RTr51FhoSDo5huZGeZh0=/0x0:1280x720/800x0/images/L-EDITO-POLITIQUE-Presidentielle-en-perte-de-vitesse-dans-les-sondages-Edouard-Philippe-contraint-a-la-primaire-2380127.jpg\" />"
-  },
-  {
-    "id": "2159b1074438276c77fc54243673e5f9",
-    "source": "BFMTV",
-    "title": "Est-ce que vous gagnez plus que vos parents à 30 ans? Avant c'était le cas de 95% des Français, maintenant c’est plus que 58%, mais est-ce vraiment la preuve qu'on vivait mieux avant?",
-    "link": "https://www.bfmtv.com/economie/economie-social/france/est-ce-que-vous-gagnez-plus-que-vos-parents-a-30-ans-avant-c-etait-le-cas-de-95-des-francais-maintenant-c-est-plus-que-58-mais-est-ce-vraiment-la-preuve-qu-on-vivait-mieux-avant_AV-202611080054.html",
-    "date": "Sun, 08 Nov 2026 05:59:00 GMT",
-    "summary": "Dans tous les pays développés, la proportion d'individus percevant à 30 ans des revenus supérieurs à ceux de leurs parents au même âge ne cesse de diminuer. Le ralentissement de la croissance économique depuis la période faste des Trente glorieuses en est la principale cause.  <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wbaDgLVGuxP8KrFr4yK8Vyu5G8g=/0x0:1920x1080/800x0/images/Declassement-jeunes-generations-2379368.jpg\" />"
-  },
-  {
-    "id": "5d994250c711b8a4290bad8175cea6b8",
-    "source": "BFMTV",
-    "title": "Prévisions du 8 novembre 2026",
-    "link": "https://www.bfmtv.com/meteo/video-previsions-du-8-novembre-2026_VN-202611080094.html",
-    "date": "Sun, 08 Nov 2026 05:58:00 GMT",
-    "summary": "La météo du jour et du lendemain par l'équipe météo de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KQ89piy_eJxt7c9nTfwfeFRC7Gs=/0x0:1280x720/800x0/images/Previsions-du-8-novembre-2026-2380136.jpg\" />"
-  },
-  {
-    "id": "8feb53ad5c75bf1ad21ba15d95b3dc0b",
-    "source": "BFMTV",
-    "title": "États-Unis: Donald Trump a proposé à Dana White, patron de la fédération de MMA, de devenir le porte-parole de la Maison Blanche",
-    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-etats-unis-donald-trump-a-propose-a-dana-white-patron-de-la-federation-de-mma-de-devenir-le-porte-parole-de-la-maison-blanche_VN-202611080076.html",
-    "date": "Sun, 08 Nov 2026 05:49:54 GMT",
-    "summary": "Alors que les Républicains ont subi une lourde défaite aux élections de mi-mandat en perdant la majorité des deux chambres au profit des Démocrates, Donald Trump a fait une nouvelle annonce. Sur son réseau social, le président des États-Unis assure avoir proposé à Dana White, patron de l'UFC, de devenir porte-parole de la Maison Blanche.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2SA4OFZXx3ra2RP0i-fe1mwdrpc=/0x0:1280x720/800x0/images/Etats-Unis-Donald-Trump-a-propose-a-Dana-White-patron-de-la-federation-de-MMA-de-devenir-le-porte-parole-de-la-Maison-Blanche-2380125.jpg\" />"
-  },
-  {
-    "id": "a1c72a5cb02a230ac2810ee214f8e50a",
-    "source": "BFMTV",
-    "title": "Israël: le chef de file de l'opposition, Gadi Eisenkot, chargé de former un gouvernement",
-    "link": "https://www.bfmtv.com/international/moyen-orient/israel/video-israel-le-chef-de-file-de-l-opposition-gadi-eisenkot-charge-de-former-un-gouvernement_VN-202611080075.html",
-    "date": "Sun, 08 Nov 2026 05:47:09 GMT",
-    "summary": "C'est maintenant officiel en Israël : le chef de file de l'opposition, Gadi Eisenkot, a reçu la lourde tâche de constituer la prochaine équipe gouvernementale. La mission s'annonce particulièrement complexe (!) et le chronomètre est lancé, puisqu'il ne dispose que de 28 jours pour bâtir sa coalition. De son côté, Benjamin Netanyahu n’abdique pas. En cas d'échec des négociations, le mandat passera à une autre personnalité, et si l'impasse persiste, les électeurs devront retourner aux urnes. Le Premier ministre sortant pousse pour un exécutif d’union nationale mais à la seule condition d'en garder les commandes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dls6m6j67DR9QPrrUxyaYy2e2Pc=/0x0:1280x720/800x0/images/Israel-le-chef-de-file-de-l-opposition-Gadi-Eisenkot-charge-de-former-un-gouvernement-2380124.jpg\" />"
-  },
-  {
-    "id": "ac38a7a869bfb2a9363533ec9aaf9937",
-    "source": "BFMTV",
-    "title": "Vie chère: ils font 800 kilomètres pour faire leurs courses à moindre coût en Espagne",
-    "link": "https://www.bfmtv.com/societe/video-vie-chere-ils-font-800-kilometres-pour-faire-leurs-courses-a-moindre-cout-en-espagne_VN-202611080074.html",
-    "date": "Sun, 08 Nov 2026 05:43:14 GMT",
-    "summary": "Avec l’inflation, certains Charentais cherchent à réduire leurs dépenses en allant faire leurs courses de l’autre côté de la frontière. À Angoulême, une agence de voyages organise chaque mois des excursions en autocar vers l’Espagne. Une formule qui attire de plus en plus de voyageurs, venus remplir leurs sacs de produits alimentaires, de cosmétiques ou de parfums à moindre coût.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FlHyq3fLBMDTniHZ5S0QRzZ-aSQ=/0x0:1280x720/800x0/images/Vie-chere-ils-font-800-kilometres-pour-faire-leurs-courses-a-moindre-cout-en-Espagne-2380123.jpg\" />"
+    "title": "Ils sont adorés des enfants et attirent les clients: au Pakistan, des robots-serveurs dans un restaurant offrent un avant-goût de l’avenir",
+    "link": "https://www.bfmtv.com/economie/consommation/ils-sont-adores-des-enfants-et-attirent-les-clients-au-pakistan-des-robots-serveurs-dans-un-restaurant-offrent-un-avant-gout-de-l-avenir_AD-202611080274.html",
+    "date": "Sun, 08 Nov 2026 13:48:06 GMT",
+    "summary": "À Karachi, au Pakistan, deux robots humanoïdes ont rejoint le personnel d’un restaurant pour servir les clients. Une attraction insolite qui séduit particulièrement les enfants et attire désormais des curieux venus de toute la ville. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HsNUr1vQKLrsX40wocJEiY-z9fE=/0x106:2048x1258/800x0/images/Une-serveuse-humanoide-robot-photo-d-illustration-2380290.jpg\" />"
   },
   {
     "id": "555447dac95b9aef88530fa0659ab9ce",
     "source": "BFMTV",
-    "title": "DIRECT. Colère sociale: des annonces attendues à l'issue de la conférence sociale demain, \"le gouvernement fera sa part\" sur les hausses de salaires",
+    "title": "DIRECT. Manuel Bompard assure que Raphaël Glucksmann “n’est pas l’adversaire” de LFI et l’enjoint “d’arrêter de taper” sur son parti",
     "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-bruno-retailleau-gabriel-attal-et-david-lisnard-attendus-dans-le-var_LN-202611080060.html",
     "date": "Sun, 08 Nov 2026 04:59:49 GMT",
-    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard sera l'invité de BFM Politique à midi. Raphaël Glucksmann (PS-Place publique) sera l'invité du Grand Oral de BFMTV à 18h.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Mm5qQZ9PSv-rScvMVvRo37tyzYE=/0x40:768x472/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-a-Matignon-le-10-avril-2026-a-Paris-2357406.jpg\" />"
+    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard sera l'invité de BFM Politique à midi. Raphaël Glucksmann (PS-Place publique) sera l'invité du Grand Oral de BFMTV à 18h.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZZYoXKbbJopKBE0Tq1zKoYnS_sI=/0x0:1920x1080/800x0/images/Manuel-Bompard-est-l-invite-de-BFM-Politique-le-8-novembre-2026-2380207.jpg\" />"
+  },
+  {
+    "id": "5dc3e523cd00a784a58a5da775412e1d",
+    "source": "BFMTV",
+    "title": "\"On doit être une centaine en France\": les peintres de vitrines prêts à reprendre du service pour les fêtes de fin d'année",
+    "link": "https://www.bfmtv.com/grand-lille/on-doit-etre-une-centaine-en-france-les-peintres-de-vitrines-prets-a-reprendre-du-service-pour-les-fetes-de-fin-d-annee_AN-202611080272.html",
+    "date": "Sun, 08 Nov 2026 13:29:54 GMT",
+    "summary": "Alors que les commerçants ont souvent recours aux autocollants pour décorer leurs vitrines, certains peintres en lettres tiennent à pratiquer leur art. C'est le cas de Vincent Marquette, qui propose ses services dans les Hauts-de-France.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/C0DR2e_drRK5zlFzRWOPfrgOHyc=/0x226:592x559/800x0/images/On-doit-etre-une-centaine-en-France-les-peintres-de-vitrines-prets-a-reprendre-du-service-pour-les-fetes-de-fin-d-annee-2380279.jpg\" />"
+  },
+  {
+    "id": "dac9e1fe01ae880db62e0792262943db",
+    "source": "BFMTV",
+    "title": "Un réseau de 14 ports mondiaux lancé à Marseille pour lutter contre le narcotrafic",
+    "link": "https://www.bfmtv.com/marseille/un-reseau-de-14-ports-mondiaux-lance-a-marseille-pour-lutter-contre-le-narcotrafic_AN-202611080264.html",
+    "date": "Sun, 08 Nov 2026 13:02:06 GMT",
+    "summary": "Le projet doit être mis en place lors d'une réunion organisée à Marseille dans le cadre du G7, qui se déroulera ce lundi et ce mardi. Le ministre français des Affaires étrangères estime que \"c'est en coordonnant l'action des ports\" que le narcotrafic pourra être étouffé.  <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Znk-N2XJFpLTkDw8dHxQWMyY07g=/0x106:2048x1258/800x0/images/Vue-panoramique-du-Vieux-Port-de-Marseille-en-2019-1368203.jpg\" />"
+  },
+  {
+    "id": "c08f93393398fffa9d8b8741cb64db18",
+    "source": "BFMTV",
+    "title": "\"On est confinés dans cet établissement avec une centaine d'élèves\": notre journaliste, Sonia Carneiro, raconte la couverture d'un blocus d'un lycée parisien",
+    "link": "https://www.bfmtv.com/societe/video-on-est-confines-dans-cet-etablissement-avec-une-centaine-d-eleves-notre-journaliste-sonia-carneiro-raconte-la-couverture-d-un-blocus-d-un-lycee-parisien_VN-202611080260.html",
+    "date": "Sun, 08 Nov 2026 12:46:58 GMT",
+    "summary": "Pour ce 1er numéro de \"Sur le terrain\", nos reporters Sonia Carneiro, Naoufel El Khaouafi et Olivier Saint Paul, racontent les coulisses et les témoignages recueillis lors des manifestations lycéennes et des mobilisations contre la vie chère.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ppDseFlMF3aqSbMpSiqvVcg-F3k=/0x0:1280x720/800x0/images/On-est-confines-dans-cet-etablissement-avec-une-centaine-d-eleves-notre-journaliste-Sonia-Carneiro-raconte-la-couverture-d-un-blocus-d-un-lycee-parisien-2380281.jpg\" />"
+  },
+  {
+    "id": "16f613bbc4697cbdb9cadb2fe0104749",
+    "source": "BFMTV",
+    "title": "Guerre en Ukraine: Jean-Noël Barrot accuse Jean-Luc Mélenchon de s'être \"fait porte-parole du Kremlin\"",
+    "link": "https://www.bfmtv.com/politique/gouvernement/guerre-en-ukraine-jean-noel-barrot-accuse-jean-luc-melenchon-de-s-etre-fait-porte-parole-du-kremlin_AD-202611080259.html",
+    "date": "Sun, 08 Nov 2026 12:41:02 GMT",
+    "summary": "Le ministre des Affaires étrangères Jean-Noël Barrot a accusé ce dimanche 8 novembre Jean-Luc Mélenchon de \"s'être fait le porte-parole du Kremlin\" après ses propos la veille lors de son meeting au Bourget sur le Donbass.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uUXPLjgjpyJCZkJ2YL8X-aa_qrI=/0x106:2048x1258/800x0/images/Jean-Noel-Barrot-invite-du-grand-jury-RTL-M6-Ouest-France-le-8-novembre-2026-2380266.jpg\" />"
+  },
+  {
+    "id": "62d655a053c3a160f3c65731c6c90c6c",
+    "source": "BFMTV",
+    "title": "Pourquoi les interpellations ne sont pas diffusées en direct? Explications.",
+    "link": "https://www.bfmtv.com/police-justice/video-pourquoi-les-interpellations-ne-sont-pas-diffusees-en-direct-explications_VN-202611080258.html",
+    "date": "Sun, 08 Nov 2026 12:33:10 GMT",
+    "summary": "Pour ce 1er numéro de \"BFM sur le terrain\", nos reporters Sonia Carneiro, Naoufel El Khaouafi et Olivier Saint Paul, racontent les coulisses et les témoignages recueillis lors des manifestations lycéennes et des mobilisations contre la vie chère.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/j1wH4Q3oxu0BjF3VIJ3Umum2Edw=/0x0:1280x720/800x0/images/Pourquoi-les-interpellations-ne-sont-pas-diffusees-en-direct-Explications-2380278.jpg\" />"
+  },
+  {
+    "id": "02e89bf9afcb26ccd0ee0fcf351034f6",
+    "source": "BFMTV",
+    "title": "\"La commune est très fière\": Puy-Saint-Vincent devient la première station des Alpes du Sud à utiliser la technique du snowfarming",
+    "link": "https://www.bfmtv.com/bfm-dici/la-commune-est-tres-fiere-puy-saint-vincent-devient-la-premiere-station-des-alpes-du-sud-a-utiliser-la-technique-du-snowfarming_AV-202611080257.html",
+    "date": "Sun, 08 Nov 2026 12:32:48 GMT",
+    "summary": "Au début du mois de novembre, un monticule de neige a été débâché après sept mois d'hibernation. Une ressource accueillie positivement par la station de ski de Puy-Saint-Vincent, qui peut commencer la saison avec sérénité. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8Uqub308bnHFU5Mddznptx1YBUM=/0x0:1920x1080/800x0/images/La-commune-est-tres-fiere-Puy-Saint-VIncent-devient-la-premiere-station-des-Alpes-du-Sud-a-utiliser-la-technique-du-snowfarming-2380221.jpg\" />"
+  },
+  {
+    "id": "1dd69116d529dffda8792e3cfc4aeb1e",
+    "source": "BFMTV",
+    "title": "Notre reporter Naoufel El Khaouafi, raconte les coulisses de la couverture des manifestations du 17 octobre à Paris",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-notre-reporter-naoufel-el-khaouafi-raconte-les-coulisses-de-la-couverture-des-manifestations-du-17-octobre-a-paris_VN-202611080256.html",
+    "date": "Sun, 08 Nov 2026 12:30:07 GMT",
+    "summary": "Pour ce 1er numéro de \"BFM sur le terrain\", nos reporters Sonia Carneiro, Naoufel El Khaouafi et Olivier Saint Paul, racontent les coulisses et les témoignages recueillis lors des manifestations lycéennes et des mobilisations contre la vie chère.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/h1_ztjdXyVwgy_RgzpHZ_Y5wxEU=/0x0:1280x720/800x0/images/Notre-reporter-Naoufel-El-Khaouafi-raconte-les-coulisses-de-la-couverture-des-manifestations-du-17-octobre-a-Paris-2380277.jpg\" />"
+  },
+  {
+    "id": "d092f4163534e9f0f8cef997b393bdd4",
+    "source": "BFMTV",
+    "title": "Manuel Bompard assure que Raphaël Glucksmann n'est pas \"l'adversaire\" de LFI et déplore qu'il \"contribue à créer une forme de schisme\" à gauche",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/manuel-bompard-assure-que-raphael-glucksmann-n-est-pas-l-adversaire-de-lfi-et-deplore-qu-il-contribue-a-creer-une-forme-de-schisme-a-gauche_AV-202611080255.html",
+    "date": "Sun, 08 Nov 2026 12:24:56 GMT",
+    "summary": "Invité de BFM Politique ce dimanche 8 novembre, le coordinateur national de La France insoumise Manuel Bompard a assuré que Raphaël Glucksmann “n’est pas l’adversaire” de LFI et l'a invité à “arrêter de taper” sur son parti. Dans un entretien à La Tribune dimanche, le candidat PS/Place publique a accusé Jean-Luc Mélenchon d'instaurer \"un climat de brutalité et de harcèlement\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZZYoXKbbJopKBE0Tq1zKoYnS_sI=/0x0:1920x1080/800x0/images/Manuel-Bompard-est-l-invite-de-BFM-Politique-le-8-novembre-2026-2380207.jpg\" />"
+  },
+  {
+    "id": "a6e71a33978b9b0db0ceaf919f67f1af",
+    "source": "BFMTV",
+    "title": "Plus de 600.000 personnes privées de courant après des frappes russes en Ukraine",
+    "link": "https://www.bfmtv.com/international/asie/russie/video-plus-de-600-000-personnes-privees-de-courant-apres-des-frappes-russes-en-ukraine_VN-202611080252.html",
+    "date": "Sun, 08 Nov 2026 12:19:09 GMT",
+    "summary": "Plus de 600.000 personnes sont privées d'électricité, ce dimanche 8 novembre, après une attaque russe dans les régions de Dnipropetrovsk et Kharkiv.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gMiQ-VhtNWK51BRAFrXqEyfNaYU=/0x0:1280x720/800x0/images/Plus-de-600-000-personnes-privees-de-courant-apres-des-frappes-russes-en-Ukraine-2380274.jpg\" />"
+  },
+  {
+    "id": "dc6fc5901664034c459903255549399f",
+    "source": "BFMTV",
+    "title": "Route du Rhum: Tom Laperche grand vainqueur avec un chrono record",
+    "link": "https://www.bfmtv.com/societe/video-route-du-rhum-tom-laperche-grand-vainqueur-avec-un-chrono-record_VN-202611080250.html",
+    "date": "Sun, 08 Nov 2026 12:13:18 GMT",
+    "summary": "Seul en tête, le navigateur Tom Laperche (SVR Lazartigue) a remporté la Route du Rhum 2026 dans la nuit de samedi à dimanche à Pointe-à-Pitre (Guadeloupe), après une course maîtrisée de bout en bout. Pour sa première participation, le skipper de 29 ans signe un nouveau record de course: 6 jours, 13 heures, 27 minutes et 40 secondes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mTegkLL18QpkbhhmIS1sLimzxsY=/0x0:1280x720/800x0/images/Route-du-Rhum-Tom-Laperche-grand-vainqueur-avec-un-chrono-record-2380271.jpg\" />"
   }
 ]
