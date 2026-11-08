@@ -84,7 +84,7 @@
     "source": "Le Monde",
     "title": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
     "link": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
-    "date": "Sun, 08 Nov 2026 18:00:07 +0100",
+    "date": "Sun, 08 Nov 2026 18:00:00 +0100",
     "summary": "La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonation des activités humaines."
   },
   {
@@ -112,12 +112,12 @@
     "summary": "A partir du lundi 9 novembre, trois policiers comparaissent devant la cour criminelle de Paris pour des violences infligées au producteur de musique, dont les images avaient choqué l’opinion en 2020."
   },
   {
-    "id": "44cdc96e678a028719d89565d3d5ee83",
+    "id": "724b06ab78c83c9b8fac15c00851f4e7",
     "source": "Le Monde",
-    "title": "Immigration : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans‑papiers",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
-    "date": "Sun, 08 Nov 2026 19:00:08 +0100",
-    "summary": "Le texte du député PS de la Drôme Paul Christophle sera débattu en commission lundi 9 novembre. Il vise, sur le modèle espagnol, à accorder un titre de séjour à certains travailleurs étrangers. Une idée à laquelle une partie du patronat n’est pas hostile."
+    "title": "Italie : le ministre des affaires étrangères visé par une cyberattaque, Giorgia Meloni dénonce des « hackers prorusses »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html",
+    "date": "Sun, 08 Nov 2026 20:19:16 +0100",
+    "summary": "Antonio Tajani a annoncé, samedi, que certaines de ses données personnelles avaient été diffusées sur le dark Web. Selon lui, de futures opérations de déstabilisation pourraient chercher à influencer l’opinion italienne dans la perspective des prochaines échéances électorales, des législatives étant attendues en 2027."
   },
   {
     "id": "494db554b3d98393058dc60f70f5aa07",
@@ -128,14 +128,6 @@
     "summary": "Ils ont grandi, en France ou en Suisse, dans des groupes où la vie familiale, les relations et les choix personnels étaient soumis à des règles de communauté strictes. Une fois sortis de cet environnement, ces enfants devenus adultes doivent apprendre à se construire avec des repères différents de ce qu’ils ont connu."
   },
   {
-    "id": "8c1d5fabb8a7ac374efe9755d065d017",
-    "source": "Le Monde",
-    "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
-    "date": "Sun, 08 Nov 2026 19:32:24 +0100",
-    "summary": "L’accident, qui s’est produit vendredi matin à Lent, au sud de Bourg-en-Bresse, a fait deux morts, une fillette de 7 ans et un jeune homme de 18 ans."
-  },
-  {
     "id": "8d7f4527ef4699439db33eb21097d817",
     "source": "Le Monde",
     "title": "Ce qu’il faut retenir de l’actualité du week-end des 7 et 8 novembre",
@@ -144,44 +136,60 @@
     "summary": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures."
   },
   {
-    "id": "f38a7dc050ceb2d622809a41a69e3f57",
+    "id": "47ccd4b4b273e9f3a8dfde2203e22cd8",
     "source": "Le Monde",
-    "title": "John Tolan, historien : « Une aversion irrationnelle et violente contre les juifs s’est développée dès le XIIᵉ siècle en Europe »",
-    "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/08/john-tolan-historien-une-aversion-irrationnelle-et-violente-contre-les-juifs-s-est-developpee-des-le-xii-siecle-en-europe_6808397_6038514.html",
-    "date": "Sun, 08 Nov 2026 06:00:12 +0100",
-    "summary": "C’est au Moyen Age que la haine des juifs se répand, d’abord au sein des élites cléricales, enseigne le médiéviste, dans un entretien au « Monde ». Pour autant, nuance-t-il, l’histoire du peuple juif sur le Vieux Continent présente aussi des facettes plus heureuses."
+    "title": "CNews : une pétition pour fermer la chaîne dépasse le million de signatures, les députés doivent décider mardi d’un éventuel débat à l’Assemblée",
+    "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/08/cnews-une-petition-pour-fermer-la-chaine-depasse-le-million-de-signatures-les-deputes-doivent-decider-mardi-d-un-eventuel-debat-a-l-assemblee_6808472_3236.html",
+    "date": "Sun, 08 Nov 2026 22:43:21 +0100",
+    "summary": "La commission des affaires culturelles de l’Assemblée doit décider mardi de classer la pétition ou d’organiser un débat dans l’hémicycle, tandis qu’un syndicat du groupe Canal+ dénonce « les dérives » de la chaîne."
   },
   {
-    "id": "c7369316fd74c9eda3c590486a944108",
+    "id": "44cdc96e678a028719d89565d3d5ee83",
     "source": "Le Monde",
-    "title": "« C’est vu comme se tirer une balle dans le pied » : en école d’ingénieurs, le dilemme de la visibilité des étudiants LGBT+",
-    "link": "https://www.lemonde.fr/campus/article/2026/11/08/c-est-vu-comme-se-tirer-une-balle-dans-le-pied-en-ecole-d-ingenieurs-le-dilemme-de-la-visibilite-des-etudiants-lgbt_6808406_4401467.html",
-    "date": "Sun, 08 Nov 2026 07:00:10 +0100",
-    "summary": "Dans des univers masculins et hétéronormés, les élèves queer oscillent entre effacement et promotion de la diversité au sein de leur établissement."
+    "title": "Immigration : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans‑papiers",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
+    "date": "Sun, 08 Nov 2026 19:00:08 +0100",
+    "summary": "Le texte du député PS de la Drôme Paul Christophle sera débattu en commission lundi 9 novembre. Il vise, sur le modèle espagnol, à accorder un titre de séjour à certains travailleurs étrangers. Une idée à laquelle une partie du patronat n’est pas hostile."
   },
   {
-    "id": "2e9f86a41aca644ebd5690e855267b9d",
+    "id": "8c1d5fabb8a7ac374efe9755d065d017",
     "source": "Le Monde",
-    "title": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
-    "date": "Sun, 08 Nov 2026 17:39:24 +0100",
-    "summary": "Selon les organisateurs de la manifestation, environ 200 000 personnes ont défilé pour réclamer des actions du gouvernement néerlandais à l’encontre d’Israël."
+    "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+    "date": "Sun, 08 Nov 2026 19:32:24 +0100",
+    "summary": "L’accident, qui s’est produit vendredi matin à Lent, au sud de Bourg-en-Bresse, a fait deux morts, une fillette de 7 ans et un jeune homme de 18 ans."
   },
   {
-    "id": "907dad780c30e127230acd6be16e9dda",
+    "id": "95b2d932ae1d88a594831c205f41d12b",
     "source": "Le Monde",
-    "title": "Carlos Alcaraz, vainqueur du Masters 1000 de Paris, trouve dans le plaisir de jouer la force de vaincre",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html",
-    "date": "Sun, 08 Nov 2026 18:22:37 +0100",
-    "summary": "Victorieux dimanche en finale du tournoi parisien de l’Américain Ben Shelton en deux sets (7-6, 7-5), l’Espagnol a affiché un niveau de jeu impressionnant tout au long de la semaine. Après cinq mois d’arrêt, il fait de la joie et de l’instinct du jeu ses priorités."
+    "title": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
+    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
+    "date": "Sun, 08 Nov 2026 22:00:53 +0100",
+    "summary": "Crédité de 2 % à 3 % des intentions de vote, le patron du Parti communiste français « regrette » le choix de neuf députés de son groupe et assure que le chef de file de La France Insoumise « ne gagnera jamais »."
   },
   {
-    "id": "672153eca95efd5bc7e46fc2d5255b9f",
+    "id": "fbfe698d81e55b663455bef92c057506",
     "source": "Le Monde",
-    "title": "Israël : Gadi Eisenkot, officiellement chargé de former un nouveau gouvernement, invite le Likoud de Benyamin Nétanyahou à participer à une coalition",
-    "link": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html",
-    "date": "Sun, 08 Nov 2026 16:54:49 +0100",
-    "summary": "« Si les membres du Likoud et du Parti sioniste religieux [du ministre des finances sortant, Bezalel Smotrich] estiment sincèrement que l’heure est à l’unité (…), je ne vois aucune raison pour laquelle ils ne soutiendraient pas un gouvernement dirigé par moi et fondé sur les principes que j’ai présentés », a déclaré M. Eisenkot."
+    "title": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
+    "date": "Sun, 08 Nov 2026 19:00:11 +0100",
+    "summary": "Soutenu par les syndicats et porté par une revendication d’inclusion, le mouvement lycéen est le signe qu’une génération entière s’érige en sujet politique, analyse le chercheur dans un entretien au « Monde »."
+  },
+  {
+    "id": "bb606054b3d0a113c41d09b78fe5e5f9",
+    "source": "Le Monde",
+    "title": "Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/08/saint-denis-rassemblement-contre-la-repression-au-lycee-paul-eluard-epicentre-de-la-mobilisation-lyceenne_6808470_3224.html",
+    "date": "Sun, 08 Nov 2026 21:49:14 +0100",
+    "summary": "Soutenus par le maire LFI, Bally Bagayoko, quelques centaines de manifestants réclament le départ du proviseur, critiqué pour avoir fait intervenir la police dans l’établissement, et l’arrêt d’une enquête administrative visant des enseignants."
+  },
+  {
+    "id": "2f528c0ee6bca818d41bf8e68afd6e37",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
+    "date": "Sun, 08 Nov 2026 20:26:03 +0100",
+    "summary": "Accusé par ses adversaires de proximité avec le macronisme, le candidat social-démocrate a énuméré ses divergences avec Emmanuel Macron, de « l’individualisme triomphant » à la suppression de l’ISF."
   },
   {
     "id": "5a19b620a855194794fd05ed4809439c",
@@ -192,12 +200,84 @@
     "summary": "Une attaque russe, cette nuit, contre les infrastructures énergétiques ukrainiennes prive d’électricité plus de 600 000 habitants de l’oblast de Dnipropetrovsk, dans l’est de l’Ukraine."
   },
   {
-    "id": "2867d700b04fd1b9845881c55336e61a",
-    "source": "Le Monde",
-    "title": "Municipales en Afrique du Sud : l’ANC, parti dominant depuis la fin de l’apartheid, enregistre le pire score de son histoire",
-    "link": "https://www.lemonde.fr/afrique/article/2026/11/08/afrique-du-sud-l-anc-principal-parti-du-pays-enregistre-le-pire-score-de-son-histoire-aux-elections-municipales_6808463_3212.html",
-    "date": "Sun, 08 Nov 2026 19:18:00 +0100",
-    "summary": "Avec 30,76 % des voix, le parti de Nelson Mandela devance encore l’Alliance démocratique, mais plus de la moitié des conseils municipaux, dont presque toutes les grandes villes, devront former des coalitions."
+    "id": "032ecdd77d473d671d4374fe64d654c0",
+    "source": "Libération",
+    "title": "500 jours de la condamnation de Christophe Gleizes : ne pas laisser l’oubli l’emporter",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/500-jours-de-la-condamnation-de-christophe-gleizes-ne-pas-laisser-loubli-lemporter-20261108_HQ5EDW5DXNDVXO2ER25EHRO6VY/",
+    "date": "Sun, 08 Nov 2026 20:02:00 +0000",
+    "summary": "A travers deux lettres intimes de son frère, «Libération» raconte à nouveau l’homme derrière le reporter, toujours emprisonné en Algérie, et réaffirme son soutien à lui et à sa famille."
+  },
+  {
+    "id": "014b0a6bad4d3b0470de536619dcc0eb",
+    "source": "Libération",
+    "title": "Lettre de Maxime Gleizes à son grand frère Christophe : «C’est toi qui me fais tenir»",
+    "link": "https://www.liberation.fr/societe/lettre-de-maxime-gleizes-a-son-grand-frere-christophe-cest-toi-qui-me-fais-tenir-20261108_HACK6UBYD5EBFL3TSKAP5F3WN4/",
+    "date": "Sun, 08 Nov 2026 20:01:00 +0000",
+    "summary": "En réponse à l’unique lettre qu’il a reçue de son frère détenu en Algérie, en 2024, Maxime Gleizes publie dans «Libé» un texte «qu’il n’avait jamais eu le courage d’écrire» jusqu’ici."
+  },
+  {
+    "id": "84ab752b5fe98638bad6ed92d98abd46",
+    "source": "Libération",
+    "title": "Christophe Gleizes en détention : 500 jours loin des siens",
+    "link": "https://www.liberation.fr/international/afrique/christophe-gleizes-en-detention-500-jours-loin-des-siens-20261108_5LPRSE55CRAQVLRMFSX4ULXT5M/",
+    "date": "Sun, 08 Nov 2026 20:00:00 +0000",
+    "summary": "Alors que le journaliste est détenu en Algérie depuis juin 2025 pour «apologie du terrorisme», «Libération» publie deux lettres, écrites à deux ans d’intervalle, entre lui et son frère."
+  },
+  {
+    "id": "daa0bd6e863aa870608290ad140b1ee4",
+    "source": "Libération",
+    "title": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
+    "link": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/",
+    "date": "Sun, 08 Nov 2026 19:47:26 +0000",
+    "summary": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron."
+  },
+  {
+    "id": "a0f766e25bdd872b68aa79fd4144ae57",
+    "source": "Libération",
+    "title": "«Ma place est devant l’établissement pour assurer la sécurité des élèves» : à Saint-Denis, une mobilisation contre la répression «incessante» au lycée Paul-Eluard",
+    "link": "https://www.liberation.fr/societe/education/ma-place-est-devant-letablissement-pour-assurer-la-securite-des-eleves-a-saint-denis-une-mobilisation-contre-la-repression-incessante-au-lycee-paul-eluard-20261108_QHUM2LLA3FGNBGWYOLE7VRNHTY/",
+    "date": "Sun, 08 Nov 2026 19:43:33 +0000",
+    "summary": "Plusieurs centaines de personnes se sont réunies ce dimanche 8 novembre, en soutien au personnel et aux élèves de l’établissement dionysien, devenu figure de proue des mobilisations lycéennes."
+  },
+  {
+    "id": "1065954dc453b59f52e960dc932d71dd",
+    "source": "Libération",
+    "title": "Route du rhum : quinze heures après Tom Laperche, Thomas Coville arrive deuxième, Louis Burton en troisième position",
+    "link": "https://www.liberation.fr/sports/route-du-rhum-quinze-heures-apres-tom-laperche-thomas-coville-arrive-deuxieme-louis-burton-en-troisieme-position-20261108_GKORMUQNOBAOTNYZLX3ZUE4MKI/",
+    "date": "Sun, 08 Nov 2026 19:39:55 +0000",
+    "summary": "Le navigateur breton s’est hissé à la deuxième place en catégorie Ultim de la Route du rhum, dimanche 8 novembre, à Pointe-à-Pitre, après avoir enchaîné les pépins techniques. Il est suivi de près par le Malouin Louis Burton."
+  },
+  {
+    "id": "614d7221641fbe1ec4cdc84a68825f67",
+    "source": "Libération",
+    "title": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
+    "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/",
+    "date": "Sun, 08 Nov 2026 19:28:00 +0000",
+    "summary": "Le candidat du Parti communiste français explique ce dimanche 8 novembre qu’il compte bien mener sa campagne à son terme. Il assure par ailleurs être persuadé que Jean-Luc Mélenchon seul ne «gagnera jamais» face à l’extrême droite."
+  },
+  {
+    "id": "c692719d87fe43c77fc9eee7714e023a",
+    "source": "Libération",
+    "title": "«Jamais je n’ai vécu un choc pareil» : après l’attentat à Cracovie, les habitants sidérés",
+    "link": "https://www.liberation.fr/international/europe/jamais-je-nai-vecu-un-choc-pareil-apres-lattentat-a-cracovie-les-habitants-sideres-20261108_LEMMWBOMHRFZDLWGTU5A53NYHQ/",
+    "date": "Sun, 08 Nov 2026 19:17:59 +0000",
+    "summary": "Six personnes sont mortes et quinze ont été blessées lors d’une fusillade dans la deuxième ville de Pologne, samedi 7 novembre. Ce drame s’inscrit dans un contexte délicat, après plusieurs attaques au couteau dans des établissements scolaires ces dernières semaines et une polarisation croissante du débat politique."
+  },
+  {
+    "id": "b4d180d56dd0c7055b0dea89812db609",
+    "source": "Libération",
+    "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour «homicide involontaire»",
+    "link": "https://www.liberation.fr/societe/police-justice/accident-de-car-dans-lain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-20261108_Z6KTXMOAPRDHJG2OIETCJKYB64/",
+    "date": "Sun, 08 Nov 2026 18:56:30 +0000",
+    "summary": "L’homme de 26 ans s’était endormi au volant vendredi, selon ses déclarations, alors qu’il transportait 49 personnes. Deux d’entre elles ont été tuées : une fille de sept ans et un étudiant de 18 ans."
+  },
+  {
+    "id": "bdc79017afd8f85652ed5aced936d69f",
+    "source": "Libération",
+    "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 34 morts",
+    "link": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
+    "date": "Sun, 08 Nov 2026 18:43:08 +0000",
+    "summary": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes."
   },
   {
     "id": "8ac35b4bf66398b8ed7a221bf4482f14",
@@ -238,86 +318,6 @@
     "link": "https://www.liberation.fr/culture/livres/constantia-sotiriou-femme-en-noir-et-lac-rouge-20261115_7VEMTLTBO5F5HOQWZ3AKWF4PJE/",
     "date": "Sun, 08 Nov 2026 17:43:00 +0000",
     "summary": "Dans son deuxième roman, l’autrice chypriote dépeint une vieille veuve hantée par le passé minier meurtrier de son village et une série de féminicides."
-  },
-  {
-    "id": "8d52aadfcbb3771419c81cb0787cb195",
-    "source": "Libération",
-    "title": "Masters 1 000 de Paris : Carlos Alcaraz titré pour la première fois, Arthur Fils qualifié pour les ATP Finals",
-    "link": "https://www.liberation.fr/sports/tennis/masters-1-000-de-paris-carlos-alcaraz-titre-pour-la-premiere-fois-arthur-fils-qualifie-pour-les-atp-finals-20261108_CNNPGSGSNZDHZG4TQ3P4ZGKRHQ/",
-    "date": "Sun, 08 Nov 2026 17:18:59 +0000",
-    "summary": "L’Espagnol de 23 ans a remporté ce dimanche 8 novembre pour la première fois le tournoi parisien. Eliminé en quarts de finale, Fils a de son côté assuré sa qualification pour les Masters de fin de saison."
-  },
-  {
-    "id": "ff32755dafe195d0c0c56268e3a1e7d5",
-    "source": "Libération",
-    "title": "A la veille d’un déplacement à Chartres, Edouard Philippe cerné par les appels à la primaire",
-    "link": "https://www.liberation.fr/politique/elections/a-la-veille-dun-deplacement-a-chartres-edouard-philippe-cerne-par-les-appels-a-la-primaire-20261108_CPNO4X2F4ZHLZDEAJREX2ZA2YA/",
-    "date": "Sun, 08 Nov 2026 16:50:08 +0000",
-    "summary": "A l’instar de Laurent Wauquiez ce dimanche 8 novembre sur France 2, des voix du Modem et de Renaissance ont encore appelé à un vote pour désigner un candidat unique de droite en 2027. Une option que le Havrais refuse toujours, malgré sa glissade dans les sondages."
-  },
-  {
-    "id": "834704f3dc6898416d5e8562764e0fb7",
-    "source": "Libération",
-    "title": "«Conférence sociale», grève dans l’éducation, gilets jaunes… Qu’attendre de cette nouvelle semaine de mobilisation ?",
-    "link": "https://www.liberation.fr/economie/social/conference-sociale-greve-dans-leducation-gilets-jaunes-quattendre-de-cette-nouvelle-semaine-de-mobilisation-20261108_ZNIPPCDDIRECHJCUFMTHRTPH5Q/",
-    "date": "Sun, 08 Nov 2026 16:43:33 +0000",
-    "summary": "Chargée depuis plusieurs semaines, l’actualité sociale va rester forte dans les jours à venir. «Libé» fait le point."
-  },
-  {
-    "id": "f2921dd62538b84dbf3320ce8915d9c3",
-    "source": "Libération",
-    "title": "Route du rhum : une édition 2026 marquée par des vents vicieux et un cru de skippeurs prestigieux",
-    "link": "https://www.liberation.fr/sports/route-du-rhum-une-edition-2026-marquee-par-des-vents-vicieux-et-un-cru-de-skippeurs-prestigieux-20261108_ABENQPZ4FFGCJB5JGJNPSRRHEM/",
-    "date": "Sun, 08 Nov 2026 16:04:01 +0000",
-    "summary": "La victoire de Tom Laperche en Ultim ce dimanche 8 novembre ne doit pas occulter les performances remarquables des navigateurs dans les cinq autres catégories, sur des bateaux de plus en plus rapides qui bravent une météo infernale."
-  },
-  {
-    "id": "d8f6fae2e1544c86bcdbc139fa123d53",
-    "source": "Libération",
-    "title": "La «Nouvelle France» rassemblée au meeting de Mélenchon au Bourget : une réalité à ne pas minimiser",
-    "link": "https://www.liberation.fr/politique/elections/la-nouvelle-france-rassemblee-au-meeting-de-melenchon-au-bourget-une-realite-a-ne-pas-minimiser-20261108_CSFT2KNSAVFNTBBTO7EVTHKF5A/",
-    "date": "Sun, 08 Nov 2026 15:53:46 +0000",
-    "summary": "La chose est assez rare pour mériter d’être soulignée : l’assemblée réunie samedi 7 novembre pour écouter le candidat insoumis comptait dans ses rangs de très nombreuses personnes racisées, habituellement assez éloignées des campagnes électorales."
-  },
-  {
-    "id": "2e1a968d9a14667edd2470051341683e",
-    "source": "Libération",
-    "title": "Israël : Gadi Eisenkot officiellement désigné pour former un gouvernement",
-    "link": "https://www.liberation.fr/international/moyen-orient/israel-appele-a-former-un-gouvernement-ce-dimanche-eisenkot-promet-de-tout-faire-pour-repondre-a-lurgence-nationale-20261108_QGH2EGNPI5GY5OCP3ANGF4YHPY/",
-    "date": "Sun, 08 Nov 2026 15:53:04 +0000",
-    "summary": "Le rival de Benyamin Nétanyahou a 28 jours pour former un gouvernement. Sous pression de ses alliés, il va devoir décider s’il saisit la main tendue par les formations arabes, qui ont remporté 19 sièges le 27 octobre."
-  },
-  {
-    "id": "65a97a02cff5ece6fd078e64f14eb266",
-    "source": "Libération",
-    "title": "Vianney, auteur-compositeur-interprète : en cabane",
-    "link": "https://www.liberation.fr/portraits/vianney-auteur-compositeur-interprete-en-cabane-20261108_BUTOQIIHMJBDLEHDUP6TKLWJOU/",
-    "date": "Sun, 08 Nov 2026 15:40:57 +0000",
-    "summary": "Ancien scout, le chanteur charpentier a traité sa déprime par la construction d’un refuge dans les bois."
-  },
-  {
-    "id": "aba3fd9d987abd6bd9a6b9e9e85dccad",
-    "source": "Libération",
-    "title": "Présidentielle 2027 : les insoumis se disent prêts à gouverner par décrets s’ils arrivent au pouvoir, au nom de «l’état d’urgence sociale»",
-    "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-les-insoumis-se-disent-prets-a-gouverner-par-decrets-sils-arrivent-au-pouvoir-au-nom-de-letat-durgence-sociale-20261108_K6MFRAEQXVFBDO5K26QTLCRUKE/",
-    "date": "Sun, 08 Nov 2026 15:34:58 +0000",
-    "summary": "Au lendemain du meeting du Bourget, Manuel Bompard et Clémence Guetté ont détaillé ce qu’un gouvernement LFI ferait dans les jours suivant l’élection. Le Parlement aura cependant «un droit de regard» sur ces «décrets d’urgence»."
-  },
-  {
-    "id": "0946114f3fba173e2c7d6dd774baa0ab",
-    "source": "Libération",
-    "title": "Gers : Laurent Nuñez s’offusque de l’incendie «criminel» du domicile d’un policier",
-    "link": "https://www.liberation.fr/societe/police-justice/gers-laurent-nunez-soffusque-de-lincendie-criminel-du-domicile-dun-policier-20261108_V5OQHPUZHRDK3LSA5VTHKO5NQE/",
-    "date": "Sun, 08 Nov 2026 14:58:29 +0000",
-    "summary": "La maison d’un homme a été incendiée samedi matin à Auch. D’après le ministre de l’Intérieur, «tout laisse à penser que cet acte» a eu lieu «en raison de la profession de ce policier»."
-  },
-  {
-    "id": "32b39f69c5aabb128db0f192d63ac933",
-    "source": "Libération",
-    "title": "Des centaines de milliers d’Ukrainiens sans électricité après des frappes russes",
-    "link": "https://www.liberation.fr/international/europe/des-centaines-de-milliers-dukrainiens-sans-electricite-apres-des-frappes-russes-20261108_ASWP57Z4IJA33IFUKSOIJOS7GM/",
-    "date": "Sun, 08 Nov 2026 14:03:01 +0000",
-    "summary": "Les autorités recensent ce dimanche 8 novembre plus de 600 000 personnes touchées dans la région de Dnipropetrovsk et 250 000 dans celle de Kharkiv, après une deuxième nuit d’attaques de drones et de missiles sur le réseau."
   },
   {
     "id": "b75a084671b43024f488383b8b4f6256",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261016__d3hr6g3__v1__highres__franceenvironmentclimatewater_1_-3b34e.jpg?1793923261\" width=\"700\" />\n<p>Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversible des calottes glaciaires ou la transformation de l'Amazonie en savane, qui contribueraient à transformer notre monde en une «<small class=\"fine d-inline\"> </small>Terre étuve<small class=\"fine d-inline\"> </small>». Une planète invivable, où le réchauffement global dépasserait les 5 °C. <br class=\"autobr\" />\nLe seuil à partir duquel tout pourrait (…)</p>\n\n            <a href=\"https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>"
   },
   {
-    "id": "e314849e3c4c89d0152a211d0ec10f35",
+    "id": "8a2e42f771f9f0354beb1e98a681388c",
     "source": "BFMTV",
-    "title": "Jusqu'à 23°C attendus: retour de la douceur la semaine prochaine, malgré la grisaille et des averses",
-    "link": "https://www.bfmtv.com/meteo/jusqu-a-23-c-attendus-retour-de-la-douceur-la-semaine-prochaine-malgre-la-grisaille-et-des-averses_AV-202611080381.html",
-    "date": "Sun, 08 Nov 2026 18:37:19 GMT",
-    "summary": "Les températures vont remonter en début de semaine, notamment par le Sud à partir de lundi. Cependant, malgré ces températures au-dessus des normales de saison, il ne fera pas plus beau. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LRyg90wpaVTFNgHw6MpZJyrqaT4=/0x106:2048x1258/800x0/images/Le-logo-a-l-entree-du-siege-de-Meteo-France-a-Saint-Mande-Val-de-Marne-le-4-avril-2025-2340391.jpg\" />"
+    "title": "Lens-OM: les Marseillais poursuivent leur série et montent à la 4e place de Ligue 1, terrible semaine pour les Lensois",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lens-om-suivez-le-dernier-match-de-la-10e-journee-de-ligue-1-en-live_LS-202611080057.html",
+    "date": "Sun, 08 Nov 2026 07:51:00 GMT",
+    "summary": "Quatre jours après l'humiliation historique reçue en Ligue des champions contre Côme (9-1), le RC Lens s'est de nouveau incliné à Bollaert, cette fois contre l'OM (1-2). Les Lensois ont concédé un but gag en début de rencontre puis un second d'Abdallah en fin de match. L'OM remonte ainsi à la 4e place du championnat. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Vfp7znAnG8KkNKz-_JWnqUSq00Y=/0x212:2048x1364/800x0/images/Pierre-Emile-Hojbjerg-et-Amine-Gouiri-fetent-le-but-de-l-OM-a-Bollaert-8-novembre-2026-2380403.jpg\" />"
   },
   {
-    "id": "4a60fa6a7d23add54b6938a1ddc51f63",
+    "id": "1611d506d0ab2ee151508852506d13c6",
     "source": "BFMTV",
-    "title": "Domicile d'un policier incendié dans le Gers: \"Les policiers ont légitimement peur\", observe Robert Ménard, maire DVD de Béziers",
-    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-domicile-d-un-policier-incendie-dans-le-gers-les-policiers-ont-legitimement-peur-observe-robert-menard-maire-dvd-de-beziers_VN-202611080378.html",
-    "date": "Sun, 08 Nov 2026 18:32:44 GMT",
-    "summary": "Le domicile d'un policier d'Auch, a été incendié samedi 7 novembre, selon le ministre de l'Intérieur Laurent Nuñez, pour qui cet agent a été visé en raison de sa profession. \"Tout laisse à penser que cet acte criminel intolérable a été commis en raison de la profession de ce policier\", a écrit M. Nuñez sur X samedi soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ua2bKLiaTXU_GZIii-nJBTkT0CU=/0x0:1280x720/800x0/images/Domicile-d-un-policier-incendie-dans-le-Gers-Les-policiers-ont-legitimement-peur-observe-Robert-Menard-maire-DVD-de-Beziers-2380381.jpg\" />"
+    "title": "Primaire : face aux extrêmes, l'union ou la défaite ? - 08/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-primaire-face-aux-extremes-l-union-ou-la-defaite-08-11_VN-202611080446.html",
+    "date": "Sun, 08 Nov 2026 22:20:11 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OUT_aAkQi4R1UVC6eWcA_8JgAa8=/0x0:1280x720/800x0/images/Primaire-face-aux-extremes-l-union-ou-la-defaite-08-11-2380435.jpg\" />"
   },
   {
-    "id": "4aa15358d9deb518d0516f8400991229",
+    "id": "dc1ac22560aaa6a55930a2f21b9cb631",
     "source": "BFMTV",
-    "title": "Smic revalorisé: \"On ne dit pas la vérité aux Français\", dénonce Robert Ménard, maire DVD de Béziers",
-    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-smic-revalorise-on-ne-dit-pas-la-verite-aux-francais-denonce-robert-menard-maire-dvd-de-beziers_VN-202611080379.html",
-    "date": "Sun, 08 Nov 2026 18:31:01 GMT",
-    "summary": "Le Smic va être revalorisé de façon anticipée au 1er décembre, au-delà de 1.500 nets par mois, a appris BFMTV ce dimanche.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dIHQVcdaS0hovmDdvKp73qT-jc0=/0x0:1280x720/800x0/images/Smic-revalorise-On-ne-dit-pas-la-verite-aux-Francais-denonce-Robert-Menard-maire-DVD-de-Beziers-2380382.jpg\" />"
+    "title": "Manifestations en France: \"La crise sociale est très profonde\", observe Henri Guaino, ancien conseiller de Nicolas Sarkozy",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-manifestations-en-france-la-crise-sociale-est-tres-profonde-observe-henri-guaino-ancien-conseiller-de-nicolas-sarkozy_VN-202611080440.html",
+    "date": "Sun, 08 Nov 2026 22:03:21 GMT",
+    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann (PS-Place publique) était l'invité du Grand Oral de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IwyEJGbryOSOi6YQ70-E_FfTL0Q=/0x0:1280x720/800x0/images/Manifestations-en-France-La-crise-sociale-est-tres-profonde-observe-Henri-Guaino-ancien-conseiller-de-Nicolas-Sarkozy-2380431.jpg\" />"
   },
   {
-    "id": "63a5bb17000578ff77173cbe0bdff587",
+    "id": "7ad81ac46cb051121504686747263073",
     "source": "BFMTV",
-    "title": "“Le contact n’a jamais été rompu” et \"sa place est avec nous\", déclare Raphaël Glucksmann au sujet de François Hollande",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-contact-n-a-jamais-ete-rompu-et-sa-place-est-avec-nous-declare-raphael-glucksmann-au-sujet-de-francois-hollande_VN-202611080374.html",
-    "date": "Sun, 08 Nov 2026 18:28:51 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/NIHjKA1i__YhrBLNuqafgo1_kKE=/0x0:1280x720/800x0/images/Le-contact-n-a-jamais-ete-rompu-et-sa-place-est-avec-nous-declare-Raphael-Glucksmann-au-sujet-de-Francois-Hollande-2380378.jpg\" />"
+    "title": "\"Les artistes ont le droit d'exprimer leurs convictions politiques\", déclare Jérémie Patrier-Leitus, porte-parole d'Édouard Philippe",
+    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-les-artistes-ont-le-droit-d-exprimer-leurs-convictions-politiques-declare-jeremie-patrier-leitus-porte-parole-d-edouard-philippe_VN-202611080439.html",
+    "date": "Sun, 08 Nov 2026 22:01:04 GMT",
+    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann (PS-Place publique) était l'invité du Grand Oral de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HqTxh5TRxIYJcy3TM2m1M033UPo=/0x0:1280x720/800x0/images/Les-artistes-ont-le-droit-d-exprimer-leurs-convictions-politiques-declare-Jeremie-Patrier-Leitus-porte-parole-d-Edouard-Philippe-2380430.jpg\" />"
   },
   {
-    "id": "a3068cd2f90487434055e8f2e96bd5cc",
+    "id": "28dda9c0b3ba36449172419bf93f8257",
     "source": "BFMTV",
-    "title": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre au-delà de 1.500 euros net contre 1.477 actuellement",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-gouvernement-va-accepter-une-revalorisation-anticipee-du-smic-au-1er-decembre-au-dela-de-1-500-euros-net-contre-1-477-actuellement_VN-202611080372.html",
-    "date": "Sun, 08 Nov 2026 18:27:23 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MShwltkUxKByRiRR1I0BDrR7Xxo=/0x0:1280x720/800x0/images/Le-gouvernement-va-accepter-une-revalorisation-anticipee-du-Smic-au-1er-decembre-au-dela-de-1-500-euros-net-contre-1-477-actuellement-2380376.jpg\" />"
+    "title": "La Rochelle-Bayonne: les Rochelais viennent à bout des Basques et se rapprochent du top 6",
+    "link": "https://rmcsport.bfmtv.com/rugby/top-14/direct-la-rochelle-bayonne-suivez-le-dernier-match-de-la-9e-journee-de-top-14-en-live_LS-202611080344.html",
+    "date": "Sun, 08 Nov 2026 18:57:00 GMT",
+    "summary": "En clôture de la 9e journée de Top 14, La Rochelle est venu à bout de l'Aviron Bayonnais 22-18 dans un duel de milieu de tableau et remonte à la 7e place. A noter l'exploit personnel de Sacha Elissalde, fils de Jean-Baptiste, qui a fait basculer la rencontre en offrant l'essai de la gagne à Favre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uEJjZqKLH_icHPekpD0JcUXT_3c=/0x46:2048x1198/800x0/images/Les-Rochelais-fetent-leur-essai-a-domicile-8-novembre-2026-2380411.jpg\" />"
   },
   {
-    "id": "f276992bbee21824a77031a760a921f0",
+    "id": "19cde51e9d7eb4184cb5119cdf32d91f",
     "source": "BFMTV",
-    "title": "Guerre en Ukraine: \"Jean-Luc Mélenchon récite les éléments de langage fournis par le Kremlin\", dénonce Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-guerre-en-ukraine-jean-luc-melenchon-recite-les-elements-de-langage-fournis-par-le-kremlin-denonce-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080373.html",
-    "date": "Sun, 08 Nov 2026 18:26:20 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/N1NzqGN1pUSC8pjztnl_tlJRwhE=/0x0:1280x720/800x0/images/Guerre-en-Ukraine-Jean-Luc-Melenchon-recite-les-elements-de-langage-fournis-par-le-Kremlin-denonce-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-2380377.jpg\" />"
+    "title": "Braquages d'usines de métaux précieux à Besançon: huit personnes mises en examen, le butin retrouvé",
+    "link": "https://www.bfmtv.com/doubs/braquages-d-usines-de-metaux-precieux-a-besancon-huit-personnes-mises-en-examen-le-butin-retrouve_AD-202611080435.html",
+    "date": "Sun, 08 Nov 2026 21:47:39 GMT",
+    "summary": "La procureure anticriminalité organisée annonce, ce dimanche, que huit personnes ont été mises en examen après les braquages d'usines de métaux précieux en décembre 2025 et novembre 2026 à Besançon. Le butin, dont la valeur était estimée à plus de six millions d'euros, a été retrouvé. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/EBDttlJi-BRPEEKUAZvSmW0LQTU=/0x40:768x472/800x0/images/Le-tout-nouveau-parquet-national-anti-criminalite-organisee-Pnaco-s-est-saisi-de-six-faits-d-enlevements-ou-sequestrations-lies-a-des-extorsions-de-cryptomonnaies-ayant-eu-lieu-entre-mi-decembre-et-mi-janvier-dans-diverses-regions-de-France-2226784.jpg\" />"
   },
   {
-    "id": "a614d0c61b614e12ccd2988bf36d1bb7",
+    "id": "eaf6cbcdddbc288bcd6cfd2178c2c415",
     "source": "BFMTV",
-    "title": "Accident de car dans l'Ain: le chauffeur mis en examen pour \"homicide involontaire\"",
-    "link": "https://www.bfmtv.com/police-justice/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire_AD-202611080370.html",
-    "date": "Sun, 08 Nov 2026 18:24:46 GMT",
-    "summary": "Le véhicule transportait 49 personnes dont 23 mineurs. Deux passagers, une fillette de sept ans et un jeune homme de 18 ans, sont morts.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3shau88-ryeaifmlCdL-ePfiut8=/0x230:1200x905/800x0/images/Un-car-accidente-dans-l-Ain-le-6-novembre-2026-2379096.jpg\" />"
+    "title": "Le Mans-Monaco: \"Un ami m’a conseillé\", Coulibaly justifie sa célébration \"étranglement\", qui avait coûté cher à son coéquipier",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/le-mans-monaco-un-ami-m-a-conseille-coulibaly-justifie-sa-celebration-etranglement-qui-avait-coute-cher-a-son-coequipier_AV-202611080434.html",
+    "date": "Sun, 08 Nov 2026 21:42:47 GMT",
+    "summary": "Après avoir reproduit la même célébration que Paris Brunner ce dimanche après avoir marqué face au Mans lors de la 10e journée de Ligue 1, Mamadou Coulibaly a expliqué les raisons qui l'ont poussé à faire le même geste que son coéquipier, alors que ce dernier avait été sanctionné.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Toz_zGdEOItFJrWT6f6qCi0RYSc=/0x212:2048x1364/800x0/images/Mamadou-Coulibaly-celebre-un-but-avec-Monaco-contre-le-Mans-le-8-novembre-2026-2380364.jpg\" />"
   },
   {
-    "id": "26cd86563f5a982b352a2527c8e9fcf9",
+    "id": "dad99ee826625c79e10bda3fc11c5743",
     "source": "BFMTV",
-    "title": "Attentat raciste de Trappes: “On a vécu un drame national qui n'a pas suscité suffisamment l'unité nationale\", dénonce Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-attentat-raciste-de-trappes-on-a-vecu-un-drame-national-qui-n-a-pas-suscite-suffisamment-l-unite-nationale-denonce-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080371.html",
-    "date": "Sun, 08 Nov 2026 18:24:12 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2bWvbbXH9GvCtuOeFMr1oCQScn8=/0x0:1280x720/800x0/images/Attentat-raciste-de-Trappes-On-a-vecu-un-drame-national-qui-n-a-pas-suscite-suffisamment-l-unite-nationale-denonce-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-2380375.jpg\" />"
+    "title": "17 octobre : il a retrouvé la trace d'un des voleurs - 08/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-17-octobre-il-a-retrouve-la-trace-d-un-des-voleurs-08-11_VN-202611080427.html",
+    "date": "Sun, 08 Nov 2026 21:27:11 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wuxdXweOTySX0vIFcUqBWmiuY3Y=/0x0:1280x720/800x0/images/17-octobre-il-a-retrouve-la-trace-d-un-des-voleurs-08-11-2380424.jpg\" />"
   },
   {
-    "id": "3c8a0fc6842dcc82db1313c42d255ff8",
+    "id": "161e4c25f30dd7ad681246b8d24bea82",
     "source": "BFMTV",
-    "title": "Propos d’Édouard Philippe sur les Français “issus de l’immigration”: “Il a commis une faute politique grave”, juge Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-propos-d-edouard-philippe-sur-les-francais-issus-de-l-immigration-il-a-commis-une-faute-politique-grave-juge-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080369.html",
-    "date": "Sun, 08 Nov 2026 18:21:37 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ObcT3LL1ySjrlu8KbM3ex_2x5XU=/0x0:1280x720/800x0/images/Propos-d-Edouard-Philippe-sur-les-Francais-issus-de-l-immigration-Il-a-commis-une-faute-politique-grave-juge-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-2380374.jpg\" />"
+    "title": "Alertes à la bombe visant des avions en Europe: le parquet de Paris a ouvert une enquête",
+    "link": "https://www.bfmtv.com/police-justice/video-alertes-a-la-bombe-visant-des-avions-en-europe-le-parquet-de-paris-a-ouvert-une-enquete_VN-202611080418.html",
+    "date": "Sun, 08 Nov 2026 21:10:45 GMT",
+    "summary": "Le parquet de Paris annonce, ce samedi, l'ouverture d'une enquête après les alertes à la bombe visant des avions. Il évoque également un potentiel \"lien\" avec des puissances étrangères.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yYL9EA6XnPVRrVja4WYjMXUqu2g=/0x0:1280x720/800x0/images/Alertes-a-la-bombe-visant-des-avions-en-Europe-le-parquet-de-Paris-a-ouvert-une-enquete-2380419.jpg\" />"
   },
   {
-    "id": "b8fa1326bffd32733b7908dba9201d78",
+    "id": "2b63f95277c49a70846ee3a50b173e4d",
     "source": "BFMTV",
-    "title": "“La sincérité peut gagner en politique”: Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, revient sur son interview à la sortie d'une éolienne",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-la-sincerite-peut-gagner-en-politique-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle-revient-sur-son-interview-a-la-sortie-d-une-eolienne_VN-202611080368.html",
-    "date": "Sun, 08 Nov 2026 18:20:10 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dIVaq1pQXsK4hQEywW3LA8UEdYU=/0x0:1280x720/800x0/images/La-sincerite-peut-gagner-en-politique-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-revient-sur-son-interview-a-la-sortie-d-une-eolienne-2380373.jpg\" />"
+    "title": "Le témoignage sur BFMTV d'un commerçant qui a contacté l'un des individus ayant cambriolé son commerce le 17 octobre",
+    "link": "https://www.bfmtv.com/societe/video-le-temoignage-sur-bfmtv-d-un-commercant-qui-a-contacte-l-un-des-individus-ayant-cambriole-son-commerce-le-17-octobre_VN-202611080413.html",
+    "date": "Sun, 08 Nov 2026 20:53:54 GMT",
+    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann (PS-Place publique) était l'invité du Grand Oral de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OI166F85lqlOrgQbJNiK9qJ3x3o=/0x0:1280x720/800x0/images/Le-temoignage-sur-BFMTV-d-un-commercant-qui-a-contacte-l-un-des-individus-ayant-cambriole-son-commerce-le-17-octobre-2380415.jpg\" />"
   },
   {
-    "id": "482a85c101e3cf6e174cae21be3126ee",
+    "id": "93b1215781d878f496878dc7961319fb",
     "source": "BFMTV",
-    "title": "“Nous sommes les seuls à pouvoir battre l’extrême droite”, estime Raphaël Glucksmann",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-nous-sommes-les-seuls-a-pouvoir-battre-l-extreme-droite-estime-raphael-glucksmann_VN-202611080380.html",
-    "date": "Sun, 08 Nov 2026 18:18:36 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rahVP2-dJ-DqQK9Hz2Fi9V_ksH4=/0x0:1280x720/800x0/images/Nous-sommes-les-seuls-a-pouvoir-battre-l-extreme-droite-estime-Raphael-Glucksmann-2380383.jpg\" />"
+    "title": "Six personnes, dont trois mineures, mises en examen après le cambriolage d'une gendarmerie à Brest",
+    "link": "https://www.bfmtv.com/finistere/six-personnes-dont-trois-mineures-mises-en-examen-apres-le-cambriolage-d-une-gendarmerie-a-brest_AD-202611080412.html",
+    "date": "Sun, 08 Nov 2026 20:49:50 GMT",
+    "summary": "Six personnes âgées de 15 à 34 ans ont été interpellées et mises en examen pour avoir cambriolé une gendarmerie à Brest, annonce le parquet ce dimanche. La \"quasi-totalité\" du matériel dérobé a été retrouvé. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nzTM5Ni5r7AF32JFaykNN81wzcM=/0x105:2048x1257/800x0/images/GENDARMERIE-2199687.jpg\" />"
   },
   {
-    "id": "358a470bc476b5d6c2782401c11dc9ab",
+    "id": "bf964f5a27cbe18b57eeb18459b4ced4",
     "source": "BFMTV",
-    "title": "Le Mans-Monaco : les Manceaux arrachent le nul au bout du suspense face à l'ASM",
-    "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-le-mans-monaco-suivez-le-match-de-la-10e-journee-en-live_LS-202611080324.html",
-    "date": "Sun, 08 Nov 2026 15:59:35 GMT",
-    "summary": "Mené au score après une erreur de Kocik exploitée par Coulibaly, Le Mans a trouvé les ressources pour revenir dans la rencontre grâce à Colas, auteur de l'égalisation en fin de match. Malgré une grosse domination monégasque par séquences, l'ASM a été accrochée (1-1) par des Manceaux combatifs.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vjTqQAc24PYdTSmksMQ9vidKE-8=/0x137:2048x1289/800x0/images/Le-Monegasque-Eric-Dier-lors-du-match-Le-Mans-Monaco-8-novembre-2026-2380354.jpg\" />"
+    "title": "\"Il faut mettre la question des classes sociales au cœur de notre réflexion sur notre modèle de développement\", détaille Thomas Piketty, économiste et directeur d'études à l'EHESS",
+    "link": "https://www.bfmtv.com/economie/video-il-faut-mettre-la-question-des-classes-sociales-au-c-ur-de-notre-reflexion-sur-notre-modele-de-developpement-detaille-thomas-piketty-economiste-et-directeur-d-etudes-a-l-ehess_VN-202611080411.html",
+    "date": "Sun, 08 Nov 2026 20:43:05 GMT",
+    "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann (PS-Place publique) était l'invité du Grand Oral de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/pXVDP4M8ViRx6k6I4Mw6hV1eXKU=/0x0:1280x720/800x0/images/Il-faut-mettre-la-question-des-classes-sociales-au-coeur-de-notre-reflexion-sur-notre-modele-de-developpement-detaille-Thomas-Piketty-economiste-et-directeur-d-etudes-a-l-EHESS-2380413.jpg\" />"
   },
   {
-    "id": "a0074b7f70d7168a87dca7127b56889c",
+    "id": "0d1ed68719e26059f3462fd93f256a00",
     "source": "BFMTV",
-    "title": "“On ne peut pas faire la retraite à 60 ans” mais “on peut faire une réforme plus juste”, estime Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-on-ne-peut-pas-faire-la-retraite-a-60-ans-mais-on-peut-faire-une-reforme-plus-juste-estime-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080366.html",
-    "date": "Sun, 08 Nov 2026 18:07:15 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0hCTswdxW0tDq6V5kEHa_FE1-uY=/0x0:1280x720/800x0/images/On-ne-peut-pas-faire-la-retraite-a-60-ans-mais-on-peut-faire-une-reforme-plus-juste-estime-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-2380371.jpg\" />"
+    "title": "Nouvelle célébration polémique à Monaco: Coulibaly reproduit le geste de Brunner, qui avait été sanctionné en septembre",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/nouvelle-celebration-polemique-a-monaco-coulibaly-reproduit-le-geste-de-brunner-qui-avait-ete-sanctionne-en-septembre_AV-202611080362.html",
+    "date": "Sun, 08 Nov 2026 17:53:59 GMT",
+    "summary": "Comme son coéquipier Paris Brunner en septembre, Mamadou Coulibaly a célébré un but de Monaco contre Le Mans ce dimanche en mimant un tranchage de gorge. Un geste qui pourrait lui valoir d'être sanctionné par la commission de discipline de la LFP. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Toz_zGdEOItFJrWT6f6qCi0RYSc=/0x212:2048x1364/800x0/images/Mamadou-Coulibaly-celebre-un-but-avec-Monaco-contre-le-Mans-le-8-novembre-2026-2380364.jpg\" />"
   },
   {
-    "id": "8239aa528f4dff73e95f4f8521a50afb",
+    "id": "27ba322772d244e2594c13cadb39ccd2",
     "source": "BFMTV",
-    "title": "“Depuis le début j'ai refusé les offres, elles ont été nombreuses\": Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, déclare avoir refusé plusieurs postes de ministre sous Emmanuel Macron",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-depuis-le-debut-j-ai-refuse-les-offres-elles-ont-ete-nombreuses-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle-declare-avoir-refuse-plusieurs-postes-de-ministre-sous-emmanuel-macron_VN-202611080365.html",
-    "date": "Sun, 08 Nov 2026 18:05:33 GMT",
-    "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ePRR6mfJ4YqMHVGaK8yzS2aKRpo=/0x0:1280x720/800x0/images/Depuis-le-debut-j-ai-refuse-les-offres-elles-ont-ete-nombreuses-Raphael-Glucksmann-candidat-PS-Place-Publique-a-la-presidentielle-declare-avoir-refuse-plusieurs-postes-de-ministre-sous-Emmanuel-Macron-2380370.jpg\" />"
+    "title": "Lens-OM: l'énorme boulette lensoise pour l'ouverture du score, scénario catastrophe après l'humiliation face à Côme",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/lens-om-l-enorme-boulette-lensoise-pour-l-ouverture-du-score-scenario-catastrophe-apres-l-humiliation-face-a-come_AV-202611080408.html",
+    "date": "Sun, 08 Nov 2026 20:01:06 GMT",
+    "summary": "Quatre jours après avoir encaissé une raclée historique face à Côme (9-1) en Ligue des champions, le RC Lens a concédé l'ouverture du score face à l'OM ce dimanche, dans l'affiche de la 10e journée de Ligue 1. Tout a très mal démarré pour les Lensois, qui ont concédé le premier but sur une énorme boulette.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7jKeh7fuyX2eVgFtw_pTqGZ7HQ0=/0x212:2048x1364/800x0/images/L-entraineur-de-Lens-Yannick-Cahuzac-8-novembre-2026-2380402.jpg\" />"
   },
   {
-    "id": "ecf7394323edd0e0146c58f2dceeb2e6",
+    "id": "8a8d8267aaa36d067a08e3f3cbb6203c",
     "source": "BFMTV",
-    "title": "\"Les règles de droit ne sont pas suivies par la FFF\": Létang ne digère pas sa longue suspension avec Lille et promet de se défendre \"jusqu’au bout\"",
-    "link": "https://rmcsport.bfmtv.com/football/clubs/losc-lille/les-regles-de-droit-ne-sont-pas-suivies-par-la-fff-letang-ne-digere-pas-sa-longue-suspension-avec-lille-et-promet-de-se-defendre-jusqu-au-bout_AN-202611080363.html",
-    "date": "Sun, 08 Nov 2026 18:00:03 GMT",
-    "summary": "Après la victoire du Losc sur la pelouse du Stade Rennais, ce dimanche en Ligue 1 (1-2), Olivier Létang est revenu sur la suspension de quatre mois de ferme que lui a infligée la Fédération française de football pour ses critiques contre les arbitres après le nul de son équipe face au PSG fin août (2-2). Le président des Dogues conteste vivement cette sanction et compte engager des recours.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Kvsf1A1ZRA2hMG0OYyYjeofiPA4=/0x126:2048x1278/800x0/images/Olivier-Letang-president-de-Lille-le-30-mars-2025-2061382.jpg\" />"
+    "title": "\"Sur la réduction de la dépense publique, il n'y a pas d'effort c'est un leurre\", estime  Serge Grouard, maire DVD d'Orléans",
+    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-sur-la-reduction-de-la-depense-publique-il-n-y-a-pas-d-effort-c-est-un-leurre-estime-serge-grouard-maire-dvd-d-orleans_VN-202611080400.html",
+    "date": "Sun, 08 Nov 2026 19:42:52 GMT",
+    "summary": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre, au-delà de 1.500 euros nets contre 1.477 euros actuellement, a appris BFMTV ce dimanche 8 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RxBGg1cQmcTqBbYtI9Gdh0pF5jQ=/0x0:1280x720/800x0/images/Sur-la-reduction-de-la-depense-publique-il-n-y-a-pas-d-effort-c-est-un-leurre-estime-Serge-Grouard-maire-DVD-d-Orleans-2380397.jpg\" />"
   }
 ]
