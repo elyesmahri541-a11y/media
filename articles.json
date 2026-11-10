@@ -1,5 +1,45 @@
 [
   {
+    "id": "2cd1333deee676fe581fdfb81fdce58e",
+    "source": "Mediapart",
+    "title": "«Naza»: comment une campagne de désinformation manipule les chatbots contre le documentaire",
+    "link": "https://www.mediapart.fr/journal/international/101126/naza-comment-une-campagne-de-desinformation-manipule-les-chatbots-contre-le-documentaire",
+    "date": "Tue, 10 Nov 2026 12:40:33 +0100",
+    "summary": "Le film, qui décrit la mécanique technologique et militaire à l’origine des dizaines de milliers de morts civiles à Gaza, est la cible d’une campagne de désinformation soutenue par l’État d’Israël. Elle s’appuie sur un contre-documentaire et sur des sites conçus pour orienter les réponses de ChatGPT ou Grok."
+  },
+  {
+    "id": "bd232fd9322b4f06d31dcfff8a86109b",
+    "source": "Mediapart",
+    "title": "En Espagne, le candidat d’extrême droite invité de la télé publique: 90 minutes de gêne",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/101126/en-espagne-le-candidat-d-extreme-droite-invite-de-la-tele-publique-90-minutes-de-gene",
+    "date": "Tue, 10 Nov 2026 11:14:21 +0100",
+    "summary": "Santiago Abascal, candidat de Vox aux législatives du 29 novembre, était l’invité lundi du programme vedette de la télévision publique espagnole, «La Revuelta», une émission de divertissement honnie par l’extrême droite. Sous pression, son présentateur a choisi de mettre l’humour de côté."
+  },
+  {
+    "id": "077dfcd9d3aeeafecebf66440fdc6dc4",
+    "source": "Mediapart",
+    "title": "Affaire Michel Zecler: au premier jour du procès, trois policiers dépeints en fonctionnaires exemplaires",
+    "link": "https://www.mediapart.fr/journal/france/101126/affaire-michel-zecler-au-premier-jour-du-proces-trois-policiers-depeints-en-fonctionnaires-exemplaires",
+    "date": "Tue, 10 Nov 2026 08:13:08 +0100",
+    "summary": "Jugés à Paris pour le passage à tabac du producteur de musique en novembre 2020, les trois policiers ont été décrits tour à tour comme «calmes», «intègres» ou «respectueux», étrangers à toute violence et à tout racisme. Loin, très loin, des messages versés au dossier."
+  },
+  {
+    "id": "c72ce501215211f89aceb4a5201416cb",
+    "source": "Mediapart",
+    "title": "La Côte d’Ivoire, laboratoire de la cyberdiplomatie d’Israël en Afrique",
+    "link": "https://www.mediapart.fr/journal/international/101126/la-cote-d-ivoire-laboratoire-de-la-cyberdiplomatie-d-israel-en-afrique",
+    "date": "Tue, 10 Nov 2026 07:42:04 +0100",
+    "summary": "Tel-Aviv s’est imposé comme un partenaire clé d’Abidjan en matière de cybersécurité. Alors que l’Israel Tech Week se tient jusqu’au 11 novembre, des entreprises israéliennes ont équipé la présidence et des ministères ivoiriens en outils de surveillance. Une coopération qui se poursuit malgré Gaza et interroge sur les libertés civiles."
+  },
+  {
+    "id": "9d6b3b13d862fc40e89d06768519d92f",
+    "source": "Mediapart",
+    "title": "Cimetière harki de Saint-Maurice-l’Ardoise: cinq familles portent plainte pour violation de sépulture et recel de cadavre",
+    "link": "https://www.mediapart.fr/journal/france/101126/cimetiere-harki-de-saint-maurice-l-ardoise-cinq-familles-portent-plainte-pour-violation-de-sepulture-et-re",
+    "date": "Tue, 10 Nov 2026 07:42:00 +0100",
+    "summary": "Cette procédure s’ajoute à celle de six familles du camp de Rivesaltes, qui ont obtenu en juin la saisine d’une juge d’instruction. Objectif commun: convaincre la justice que ces dossiers ne sont pas prescrits, et porter la voix d’enfants morts dans des conditions indignes dans les années 1960."
+  },
+  {
     "id": "947a2dd191b13b0a33f65458fe6fab5b",
     "source": "Mediapart",
     "title": "Un tee-shirt en solidarité avec la Palestine révèle les tensions autour d’un collège tarnais",
@@ -40,284 +80,276 @@
     "summary": "Alors que la loi exige le respect de strictes zones de pêche en Méditerranée, la préfecture de l’Hérault interdit à la police des mers de contrôler les navires partis trop loin, selon les informations de «Mediapart». Le but: ne pas rallumer la colère d’une profession en crise."
   },
   {
-    "id": "71978f995e6bff86f7197ba20b624123",
-    "source": "Mediapart",
-    "title": "Coup de pouce au smic: le gouvernement fracture l’intersyndicale, pas la mobilisation sociale",
-    "link": "https://www.mediapart.fr/journal/economie-et-social/091126/coup-de-pouce-au-smic-le-gouvernement-fracture-l-intersyndicale-pas-la-mobilisation-sociale",
-    "date": "Mon, 09 Nov 2026 20:13:41 +0100",
-    "summary": "Les annonces issues de la conférence sociale sur le pouvoir d’achat divisent l’intersyndicale. Si l’augmentation de 1,6% du smic est jugée insuffisante par tous, la CFDT salue «une dynamisation des négociations», quand la CGT n’y voit que «des miettes» et appelle à poursuivre la mobilisation."
-  },
-  {
-    "id": "84e7af4d5e80aa2f9a29bf3ffb8d6a4d",
-    "source": "Mediapart",
-    "title": "La chronique de Waly Dia. «Appelez-nous “issus de la colonisation”»",
-    "link": "https://www.mediapart.fr/journal/culture-et-idees/091126/la-chronique-de-waly-dia-appelez-nous-issus-de-la-colonisation",
-    "date": "Mon, 09 Nov 2026 16:01:06 +0100",
-    "summary": "Pour sa chronique enregistrée sur scène vendredi 6 novembre à Toulouse, l’humoriste revient sur la débâcle de Trump aux midterms, la mobilisation sociale et les propos d’Édouard Philippe associant les pillages et l’immigration."
-  },
-  {
-    "id": "b9fd8d5c455aae431766509f6f6a0ff1",
-    "source": "Mediapart",
-    "title": "À Lyon, un mois contre la liberté de manifester",
-    "link": "https://www.mediapart.fr/journal/france/091126/lyon-un-mois-contre-la-liberte-de-manifester",
-    "date": "Mon, 09 Nov 2026 15:19:46 +0100",
-    "summary": "Centre-ville bunkerisé, pans entiers de la ville interdits, répression physique et administrative, surveillance aérienne, interruptions massives des transports en commun… Depuis l’éclosion du mouvement lycéen, fin septembre, la liberté de manifestation n’en finit pas d’être rognée dans l’agglomération lyonnaise."
-  },
-  {
-    "id": "bd5ccf3084fdc44a279a702c74017509",
-    "source": "Mediapart",
-    "title": "Crise du logement en Europe: l’extrême droite souhaite «supprimer les garde-fous»",
-    "link": "https://www.mediapart.fr/journal/economie-et-social/091126/crise-du-logement-en-europe-l-extreme-droite-souhaite-supprimer-les-garde-fous",
-    "date": "Mon, 09 Nov 2026 15:16:55 +0100",
-    "summary": "Face aux difficultés à se loger, l’extrême droite européenne propose une dérégulation du marché immobilier et un État protecteur, à condition qu’il discrimine les étrangers. Entretien avec Sarah Coupechoux, responsable de la mission Europe à la Fondation pour le logement."
-  },
-  {
-    "id": "b751065d1830f4f71f24492bdd28d4c6",
-    "source": "Mediapart",
-    "title": "«On est terrifiés»: la villa Arson, une école d’art sous tension",
-    "link": "https://www.mediapart.fr/journal/culture-et-idees/091126/est-terrifies-la-villa-arson-une-ecole-d-art-sous-tension",
-    "date": "Mon, 09 Nov 2026 15:05:12 +0100",
-    "summary": "Refonte pédagogique verticale, impunité de professeurs harceleurs, management toxique… Étudiants et enseignants de la prestigieuse école d’art de Nice dénoncent un cadre de travail dégradé. Et attendent un réel protocole de sortie de crise, alors qu’une partie de la villa Arson est occupée."
-  },
-  {
-    "id": "504a9a5dda7e134e9b6c540b743ec6c1",
+    "id": "c2848bf1fc5518e0e64d4c71789b3443",
     "source": "Le Monde",
-    "title": "Hausse du smic : le gouvernement annonce une revalorisation de 1,6 % à partir du 1ᵉʳ décembre, la CGT dénonce « des miettes »",
-    "link": "https://www.lemonde.fr/economie-francaise/article/2026/11/09/hausse-du-smic-le-gouvernement-annonce-une-revalorisation-de-1-6-a-partir-du-1-decembre-la-cgt-denonce-des-miettes_6808660_1656968.html",
-    "date": "Mon, 09 Nov 2026 15:41:03 +0100",
-    "summary": "A l’issue d’une conférence sociale à Matignon, Sébastien Lecornu a déclaré qu’il s’agissait de la « deuxième hausse la plus importante en vingt ans ». Une assertion immédiatement contestée par les syndicats."
+    "title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
+    "date": "Tue, 10 Nov 2026 12:00:02 +0100",
+    "summary": "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient."
   },
   {
-    "id": "aced332a6870a88b31253894320b9b16",
+    "id": "7ec394986183a34f0e170d57937e2e17",
     "source": "Le Monde",
-    "title": "Etats-Unis : les électeurs de Californie rejettent un avatar de la taxe Zucman sur les milliardaires",
-    "link": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
-    "date": "Tue, 10 Nov 2026 03:57:41 +0100",
-    "summary": "La taxation ponctuelle de 5 % des milliardaires, qui était soumise à référendum le 3 novembre, a été repoussée selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates aux midterms, le débat sur l’imposition des grandes fortunes devrait néanmoins revenir sur le devant de la scène."
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky espère que la Russie sera elle aussi déterminée à parvenir à une « paix véritable »",
+    "link": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-tout-accord-sur-l-ukraine-doit-respecter-son-integrite-territoriale-affirment-europeens-et-americains_6808609_3210.html",
+    "date": "Tue, 10 Nov 2026 11:40:12 +0100",
+    "summary": "L’Ukraine et ses partenaires sont « déterminés à travailler de manière constructive en faveur de mesures de désescalade, de l’élaboration de garanties de sécurité efficaces et de l’avènement d’une paix véritable », a écrit le président ukrainien, Volodymyr Zelensky, sur Telegram, à l’issue d’un entretien avec son homologue finlandais."
   },
   {
-    "id": "7b8001c05c2ad505483836d2d417e827",
+    "id": "262d25d87b9332aa314c6d0228b6055c",
     "source": "Le Monde",
-    "title": "L’éditrice de Bardella et Knafo, Lise Boëll, arrive à la tête de Grasset",
-    "link": "https://www.lemonde.fr/livres/article/2026/11/09/l-editrice-de-bardella-et-knafo-lise-boell-arrive-a-la-tete-de-grasset_6808702_3260.html",
-    "date": "Mon, 09 Nov 2026 22:17:51 +0100",
-    "summary": "La patronne de Fayard est nommée directrice générale déléguée de Grasset, sept mois après le limogeage d’Olivier Nora. Elle arrive dans une maison vidée de ses auteurs et dont les salariés souhaitent partir."
+    "title": "« On est observés sous toutes les coutures, sans droit à l’erreur » : l’anxiété sociale grandit parmi les jeunes",
+    "link": "https://www.lemonde.fr/campus/article/2026/11/10/on-est-observes-sous-toutes-les-coutures-sans-droit-a-l-erreur-l-anxiete-sociale-grandit-parmi-les-jeunes_6808785_4401467.html",
+    "date": "Tue, 10 Nov 2026 06:00:07 +0100",
+    "summary": "La part des moins de 30 ans touchés par une phobie sociale ne cesse de croître depuis le Covid-19. Un phénomène révélateur d’une difficulté à trouver sa place pour cette génération sommée de se construire dans un monde de plus en plus hostile et compétitif."
   },
   {
-    "id": "3a4a518c3d65b736dc2d42bd7c2434da",
+    "id": "06706c189af9e733f6debd81ea37ab2e",
     "source": "Le Monde",
-    "title": "« Je suis un simple exécutant » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html",
-    "date": "Mon, 09 Nov 2026 21:33:47 +0100",
-    "summary": "S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié »."
+    "title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle pour 2027",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html",
+    "date": "Tue, 10 Nov 2026 09:59:19 +0100",
+    "summary": "Le sportif de haut niveau a créé la surprise, lundi, en déclarant se présenter pour « relever la France », tout en n’étant « ni de droite ni de gauche ». Quelques dossiers, notamment fiscaux, pourraient handicaper son début de campagne."
   },
   {
-    "id": "12b8d0565696907866af00123b0cc80e",
+    "id": "664eac1716514af15a3bbbce43f1a16b",
     "source": "Le Monde",
-    "title": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
-    "date": "Mon, 09 Nov 2026 23:00:45 +0100",
-    "summary": "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni, sénatrice UDR des Alpes-Maritimes."
+    "title": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+    "date": "Tue, 10 Nov 2026 11:30:17 +0100",
+    "summary": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels."
   },
   {
-    "id": "2f50311d41ced5ee1a3bb69788da5dc4",
+    "id": "82dbb9fe17f58eece24da2d25beb0b41",
     "source": "Le Monde",
-    "title": "Pete Hegseth, secrétaire à la défense de Donald Trump, visé par une procédure de destitution déclenchée par un élu républicain",
-    "link": "https://www.lemonde.fr/international/article/2026/11/09/pete-hegseth-secretaire-a-la-defense-de-donald-trump-vise-par-une-procedure-de-destitution-declenchee-par-un-elu-republicain_6808699_3210.html",
-    "date": "Mon, 09 Nov 2026 21:33:10 +0100",
-    "summary": "L’impeachment a été lancé par Thomas Massie, qui dénonce la guerre en Iran et la manière dont ce membre du cabinet de Donald Trump l’a menée."
+    "title": "Cinq adresses parisiennes pour les fondus de mochis, cette petite pâtisserie japonaise",
+    "link": "https://www.lemonde.fr/m-styles/article/2026/11/10/cinq-adresses-parisiennes-pour-les-fondus-de-mochis_6808784_4497319.html",
+    "date": "Tue, 10 Nov 2026 06:00:07 +0100",
+    "summary": "C’est à la qualité de son moelleux que l’on juge de l’excellence de cette petite pâtisserie japonaise. Notre sélection de salons de thé, boutiques et cafés pour s’en convaincre."
   },
   {
-    "id": "5459605d2fce27dc27931f59b30e2003",
+    "id": "777f1ba4c6d81747ca154e6e03baad53",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : reprise mardi des négociations entre l’Ukraine et la Russie à Abou Dhabi, Kiev insistera sur les échanges de prisonniers",
-    "link": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-reprise-mardi-des-negociations-entre-l-ukraine-et-la-russie-a-abou-dhabi-kiev-insistera-sur-les-echanges-de-prisonniers_6808609_3210.html",
-    "date": "Tue, 10 Nov 2026 00:32:14 +0100",
-    "summary": "« Nous allons accorder une grande attention à la dimension humanitaire », écrit sur Telegram Kyrylo Boudanov, chef de cabinet de Volodymyr Zelensky, et membre de la délégation dépêchée aux Emirats arabes unis mardi et mercredi. Russes et Ukrainiens « ont montré un peu de souplesse en privé », a estimé un responsable américain."
+    "title": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage de la guerre au Moyen-Orient",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
+    "date": "Tue, 10 Nov 2026 12:16:20 +0100",
+    "summary": "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie."
   },
   {
-    "id": "bc89192cc548b65984d187a07c750029",
+    "id": "fd749a2d47fae92cb0ba20ff0555247b",
     "source": "Le Monde",
-    "title": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
-    "link": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
-    "date": "Tue, 10 Nov 2026 00:26:10 +0100",
-    "summary": "Le président américain a ajouté sur son réseau Truth Social que si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir »."
+    "title": "Au « Point », le sort d’Etienne Gernelle, son directeur, est scellé",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/10/au-point-le-sort-d-etienne-gernelle-son-directeur-est-scelle_6808658_3235.html",
+    "date": "Tue, 10 Nov 2026 11:13:52 +0100",
+    "summary": "Après la mise à l’écart de Valérie Toranian de la direction de la rédaction de l’hebdomadaire détenu par la famille Pinault, le directeur depuis douze ans a annoncé mardi 10 novembre sa révocation."
   },
   {
-    "id": "2179b1b9b32bd43016784af7470f6b68",
+    "id": "5d34df808a6c55a79586a9315f34a7a4",
     "source": "Le Monde",
-    "title": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
-    "date": "Mon, 09 Nov 2026 23:35:00 +0100",
-    "summary": "A la veille du Forum de Paris sur la paix, Emmanuel Macron a organisé une déclaration plaidant pour des standards communs de classement des incidents liés à l’intelligence artificielle et à des évaluations indépendantes."
+    "title": "COP31 : sur la ligne de front du réchauffement climatique, les Etats insulaires du Pacifique veulent se faire entendre",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-sur-la-ligne-de-front-du-rechauffement-climatique-les-etats-insulaires-du-pacifique-veulent-se-faire-entendre_6808818_3244.html",
+    "date": "Tue, 10 Nov 2026 11:30:11 +0100",
+    "summary": "Aux avant-postes de la lutte contre le changement climatique, les îles du Pacifique sont, avec la Turquie et l’Australie, le troisième acteur de la COP31, qui s’est ouverte lundi à Antalya dans une configuration inédite."
   },
   {
-    "id": "4ffcd9da56570ccd72811b370785d36f",
+    "id": "3a02b949cdca01caaa394fca44c4cfbc",
     "source": "Le Monde",
-    "title": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
-    "date": "Mon, 09 Nov 2026 22:26:21 +0100",
-    "summary": "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué ce week-end la succession de Christine Lagarde à la tête de la Banque centrale européenne. Les chefs d’Etat et de gouvernement doivent départager les candidats espagnol et néerlandais et choisir deux autres membres du directoire."
+    "title": "En Pologne, les démocrates ont besoin de l’unité de l’Europe",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/10/en-pologne-les-democrates-ont-besoin-de-l-unite-de-l-europe_6808816_3232.html",
+    "date": "Tue, 10 Nov 2026 11:30:07 +0100",
+    "summary": "Alors que la violence saisit une société polonaise très divisée, les Européens doivent serrer les rangs autour du premier ministre de centre droit, Donald Tusk. Les démocraties auraient tout à craindre de la perspective d’un retour au pouvoir du PiS, allié à l’extrême droite."
   },
   {
-    "id": "20e7157ae7706199a1cef4da5b566606",
+    "id": "f9a8d1508739f69bff15138e2363ff4b",
     "source": "Le Monde",
-    "title": "Accord sécuritaire Salvador-Haïti : Amnesty International appelle à la transparence et au respect des droits humains",
-    "link": "https://www.lemonde.fr/international/article/2026/11/10/accord-securitaire-salvador-haiti-amnesty-international-appelle-a-la-transparence-et-au-respect-des-droits-humains_6808767_3210.html",
-    "date": "Tue, 10 Nov 2026 03:43:00 +0100",
-    "summary": "Sous couvert d’une mission de récupération de quatre soldats portés disparus à Port-au-Prince, Nayib Bukele pourrait, selon des analystes, chercher à exporter son modèle de lutte sans merci contre la criminalité."
+    "title": "Espagne : Alberto Nuñez Feijoo, un aspirant premier ministre prêt à s’allier à l’extrême droite",
+    "link": "https://www.lemonde.fr/international/article/2026/11/10/espagne-alberto-nunez-feijoo-un-aspirant-premier-ministre-pret-a-s-allier-a-l-extreme-droite_6808806_3210.html",
+    "date": "Tue, 10 Nov 2026 10:31:06 +0100",
+    "summary": "L’ancien haut fonctionnaire de Galice, propulsé à la tête du Parti populaire en 2022, espère mettre un terme au mandat du socialiste Pedro Sanchez, à l’occasion des élections législatives du 29 novembre. N’écartant plus un accord avec l’extrême droite, il met en avant son profil de gestionnaire pour convaincre un électorat encore dubitatif."
   },
   {
-    "id": "c5ff90307cff17ce8060daa3ffa96c67",
+    "id": "d0bb499cefac5c6320ca5a39280a8300",
     "source": "Le Monde",
-    "title": "Quand les citoyens s’associent à la recherche en santé, des protocoles aux résultats : « Ça me plaît de pouvoir participer à quelque chose autour d’Alzheimer»",
-    "link": "https://www.lemonde.fr/sciences/article/2026/11/09/quand-les-citoyens-s-associent-a-la-recherche-en-sante-des-protocoles-aux-resultats-ca-me-plait-de-pouvoir-participer-a-quelque-chose-autour-d-alzheimer_6808692_1650684.html",
-    "date": "Mon, 09 Nov 2026 19:30:05 +0100",
-    "summary": "La recherche participative, qui consiste à inclure les citoyens dans les projets scientifiques, connaît un essor dans le domaine de la santé. Ouvrant de nouvelles perspectives aux chercheurs, elle répond aussi à des enjeux de démocratie sanitaire."
+    "title": "En France, 659 morts liées à la consommation de drogues ou de médicaments en 2024, une hausse de 171 % en dix ans",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/10/en-france-le-nombre-de-morts-liees-a-la-consommation-de-drogues-ou-de-medicaments-a-augmente-de-171-en-dix-ans_6808807_3224.html",
+    "date": "Tue, 10 Nov 2026 10:32:22 +0100",
+    "summary": "Les médicaments de substitution restent « la première cause de surdose en France », avec, en 2024, « 338 décès, soit 51 % des cas », suivis par la cocaïne (222 décès), l’héroïne (75), le cannabis (65), les amphétamines dont le MDMA (41) et les nouveaux produits de synthèse (33), dont les cathinones et les nitazènes."
   },
   {
-    "id": "2eb3c6210ac5d516dc8036f658547dbc",
+    "id": "7d17086f7dddb9845fa38203d9544f60",
     "source": "Le Monde",
-    "title": "La Cour suprême américaine autorise la reprise de travaux de l’administration Trump à la frontière avec le Mexique dans un parc national au Texas",
-    "link": "https://www.lemonde.fr/international/article/2026/11/10/la-cour-supreme-americaine-autorise-la-reprise-de-travaux-de-l-administration-trump-a-la-frontiere-avec-le-mexique-dans-un-parc-national-au-texas_6808766_3210.html",
-    "date": "Tue, 10 Nov 2026 03:34:30 +0100",
-    "summary": "Le chantier dans le parc national de Big Bend, auquel s’opposent les associations environnementales, peut désormais redémarrer à tout moment."
+    "title": "Savez-vous ce qui émet un peu ou beaucoup de CO₂ : prendre l’avion, manger de la viande ou utiliser un sèche-linge pendant un an ?",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2025/02/17/savez-vous-ce-qui-emet-un-peu-ou-beaucoup-de-co-prendre-l-avion-manger-de-la-viande-ou-utiliser-un-seche-linge-pendant-un-an_6145983_4355771.html",
+    "date": "Mon, 17 Feb 2025 10:10:11 +0100",
+    "summary": "Alimentation, transports, logement, chauffage, achats d’équipement ou du quotidien… Testez vos connaissances des ordres de grandeur avec notre quiz."
   },
   {
-    "id": "79917605fa76a9a827aef815cb3d3b45",
+    "id": "4a1802db1c89090be868a6ab2548381b",
     "source": "Le Monde",
-    "title": "En Argentine, le pape Léon XIV célèbre une messe devant 2,5 millions de fidèles et rencontre des victimes de violences sexuelles",
-    "link": "https://www.lemonde.fr/international/article/2026/11/10/en-argentine-le-pape-leon-xiv-celebre-une-messe-devant-2-5-millions-de-fideles-et-rencontre-des-victimes-de-violences-sexuelles_6808764_3210.html",
-    "date": "Tue, 10 Nov 2026 02:14:34 +0100",
-    "summary": "L’affluence, lors de cette messe à Buenos Aires, est la plus massive en dix-huit mois de pontificat du pape américain."
+    "title": "La désintégration extrêmement rare d’une particule suscite l’espoir de découvrir une nouvelle physique",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/10/la-desintegration-extremement-rare-d-une-particule-suscite-l-espoir-de-decouvrir-une-nouvelle-physique_6808823_1650684.html",
+    "date": "Tue, 10 Nov 2026 12:00:04 +0100",
+    "summary": "L’accélérateur géant du CERN n’a pas encore livré tous ses secrets. L’une des expériences de l’installation a permis d’observer un phénomène se produisant une fois sur dix milliards de particules."
   },
   {
-    "id": "fcb8169425c005dc59d1e9d6eb266f51",
+    "id": "92761eb12b14789cf1fd8725ce8b6c85",
     "source": "Le Monde",
-    "title": "Booker Prize 2026 : le Britannique M. John Harrison sacré pour son roman postapocalyptique « The End of Everything »",
-    "link": "https://www.lemonde.fr/livres/article/2026/11/10/booker-prize-2026-le-britannique-m-john-harrison-sacre-pour-son-roman-post-apocalyptique-the-end-of-everything_6808729_3260.html",
-    "date": "Tue, 10 Nov 2026 01:09:35 +0100",
-    "summary": "A 81 ans, cet auteur de science-fiction à l’œuvre prolifique mais peu connu du grand public devient le plus âgé des lauréats de ce prestigieux prix littéraire récompensant des œuvres de fiction en anglais."
+    "title": "L’ONU appelle l’Egypte à mettre fin au « harcèlement » des journalistes et médias nationaux",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/10/l-onu-appelle-l-egypte-a-mettre-fin-au-harcelement-des-journalistes-et-medias-nationaux_6808827_3212.html",
+    "date": "Tue, 10 Nov 2026 12:14:39 +0100",
+    "summary": "« Le peuple égyptien a le droit de lire et d’entendre les points de vue exprimés par le biais [des sites d’information] sur des questions d’intérêt public légitime », a affirmé, devant la presse à Genève, le porte-parole du Haut-Commissariat aux droits de l’homme Thameen Al-Kheetan."
   },
   {
-    "id": "1b0348fd2091988fed6d88b46aa0b79f",
+    "id": "1b23a010de18330152d66234fb878ecc",
     "source": "Libération",
-    "title": "Climat : «Il semblerait qu’un plateau d’émissions de CO2 ait été atteint»",
-    "link": "https://www.liberation.fr/environnement/climat-il-semblerait-quun-plateau-demissions-de-co2-ait-ete-atteint-20261110_PUTUFKFXPVGK7FNC37DWAWC57I/",
-    "date": "Tue, 10 Nov 2026 01:00:00 +0000",
-    "summary": "Le conflit en Iran a fait plonger la consommation de pétrole dans le monde, ce qui contribue à un léger recul des émissions de dioxyde de carbone d’origine fossile en 2026, selon une étude publiée ce mardi 10 novembre."
+    "title": "Tempête Charles : écoles et services publics fermés mercredi au Portugal",
+    "link": "https://www.liberation.fr/international/europe/tempete-charles-ecoles-et-services-publics-fermes-mercredi-au-portugal-20261110_XBUA53ZQQBCILEZ7I3SMNS55L4/",
+    "date": "Tue, 10 Nov 2026 11:36:58 +0000",
+    "summary": "Huit régions du centre et du sud du pays, dont la capitale Lisbonne, ont été placées en alerte rouge en raison d’une dépression pouvant provoquer des rafales de 140 km/h, a annoncé mardi le gouvernement."
   },
   {
-    "id": "81bb205acfcfaab1b73af94fb9b5d6d1",
+    "id": "f6bc7e0b4152cd13445473da834be6b4",
     "source": "Libération",
-    "title": "Procès de Kevin Escoffier : deux ans de prison avec sursis requis contre le navigateur pour agressions sexuelles",
-    "link": "https://www.liberation.fr/societe/police-justice/proces-de-kevin-escoffier-deux-ans-de-prison-avec-sursis-requis-contre-le-navigateur-pour-agressions-sexuelles-20261109_VN2HYKNLAJDHVAWK5RTHYVPE2U/",
-    "date": "Mon, 09 Nov 2026 21:00:08 +0000",
-    "summary": "Alors que le skippeur de 46 ans est poursuivi pour des attouchements sur quatre femmes, la procureure n’a demandé des condamnations que pour les agressions de deux d’entre elles."
+    "title": "2027 : le camp Retailleau le pousse à faire une campagne «de pirate» et plus «dirty»",
+    "link": "https://www.liberation.fr/politique/2027-le-camp-retailleau-le-pousse-a-faire-une-campagne-de-pirate-et-plus-dirty-20261110_UG6M2NVWYFALXBAGKFRDA65AYI/",
+    "date": "Tue, 10 Nov 2026 11:24:59 +0000",
+    "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
   },
   {
-    "id": "b68e5f8bf307a68474a4b7ec3ee25bcc",
+    "id": "f3927d598dfd15fb05b4c6b4d0a38c9e",
     "source": "Libération",
-    "title": "Etats-Unis : le ministre de la Défense visé par une procédure de destitution lancée au Congrès par un élu républicain",
-    "link": "https://www.liberation.fr/international/amerique/etats-unis-le-ministre-de-la-defense-vise-par-une-procedure-de-destitution-lancee-au-congres-par-un-elu-republicain-20261109_4Z6ELZJHVVCI7JAZBPMZBEGEXE/",
-    "date": "Mon, 09 Nov 2026 20:50:06 +0000",
-    "summary": "Déposée ce lundi 9 novembre par Thomas Massie, la résolution visant Pete Hegseth pourrait être adoptée dans la semaine par la Chambre, où des élus de son camp lui sont hostiles. Sa destitution par le Sénat, à la majorité des deux tiers, reste improbable."
+    "title": "EN DIRECT – Mobilisation lycéenne : en Seine-et-Marne, une élue porte plainte après avoir été visée par une bouteille d’essence",
+    "link": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-les-lyceens-et-personnels-de-leducation-de-nouveau-appeles-a-manifester-ce-mardi-20261110_F6UT6DKGF5AR7FVVKSR3FEE5PM/",
+    "date": "Tue, 10 Nov 2026 11:22:07 +0000",
+    "summary": "Au lendemain de l’annonce par l’exécutif d’une hausse du smic en réponse à la colère sociale, étudiants, lycéens et enseignants se mobilisent à nouveau ce mardi. A Paris, un cortège est prévu entre Panthéon et la place d’Italie."
   },
   {
-    "id": "9097ce47e8117746427e468c07751a42",
+    "id": "146cdb6393be552d094cdb1e25c24a6a",
     "source": "Libération",
-    "title": "Mobilisation : le parcours de la manifestation parisienne ce mardi imposé par la préfecture, du Panthéon à la place d’Italie",
-    "link": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-la-hausse-du-smic-au-menu-de-la-conference-sociale-a-partir-de-9-h-30-20261109_GADMITB3HFBF7B4FVZXIE7INGU/",
-    "date": "Mon, 09 Nov 2026 20:43:34 +0000",
-    "summary": "Sous pression, l’exécutif a proposé ce lundi une hausse du salaire minimum de 23,65 euros par mois pour répondre à la colère sociale exprimée depuis plusieurs semaines, sans convaincre les syndicats. Dans la soirée s’est aussi tenu une réunion de Sébastien Lecornu avec les représentants des lycéens et des étudiants."
+    "title": "«Affaiblissement cognitif», «dépendance émotionnelle» : des experts pointent les risques de l’IA générative et appellent Emmanuel Macron à mieux protéger les utilisateurs",
+    "link": "https://www.liberation.fr/economie/economie-numerique/affaiblissement-cognitif-dependance-emotionnelle-des-experts-pointent-les-risques-de-lia-generative-et-appellent-emmanuel-macron-a-mieux-proteger-les-utilisateurs-20261110_XLKUXCAKK5CLTFUONCZ37BM6FQ/",
+    "date": "Tue, 10 Nov 2026 11:14:15 +0000",
+    "summary": "La commission «IA générative et vulnérabilités» remet ce mardi au président de la République 18 recommandations pour encadrer les agents conversationnels comme ChatGPT."
   },
   {
-    "id": "0946114f3fba173e2c7d6dd774baa0ab",
+    "id": "3eafb2af2cda7097c2196477b29dcb45",
     "source": "Libération",
-    "title": "Domicile d’un policier incendié dans le Gers : Nuñez affirme qu’il a été visé «en raison de sa profession», le parquet réfute «à ce stade»",
-    "link": "https://www.liberation.fr/societe/police-justice/gers-laurent-nunez-soffusque-de-lincendie-criminel-du-domicile-dun-policier-20261108_V5OQHPUZHRDK3LSA5VTHKO5NQE/",
-    "date": "Mon, 09 Nov 2026 20:41:27 +0000",
-    "summary": "La maison d’un homme a été incendiée samedi matin à Auch. Le procureur du Gers a réagi ce lundi 9 novembre en affirmant n’avoir «absolument aucun élément» reliant l’incendie à l’activité du policier, contredisant les propos du ministre de l’Intérieur."
+    "title": "Auto-déclaration des arrêts de travail : le gouvernement scandalisé par cette idée de Mélenchon à laquelle il était favorable il y a deux ans",
+    "link": "https://www.liberation.fr/politique/auto-declaration-des-arrets-de-travail-le-gouvernement-scandalise-par-cette-idee-de-melenchon-a-laquelle-il-etait-favorable-il-y-a-deux-ans-20261110_RLL67M47OZDTXIMG7WU76LQ7H4/",
+    "date": "Tue, 10 Nov 2026 11:07:41 +0000",
+    "summary": "Dans son programme pour 2027, La France insoumise propose d’éviter de passer par la case médecin pour les arrêts de courte durée. Décriée, la mesure était pourtant suggérée par la Cour des comptes en 2024."
   },
   {
-    "id": "f6668d65ba991b51f2bec651f25dbf11",
+    "id": "bef240bd3e37d614ab57b376c7aa293f",
     "source": "Libération",
-    "title": "Les principaux syndicats lycéens claquent la porte de la première réunion sur Parcoursup : «La forme change, pas le fond»",
-    "link": "https://www.liberation.fr/societe/education/les-principaux-syndicats-lyceens-claquent-la-porte-de-la-premiere-reunion-sur-parcoursup-la-forme-change-pas-le-fond-20261109_LQE5IP5MRRAC7DBOM24S7AH7LA/",
-    "date": "Mon, 09 Nov 2026 20:29:37 +0000",
-    "summary": "Les organisations de jeunesse ont rencontré le Premier ministre ce lundi puis ont participé à la première réunion consacrée à l’avenir de Parcoursup. Elle a pris fin après quelques minutes, les syndicats dénonçant la présence de membres du RN et du Medef."
+    "title": "Les époux Macron déposent une nouvelle plainte aux Etats-Unis contre l’influenceuse Candace Owens",
+    "link": "https://www.liberation.fr/societe/police-justice/les-epoux-macron-deposent-une-nouvelle-plainte-aux-etats-unis-contre-linfluenceuse-candace-owens-20261110_7R46P6QXQBA45ETVQFMY72MT44/",
+    "date": "Tue, 10 Nov 2026 11:06:32 +0000",
+    "summary": "De nouvelles poursuites en diffamation ont été déposées le 4 novembre dans le Tennessee où réside la figure de l’extrême droite américaine pro-Trump, qui diffuse outre-Atlantique des théories transphobes au sujet de la première dame."
   },
   {
-    "id": "9e5dce7289fa72587406358f7b036139",
+    "id": "aa2a26dac9da91616ea5d974e1b4ebaa",
     "source": "Libération",
-    "title": "Au procès de l’agression de Michel Zecler : «Je ne peux pas être raciste, car sinon je n’aurais pas pu être policier»",
-    "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-je-ne-peux-pas-etre-raciste-car-sinon-je-naurais-pas-pu-etre-policier-20261109_LP3GMSNVJFGJDFI6VA2Z2LTL5M/",
-    "date": "Mon, 09 Nov 2026 20:15:54 +0000",
-    "summary": "Lors de l’étude des personnalités des mis en cause, ce lundi 9 novembre, la circonstance aggravante de racisme, pourtant non retenue lors de l’instruction, s’est placée au cœur des débats."
+    "title": "Israël en pleine crise morale, par Serge July",
+    "link": "https://www.liberation.fr/idees-et-debats/opinions/israel-en-pleine-crise-morale-par-serge-july-20261110_PJNAB5KT3VGCLMQNRZNMGT7REE/",
+    "date": "Tue, 10 Nov 2026 10:52:57 +0000",
+    "summary": "Alors que le chef du parti Yashar, Gadi Eisenkot, doit former son gouvernement, l’Etat hébreu est à un carrefour : céder aux ultraorthodoxes ou intégrer les partis arabes à la vie démocratique du pays."
   },
   {
-    "id": "117ed6b3a9b563cd7da35f244dae58eb",
+    "id": "6fe833d2841d183ccda10cd25e7d8017",
     "source": "Libération",
-    "title": "Hiérarchie du vivant : «Le regard que l’on porte sur les animaux est en constante évolution»",
-    "link": "https://www.liberation.fr/environnement/animaux/hierarchie-du-vivant-le-regard-que-lon-porte-sur-les-animaux-est-en-constante-evolution-20261109_MYHXWZCRRJGKDHA47FAQ53MGUA/",
-    "date": "Mon, 09 Nov 2026 20:04:19 +0000",
-    "summary": "Notre perception du règne animal n’est pas figée, rappelle l’historien Nicolas Baron. Une création culturelle ou une crise peut rapidement faire basculer un animal d’utile à nuisible, et inversement."
+    "title": "Réforme des heures creuses /heures pleines : la répartition sera désormais différente en hiver et en été",
+    "link": "https://www.liberation.fr/economie/conso/reforme-des-heures-creuses-heures-pleines-la-repartition-sera-desormais-differente-en-hiver-et-en-ete-20261110_SNQJKECJO5HURO3TSRDHCMPJDI/",
+    "date": "Tue, 10 Nov 2026 10:51:08 +0000",
+    "summary": "Enedis a donné des précisions sur la deuxième phase,  qui entre en vigueur au 1er décembre, de la réforme de ces créneaux traditionnels. Les heures creuses en après-midi vont être généralisées l’été, pour profiter de l’ensoleillement."
   },
   {
-    "id": "82ff7f78b5faf5f77746c2b052d71a1c",
+    "id": "2d221d1f1fad209cd8177c2d52af0ef4",
     "source": "Libération",
-    "title": "De l’orang-outang chouchouté au cloporte méprisé, les animaux aussi connaissent la lutte des classes",
-    "link": "https://www.liberation.fr/environnement/animaux/de-lorang-outang-chouchoute-au-cloporte-meprise-les-animaux-aussi-connaissent-la-lutte-des-classes-20261109_6GMWWYZM5RA2ZCGEMRDCGVHKWY/",
-    "date": "Mon, 09 Nov 2026 20:02:05 +0000",
-    "summary": "Adorés et protégés ou opprimés et pourchassés, les animaux sont loin d’être égaux. De nos affinités culturelles à leur utilité supposée, cette hiérarchie très humaine pèse jusque dans la sauvegarde de la biodiversité."
+    "title": "Prix des carburants : le pétrole sous les 90 dollars sur fond d’optimisme relatif entre Washington et Téhéran",
+    "link": "https://www.liberation.fr/economie/conso/prix-des-carburants-le-petrole-sous-les-90-dollars-sur-fond-doptimisme-relatif-entre-washington-et-teheran-20261110_AVWJEPXZMZBU3FI5SJCRIFBZQI/",
+    "date": "Tue, 10 Nov 2026 10:50:27 +0000",
+    "summary": "La déclaration de Donald Trump la veille sur une reprise «peu probable» des frappes contre l’Iran a entraîné ce mardi 10 novembre une baisse spectaculaire du cours de l’or noir."
   },
   {
-    "id": "19da4e94cf5f3f1a12e42aff50081e89",
+    "id": "f8711f0506e52a6483ec351745a5a508",
     "source": "Libération",
-    "title": "La lutte des classes animale n’est rien d’autre qu’une construction humaine",
-    "link": "https://www.liberation.fr/environnement/biodiversite/la-lutte-des-classes-animale-nest-rien-dautre-quune-construction-humaine-20261109_XZ3CEAGEAVBYLAEPYYSHP3GQ5Q/",
-    "date": "Mon, 09 Nov 2026 20:00:24 +0000",
-    "summary": "De notre point de vue d’humain, le terme même de «nuisible» est révélateur. Un animal n’est pas qualifié ainsi parce qu’il «nuit» à la planète ou à son écosystème, mais parce que l’espèce humaine s’est octroyé le droit d’imposer sa hiérarchie."
+    "title": "La Chine franchit le cap des 1 000 milliards de dollars d’excédent commercial, un revers pour l’UE et les Etats-Unis",
+    "link": "https://www.liberation.fr/international/asie-pacifique/la-chine-franchit-le-cap-des-1-000-milliards-de-dollars-dexcedent-commercial-un-revers-pour-lue-et-les-etats-unis-20261110_ULSH5S7L2BFQNC33AZY3A676T4/",
+    "date": "Tue, 10 Nov 2026 10:49:08 +0000",
+    "summary": "Malgré les tentatives européennes et les droits de douane de Donald Trump, la Chine continue d’exporter massivement vers l’étranger. La demande intérieure, en revanche, peine à redécoller."
   },
   {
-    "id": "588e0f569288e6a66f9fabc85b19f078",
+    "id": "75adf3570158d940fe679a53e7d448cc",
     "source": "Libération",
-    "title": "La revalorisation du smic par Lecornu, une considération méprisable accordée du bout des doigts",
-    "link": "https://www.liberation.fr/idees-et-debats/editorial/la-revalorisation-du-smic-par-lecornu-une-consideration-meprisable-accordee-du-bout-des-doigts-20261109_MKSWTKOO3BHVVE65UVUVTIWHUM/",
-    "date": "Mon, 09 Nov 2026 19:52:05 +0000",
-    "summary": "En actant un «coup de pouce» pour les plus bas salaires ce lundi 9 novembre, le gouvernement peut se dire qu’il avance, mais cette réponse n’est pas à la hauteur des maux et des angoisses exprimées dans la rue ces dernières semaines."
+    "title": "Ils baladent gratuitement vos toutous : «Pour eux, le gain n’est pas financier mais émotionnel»",
+    "link": "https://www.liberation.fr/lifestyle/voyages/ils-baladent-gratuitement-vos-toutous-pour-eux-le-gain-nest-pas-financier-mais-emotionnel-20261110_6YU3IAKGLNB3PBT6OCN2GI7WCU/",
+    "date": "Tue, 10 Nov 2026 10:46:08 +0000",
+    "summary": "Manque de place, de temps ou d’argent… Avoir un canidé n’est pas toujours à la portée de ceux qui en rêvent. Alors pour combler leur envie d’adoption, certains ont trouvé la parade : l’application Emprunte mon toutou, qui permet de promener gratuitement le chien des autres."
   },
   {
-    "id": "f2cba861471b2b785395e9dd4eba7d12",
+    "id": "70552ef6679fc2cf52277aaf7b0bd561",
     "source": "Libération",
-    "title": "Dans la Meuse, des gendarmes visés par une enquête après avoir tué un homme qui les menaçait avec une machette",
-    "link": "https://www.liberation.fr/societe/police-justice/dans-la-meuse-des-gendarmes-vises-par-une-enquete-apres-avoir-tue-un-homme-qui-les-menacait-avec-machette-20261109_K3JHOL63EFB6PHN5Z63VY5AYTU/",
-    "date": "Mon, 09 Nov 2026 19:51:15 +0000",
-    "summary": "Les deux militaires, qui ont ouvert le feu dimanche à Stenay sur un individu les attaquant à l’arme blanche, ont été placés en garde à vue puis relâchés ce lundi 9 novembre, a indiqué le parquet de Verdun. L’autopsie est prévue mardi matin."
+    "title": "Soupçons d’espionnage : dans l’affaire Jensen Huang, patron de Nvidia, la Chine crie au complot",
+    "link": "https://www.liberation.fr/international/amerique/soupcons-despionnage-dans-laffaire-jensen-huang-patron-de-nvidia-la-chine-crie-au-complot-20261110_QILS6L3RM5BHRHYFYAB6JV7FWY/",
+    "date": "Tue, 10 Nov 2026 10:43:26 +0000",
+    "summary": "Les médias d’Etat chinois, qui se font régulièrement l’écho des efforts du PDG pour assouplir les restrictions américaines sur les exportations de puces, ont dénoncé une machination."
   },
   {
-    "id": "77301674bf2e33a2f1d72d4f06860304",
+    "id": "3efeddcc17f070138bca4e8e53dc5692",
     "source": "Libération",
-    "title": "Stanislas : la direction mise en cause pour avoir couvert un cadre visé par des plaintes pour viols, selon «Mediapart»",
-    "link": "https://www.liberation.fr/societe/education/stanislas-la-direction-mise-en-cause-pour-avoir-couvert-un-cadre-vise-par-des-plaintes-pour-viols-selon-mediapart-20261109_PFTWBGO3EJE2JE6O4KV5R4SVKU/",
-    "date": "Mon, 09 Nov 2026 19:46:14 +0000",
-    "summary": "L’enquête publiée dimanche par le média d’investigation met en lumière le parcours d’un ancien professeur et encadrant ayant exercé dans le prestigieux établissement parisien de 2013 à 2018, accusé de plusieurs viols sur mineurs. Une plainte avait déjà été déposée avant qu’il n’intègre «Stan», tandis que deux directeurs sont soupçonnés de l’avoir couvert."
+    "title": "«La Mort du môme» de Sébastien Kheroufi : nuit de boue au théâtre de la Colline",
+    "link": "https://www.liberation.fr/culture/la-mort-du-mome-de-sebastien-kheroufi-nuit-de-boue-au-theatre-de-la-colline-20261110_JKR5UHLLHBFOPDVFZFZFXGNPNE/",
+    "date": "Tue, 10 Nov 2026 10:34:04 +0000",
+    "summary": "Dans un texte ample, porté par de nombreux comédiens, le metteur en scène s’affranchit du bon goût pour retracer la vie de son père, immigré algérien."
   },
   {
-    "id": "a40d264224b98fef7896363610a6760f",
+    "id": "b79664a9539840b892622b52acbfb8b0",
     "source": "Libération",
-    "title": "A Chartres, Edouard Philippe persiste après sa sortie sur la «surreprésentation» de jeunes «issus de l’immigration» dans les pillages du 17 octobre",
-    "link": "https://www.liberation.fr/politique/elections/a-chartres-edouard-philippe-persiste-apres-sa-sortie-sur-la-surrepresentation-de-jeunes-issus-de-limmigration-dans-les-pillages-du-17-octobre-20261109_PLCKPNN3UVHRJFSRVS4KFFZMP4/",
-    "date": "Mon, 09 Nov 2026 19:41:02 +0000",
-    "summary": "Interpellé sur ses déclarations jugées racistes, lors d’un déplacement dans l’Eure-et-Loir, ce lundi 9 novembre, le candidat Horizons a persévéré en affirmant qu’«il y a un sujet de cohésion de la nation». Il a aussi répliqué à Marine Le Pen qui assure qu’il «n’y a pas de discriminations en France»."
+    "title": "John Harrison remporte le Booker Prize 2026 avec «The End of Everything»",
+    "link": "https://www.liberation.fr/culture/livres/john-harrison-remporte-le-booker-prize-2026-avec-the-end-of-everything-20261110_FHHP5EIVPRDVVEQBWSGWN7OGVE/",
+    "date": "Tue, 10 Nov 2026 10:16:38 +0000",
+    "summary": "Le gagnant du prestigieux prix littéraire désigné lundi à Londres est l’auteur de nombreux ouvrages de science-fiction, dont la saga «Viriconium» (1971-1984) et le remarqué «Light» (2002)."
   },
   {
-    "id": "2ce8cc7b741c80148b8b5b152c503e98",
+    "id": "4ce98e8a7efbb09cbac7cc17b99cd2c0",
     "source": "Libération",
-    "title": "Procès du triple narchomicide : «Je ne suis qu’un exécutant», plaide l’homme qui reconnaît avoir démembré le corps d’une victime",
-    "link": "https://www.liberation.fr/societe/police-justice/proces-du-triple-narchomicide-je-ne-suis-quun-executant-plaide-lhomme-qui-reconnait-avoir-demembre-le-corps-dune-victime-20261109_HU6VOV5TRZFD7PNKBGTQNU3FFI/",
-    "date": "Mon, 09 Nov 2026 19:36:18 +0000",
-    "summary": "Devant la cour d’assises des Bouches-du-Rhône, lundi, Malik Kariba, qui a reconnu avoir découpé le corps d’une des victimes, a nié avoir participé aux assassinats, assurant avoir agi sous la «terreur» que lui inspirait son voisin de box."
+    "title": "Etienne Gernelle écarté de la direction du «Point»",
+    "link": "https://www.liberation.fr/economie/medias/etienne-gernelle-ecarte-de-la-direction-du-point-20261110_GGMUH5Y2UFBLZOWZF6ZKDOSTW4/",
+    "date": "Tue, 10 Nov 2026 10:01:59 +0000",
+    "summary": "Fragilisé ces derniers jours, le directeur de la rédaction de l’hebdomadaire libéral a annoncé sa révocation ce mardi matin."
+  },
+  {
+    "id": "b7568a24667173ba2559f08b5b6abbfe",
+    "source": "Reporterre",
+    "title": "Nappes d'eau : une situation « très préoccupante » malgré le retour des pluies",
+    "link": "https://reporterre.net/Nappes-d-eau-une-situation-tres-preoccupante",
+    "date": "2026-11-10T11:29:59Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"465\" src=\"https://reporterre.net/local/cache-vignettes/L700xH465/32478208236_3a88a13b74_h-7dd28.jpg?1794310200\" width=\"700\" />\n<p>Une situation «<small class=\"fine d-inline\"> </small>très préoccupante<small class=\"fine d-inline\"> </small>». Malgré le retour des pluies au mois d'octobre, le niveau des nappes d'eau reste bas, indique le Bureau de recherches géologiques et minières (<span class=\"caps\">BRGM</span>) dans son bulletin mensuel. 64<small class=\"fine d-inline\"> </small>% des points d'observation sont en dessous des normales de saison. <br class=\"autobr\" />\nLes averses de ce début d'automne n'ont donc pas suffi à sortir de la pénurie d'eau. Au 1<sup class=\"typo_exposants\">er</sup> novembre, plus de la moitié des niveaux des nappes phréatiques étaient encore en baisse. Seules les nappes situées dans (…)</p>\n\n            <a href=\"https://reporterre.net/Nappes-d-eau-une-situation-tres-preoccupante?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>"
+  },
+  {
+    "id": "5e48b362df67411fd840dabed0638c98",
+    "source": "Reporterre",
+    "title": "Un enfant de 12 ans renvoyé de son collège pour son tee-shirt « Palestine »",
+    "link": "https://reporterre.net/Un-enfant-de-12-ans-renvoye-de-son-college-pour-son-tee-shirt-Palestine",
+    "date": "2026-11-10T08:53:36Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/palestine_1_-31d49.jpg?1794305983\" width=\"700\" />\n<p>Dans le Tarn, un élève de 12 ans d'origine palestinienne a été exclu 8 jours pour avoir porté un tee-shirt «<small class=\"fine d-inline\"> </small>Palestine-Intifada '48<small class=\"fine d-inline\"> </small>». 250 parents d'élèves, élus et collégiens se sont rassemblés le 9 novembre pour dénoncer une «<small class=\"fine d-inline\"> </small>situation de maltraitance chronique<small class=\"fine d-inline\"> </small>» dans l'établissement. <br class=\"autobr\" /> «<small class=\"fine d-inline\"> </small>J'avais mis un tee-shirt au pif, que ma mère venait d'acheter<small class=\"fine d-inline\"> </small>», a raconté Anwar à Reporterre. Un tee-shirt vert, floqué «<small class=\"fine d-inline\"> </small>Palestine<small class=\"fine d-inline\"> </small>» devant, et «<small class=\"fine d-inline\"> </small>Intifada '48<small class=\"fine d-inline\"> </small>» au dos. Ce jour de décembre 2025, (…)</p>\n\n            <a href=\"https://reporterre.net/Un-enfant-de-12-ans-renvoye-de-son-college-pour-son-tee-shirt-Palestine?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Libertes-46\" rel=\"tag\">Libertés</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "969a5c50ead591c3d43e0df0c595cace",
+    "source": "Reporterre",
+    "title": "Raphaël Glucksmann et Yannick Jadot s'allient sur le dos de la lutte antinucléaire",
+    "link": "https://reporterre.net/Raphael-Glucksmann-et-Yannick-Jadot-s-allient-sur-le-dos-de-la-lutte-antinucleaire",
+    "date": "2026-11-10T07:27:42Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260825__c6fg4zd__v1__highres__france2027politicselectionplacepublique_1_-7c4a0.jpg?1794295757\" width=\"700\" />\n<p>Raphaël Glucksmann a dévoilé le 9 novembre la première partie de son programme écologique. Il a confié à Yannick Jadot le soin d'imaginer ces mesures… même si les deux hommes n'ont finalement pas la même opinion sur le volet énergétique. <br class=\"autobr\" /> Art du compromis ou dilution des convictions<small class=\"fine d-inline\"> </small>? Le sénateur écologiste Yannick Jadot a été chargé par le candidat à l'élection présidentielle Raphaël Glucksmann (Place publique-Parti socialiste) d'élaborer les premières mesures de son programme climatique, (…)</p>\n\n            <a href=\"https://reporterre.net/Raphael-Glucksmann-et-Yannick-Jadot-s-allient-sur-le-dos-de-la-lutte-antinucleaire?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Presidentielle\" rel=\"tag\">Présidentielle</a>"
+  },
+  {
+    "id": "ac2ff331b03c2d8a9b77a341aa2e1c1d",
+    "source": "Reporterre",
+    "title": "Un an après l'assassinat de son frère, l'écologiste Amine Kessaci défie toujours le narcotrafic",
+    "link": "https://reporterre.net/Un-an-apres-l-assassinat-de-son-frere-l-ecologiste-Amine-Kessaci-defie-toujours-le-narcotrafic",
+    "date": "2026-11-10T06:00:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/maite_baldi___amine_kessaci-6_1_-51acb.jpg?1794290400\" width=\"700\" />\n<p>Un an après l'assassinat de son frère Mehdi, l'élu écologiste marseillais, qui avait déjà perdu un frère à cause du narcotrafic, ne ralentit pas. De ces deuils, il puise la force de mener son combat politique : l'écologie du soin comme remède à l'abandon des quartiers. <br class=\"autobr\" />\nMarseille (Bouches-du-Rhône), reportage <br class=\"autobr\" />\nIl marche, dit-il, avec «<small class=\"fine d-inline\"> </small>une armée de fantômes<small class=\"fine d-inline\"> </small>». À 23 ans, Amine Kessaci porte les larmes de toutes les personnes endeuillées par le narcotrafic, et compte leur trouver des (…)</p>\n\n            <a href=\"https://reporterre.net/Un-an-apres-l-assassinat-de-son-frere-l-ecologiste-Amine-Kessaci-defie-toujours-le-narcotrafic?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Portrait-158\" rel=\"directory\">Portrait</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Climat-et-quartiers-populaires\" rel=\"tag\">Climat et quartiers populaires</a>\n            , \n                <a href=\"https://reporterre.net/Social\" rel=\"tag\">Social</a>"
   },
   {
     "id": "db2b26a5a307727acdc62f81b7a363d1",
@@ -408,155 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"525\" src=\"https://reporterre.net/local/cache-vignettes/L700xH525/photo-collage_png_4_-7837d.png?1794119462\" width=\"700\" />\n<p>Le périple d'un escargot, la vie cachée d'une louve, le miroir que nous tendent des animaux blessés... Découvrez notre sélection de documentaires, dont la beauté sauvage nous ouvre d'inattendus horizons. <br class=\"autobr\" /> Plus l'horizon paraît bouché, plus le monde sauvage peut être une ressource de vitalité. Y marcher au gré de ses sensations, c'est évidemment l'idéal, mais on peut aussi prendre des bouffées d'énergie en regardant des films qui lui sont consacrés, comme les trois présentés ici. Ils (…)</p>\n\n            <a href=\"https://reporterre.net/Louve-escargot-et-chamois-blesse-trois-documentaires-pour-se-rappeler-la-beaute-du?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/A-decouvrir\" rel=\"directory\">À découvrir</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nature\" rel=\"tag\">Nature</a>\n            , \n                <a href=\"https://reporterre.net/Culture-et-idees\" rel=\"tag\">Culture</a>"
   },
   {
-    "id": "c10b9c13d293fe4b0016d926c46690a9",
-    "source": "Reporterre",
-    "title": "Pinar Selek : « La COP31 participera à légitimer le pouvoir autoritaire d'Erdogan »",
-    "link": "https://reporterre.net/Pinar-Selek-La-COP31-participera-a-legitimer-le-pouvoir-autoritaire-d-Erdogan",
-    "date": "2026-11-08T06:30:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/pinar_retouche_2500-22-d8f11.jpg?1794119400\" width=\"700\" />\n<p>Alors que la conférence s'ouvre ce lundi à Antalya, le pouvoir turc réprime les militants <span class=\"caps\">LGBT</span>+, des droits humains et les paysans. Entretien avec la sociologue écoféministe Pinar Selek, exilée en France. <br class=\"autobr\" /> Un État où les droits humains sont violemment réprimés est-il légitime à accueillir une <span class=\"caps\">COP</span><small class=\"fine d-inline\"> </small>? Du 9 au 21 novembre, la Turquie présidera la 31<sup class=\"typo_exposants\">e</sup> édition de ces conférences internationales sur les changements climatiques (<span class=\"caps\">COP31</span>). Cette grand-messe, réunissant quelque 196 nations, pourrait (…)</p>\n\n            <a href=\"https://reporterre.net/Pinar-Selek-La-COP31-participera-a-legitimer-le-pouvoir-autoritaire-d-Erdogan?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>\n            , \n                <a href=\"https://reporterre.net/Libertes-46\" rel=\"tag\">Libertés</a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
-  },
-  {
-    "id": "cabd39999151419894ed84d7e92b49fb",
-    "source": "Reporterre",
-    "title": "Ouverture de l'A69 : retour sur 4 années d'une lutte farouche et inventive",
-    "link": "https://reporterre.net/Ouverture-de-l-A69-retour-sur-4-annees-d-une-lutte-farouche-et-inventive",
-    "date": "2026-11-07T06:30:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/06-aberlioz-2023-12-09-a4671.jpg?1794033000\" width=\"700\" />\n<p>L'autoroute A69 reliant Toulouse à Castres a été ouverte aux voitures le 6 novembre. Un dénouement qui ne fera pas oublier quatre années de lutte acharnée, menées par des opposants qui auront tout tenté contre le chantier, malgré la répression de l'État. <br class=\"autobr\" /> 11 février 2023 — Depuis plusieurs semaines, le concessionnaire Atosca a lancé des fouilles archéologiques sur les 53 kilomètres du tracé entre Toulouse et Castres, alors même que l'enquête publique, dont dépend le feu vert à la (…)</p>\n\n            <a href=\"https://reporterre.net/Ouverture-de-l-A69-retour-sur-4-annees-d-une-lutte-farouche-et-inventive?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Autoroutes\" rel=\"tag\">Autoroutes</a>\n            , \n                <a href=\"https://reporterre.net/A69\" rel=\"tag\">A69</a>"
-  },
-  {
-    "id": "2bf8ffc4c614c51e62218977638c67fc",
-    "source": "Reporterre",
-    "title": "COP31 : pour éviter l'avion, on a fait 54 heures de train jusqu'en Turquie",
-    "link": "https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie",
-    "date": "2026-11-07T06:30:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/copturquie_v2-b0b04.jpg?1794033001\" width=\"700\" />\n<p>Une addition de <span class=\"caps\">CO</span>₂ divisée par trois : pour couvrir la <span class=\"caps\">COP31</span>, qui a lieu en Turquie, notre journaliste Emmanuel Clévenot a préféré partir en train depuis Paris et traverser sept pays, plutôt que de prendre l'avion. <br class=\"autobr\" /> «<small class=\"fine d-inline\"> </small>Bon, j'ai une mauvaise nouvelle.<small class=\"fine d-inline\"> </small>» Il fallait bien que ça arrive un jour. Dans un anglais coupé à l'accent bulgare, le contrôleur m'informe que le train restera bloqué à quai pour une durée indéterminée. Dehors, la nuit est tombée depuis quelques heures déjà. Placardées sur (…)</p>\n\n            <a href=\"https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>\n            , \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>\n            , \n                <a href=\"https://reporterre.net/Preferer-le-train\" rel=\"tag\">Voyagez en train</a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
-  },
-  {
-    "id": "f86929f81c756b08e5c56f5ef55583ff",
-    "source": "Reporterre",
-    "title": "« La montagne est éventrée » : en Toscane, les dégâts du business du marbre",
-    "link": "https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre",
-    "date": "2026-11-07T06:30:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/marble_quarries_in_carrara_italy_22_of_30_-eb3d9.jpg?1794033001\" width=\"700\" />\n<p>Le marbre de Carrare, en Toscane, est connu dans le monde entier pour sa pureté exceptionnelle. Longtemps restée artisanale, sa production s'est intensifiée. Désormais, la pierre de luxe est extraite aux dépens de l'environnement et des habitants. <br class=\"autobr\" />\nAlpes apuanes (Italie), reportage <br class=\"autobr\" />\nDepuis le belvédère de Campocecina, surplombant la ville toscane de Carrare, une randonneuse se penche par-dessus un mur en pierre pour voir ce qu'il y a en contrebas. «<small class=\"fine d-inline\"> </small>C'est trop beau<small class=\"fine d-inline\"> </small>!<small class=\"fine d-inline\"> </small>» s'extasie-t-elle en (…)</p>\n\n            <a href=\"https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Photographies\" rel=\"tag\">Photographies</a>\n            , \n                <a href=\"https://reporterre.net/Mines-et-Gaz-de-schiste\" rel=\"tag\">Mines et métaux</a>"
-  },
-  {
-    "id": "229e30d84138ebb641b4edff05893412",
+    "id": "0fa7d166fcbdd07653b5ed7740caa305",
     "source": "BFMTV",
-    "title": "\"On ne rentrera jamais dans une salle avec l'extrême droite\": la première réunion du comité de réforme Parcoursup tourne court",
-    "link": "https://www.bfmtv.com/societe/education/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_AD-202611091008.html",
-    "date": "Mon, 09 Nov 2026 23:30:26 GMT",
-    "summary": "Les responsables syndicaux ont quitté ce lundi 9 novembre la première réunion du comité de réforme de Parcoursup, dénonçant notamment la présence du syndicat étudiant UNI, qui se présente comme le \"premier mouvement étudiant de droite\", ainsi que des députés RN et UDR. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/day-jp_g2tu-Khz0RaIcXJQkk0g=/0x106:2048x1258/800x0/images/Des-representants-d-associations-d-eleves-du-secondaire-arrivent-a-Paris-le-9-novembre-2026-pour-une-reunion-avec-le-Premier-ministre-francais-dans-le-cadre-d-une-commission-consacree-a-Parcoursup-2381132.jpg\" />"
+    "title": "DIRECT. Teddy Riner candidat à l'élection présidentielle 2027: \"Ce n'est pas de l'IA\", Riner confirme son engagement avec un premier déplacement de campagne en fin de semaine",
+    "link": "https://rmcsport.bfmtv.com/judo/direct-teddy-riner-candidat-a-l-election-presidentielle-2027-suivez-en-live-toutes-les-infos-et-les-reactions-a-l-annonce-du-judoka_LN-202611090457.html",
+    "date": "Mon, 09 Nov 2026 11:03:04 GMT",
+    "summary": "Quintuple champion olympique, Teddy Riner a annoncé ce lundi sa candidature à l'élection présidentielle 2027, sans pour autant renoncer à sa participation aux JO de Los Angeles en 2028. Suivez toutes les infos et les réactions à cette grande annonce dans notre live. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/o0PeDgFWzm_q-CVLGRoGNmEYEf8=/0x74:2048x1226/800x0/images/Teddy-Riner-en-marge-du-match-de-NFL-a-Paris-25-octobre-2026-2371999.jpg\" />"
   },
   {
-    "id": "a1f8db9fd6ca764c2457ca292d8680a9",
+    "id": "b85d9b275fdfcbeda2b899f207114d51",
     "source": "BFMTV",
-    "title": "Hausse du SMIC : avec LFI, ce serait 1 700 euros net - 09/11",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-hausse-du-smic-avec-lfi-ce-serait-1-700-euros-net-09-11_VN-202611091009.html",
-    "date": "Mon, 09 Nov 2026 23:23:01 GMT",
-    "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir. \n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/r_9YQ7DU108esV7SvG35OoOuSRk=/0x0:1280x720/800x0/images/Hausse-du-SMIC-avec-LFI-ce-serait-1-700-euros-net-09-11-2381133.jpg\" />"
+    "title": "DIRECT. Colère lycéenne: une élue de Chelles dit avoir reçu \"une bouteille contenant de l'essence en pleine poitrine\" en marge d'un rassemblement",
+    "link": "https://www.bfmtv.com/politique/direct-colere-sociale-nouvelle-journee-de-mobilisation-des-lyceens-etudiants-et-enseignants_LN-202611100131.html",
+    "date": "Tue, 10 Nov 2026 05:40:36 GMT",
+    "summary": "Le gouvernement continue de faire face à la colère des Français. Au lendemain des annonces sur le pouvoir d'achat, dont un coup de pouce sur le Smic d'1,6% dès le mois de décembre, les organisations étudiantes et syndicats d'enseignants appellent à une nouvelle journée de grève ce mardi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1TQ6hXGm3ksdhlMXsuf6tFSIth8=/183x122:1879x1076/800x0/images/Un-lycee-de-Chelles-le-10-novembre-2026-en-marge-d-un-rassemblement-de-lyceens-2381427.jpg\" />"
   },
   {
-    "id": "49ab47f56ea12bb8a664daaa276b3d52",
+    "id": "b02d2909fffae481ce607d3a9688a167",
     "source": "BFMTV",
-    "title": "Présidentielle: Emmanuel Macron estime que la candidature de Teddy Riner \"ne peut qu'apporter au pays\"",
-    "link": "https://www.bfmtv.com/politique/direct-colere-sociale-des-annonces-attendues-a-l-issue-de-la-conference-sociale-nouvel-appel-des-lyceens-a-la-mobilisation-mardi_LN-202611090127.html",
-    "date": "Mon, 09 Nov 2026 05:47:01 GMT",
-    "summary": "En cette nouvelle semaine de mobilisation sociale, le gouvernement a annoncé ce lundi 9 novembre le prolongement de la prime carburant, mais aussi une revalorisation du Smic de 1,6%. Les organisations lycéennes et étudiantes on claqué la porte de la réunion à Matignon pour réformer Parcoursup, dénonçant la présence de l'extrême droite et du patronat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jp-QqyaX3QilobZfcSmz5cdPFyw=/0x106:2048x1258/800x0/images/Emmanuel-Macron-le-26-octobre-2026-a-Marseille-2378471.jpg\" />"
+    "title": "Agression d’une élue à Chelles: le ministre de l'Éducation nationale dénonce \"un crime\"",
+    "link": "https://www.bfmtv.com/police-justice/video-agression-d-une-elue-a-chelles-le-ministre-de-l-education-nationale-denonce-un-crime_VN-202611100504.html",
+    "date": "Tue, 10 Nov 2026 11:48:31 GMT",
+    "summary": "Le ministre de l’Éducation nationale, Édouard Geffray, qualifie de “crime” l’agression d’Angela Pascoa Dos Santos, élue régionale à Chelles. “On n’est plus sur des revendications lycéennes, mais sur des comportements criminels qui se servent des revendications lycéennes comme paravent pour s’en prendre à l’institution”, estime Édouard Geffray qui annonce se rendre prochainement sur place.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_b1ExPtY5cP5Ump4XtHjS2zf2LY=/0x0:1280x720/800x0/images/Agression-d-une-elue-a-Chelles-le-ministre-de-l-Education-nationale-denonce-un-crime-2381456.jpg\" />"
   },
   {
-    "id": "4c65ca08f452a0224a25609b1063c26f",
+    "id": "bf23d764c2d9b500c64ce1bdd746393c",
     "source": "BFMTV",
-    "title": "Auto-déclaration des arrêts de travail: \"C'est la Cour des comptes qui l'a suggéré en 2024, notamment car ça va libérer de la place chez les médecins\", rappelle François Piquemal, député \"La France insoumise\" de Haute-Garonne",
-    "link": "https://www.bfmtv.com/politique/video-auto-declaration-des-arrets-de-travail-c-est-la-cour-des-comptes-qui-l-a-suggere-en-2024-notamment-car-ca-va-liberer-de-la-place-chez-les-medecins-rappelle-francois-piquemal-depute-la-france-insoumise-de-haute-garonne_VN-202611090998.html",
-    "date": "Mon, 09 Nov 2026 23:06:26 GMT",
-    "summary": "François Piquemal, député \"La France insoumise\" de Haute-Garonne, était invité sur le plateau de BFMTV, ce lundi 9 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uEV8wioBM7MAMFPBylGtDSQuePY=/0x0:1280x720/800x0/images/Auto-declaration-des-arrets-de-travail-C-est-la-Cour-des-comptes-qui-l-a-suggere-en-2024-notamment-car-ca-va-liberer-de-la-place-chez-les-medecins-rappelle-Francois-Piquemal-depute-La-France-insoumise-de-Haute-Garonne-2381129.jpg\" />"
+    "title": "\"Il n'est pas plus illégitime qu'un autre\", la ministre des Sports défend la candidature de Riner pour la présidentielle 2027",
+    "link": "https://rmcsport.bfmtv.com/judo/il-n-est-pas-plus-illegitime-qu-un-autre-la-ministre-des-sports-defend-la-candidature-de-riner-pour-la-presidentielle-2027_AV-202611100501.html",
+    "date": "Tue, 10 Nov 2026 11:44:53 GMT",
+    "summary": "Ce mardi, Marina Ferrari a commenté la candidature de Teddy Riner pour la campagne présidentielle de 2027. La ministre des Sports a salué l'initiative, et balayé d'un revers de main le procès en illégitimité que subit le judoka français depuis l'annonce surprise.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2hGKhf5RFOkkZGrwvqZkkycd4_8=/0x68:2048x1220/800x0/images/Teddy-Riner-a-Osaka-au-Japon-le-13-septembre-2026-2380745.jpg\" />"
   },
   {
-    "id": "9651c6b65579611de44e401e1029b855",
+    "id": "ceaf3e80610d30114492ca6913c466d0",
     "source": "BFMTV",
-    "title": "Présidentielle 2027: Édouard Philippe, candidat Horizons \"souhaite la bienvenue\" à Teddy Riner",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-edouard-philippe-candidat-horizons-souhaite-la-bienvenue-a-teddy-riner_VN-202611090997.html",
-    "date": "Mon, 09 Nov 2026 23:05:20 GMT",
-    "summary": "En cette nouvelle semaine de mobilisation sociale, le gouvernement a annoncé ce lundi 9 novembre le prolongement de la prime carburant, mais aussi une revalorisation du Smic de 1,6%. Les organisations lycéennes et étudiantes ont claqué la porte de la réunion à Matignon pour réformer Parcoursup, dénonçant la présence de l'extrême droite et du patronat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/SKdmz0wnWzXz7s3XITOYksmOTsM=/0x0:1280x720/800x0/images/Presidentielle-2027-Edouard-Philippe-candidat-Horizons-souhaite-la-bienvenue-a-Teddy-Riner-2381128.jpg\" />"
+    "title": "\"Je m'engage à protéger Nvidia\": en pleine tourmente, le géant des puces IA et son patron, Jensen Huang, sont attaqués en justice par des actionnaires pour les \"avoir trompés\"",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/je-m-engage-a-proteger-nvidia-en-pleine-tourmente-le-geant-des-puces-ia-et-son-patron-jensen-huang-sont-attaques-en-justice-par-des-actionnaires-pour-les-avoir-trompes_AV-202611100499.html",
+    "date": "Tue, 10 Nov 2026 11:34:22 GMT",
+    "summary": "La révélation de la relation extraconjugale du patron de Nvidia avec Alice Huang a fait chuter l'entreprise en bourse, hier, lundi 9 novembre, faisant disparaître environ 190 milliards de sa valorisation. Ce qui pousse les actionnaires de la firme à se pourvoir en justice contre Jensen Huang et Nvidia.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OPPvkEUKOWNJQxiDm2t2RUq7dZU=/0x106:2048x1258/800x0/images/Nvidia-2242524.jpg\" />"
   },
   {
-    "id": "6fe8ed59c8640f51f108d2435420c41a",
+    "id": "6e8790ef6420459da3c612c7a394300b",
     "source": "BFMTV",
-    "title": "\"J’ai vu une image de Teddy Riner avec un costard\": comment Ibrahima Konaté a découvert la candidature du judoka à la présidentielle",
-    "link": "https://rmcsport.bfmtv.com/football/equipe-de-france/j-ai-vu-une-image-de-teddy-riner-avec-un-costard-comment-ibrahima-konate-a-decouvert-la-candidature-du-judoka-a-la-presidentielle_AV-202611090988.html",
-    "date": "Mon, 09 Nov 2026 22:46:16 GMT",
-    "summary": "Ibrahima Konaté a livré son ressenti après l'annonce de la candidature de Teddy Riner à la présidentielle 2027. Le défenseur de l'équipe de France a rappelé la légitimité des sportifs à s'engager politiquement comme les autres citoyens.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LDf-yuSKyDbD2UPAgyAPmIJCmKg=/0x121:2048x1273/800x0/images/Ibrahima-Konate-lors-d-un-point-presse-de-l-equipe-de-France-le-9-novembre-2026-2381120.jpg\" />"
+    "title": "INFO BFMTV. Présidentielle 2027: le RN obtient un préaccord pour un prêt de plus de 10 millions d’euros auprès de deux banques européennes",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/info-bfmtv-presidentielle-2027-le-rn-obtient-un-preaccord-pour-un-pret-de-plus-de-10-millions-d-euros-aupres-de-deux-banques-europeennes_AN-202611100497.html",
+    "date": "Tue, 10 Nov 2026 11:32:35 GMT",
+    "summary": "Le ciel s'éclaircit pour le Rassemblement national. Le parti d'extrême droite a trouvé un accord pour un prêt de plus de 10 millions d'euros auprès de deux banques européennes pour financer la campagne présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PFGDxmQLgcRcDuAALcdVE8PY56k=/7x111:2039x1254/800x0/images/Marine-Le-Pen-et-Jordan-Bardella-a-Narbonne-le-1er-mai-2025-2075036.jpg\" />"
   },
   {
-    "id": "0d766fe6cd9b95b29adf302350fdecc9",
+    "id": "ec58c4f9692e341cac234bb539422a3d",
     "source": "BFMTV",
-    "title": "Pas de hausse des salaires, sans baisse des charges ? - 09/11",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-pas-de-hausse-des-salaires-sans-baisse-des-charges-09-11_VN-202611090994.html",
-    "date": "Mon, 09 Nov 2026 22:46:11 GMT",
-    "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir. \n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Oa2d4FF5OpqWtIlMqW1GU-YtHGc=/0x0:1280x720/800x0/images/Pas-de-hausse-des-salaires-sans-baisse-des-charges-09-11-2381127.jpg\" />"
+    "title": "\"L'un de mes collègues a failli mourir\": un proviseur dénonce une violence \"radicalisée\" et organisée dans les lycées depuis le retour des vacances",
+    "link": "https://www.bfmtv.com/societe/education/l-un-de-mes-collegues-a-failli-mourir-un-proviseur-denonce-une-violence-radicalisee-et-organisee-dans-les-lycees-depuis-le-retour-des-vacances_AV-202611100495.html",
+    "date": "Tue, 10 Nov 2026 11:31:27 GMT",
+    "summary": "Un proviseur d'un lycée d'Essonne dénonce sur BFMTV une augmentation des violences dans les lycées, des actes organisés qui visent directement les personnes ou les établissements scolaires.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-NhZFBEj3FmbtMsIvXmeIKpY6z0=/0x106:2048x1258/800x0/images/Un-manifestant-utilise-un-mortier-d-artifice-lors-d-affrontements-entre-des-lyceens-et-des-policiers-devant-le-lycee-Gustave-Eiffel-a-Bordeaux-le-5-octobre-2026-photo-d-illustration-2360294.jpg\" />"
   },
   {
-    "id": "e12d74ac2666c302c58b4fac5e68c5fd",
+    "id": "5c5a55226b7c0485a98e354dc1b02282",
     "source": "BFMTV",
-    "title": "James Gunn et Peter Safran, têtes pensantes de \"Superman\", quittent la direction de DC Studios",
-    "link": "https://www.bfmtv.com/culture/cinema-series/james-gunn-et-peter-safran-tetes-pensantes-de-superman-quittent-la-direction-de-dc-studios_AN-202611090986.html",
-    "date": "Mon, 09 Nov 2026 22:41:31 GMT",
-    "summary": "Après quatre ans de bons et loyaux services, les deux célèbres producteurs vont quitter le 1er décembre la direction du studio, remplacés par une figure du concurrent Marvel, Jeremy Latcham.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Tbze014f7DlDv7g2YKj91B0tRIQ=/0x0:1280x720/800x0/images/Peter-Safran-et-James-Gunn-2381003.jpg\" />"
+    "title": "\"Il faut des moyens supplémentaires dès aujourd'hui\" devant les lycées, réclame le président LR de la région Sud",
+    "link": "https://www.bfmtv.com/police-justice/video-il-faut-des-moyens-supplementaires-des-aujourd-hui-devant-les-lycees-reclame-le-president-lr-de-la-region-sud_VN-202611100498.html",
+    "date": "Tue, 10 Nov 2026 11:31:12 GMT",
+    "summary": "Les pompiers sont intervenus au lycée Emile Zola, à Aix-en-Provence, tôt ce matin, en raison d’un incendie déclaré à proximité d’une salle de classe. Plusieurs bouteilles en plastique et des traces d’hydrocarbures ont été retrouvées près de la porte d’entrée. L’incident n’a fait aucun blessé.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XHjiI35OQBwrCqDdRVnOe9WbcgQ=/0x0:1280x720/800x0/images/Il-faut-des-moyens-supplementaires-des-aujourd-hui-devant-les-lycees-reclame-le-president-LR-de-la-region-Sud-2381451.jpg\" />"
   },
   {
-    "id": "f56e1a3cb83522ecbfd6d7a3692d00ce",
+    "id": "547092f123160dcc4e7042b984fd7acf",
     "source": "BFMTV",
-    "title": "Les députés adoptent en commission un texte pour interdire l'importation en France de produits des colonies israéliennes",
-    "link": "https://www.bfmtv.com/politique/parlement/les-deputes-adoptent-en-commission-un-texte-pour-interdire-l-importation-en-france-de-produits-des-colonies-israeliennes_AD-202611090985.html",
-    "date": "Mon, 09 Nov 2026 22:40:18 GMT",
-    "summary": "Le texte a reçu en commission le soutien des groupes de gauche et du Modem, mais s'est heurté à l'opposition des macronistes et du Rassemblement national. Il doit être examiné le 19 novembre dans l'hémicyle lors de la journée réservée aux socialistes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg\" />"
+    "title": "Une astreinte de 500 euros par jour si le patrimoine ou les intérêts ne sont pas déclarés sous 2 mois: le gouvernement veut réformer la Haute Autorité pour la transparence de la vie publique",
+    "link": "https://www.bfmtv.com/economie/economie-social/france/une-astreinte-de-500-euros-par-jour-si-le-patrimoine-ou-les-interets-ne-sont-pas-declares-sous-2-mois-le-gouvernement-veut-reformer-la-haute-autorite-pour-la-transparence-de-la-vie-publique_AD-202611100491.html",
+    "date": "Tue, 10 Nov 2026 11:29:34 GMT",
+    "summary": "L'institution créée en 2013 dans le sillage de l'affaire Cahuzac pourrait notamment changer de nom pour devenir la Haute autorité pour l'intégrité publique.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yG3X6s7GKNIpp90qMLRYA14QduM=/4x3:1252x705/800x0/images/-88433.jpg\" />"
   },
   {
-    "id": "23f400038f347377f86d85cd41b2eeb0",
+    "id": "81c6278ad238e5b2587d3bcc50bc9de5",
     "source": "BFMTV",
-    "title": "Assassinat de Charlie Kirk: l'Américain Tyler Robinson, accusé de l'avoir tué, sera jugé en juin 2028",
-    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/assassinat-de-charlie-kirk-l-americain-tyler-robinson-accuse-de-l-avoir-tue-sera-juge-en-juin-2028_AD-202611090983.html",
-    "date": "Mon, 09 Nov 2026 22:36:27 GMT",
-    "summary": "Tyler Robinson risque la peine de mort pour avoir tué l'influenceur trumpiste Charlie Kirk d'une balle dans le cou sur un campus universitaire de l'Utah, en septembre 2025. Ses avocats réclamaient un long délai jusqu'à fin 2029 pour préparer leur défense, mais l'accusation réclamait un procès dès janvier 2028.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/SBVPghk5umBq4cXJtDx-ANbz-7g=/0x106:2048x1258/800x0/images/Un-ecran-de-television-affiche-une-photo-de-Tyler-Robinson-soupconne-d-avoir-tue-Charlie-Kirk-le-11-septembre-a-Orem-dans-l-Utah-le-12-septembre-2025-2136947.jpg\" />"
+    "title": "DIRECT. Procès de la \"petite martyre de l'A10\": un deuxième expert psychiatre conclut à l’altération du discernement de la mère d’Inass",
+    "link": "https://www.bfmtv.com/police-justice/direct-proces-de-la-petite-martyre-de-l-a10-des-debats-attendus-autour-de-l-etat-psychiatrique-des-accuses-au-moment-des-faits_LN-202611100339.html",
+    "date": "Tue, 10 Nov 2026 08:27:20 GMT",
+    "summary": "Au septième jour du procès des parents d'Inass, la \"petite martyre de l'A10\", plusieurs experts psychiatres et psychologues doivent rendre leurs conclusions concernant les deux accusés. Ces derniers sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\", ils encourent la réclusion criminelle à perpétuité.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qPKx1Y6nzY2uJTQ9QtM7b4cdroM=/0x47:768x479/800x0/images/Croquis-d-audience-realise-le-2-novembre-2026-montrant-les-parents-d-Inass-Touloub-lors-de-leur-proces-pour-la-mort-de-leur-fille-au-palais-de-justice-de-Blois-2376655.jpg\" />"
   },
   {
-    "id": "ed3b14ad65fac4a8a9e8e7fee917da57",
+    "id": "8f4268b269378b5e17e4071595692189",
     "source": "BFMTV",
-    "title": "Vie chère: \"En un an, le prix du gaz a augmenté de 40%, vous comprenez bien que nos concitoyens ne peuvent pas tenir\", explique Julien Odoul, député \"Rassemblement national\" de l'Yonne",
-    "link": "https://www.bfmtv.com/societe/video-vie-chere-en-un-an-le-prix-du-gaz-a-augmente-de-40-vous-comprenez-bien-que-nos-concitoyens-ne-peuvent-pas-tenir-explique-julien-odoul-depute-rassemblement-national-de-l-yonne_VN-202611090981.html",
-    "date": "Mon, 09 Nov 2026 22:32:15 GMT",
-    "summary": "Julien Odoul, député \"Rassemblement national\" de l'Yonne, était invité sur le plateau de BFMTV, ce lundi 9 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uYcW5xXQ8R5vRi0hsK89T6AAwS4=/0x0:1280x720/800x0/images/Vie-chere-En-un-an-le-prix-du-gaz-a-augmente-de-40-vous-comprenez-bien-que-nos-concitoyens-ne-peuvent-pas-tenir-explique-Julien-Odoul-depute-Rassemblement-national-de-l-Yonne-2381121.jpg\" />"
+    "title": "\"Il ne faut pas dire que ce sont des miettes\": le gouvernement défend une \"démarche de sincérité\" après les annonces de la conférence sociale",
+    "link": "https://www.bfmtv.com/politique/gouvernement/video-il-ne-faut-pas-dire-que-ce-sont-des-miettes-le-gouvernement-defend-une-demarche-de-sincerite-apres-les-annonces-de-la-conference-sociale_VN-202611100493.html",
+    "date": "Tue, 10 Nov 2026 11:27:59 GMT",
+    "summary": "Mathieu Lefèvre, le porte-parole par intérim du gouvernement, répond à une question sur la hausse du Smic et la colère sociale lors du compte-rendu du conseil des ministres, ce mardi 10 novembre, à Paris.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XWG_hZx1NhoIuvgXRff-WGyk4CE=/0x0:1280x720/800x0/images/Il-ne-faut-pas-dire-que-ce-sont-des-miettes-le-gouvernement-defend-une-demarche-de-sincerite-apres-les-annonces-de-la-conference-sociale-2381449.jpg\" />"
   },
   {
-    "id": "1d451154d422033e9bf94c6716b1b4d5",
+    "id": "e58153ea9151821b617ea5bc5ca6c441",
     "source": "BFMTV",
-    "title": "\"J'ai beaucoup d'admiration pour lui\": Édouard Philippe salue la candidature de Teddy Riner",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-j-ai-beaucoup-d-admiration-pour-lui-edouard-philippe-salue-la-candidature-de-teddy-riner_VN-202611090980.html",
-    "date": "Mon, 09 Nov 2026 22:29:30 GMT",
-    "summary": "En déplacement à Chartres, ce lundi 9 novembre, Édouard Philippe a salué la candidature de Teddy Riner à la présidentielle de 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aedd5bxAGzxZgRExu6B10eAEfT0=/0x0:1280x720/800x0/images/J-ai-beaucoup-d-admiration-pour-lui-Edouard-Philippe-salue-la-candidature-de-Teddy-Riner-2381119.jpg\" />"
+    "title": "\"Le choc était si fort que ça m’a coupé le souffle\": une élue visée par un jet de bouteille d'essence devant un lycée de Chelles",
+    "link": "https://www.bfmtv.com/police-justice/le-choc-etait-si-fort-que-ca-m-a-coupe-le-souffle-une-elue-visee-par-un-jet-de-bouteille-d-essence-devant-un-lycee-de-chelles_AV-202611100489.html",
+    "date": "Tue, 10 Nov 2026 11:22:57 GMT",
+    "summary": "Une conseillère régionale, également adjointe au maire de Chelles, a affirmé auprès de BFMTV avoir reçu une bouteille d’essence après être intervenue pour empêcher plusieurs personnes de mettre le feu à une poubelle devant un lycée de la ville, mardi 10 novembre au matin.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1TQ6hXGm3ksdhlMXsuf6tFSIth8=/183x122:1879x1076/800x0/images/Un-lycee-de-Chelles-le-10-novembre-2026-en-marge-d-un-rassemblement-de-lyceens-2381427.jpg\" />"
   },
   {
-    "id": "e7b6446b1d24cf4b6f76cd033be44031",
+    "id": "e0f24c9f83e82f73a4c2322ca0d78e3a",
     "source": "BFMTV",
-    "title": "\"On est la première puissance mondiale en termes de fiscalisation et ce n'est pas normal\", dénonce Walid Hanida, président de l'association (Team Taxi)",
-    "link": "https://www.bfmtv.com/societe/video-on-est-la-premiere-puissance-mondiale-en-termes-de-fiscalisation-et-ce-n-est-pas-normal-denonce-walid-hanida-president-de-l-association-team-taxi_VN-202611090979.html",
-    "date": "Mon, 09 Nov 2026 22:28:53 GMT",
-    "summary": "En cette nouvelle semaine de mobilisation sociale, le gouvernement a annoncé ce lundi 9 novembre le prolongement de la prime carburant, mais aussi une revalorisation du Smic de 1,6%. Les organisations lycéennes et étudiantes on claqué la porte de la réunion à Matignon pour réformer Parcoursup, dénonçant la présence de l'extrême droite et du patronat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8ElX4Y_UC4kw20yFDh32CpxAwWQ=/0x0:1280x720/800x0/images/On-est-la-premiere-puissance-mondiale-en-termes-de-fiscalisation-et-ce-n-est-pas-normal-denonce-Walid-Hanida-president-de-l-association-Team-Taxi-2381118.jpg\" />"
+    "title": "Lycée incendié à Aix-en-Provence: \"Chacun doit prendre ses responsabilités, je demande au ministre de l'Intérieur de prendre les siennes\", assure le président LR de la région Sud",
+    "link": "https://www.bfmtv.com/societe/video-lycee-incendie-a-aix-en-provence-chacun-doit-prendre-ses-responsabilites-je-demande-au-ministre-de-l-interieur-de-prendre-les-siennes-assure-le-president-lr-de-la-region-sud_VN-202611100490.html",
+    "date": "Tue, 10 Nov 2026 11:21:11 GMT",
+    "summary": "Les pompiers sont intervenus au lycée Emile Zola, à Aix-en-Provence, tôt ce matin, en raison d’un incendie déclaré à proximité d’une salle de classe. Plusieurs bouteilles en plastique et des traces d’hydrocarbures ont été retrouvées près de la porte d’entrée. L’incident n’a fait aucun blessé.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sZYgKA06j212U7SRxz8wE7jeC_c=/0x0:1280x720/800x0/images/Lycee-incendie-a-Aix-en-Provence-Chacun-doit-prendre-ses-responsabilites-je-demande-au-ministre-de-l-Interieur-de-prendre-les-siennes-assure-le-president-LR-de-la-region-Sud-2381447.jpg\" />"
   },
   {
-    "id": "46171ad51524da936cc017fde8de2419",
+    "id": "314cd4d229c90cc05d05db1b3281014e",
     "source": "BFMTV",
-    "title": "Manifestation du 17 octobre à Marseille: deux manifestantes gravement blessées ont porté plainte pour \"violence volontaire\"",
-    "link": "https://www.bfmtv.com/marseille/manifestation-du-17-octobre-a-marseille-deux-manifestantes-gravement-blessees-ont-porte-plainte-pour-violence-volontaire_AD-202611090977.html",
-    "date": "Mon, 09 Nov 2026 22:25:35 GMT",
-    "summary": "Ce lundi 9 novembre, deux manifestantes ont porté plainte pour \"violences volontaires\" après avoir été blessées pendant la manifestation du 17 octobre à Marseille<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Gyq8_zjZ-RbQ7RMU2WjwZf6nXJg=/0x106:2048x1258/800x0/images/Manifestation-du-17-octobre-2026-dans-le-centre-ville-de-Marseille-2371439.jpg\" />"
+    "title": "Le biopic de Madonna verra-t-il le jour? \"Ça change toutes les heures\", répond l'actrice principale Julia Garner",
+    "link": "https://www.bfmtv.com/culture/cinema-series/le-biopic-de-madonna-verra-t-il-le-jour-ca-change-toutes-les-heures-repond-l-actrice-principale-julie-garner_AN-202611100486.html",
+    "date": "Tue, 10 Nov 2026 11:20:08 GMT",
+    "summary": "Le projet d'un biopic sur la star de la pop, retraçant sa vie et sa carrière, reste encore incertain. Madonna, elle-même, devait en assurer la réalisation.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/45aH6cSXgZfFhxnnX0VbJca1wQU=/6x5:1926x1085/800x0/images/-87574.jpg\" />"
   },
   {
-    "id": "fb9f4f82bfaf0ac262377e5571a08485",
+    "id": "e0126f1a0618fab58b465172fcea25f1",
     "source": "BFMTV",
-    "title": "Revalorisation du Smic: \"Les calculs sont faits et c'est absurde\", explique Solenn Ameil, présidente d'une association de commerçants à Paris",
-    "link": "https://www.bfmtv.com/societe/video-revalorisation-du-smic-les-calculs-sont-faits-et-c-est-absurde-explique-solenn-ameil-presidente-d-une-association-de-commercants-a-paris_VN-202611090976.html",
-    "date": "Mon, 09 Nov 2026 22:19:41 GMT",
-    "summary": "En cette nouvelle semaine de mobilisation sociale, le gouvernement a annoncé ce lundi 9 novembre le prolongement de la prime carburant, mais aussi une revalorisation du Smic de 1,6%. Les organisations lycéennes et étudiantes on claqué la porte de la réunion à Matignon pour réformer Parcoursup, dénonçant la présence de l'extrême droite et du patronat.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IhsLFp7pDjVXj_7i7luzh6zWwwg=/0x0:1280x720/800x0/images/Revalorisation-du-Smic-Les-calculs-sont-faits-et-c-est-absurde-explique-Solenn-Ameil-presidente-d-une-association-de-commercants-a-Paris-2381116.jpg\" />"
+    "title": "Un plein électrique en 5 minutes à 1.500 kW: le constructeur chinois BYD dévoile une station de recharge futuriste dans le désert d'Abou Dabi",
+    "link": "https://www.bfmtv.com/economie/entreprises/energie/un-plein-electrique-en-5-minutes-a-1-500-k-w-le-constructeur-chinois-byd-devoile-une-station-de-recharge-futuriste-dans-le-desert-d-abou-dabi_AV-202611100478.html",
+    "date": "Tue, 10 Nov 2026 11:09:43 GMT",
+    "summary": "À l'occasion de son record de vitesse à plus de 500 km/h aux Emirats arabes unis, le groupe chinois a présenté une station autonome capable d'injecter jusqu'à 1.500 kW dans un véhicule électrique en 5 minutes grâce à une batterie tampon et un bras articulé.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GkCh-ko1W65nZvFxFfOJ-X8tySg=/0x195:2048x1347/800x0/images/Flash-Charging-BYD-Abou-Dabi-2381418.jpg\" />"
   }
 ]
