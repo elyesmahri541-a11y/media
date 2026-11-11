@@ -1,323 +1,331 @@
 [
   {
-    "id": "b23ee62208aaffeb084df4e107a54a68",
+    "id": "ca9370f7b18ff7985dcd444af72da072",
     "source": "Mediapart",
-    "title": "COP31: le gouvernement français donne à TotalEnergies un accès privilégié aux pourparlers climatiques",
-    "link": "https://www.mediapart.fr/journal/ecologie/101126/cop31-le-gouvernement-francais-donne-totalenergies-un-acces-privilegie-aux-pourparlers-climatiques",
+    "title": "De nouvelles vidéos montrent le déchaînement raciste de policiers municipaux à Carcassonne",
+    "link": "https://www.mediapart.fr/journal/france/111126/de-nouvelles-videos-montrent-le-dechainement-raciste-de-policiers-municipaux-carcassonne",
+    "date": "Wed, 11 Nov 2026 16:32:27 +0100",
+    "summary": "Des images inédites d’une patrouille de la police municipale de Carcassonne, publiées par «L’Indépendant», font entendre des propos d’un racisme débridé du brigadier-chef César R., alors membre du service d’ordre du RN. Alerté dès avril, le maire d’extrême droite niait pourtant avoir été informé."
+  },
+  {
+    "id": "1a45541747ae46158a39f09cfc5ea28e",
+    "source": "Mediapart",
+    "title": "À Marseille, une enquête ouverte après des messages nazis et menaçants de lycéens anti-blocage",
+    "link": "https://www.mediapart.fr/journal/france/111126/marseille-une-enquete-ouverte-apres-des-messages-nazis-et-menacants-de-lyceens-anti-blocage",
+    "date": "Wed, 11 Nov 2026 15:43:30 +0100",
+    "summary": "Le parquet de Marseille enquête sur des messages racistes, antisémites et menaçants, certains évoquant l’attentat de Trappes, publiés par des élèves de la cité scolaire internationale Jacques-Chirac. Élèves, parents et enseignants reprochent à la direction d’avoir tardé à communiquer."
+  },
+  {
+    "id": "1b730d3ae3ecdb1efba7acbf831e76ce",
+    "source": "Mediapart",
+    "title": "Présidentielle: la panique gagne la droite",
+    "link": "https://www.mediapart.fr/journal/politique/111126/presidentielle-la-panique-gagne-la-droite",
+    "date": "Wed, 11 Nov 2026 15:43:15 +0100",
+    "summary": "Édouard Philippe en perte de vitesse, la droite et le centre voient l’accès au second tour s’éloigner et les pressions pour organiser une primaire s’accentuent. En plein mouvement social, leurs candidats subissent les événements et craignent d’être emportés par une vague «dégagiste»."
+  },
+  {
+    "id": "e4eed66d9ef7791aeb78598a0fd6bda1",
+    "source": "Mediapart",
+    "title": "Après les midterms, Donald Trump prépare sa défense face aux assauts contre sa présidence",
+    "link": "https://www.mediapart.fr/journal/international/111126/apres-les-midterms-donald-trump-prepare-sa-defense-face-aux-assauts-contre-sa-presidence",
+    "date": "Wed, 11 Nov 2026 14:11:49 +0100",
+    "summary": "Une semaine après la déroute des républicains aux élections de mi-mandat, le ministre de la «guerre» Pete Hegseth a échappé, mardi 10 novembre, à une procédure de destitution. Un avant-goût de ce qui attend la Maison-Blanche en janvier, quand le Congrès passera aux mains des démocrates."
+  },
+  {
+    "id": "94f93497f909359457cfc00359f197a3",
+    "source": "Mediapart",
+    "title": "De la rue aux institutions, les Africaines en lutte contre les féminicides",
+    "link": "https://www.mediapart.fr/journal/international/111126/de-la-rue-aux-institutions-les-africaines-en-lutte-contre-les-feminicides",
+    "date": "Wed, 11 Nov 2026 14:11:35 +0100",
+    "summary": "À Dakar comme à Nairobi, des militantes féministes manifestent pour dénoncer les meurtres de femmes et réclamer justice. Alors que l’Afrique est le continent le plus touché par les féminicides, les mobilisations gagnent en ampleur. Mais les réformes se font attendre."
+  },
+  {
+    "id": "640a9b98d97810b047590761dbc7adf1",
+    "source": "Mediapart",
+    "title": "En Pologne, la «collusion» est croissante entre conservateurs et extrême droite",
+    "link": "https://www.mediapart.fr/journal/international/111126/en-pologne-la-collusion-est-croissante-entre-conservateurs-et-extreme-droite",
+    "date": "Wed, 11 Nov 2026 10:39:09 +0100",
+    "summary": "Alors qu’une marche pour l’indépendance rassemble les droites à Varsovie, cinq jours après la tuerie de Cracovie, le politiste Valentin Behr décrit la montée des tensions provoquée par le nationalisme dans la société. Plus que jamais, deux visions du pays s’affrontent."
+  },
+  {
+    "id": "21c718e248539ea7847a25d8f9e8521e",
+    "source": "Mediapart",
+    "title": "Affaire Zecler: «Le Michel que tout le monde a connu est mort ce jour-là»",
+    "link": "https://www.mediapart.fr/journal/france/111126/affaire-zecler-le-michel-que-tout-le-monde-connu-est-mort-ce-jour-la",
+    "date": "Wed, 11 Nov 2026 10:04:05 +0100",
+    "summary": "Pour la deuxième journée du procès des trois policiers qui ont tabassé Michel Zecler en 2020, la cour criminelle de Paris a longuement interrogé le producteur de musique. Davantage pour savoir s’il n’avait rien à se reprocher que pour entendre sa douleur."
+  },
+  {
+    "id": "f518e277ad468c44a3751969aa98fe36",
+    "source": "Mediapart",
+    "title": "Assignations à résidence de manifestants: l’usage de l’antiterrorisme démonté devant la justice",
+    "link": "https://www.mediapart.fr/journal/france/111126/assignations-residence-de-manifestants-l-usage-de-l-antiterrorisme-demonte-devant-la-justice",
+    "date": "Wed, 11 Nov 2026 09:51:09 +0100",
+    "summary": "Les premiers recours contre les Micas, ces mesures antiterroristes utilisées pour assigner des manifestants à résidence, ont été examinés sur le fond, mardi 10 novembre, par les tribunaux administratifs. Dans les sept dossiers identifiés par «Mediapart», les rapporteurs publics ont prôné l’annulation des arrêtés."
+  },
+  {
+    "id": "ef755fc8c72c3292be58b4f17b0f59d0",
+    "source": "Mediapart",
+    "title": "La famille de Christophe Gleizes, détenu depuis 500 jours en Algérie, demande au gouvernement de durcir le ton",
+    "link": "https://www.mediapart.fr/journal/international/111126/la-famille-de-christophe-gleizes-detenu-depuis-500-jours-en-algerie-demande-au-gouvernement-de-durc",
+    "date": "Wed, 11 Nov 2026 09:33:11 +0100",
+    "summary": "Depuis la condamnation définitive du journaliste sportif Christophe Gleizes, incarcéré depuis 500 jours, à sept ans de prison, Reporters sans frontières et le monde du football multiplient les appels à Alger."
+  },
+  {
+    "id": "84eaef734b047b59b216b73869febb90",
+    "source": "Mediapart",
+    "title": "COP31: TotalEnergies a été accrédité au sein de la délégation française",
+    "link": "https://www.mediapart.fr/journal/ecologie/101126/cop31-totalenergies-ete-accredite-au-sein-de-la-delegation-francaise",
     "date": "Tue, 10 Nov 2026 21:33:30 +0100",
-    "summary": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été accrédités à la COP31 au sein de la délégation française. Les badges onusiens accordés au pétrolier leur permettent d’accéder aux zones réservées aux négociateurs et aux chefs d’État."
+    "summary": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été enregistrés à la COP31 par le gouvernement français. Le PDG ne s’y déplacera toutefois pas en personne. Les badges onusiens accordés au groupe pétrolier leur permettent d’accéder à des zones réservées aux négociateurs et aux chefs d’État."
   },
   {
-    "id": "abc49d71d6506a4286c0424ad3bc3148",
-    "source": "Mediapart",
-    "title": "«C’est pas si mal!»: l’exécutif s’embourbe pour justifier son rachitique «coup de pouce» au smic",
-    "link": "https://www.mediapart.fr/journal/politique/101126/c-est-pas-si-mal-l-executif-s-embourbe-pour-justifier-son-rachitique-coup-de-pouce-au-smic",
-    "date": "Tue, 10 Nov 2026 20:50:55 +0100",
-    "summary": "Après sa proposition d’augmenter très légèrement le salaire minimum, le gouvernement s’est retrouvé sous le feu des critiques des oppositions, mardi 10 novembre à l’Assemblée nationale. La gauche parlementaire donne déjà le rendez-vous du 17 novembre pour intensifier la mobilisation."
-  },
-  {
-    "id": "67e8518bc5687f1997fac475c6b4bbed",
-    "source": "Mediapart",
-    "title": "Sans rien à proposer pour éteindre la colère, le comité de réforme Parcoursup fait un flop",
-    "link": "https://www.mediapart.fr/journal/france/101126/sans-rien-proposer-pour-eteindre-la-colere-le-comite-de-reforme-parcoursup-fait-un-flop",
-    "date": "Tue, 10 Nov 2026 20:38:46 +0100",
-    "summary": "Ils ont quitté la salle soit pour protester contre l’extrême droite, soit pour déplorer l’absence de propositions. Et à la fin, il n’est resté presque plus personne. L’issue du premier comité de réforme Parcoursup, le 9 novembre, en dit long sur la stratégie du gouvernement pour répondre aux enjeux de la mobilisation lycéenne et étudiante."
-  },
-  {
-    "id": "9cd5e099ad44ec45f765f212ba34f696",
-    "source": "Mediapart",
-    "title": "«On fatigue mais l’envie de révolte reste là»: plusieurs milliers de jeunes poursuivent le mouvement",
-    "link": "https://www.mediapart.fr/journal/france/101126/fatigue-mais-l-envie-de-revolte-reste-la-plusieurs-milliers-de-jeunes-poursuivent-le-mouvement",
-    "date": "Tue, 10 Nov 2026 20:29:34 +0100",
-    "summary": "Mardi 10 novembre, des dizaines de milliers de manifestants ont défilé dans le pays. Après huit semaines de mobilisation, toutes et tous espèrent que le mouvement va perdurer, malgré la lassitude, et que d’autres catégories de personnes vont prendre le relais de la jeunesse."
-  },
-  {
-    "id": "98abe62e90007bb0751bd26b8f58b7c8",
-    "source": "Mediapart",
-    "title": "Pétition contre CNews: l’Assemblée étouffe, le débat public suffoque",
-    "link": "https://www.mediapart.fr/journal/politique/101126/petition-contre-cnews-l-assemblee-etouffe-le-debat-public-suffoque",
-    "date": "Tue, 10 Nov 2026 19:59:55 +0100",
-    "summary": "Les députés macronistes, de droite et d’extrême droite ont réduit au silence le million de signataires de la pétition demandant la fermeture de la chaîne de Vincent Bolloré. Le texte ne suscitera donc aucun débat dans l’hémicycle. Et finit dans une poubelle, à l’image d’un espace public gangrené par le racisme."
-  },
-  {
-    "id": "3f66834c0c99e8f77fa69a11e0942f61",
-    "source": "Mediapart",
-    "title": "Panique au BHV: n’étant plus assuré, le magasin a fermé ses portes",
-    "link": "https://www.mediapart.fr/journal/economie-et-social/101126/panique-au-bhv-n-etant-plus-assure-le-magasin-ferme-ses-portes",
-    "date": "Tue, 10 Nov 2026 19:57:38 +0100",
-    "summary": "Les salariés du grand magasin en redressement judiciaire ont été évacués de leurs locaux le 9 novembre, car le tribunal s’est rendu compte que le magasin n’était plus assuré. Il est donc fermé jusqu’à nouvel ordre. Le risque de liquidation est réel."
-  },
-  {
-    "id": "8a18ba5fc7f16c266b0af817ac3bbbdb",
-    "source": "Mediapart",
-    "title": "«Ignorons l’extrême droite, parlons du monde que nous voulons»",
-    "link": "https://www.mediapart.fr/journal/france/101126/ignorons-l-extreme-droite-parlons-du-monde-que-nous-voulons",
-    "date": "Tue, 10 Nov 2026 19:40:07 +0100",
-    "summary": "Après l’attentat raciste, négrophobe et islamophobe de Trappes et de La Verrière le 23 octobre, comment combattre les discours de haine? Dans «À l’air libre», décryptage des responsabilités médiatiques et politiques. Et mode d’emploi pour faire face."
-  },
-  {
-    "id": "2bb4d0061f8a81fc3acb146d97aecf92",
-    "source": "Mediapart",
-    "title": "Vote dans le Donbass: la fausse bonne idée de Mélenchon",
-    "link": "https://www.mediapart.fr/journal/international/101126/vote-dans-le-donbass-la-fausse-bonne-idee-de-melenchon",
-    "date": "Tue, 10 Nov 2026 18:12:40 +0100",
-    "summary": "En promouvant l’idée d’une autodétermination des populations du Donbass, le dirigeant insoumis ne redonne pas le pouvoir aux peuples, comme il l’assure: il avalise une politique d’annexion, d’occupation et de russification forcée."
-  },
-  {
-    "id": "bbc184d86f72da63a33a57e9b14fffdc",
-    "source": "Mediapart",
-    "title": "La députée LFI Farida Amrani visée et blessée par des tirs de mortier d’artifice à Évry",
-    "link": "https://www.mediapart.fr/journal/france/101126/la-deputee-lfi-farida-amrani-visee-et-blessee-par-des-tirs-de-mortier-d-artifice-evry",
-    "date": "Tue, 10 Nov 2026 18:10:41 +0100",
-    "summary": "La députée LFI Farida Amrani revient auprès de «Mediapart»\" \"sur les tirs de mortier d’artifice dont elle a été victime à Évry-Courcouronnes, en Essonne, samedi 7 novembre. Les images de vidéosurveillance révèlent la violence de cette agression."
-  },
-  {
-    "id": "2b80a2785bd8adc34c8fe5f3b4f16dea",
-    "source": "Mediapart",
-    "title": "L’écrivain Kamel Daoud et la psychiatre Aïcha Dahdouh condamnés en Algérie",
-    "link": "https://www.mediapart.fr/journal/international/101126/l-ecrivain-kamel-daoud-et-la-psychiatre-aicha-dahdouh-condamnes-en-algerie",
-    "date": "Tue, 10 Nov 2026 17:19:32 +0100",
-    "summary": "L’un était poursuivi pour «atteinte à la vie privée» et «recel», l’autre pour «divulgation de secret médical», à la suite d’une polémique autour du roman «Houris», pour lequel Saâda Arbane, victime du terrorisme en Algérie, estimait que son histoire avait été volée. Elle et lui ont été condamnés à cinq ans de prison ferme et à une amende de 300 000 dinars en Algérie."
-  },
-  {
-    "id": "8c0e382d29946619cff5683e5a48aeeb",
+    "id": "75a3bcfd60306fa5f89c63c097aa14a9",
     "source": "Le Monde",
-    "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
-    "date": "Wed, 11 Nov 2026 05:30:08 +0100",
-    "summary": "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette. Après huit mois de blocage, l’administration Trump s’est quand même félicitée qu’ait eu lieu la réunion."
+    "title": "Les déclarations en garde à vue de Kevin Tessier, l’auteur de l’attentat raciste de Trappes : « J’espère que je deviendrai un exemple pour les Français »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/11/les-declarations-en-garde-a-vue-de-kevin-tessier-l-auteur-de-l-attentat-raciste-de-trappes-j-espere-que-je-deviendrai-un-exemple-pour-les-francais_6808986_3224.html",
+    "date": "Wed, 11 Nov 2026 15:57:45 +0100",
+    "summary": "« Le Monde » révèle les coulisses de la garde à vue de Kevin Tessier, suspecté d’avoir assassiné un homme et blessé sept personnes dans les Yvelines le 23 octobre, entre déclarations confuses, séjour en psychiatrie et revendications ouvertement racistes de son passage à l’acte."
   },
   {
-    "id": "2a1deccea85338fe444a355698af7e7c",
+    "id": "ae82fb63fa098511405eff59cb103af2",
     "source": "Le Monde",
-    "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
-    "date": "Wed, 11 Nov 2026 01:28:18 +0100",
-    "summary": "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué, dans un avant-goût de la bataille qu’entend lui livrer la future majorité démocrate."
+    "title": "EN DIRECT, guerre en Ukraine : les condamnations se multiplient après que la Russie a interdit l’entrée sur son territoire à deux députés et deux journalistes français, dont Ariane Chemin, du « Monde »",
+    "link": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-les-condamnations-se-multiplient-apres-que-la-russie-a-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-dont-ariane-chemin-du-monde_6808609_3210.html",
+    "date": "Wed, 11 Nov 2026 16:22:18 +0100",
+    "summary": "La mesure a été prise en réponse à l’expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova, a annoncé la diplomatie russe mercredi. Les députés Sacha Houlié (Place publique) et Arthur Delaporte (Parti socialiste), ainsi que le journaliste Paul Gogo, sont également concernés."
   },
   {
-    "id": "51b36586c54efc3c94f992cdbc01c8da",
+    "id": "26bbe328cf2b12a90b79c3493e1cbfca",
     "source": "Le Monde",
-    "title": "Procès des parents de la petite inconnue de l’A10 : le psychiatre Daniel Zagury ouvre la porte du huis clos familial",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/proces-des-parents-de-la-petite-inconnue-de-l-a10-le-psychiatre-daniel-zagury-ouvre-la-porte-du-huis-clos-familial_6808934_3224.html",
-    "date": "Wed, 11 Nov 2026 06:00:26 +0100",
-    "summary": "Selon le psychiatre, Halima El Bakhti a reproduit sur sa fille les maltraitances qu’elle aurait elle-même subies dans l’enfance et qu’elle nie farouchement. « Inass a été élue à l’envers comme une enfant bouc émissaire », a-t-il observé. La question d’une altération du discernement de l’accusée est posée."
+    "title": "En Italie, des centaines d’écoles évacuées à la suite de fausses alertes à la bombe ; des « messages menaçants » envoyés à des établissements scolaires au Royaume-Uni et en Irlande",
+    "link": "https://www.lemonde.fr/international/article/2026/11/11/en-italie-des-centaines-d-ecoles-evacuees-a-la-suite-de-fausses-alertes-a-la-bombe-des-messages-menacants-envoyes-a-des-etablissements-scolaires-au-royaume-uni_6808968_3210.html",
+    "date": "Wed, 11 Nov 2026 13:24:00 +0100",
+    "summary": "La cheffe du gouvernement italien, Giorgia Meloni, a convoqué une réunion gouvernementale plus tard dans la journée de mercredi après que 312 écoles ont reçu des menaces."
   },
   {
-    "id": "189036d3a3e5193c4005ccff1f37f1f7",
+    "id": "29a9ff4f84656e89fe8856aafbb1b09c",
     "source": "Le Monde",
-    "title": "COP31 : lors des négociations climatiques, le difficile positionnement des « bons élèves » européens",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/11/cop31-lors-des-negociations-climatiques-le-difficile-positionnement-des-bons-eleves-europeens_6808929_3244.html",
-    "date": "Wed, 11 Nov 2026 06:00:03 +0100",
-    "summary": "Le président français, Emmanuel Macron, est absent du « sommet des leaders » qui se tient mercredi et jeudi à Antalya, en Turquie. La présidente de la Commission européenne, Ursula von der Leyen, exprimera les attentes des Européens."
+    "title": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
+    "date": "Wed, 11 Nov 2026 13:07:18 +0100",
+    "summary": "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie. Elle avait déjà rencontré une douzaine de patrons de grands groupes en avril."
   },
   {
-    "id": "993d5437cc609cd3c9c2849ac040dac1",
+    "id": "410de45f6d26ea85c9017686e99a9bbc",
     "source": "Le Monde",
-    "title": "Procès de l’interpellation violente de Michel Zecler par des policiers : des vidéos accablantes et une victime toujours dans le « chaos »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/affaire-michel-zecler-au-proces-des-policiers-poursuivis-pour-violences-des-videos-accablantes-et-une-victime-toujours-dans-le-chaos_6808924_3224.html",
-    "date": "Wed, 11 Nov 2026 05:00:02 +0100",
-    "summary": "Les images analysées au cours de l’enquête, et présentées lors du deuxième jour d’audience, mardi 10 novembre, devant la cour criminelle de Paris, montrent l’avalanche de coups portés par les trois agents sur le producteur de musique en 2020, sans répondre à toutes les questions, notamment au soupçon d’un mobile raciste."
+    "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
+    "link": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
+    "date": "Wed, 11 Nov 2026 07:00:07 +0100",
+    "summary": "A l’occasion d’une assemblée parlementaire, lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros."
   },
   {
-    "id": "8360162c623bbae283669bf5f0394d04",
+    "id": "ba9a79646819b0a609cc278ee05d2a3c",
     "source": "Le Monde",
-    "title": "Route du rhum 2026 : Corentin Horeau s’impose en Imoca, un coup de maître pour sa première participation",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/11/route-du-rhum-2026-corentin-horeau-s-impose-en-imoca-un-coup-de-maitre-pour-sa-premiere-participation_6808937_3242.html",
-    "date": "Wed, 11 Nov 2026 06:25:21 +0100",
-    "summary": "Suivant une stratégie très maîtrisée, le skippeur breton de 37 ans a remporté, dans la nuit de mardi à mercredi, la course transatlantique dans la catégorie des monocoques du Vendée Globe. Il s’offre au passage le record de l’épreuve."
+    "title": "« Pola X » et « Pierre ou les ambiguïtés », de Leos Carax, films miroirs de retour sur les écrans",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/10/pola-x-et-pierre-ou-les-ambiguites-de-leos-carax-films-miroirs-de-retour-sur-les-ecrans_6808885_3246.html",
+    "date": "Tue, 10 Nov 2026 18:30:04 +0100",
+    "summary": "Ces deux œuvres fiévreuses, issues du même tournage et scrutant la chute d’un écrivain joué par Guillaume Depardieu, avaient, à la sortie, dérouté la critique."
   },
   {
-    "id": "8be035334a26ed38c5d9d3409152fd4f",
+    "id": "6f19f1e2a6e827313fe69fbd34406922",
     "source": "Le Monde",
-    "title": "Au Brésil, Meta condamnée à une lourde amende pour une différence de traitement jugée inégale entre Lula et Flavio Bolsonaro durant la présidentielle",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
-    "date": "Wed, 11 Nov 2026 04:16:28 +0100",
-    "summary": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite."
+    "title": "Vincent Caure, un macroniste de la première heure à la tête de la commission d’enquête sur le 17 octobre",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/11/vincent-caure-un-macroniste-de-la-premiere-heure-a-la-tete-de-la-commission-d-enquete-sur-le-17-octobre_6808975_823448.html",
+    "date": "Wed, 11 Nov 2026 14:30:02 +0100",
+    "summary": "Proche de Stéphane Séjourné, le député de la circonscription des Français de l’étranger d’Europe du Nord élu en 2024 fait partie de l’aventure macroniste depuis 2016. Porté en juillet à la présidence de la commission des lois de l’Assemblée nationale, il devient le plus jeune député de la Vᵉ République à ce poste."
   },
   {
-    "id": "8e7d83d7f7743addc8590b11d1b72845",
+    "id": "173af55ddbabaa6e7c08a40ffc76b1f6",
     "source": "Le Monde",
-    "title": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont 500 jours de trop »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html",
-    "date": "Wed, 11 Nov 2026 05:30:12 +0100",
-    "summary": "Le reporter français, condamné en juin 2025 pour « apologie du terrorisme », est incarcéré dans la prison de Koléa, l’un des plus grands établissements pénitentiaires du pays. Ses proches décrivent un homme combatif, « qui ne peut se passer d’être journaliste, même en prison »."
+    "title": "Triple homicide en 2020 : prison à perpétuité requise contre des figures du narcobanditisme marseillais, dont l’une des victimes est le frère d’Amine Kessaci",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/11/triple-homicide-en-2020-prison-a-perpetuite-requise-contre-des-figures-du-narcobanditisme-marseillais-dont-l-une-des-victimes-est-le-frere-d-amine-kessaci_6808979_3224.html",
+    "date": "Wed, 11 Nov 2026 15:03:56 +0100",
+    "summary": "Les figures du narcobanditisme marseillais Amine Oualane et Karim Harrat sont accusés d’avoir commandité l’assassinat de trois vingtenaires à Marseille en 2020 – Brahim Chabane, le grand frère du militant contre le narcotrafic Amine Kessaci, ainsi que Réda Khaldi et Nassim Loubani."
   },
   {
-    "id": "24f094d0031d14fa9fd2b55c56e2b2e2",
+    "id": "9b2e428a9dcb506c719e1047f31f8001",
     "source": "Le Monde",
-    "title": "Au procès de l’explosion de la rue de Trévise, le témoignage éclairant d’un restaurateur et les hypothèses d’un inspecteur de la Ville de Paris",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/au-proces-de-l-explosion-de-la-rue-de-trevise-le-temoignage-eclairant-d-un-restaurateur-et-les-hypotheses-d-un-inspecteur-de-la-ville-de-paris_6808923_3224.html",
-    "date": "Wed, 11 Nov 2026 05:00:13 +0100",
-    "summary": "Le patron d’un établissement voisin s’était inquiété à la fois de l’affaissement du trottoir et des fuites d’eaux usées dans les caves. L’inspecteur chargé d’un audit de la municipalité après la catastrophe s’est, lui, interrogé sur une très longue intervention des égoutiers dans les caves en 2016, trois ans avant la catastrophe."
+    "title": "La disparition de l’aviatrice Amelia Earhart, en 1937, un mystère qui reste entier malgré une nouvelle expédition",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/11/la-disparition-de-l-aviatrice-amelia-earhart-en-1937-un-mystere-qui-reste-entier-malgre-une-nouvelle-expedition_6808965_1650684.html",
+    "date": "Wed, 11 Nov 2026 13:00:06 +0100",
+    "summary": "Grâce à des images satellitaires, des archéologues pensaient avoir localisé dans le lagon de l’île de Nikumaroro, dans le Pacifique, l’épave du Lockheed Electra 10-E de l’Américaine, disparue il y a neuf décennies lors de sa tentative de tour du monde aérien féminin. Une équipe s’est rendue sur place, en octobre."
   },
   {
-    "id": "57a30607498ba74851e2a06414221cef",
+    "id": "87c62122ebe8c6582a0d1beab37acc48",
     "source": "Le Monde",
-    "title": "Parcoursup : « La sélection n’est pas l’ennemie de l’égalité des chances »",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/11/parcoursup-la-selection-n-est-pas-l-ennemie-de-l-egalite-des-chances_6808921_3232.html",
-    "date": "Wed, 11 Nov 2026 05:00:03 +0100",
-    "summary": "Supprimer toute régulation à l’entrée de l’université revient à fabriquer des générations de jeunes sans emploi, explique le président du conseil d’orientation des politiques de jeunesse, Hugo Huet, dans une tribune au « Monde »."
+    "title": "Julia Kerninon, romancière : « Quand les enfants commencent à parler, on perd le pouvoir de parler à leur place »",
+    "link": "https://www.lemonde.fr/intimites/article/2026/11/11/julia-kerninon-romanciere-quand-les-enfants-commencent-a-parler-on-perd-le-pouvoir-de-parler-a-leur-place_6808974_6190330.html",
+    "date": "Wed, 11 Nov 2026 14:00:13 +0100",
+    "summary": "« Vie de parents ». Une personnalité évoque les joies et les épreuves de son quotidien avec des enfants. L’écrivaine, mère de deux garçons, tacle sa propre paranoïa, salue l’entraide entre mères, et explique s’employer à faire rire ses fils."
   },
   {
-    "id": "bc97701b57ac33d225ad3f41e3e51d65",
+    "id": "4504b629548465f7fd7f6ac02783134c",
     "source": "Le Monde",
-    "title": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
-    "date": "Wed, 11 Nov 2026 06:30:05 +0100",
-    "summary": "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts. Au risque que les patients concernés, qui souffrent surtout de troubles musculo-squelettiques ou de santé mentale, se retrouvent sans revenus."
+    "title": "Le premier ministre du Kosovo, Albin Kurti, veut « une accession à l’UE fondée sur le mérite, et non pas par une porte dérobée »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/11/le-premier-ministre-du-kosovo-albin-kurti-veut-une-accession-a-l-ue-fondee-sur-le-merite-et-non-pas-par-une-porte-derobee_6808952_3210.html",
+    "date": "Wed, 11 Nov 2026 11:00:06 +0100",
+    "summary": "Rencontré à Paris lors de son passage dans la capitale pour voir Emmanuel Macron, le dirigeant kosovar défend une intégration européenne reposant sur les réformes entreprises. Il appelle aussi la France à soutenir les projets d’infrastructures et d’énergie du pays, pour améliorer sa résilience dans un contexte géopolitique incertain."
   },
   {
-    "id": "9ac3130c11bd4b409f9ec140452c4446",
+    "id": "008f2c0ebf93b64dd6edb141e7f97245",
     "source": "Le Monde",
-    "title": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
-    "date": "Wed, 11 Nov 2026 06:06:23 +0100",
-    "summary": "Abelardo de la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a pour habitude de rendre compte d’opérations meurtrières dans des vidéos où il apparaît aux côtés de corps sans vie."
+    "title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
+    "date": "Wed, 11 Nov 2026 14:00:06 +0100",
+    "summary": "Par économie budgétaire, l’exécutif vient de s’attaquer à deux dispositifs utilisés par les collectivités locales pour le financement de l’adaptation au changement climatique et la décarbonation."
   },
   {
-    "id": "20c9612a34536729cad2e05c79fb9e4f",
+    "id": "03ebca6d4ed3aa3873fe4aff72f49798",
     "source": "Le Monde",
-    "title": "A Buenos Aires, devant un million de jeunes, le pape Léon XIV exhorte à résister « aux idoles de notre temps » : le succès, l’apparence, le plaisir effréné",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/a-buenos-aires-devant-un-million-de-jeunes-le-pape-leon-xiv-exhorte-a-resister-aux-idoles-de-notre-temps-succes-apparence-plaisir-effrene_6808916_3210.html",
-    "date": "Wed, 11 Nov 2026 03:17:06 +0100",
-    "summary": "Le souverain pontife a aussi évoqué, mardi, en Argentine, son opération en octobre pour un cancer du poumon, mais pour faire l’éloge de la persévérance pastorale."
+    "title": "Attentat de Trappes : « Les principes qui gouvernent la responsabilité pénale ne sauraient être à géométrie variable selon les idées défendues »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/11/attentat-de-trappes-les-principes-qui-gouvernent-la-responsabilite-penale-ne-sauraient-etre-a-geometrie-variable-selon-les-idees-defendues_6808957_3232.html",
+    "date": "Wed, 11 Nov 2026 12:00:06 +0100",
+    "summary": "Vincent Brengarth, avocat de l’un des coaccusés au procès de l’assassin de Samuel Paty, alerte, dans une tribune au « Monde », sur une « logique de criminalisation à géométrie variable », alors que certains s’interrogent sur la responsabilité pénale de l’extrême droite dans la propagation d’idées susceptibles d’avoir inspiré l’auteur de l’attentat du 23 octobre."
   },
   {
-    "id": "cbec814bccc660372733bfec6933ea34",
+    "id": "cb3ffe67f208fda3777d6de4e6f7da4e",
     "source": "Le Monde",
-    "title": "Aux Etats-Unis, un juge refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/11/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc-permettant-a-la-procedure-de-se-poursuivre_6808914_3234.html",
-    "date": "Wed, 11 Nov 2026 02:34:12 +0100",
-    "summary": "Le président américain reproche au groupe audiovisuel public britannique d’avoir réalisé un montage vidéo trompeur de ses propos. « La question de savoir s’il a subi des dommages est remise à plus tard », lors d’un jugement sur le fond, écrit le juge."
+    "title": "Le « vigilantisme », la violence de citoyens qui entendent se substituer à l’Etat",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/11/le-vigilantisme-la-violence-de-citoyens-qui-entendent-se-substituer-a-l-etat_6808948_3232.html",
+    "date": "Wed, 11 Nov 2026 10:00:07 +0100",
+    "summary": "Le 24 octobre, des militants d’extrême droite, répondant pour certains à l’appel d’un influenceur, prétendaient vouloir défendre les commerces contre les casseurs. Une violence décrite par un terme qui désigne la volonté de citoyens de s’organiser à la place de pouvoirs publics perçus comme affaiblis, voire illégitimes."
   },
   {
-    "id": "0832f45055d6b81e00fdf85636c38ec5",
+    "id": "4fa3a51816f9f7166c7fa36fde131214",
     "source": "Le Monde",
-    "title": "Sonia Mabrouk dans « Le Monde », une journaliste prometteuse désormais soupçonnée de complaisance envers l’extrême droite",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/10/sonia-mabrouk-dans-le-monde-une-journaliste-prometteuse-desormais-soupconnee-de-complaisance-envers-l-extreme-droite_6808880_4500055.html",
-    "date": "Tue, 10 Nov 2026 18:00:10 +0100",
-    "summary": "Contestée à BFM-TV, qu’elle a rejoint cette année, l’ex-présentatrice vedette de CNews se trouve dans la tourmente. Son nom était apparu dans le quotidien en juin 2011."
+    "title": "L’acteur américain Stacy Keach, détective de la série « Mike Hammer », est mort à 85 ans",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/11/11/l-acteur-americain-stacy-keach-detective-de-la-serie-mike-hammer-est-mort-a-85-ans_6808977_3382.html",
+    "date": "Wed, 11 Nov 2026 14:36:53 +0100",
+    "summary": "Bien que considéré comme l’un des plus grands interprètes de Shakespeare au théâtre aux Etats-Unis, Stacy Keach était indissolublement associé à la série « Mickey Spillane’s Mike Hammer » (1984-1987)."
   },
   {
-    "id": "c1f2e07299d2a97c7cb8ce721dfeb897",
+    "id": "537345d074ebb47a4868ee8dad9c9cef",
     "source": "Libération",
-    "title": "Russie : incendie dans un important port russe sur la Baltique après une attaque de drones ukrainiens",
-    "link": "https://www.liberation.fr/international/europe/russie-incendie-dans-un-important-port-russe-sur-la-baltique-apres-une-attaque-de-drones-ukrainiens-20261111_IMB26HLFYNAWPOR6A3YTO2G7HU/",
-    "date": "Wed, 11 Nov 2026 07:07:57 +0000",
-    "summary": "Oust-Louga, sur le golfe de Finlande, est une infrastructure majeure pour les exportations russes de gaz, de pétrole, d’engrais et de charbon."
+    "title": "Alerte à la bombe en Italie, plus de 6 000 écoles évacuées",
+    "link": "https://www.liberation.fr/international/europe/alerte-a-la-bombe-en-italie-au-moins-300-ecoles-evacuees-20261111_LZK4MBES6RGMTPXJDP2NTWNTZI/",
+    "date": "Wed, 11 Nov 2026 15:24:35 +0000",
+    "summary": "Des milliers d’établissements scolaires italiens ont reçu le même message d’alerte à la bombe, ce mercredi 11 novembre. Le ministre de l’Education a déclaré qu’il s’agit sûrement de canulars, étant donné le grand nombre d’écoles touchées. Des écoles écossaises et irlandaises ont également été menacées."
   },
   {
-    "id": "7bd09b9a8907e4539885016815036e37",
+    "id": "123838a4539564b6a942139896c118a2",
     "source": "Libération",
-    "title": "«Je veux regarder cet endroit comme un espace de vie» : à Marseille, une maison commune érigée sur le site des effondrements de la rue d’Aubagne",
-    "link": "https://www.liberation.fr/societe/logement/je-veux-regarder-cet-endroit-comme-un-espace-de-vie-a-marseille-une-maison-commune-erigee-sur-le-site-des-effondrements-de-la-rue-daubagne-20261111_J4IWAZSEQNCUJEKMO5WAGAIF5Q/",
-    "date": "Wed, 11 Nov 2026 06:57:00 +0000",
-    "summary": "Huit ans après la tragédie qui a coûté la vie à huit personnes, un équipement géré par la mairie a été inauguré dans le quartier de Noailles. Un lieu de «mémoire et d’écoute»."
+    "title": "«VU va fermer mais d’autres vont suivre» : comment l’IA accélère l’agonie des agences photos à taille humaine",
+    "link": "https://www.liberation.fr/culture/photographie/vu-va-fermer-mais-dautres-vont-suivre-comment-lia-accelere-lagonie-des-agences-photos-a-taille-humaine-20261111_YYELU563U5FM5HH2NIDDWCB44M/",
+    "date": "Wed, 11 Nov 2026 15:23:36 +0000",
+    "summary": "Dans un univers du tout image, la photographie professionnelle souffre. Après les économies d’échelle via des plateformes de diffusion et des tarifs de commande revus à la baisse, l’intelligence artificielle vient donner le coup de grâce à cet écosystème artisanal qui soutenait la production et facilitait la rémunératrice revente des clichés."
   },
   {
-    "id": "009ff87706afa204b4dd830eec6ea9a0",
+    "id": "f5126c26fcb3024bc749a5ed6ed28759",
     "source": "Libération",
-    "title": "Championnats du monde de surf : les médaillés de Paris 2024 planchent déjà sur les prochains Jeux",
-    "link": "https://www.liberation.fr/sports/jeux-olympiques/championnats-du-monde-de-surf-les-medailles-de-paris-2024-planchent-deja-sur-les-prochains-jeux-20261111_MYFDKH4NTVDR5GGH2RK6ZSFPJA/",
-    "date": "Wed, 11 Nov 2026 06:52:00 +0000",
-    "summary": "Du 7 au 15 novembre se tiennent au Pérou les championnats du monde de surf. Ils lancent le début de la course olympique, avec l’attribution de deux quotas supplémentaires pour Los Angeles 2028, que lorgnent Johanne Defay et Kauli Vaast."
+    "title": "Nina Meurisse, comédienne : féroce tranquille",
+    "link": "https://www.liberation.fr/portraits/nina-meurisse-comedienne-feroce-tranquille-20261111_BTVILISPE5DTTLUK36DW4ZEHIU/",
+    "date": "Wed, 11 Nov 2026 15:10:00 +0000",
+    "summary": "Prudente face à la notion d’artiste engagée, l’actrice déploie douceur et convictions fortes dans des rôles de plus en plus remarqués."
   },
   {
-    "id": "d73354b7c4c6c5f16c4c6d70ade7f370",
+    "id": "3ed1b85c564eac264c5a8903c19f638b",
     "source": "Libération",
-    "title": "L’antilope saïga, emblème du Kazakhstan, steppe ou encore ?",
-    "link": "https://www.liberation.fr/environnement/animaux/lantilope-saiga-embleme-du-kazakhstan-steppe-ou-encore-20261111_YPFCGRCMENCBJKHQBII4ZW7P2E/",
-    "date": "Wed, 11 Nov 2026 06:36:00 +0000",
-    "summary": "Considéré comme sacré, cet étrange animal à la trompe proéminente et aux cornes torsadées, qui a côtoyé les mammouths, a failli disparaître. Mais désormais protégé, il prolifère et déstabilise les écosystèmes."
+    "title": "Manifestations : aurait-on besoin de «street medics» dans les rues s’il n’y pleuvait pas des LBDs et des lacrymos ?",
+    "link": "https://www.liberation.fr/societe/sante/manifestations-aurait-on-besoin-de-street-medics-dans-les-rues-sil-ny-pleuvait-pas-des-lbds-et-des-lacrymos-20261111_RM2F4EKFGNBSLA33SCZPZHF5SM/",
+    "date": "Wed, 11 Nov 2026 14:56:02 +0000",
+    "summary": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui, il revient sur l’interdiction faite aux secouristes de rue de venir en aide aux manifestants."
   },
   {
-    "id": "7a57559055d6b8a3a7467c9483ab2087",
+    "id": "59e5aae5179774aaa2a931baf2a22968",
     "source": "Libération",
-    "title": "Au cinéma, les dresseurs montrent patte blanche",
-    "link": "https://www.liberation.fr/culture/cinema/au-cinema-les-dresseurs-montrent-patte-blanche-20261111_SBGEPOMXXVDSBO2BZBYV6XVBB4/",
-    "date": "Wed, 11 Nov 2026 06:14:00 +0000",
-    "summary": "Encore mal connu du grand public, ce métier de l’ombre se transforme avec une nouvelle génération de professionnels attentifs au bien-être animal. De «Bac Nord» à «Anatomie d’une chute», la profession crée son propre cadre éthique."
+    "title": "Dominique Sopo : «Il y a une tolérance glissante et un silence honteux, même au sein de la gauche, face au racisme»",
+    "link": "https://www.liberation.fr/societe/dominique-sopo-il-y-a-une-tolerance-glissante-et-un-silence-honteux-meme-au-sein-de-la-gauche-face-au-racisme-20261111_LWYKRASLUBAP5AZY3B5QWRBPBU/",
+    "date": "Wed, 11 Nov 2026 14:53:13 +0000",
+    "summary": "Le président de SOS Racisme, dont le livre «le Racisme tue toujours» est publié ce jeudi 12 novembre, s’est longuement posé avec «Libération» pour évoquer la lutte contre les idées xénophobes."
   },
   {
-    "id": "e49cc6bc154b0a2fc082bd4d30110dd3",
+    "id": "ee97773aa3d31bfd017feb818d580903",
     "source": "Libération",
-    "title": "Conditionnement des aides aux entreprises : derrière la victoire syndicale, un décret aux effets limités",
-    "link": "https://www.liberation.fr/economie/social/conditionnement-des-aides-aux-entreprises-derriere-la-victoire-syndicale-un-decret-aux-effets-limites-20261111_YO7WG3JOOZF43CYLEP4WCCMHQE/",
-    "date": "Wed, 11 Nov 2026 06:12:00 +0000",
-    "summary": "Au lendemain de la conférence sociale, le gouvernement a publié, mardi 10 novembre, un décret qui revoit le calcul des exonérations de cotisations pour les branches ayant des minima salariaux inférieurs au smic. Mais avec plusieurs moyens d’éviter la sanction."
+    "title": "«Pola X», le film maudit de Leos Carax ressurgit des ténèbres",
+    "link": "https://www.liberation.fr/culture/pola-x-le-film-maudit-de-leos-carax-ressurgit-des-tenebres-20261111_JCR74DBID5ELJDHN7ACZ7HZKLA/",
+    "date": "Wed, 11 Nov 2026 14:37:12 +0000",
+    "summary": "Le long-métrage, boudé à sa sortie en 1999, et sa version sérielle, « Pierre ou les ambiguïtés », reviennent sur les écrans ce mercredi et en coffret 4K dans une édition restaurée sous la supervision du réalisateur."
   },
   {
-    "id": "c97bfdf95ba1d47a35937b76da6abb8e",
+    "id": "9ca96182f06f078b4b3c3d1ffc05261d",
     "source": "Libération",
-    "title": "«Infirmary», «Everytime», «Izolyatsia» ... Nos critiques des sorties cinéma de la semaine",
-    "link": "https://www.liberation.fr/culture/cinema/infirmary-everytime-izolyatsia-nos-critiques-des-sorties-cinema-de-la-semaine-20261111_4IHMNMI4SVAOZLPVS2MRSOTXPU/",
-    "date": "Wed, 11 Nov 2026 06:00:00 +0000",
-    "summary": "«Libé» vous guide dans les sorties cinéma de ce mercredi 11 novembre avec aussi «Ce qui nous mène à toi», «The Good Boy», «15/18»... Bandes-annonces à l’appui."
+    "title": "La fuite de données révélant que 400 000 Russes sont morts en Ukraine est-elle crédible ?",
+    "link": "https://www.liberation.fr/checknews/la-fuite-de-donnees-revelant-que-400-000-russes-sont-morts-en-ukraine-est-elle-credible-20261111_TMKCRVT4DJFG5AQ4W4LS5AWJVU/",
+    "date": "Wed, 11 Nov 2026 14:36:40 +0000",
+    "summary": "Une immense base de données des actes de décès en Russie a récemment été hackée par deux groupes, permettant de quantifier l’ampleur du bilan meurtrier de la guerre en Ukraine."
   },
   {
-    "id": "00a54e72d1577bbef9f8b244cbaa7761",
+    "id": "dc2ae735600538c99e5f6bc20f611cc1",
     "source": "Libération",
-    "title": "Ce jeu vidéo qui a changé ma vie : «Le jour, j’arrive à vivre mon deuil, mais le soir c’est toujours très dur»",
-    "link": "https://www.liberation.fr/lifestyle/ce-jeu-video-qui-a-change-ma-vie-le-jour-jarrive-a-vivre-mon-deuil-mais-le-soir-cest-toujours-tres-dur-20261111_662EICBB55CRXFDZIYXPQPGVDI/",
-    "date": "Wed, 11 Nov 2026 05:41:00 +0000",
-    "summary": "Dans le troisième épisode de notre série, Adrien raconte comment le RPG «Elden Ring» a rythmé ses journées lors d’un arrêt maladie longue durée, puis du deuil de ses parents."
+    "title": "Présidentielle 2027 : chez Teddy Riner, c’est la parole très à droite qui fait peur",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-chez-teddy-riner-cest-la-parole-tres-a-droite-qui-fait-peur-20261111_OE3UN5N2KVBDHJQPVYBEPOLPDA/",
+    "date": "Wed, 11 Nov 2026 14:15:00 +0000",
+    "summary": "L’analyse linguistique de la vidéo postée lundi par le champion de judo pour annoncer sa candidature à la présidence de la république révèle, sous le vernis du novice hors système, son ancrage populiste paternaliste et autoritaire, s’inquiète notre chroniqueuse."
   },
   {
-    "id": "781c75cc80d666c40ab04b827633ab00",
+    "id": "9fb38da205378f73787ece5b5735aa4e",
     "source": "Libération",
-    "title": "«Les Yeux verts» : mystère d’asile",
-    "link": "https://www.liberation.fr/culture/cinema/les-yeux-verts-mystere-dasile-20261111_M2FNL5CTFNGXTHFGBPLMCYYN4M/",
-    "date": "Wed, 11 Nov 2026 05:22:00 +0000",
-    "summary": "Après «Gagarine», les cinéastes Fanny Liatard et Jérémy Trouilh retrouvent le fantastique social avec le récit d’une famille irakienne menacée d’expulsion."
+    "title": "En réaction à l’expulsion de Fedorova, la Russie interdit de territoire deux députés et deux journalistes français",
+    "link": "https://www.liberation.fr/international/europe/en-reaction-a-lexpulsion-de-fedorova-la-russie-interdit-de-territoire-deux-deputes-et-deux-journalistes-francais-20261111_HN2JUTQSGZAALCIS22HOVBGC4U/",
+    "date": "Wed, 11 Nov 2026 14:14:16 +0000",
+    "summary": "La porte-parole du ministère des Affaires étrangères russe a annoncé ce mercredi 11 novembre cette mesure visant Sacha Houlié, Arthur Delaporte, Ariane Chemin et Paul Gogo, en réponse à l’expulsion de la chroniqueuse pro-Kremlin."
   },
   {
-    "id": "8ef4a5987f41cd540a1064a196d8ea8a",
+    "id": "1cbd6f5e97254814dda033b606bfebb7",
     "source": "Libération",
-    "title": "Les démocrates ont deux ans pour désintoxiquer les Américains du poison populiste Maga",
-    "link": "https://www.liberation.fr/idees-et-debats/tribunes/les-democrates-ont-deux-ans-pour-desintoxiquer-les-americains-du-poison-populiste-maga-20261111_BMB4JXMYSVGNDK5VRGATIGT4KQ/",
-    "date": "Wed, 11 Nov 2026 05:17:00 +0000",
-    "summary": "Pour l’emporter en 2028, leur candidat·e devra attirer la majorité modérée de l’électorat qui rejette Trump mais redoute surtout l’instabilité, la division et la fin de l’ «American way of life», tout en mobilisant sur sa gauche la jeunesse progressiste."
+    "title": "IPad pour manchots, machine à bulles pour ours, jeux vidéo pour singes… Avec la tech, les animaux vivent-ils leur zootopie ?",
+    "link": "https://www.liberation.fr/economie/economie-numerique/ipad-pour-manchots-machine-a-bulles-pour-ours-jeux-video-pour-singes-avec-la-tech-les-animaux-vivent-ils-leur-zootopie-20261111_6AWOG5XAEVG2LKZOVI42E53LYQ/",
+    "date": "Wed, 11 Nov 2026 14:11:00 +0000",
+    "summary": "Les outils technologiques envahissent les parcs animaliers afin d’«améliorer» la vie des espèces en captivité. Mais ces usages ne sont pas sans risque."
   },
   {
-    "id": "44d3385696626f7c56a4d8a61682c3cf",
+    "id": "7d70da8a1a61e1b38e711076c69bcb71",
     "source": "Libération",
-    "title": "Pétition contre CNews classée sans suite : l’occasion manquée des députés",
-    "link": "https://www.liberation.fr/politique/petition-contre-cnews-classee-sans-suite-loccasion-manquee-des-deputes-20261111_GYQYWRYHRFF5DIE5OI4W4RJPQI/",
-    "date": "Wed, 11 Nov 2026 05:05:00 +0000",
-    "summary": "Si ce n’est évidemment pas aux parlementaires de décider si une chaîne de télévision à le droit d’exister, ils auraient pu débattre de la bonne application des lois sur l’Arcom ou celles qui encadrent la liberté d’expression."
+    "title": "Au Pérou, les retrouvailles de Léon XIV avec une Eglise aux tentations conservatrices",
+    "link": "https://www.liberation.fr/international/amerique/au-perou-les-retrouvailles-de-avec-une-eglise-aux-tentations-conservatrices-20261111_KY54AKJMKFCWHFRTJM7WQL4CYE/",
+    "date": "Wed, 11 Nov 2026 14:08:02 +0000",
+    "summary": "Le pape arrive ce mercredi 11 novembre dans un pays qu’il connaît bien, pour y avoir été prêtre puis évêque de 1985 à 2023. Bien que purgée de ses prélats de l’Opus Dei, la hiérarchie locale garde une tendance rétrograde."
   },
   {
-    "id": "84ab752b5fe98638bad6ed92d98abd46",
+    "id": "4c7a5f897e0cecec2bbfacf9d8a072ed",
     "source": "Libération",
-    "title": "Christophe Gleizes en détention : 500 jours loin des siens",
-    "link": "https://www.liberation.fr/international/afrique/christophe-gleizes-en-detention-500-jours-loin-des-siens-20261108_5LPRSE55CRAQVLRMFSX4ULXT5M/",
-    "date": "Wed, 11 Nov 2026 04:54:00 +0000",
-    "summary": "Alors que le journaliste est détenu en Algérie depuis juin 2025 pour «apologie du terrorisme», «Libération» publie deux lettres, écrites à deux ans d’intervalle, entre lui et son frère."
+    "title": "Au procès du narchomicide du demi-frère d’Amine Kessaci, la perpétuité requise contre quatre accusés",
+    "link": "https://www.liberation.fr/societe/police-justice/au-proces-du-narchomicide-du-demi-frere-damine-kessaci-la-perpetuite-requise-contre-quatre-accuses-20261111_OOWADC5RUZDVRIWH62D7VZAZBQ/",
+    "date": "Wed, 11 Nov 2026 14:00:15 +0000",
+    "summary": "L’avocat général a requis ces peines ce mercredi notamment contre Amine Oualane, le «chef de l’équipe des tueurs» et Karim Harrat, le «donneur d’ordre»."
   },
   {
-    "id": "6c17a6d657588bf62718e3211304115e",
+    "id": "c30cc5a8d27fe2892b3df66778d887ab",
     "source": "Libération",
-    "title": "Etats-Unis : Pete Hegseth, ministre de la Défense la fleur au fusible",
-    "link": "https://www.liberation.fr/international/amerique/etats-unis-pete-hegseth-ministre-de-la-defense-et-fusible-du-parti-republicain-20261110_QXCXT53VKBBQRMUNNOTMQRG7IU/",
-    "date": "Wed, 11 Nov 2026 04:33:50 +0000",
-    "summary": "Accablé dans le sillage des élections de mi-mandat pour sa gestion de la guerre en Iran, le ministre de la Défense de Donald Trump a été sauvé de justesse par les républicains d’une procédure de destitution, mardi 10 novembre."
+    "title": "En Gironde, le dispositif «l’Ecole autrement» fait classe hors les murs : «C’est très beau de les voir progresser à leur rythme»",
+    "link": "https://www.liberation.fr/societe/en-gironde-le-dispositif-lecole-autrement-fait-classe-hors-les-murs-cest-tres-beau-de-les-voir-progresser-a-leur-rythme-20261111_PDAS6RZTT5BEBEXOUXIXVD2IBA/",
+    "date": "Wed, 11 Nov 2026 13:51:27 +0000",
+    "summary": "Depuis un an, le Centre départemental de l’enfance et de la famille de Gironde expérimente un nouveau dispositif visant à redonner le goût d’apprendre à des enfants aux parcours chaotiques, qui ne trouvent plus leur place dans le monde scolaire ordinaire. Sur place ou dans une classe mobile, ce travail «d’équilibriste» donne de premiers résultats «encourageants»."
   },
   {
-    "id": "d3e5c290402736160cc5c9e9fc446e1e",
+    "id": "8ee379884ea6469266e3059ca958f200",
     "source": "Libération",
-    "title": "Dr. Donald et Mr. Trump : la folle lettre du milliardaire à Joe Biden en 2021",
-    "link": "https://www.liberation.fr/international/amerique/dr-donald-et-mr-trump-la-folle-lettre-du-milliardaire-a-joe-biden-en-2021-20261110_3WX3IY3IH5CV3GRV77UHXTCKAQ/",
-    "date": "Tue, 10 Nov 2026 21:32:45 +0000",
-    "summary": "Le «New York Times» révèle ce mardi 10 novembre le contenu de la lettre laissée dans le Bureau ovale le 20 janvier 2021, jour de l’investiture du démocrate. Une missive étonnamment douce et fleurie, qui laisse entrevoir un président américain aux deux visages."
+    "title": "Des vidéos «dramas» sur les réseaux sociaux au premier film 100 % par IA, la bascule dans une nouvelle ère des industries culturelles chinoises",
+    "link": "https://www.liberation.fr/economie/economie-numerique/des-videos-dramas-sur-les-reseaux-sociaux-au-premier-film-100-par-ia-la-bascule-dans-une-nouvelle-ere-des-industries-culturelles-chinoises-20261111_TXY6Z47LXBE3TBMNGKX7B5MP7I/",
+    "date": "Wed, 11 Nov 2026 13:45:05 +0000",
+    "summary": "Pendant deux semaines, «Libération» a sillonné la Chine pour raconter la place de l’IA dans ce pays pionnier. Dans le cinquième épisode de notre série, entre cité antique et slop à tout va, comment les nouvelles technologies transforment le cinéma chinois."
   },
   {
-    "id": "b395468a17d0830f94d131927a65fb96",
+    "id": "337366bcf9cc5dd9d3097eff598f7b97",
     "source": "Libération",
-    "title": "Une enquête ouverte après la cyberattaque contre l’Etablissement français du sang",
-    "link": "https://www.liberation.fr/societe/sante/une-enquete-ouverte-apres-la-cyberattaque-contre-letablissement-francais-du-sang-20261110_NDSJ2YSJXNH4RA6445N77JCE3I/",
-    "date": "Tue, 10 Nov 2026 20:52:39 +0000",
-    "summary": "Plusieurs chambres froides d’un prestataire de l’EFS avaient vu leur température modifiée à distance début novembre, «sans impact sanitaire». Les investigations ont été confiées à l’Office anti-cybercriminalité et à la Direction générale de la sécurité intérieure."
+    "title": "Mort de l’Américain Stacy Keach à 85 ans : un acteur multifacettes, de Mike Hammer à Hamlet",
+    "link": "https://www.liberation.fr/culture/cinema/mort-de-lamericain-stacy-keach-a-85-ans-un-acteur-multifacettes-de-mike-hammer-a-hamlet-20261111_3MPGYRZVGVH4VMRJN4DJBKNTHY/",
+    "date": "Wed, 11 Nov 2026 13:31:05 +0000",
+    "summary": "Célèbre pour son interprétation du détective privé créé par Mickey Spillane, il s’est également illustré au théâtre et dans des longs métrages."
+  },
+  {
+    "id": "e29164c16087007f7afa05b3f9139814",
+    "source": "Reporterre",
+    "title": "« Pour peu qu'on lève la tête pour dénoncer une injustice, on vous la fracasse » : 6 mois de prison avec sursis requis contre un militant antichlordécone",
+    "link": "https://reporterre.net/Pour-peu-qu-on-leve-la-tete-pour-denoncer-une-injustice-on-vous-la-fracasse-6-mois-de-prison-avec-sursis-requis-contre-un-militant-antichlordecone",
+    "date": "2026-11-11T09:06:02Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/09112026_nmn_6363_proceskeziahnuissier__c_nnoman_resized-79fc3.jpg?1794388057\" width=\"700\" />\n<p>Tabassé par les forces de l'ordre en 2020, c'est pourtant lui qui était poursuivi pour violences. La défense du militant martiniquais Keziah Nuissier a réussi à imposer lors de son procès la question de la répression policière de la lutte antichlordécone. <br class=\"autobr\" />\nParis (Île-de-France), reportage <br class=\"autobr\" />\nSes soutiens sont venus en grand nombre, bien au-delà de ses proches. Militants antichlordécone et décoloniaux, membres des diasporas martiniquaise et guadeloupéenne… Lundi 9 novembre, au premier jour du (…)</p>\n\n            <a href=\"https://reporterre.net/Pour-peu-qu-on-leve-la-tete-pour-denoncer-une-injustice-on-vous-la-fracasse-6-mois-de-prison-avec-sursis-requis-contre-un-militant-antichlordecone?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Pesticides\" rel=\"tag\">Pesticides</a>\n            , \n                <a href=\"https://reporterre.net/Justice\" rel=\"tag\">Justice</a>\n            , \n                <a href=\"https://reporterre.net/Antiracisme\" rel=\"tag\">Antiracisme</a>"
   },
   {
     "id": "7a8f8169fc48ecbf2d1eb2e322821400",
@@ -432,131 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/hopladanslebus-a25e4.jpg?1794238813\" width=\"700\" />\n<p>Pour faire des économies, le gouvernement coupe dans des engagements pourtant actés dans le budget l'an dernier. Dans le projet de loi de finances de fin de gestion, déposé le 4 novembre, il prévoit notamment de retirer 100 millions d'euros dédiés aux transports en commun, pour les réaffecter au budget général de l'État. <br class=\"autobr\" />\nCela va pénaliser les autorités organisatrices de la mobilité, dites <span class=\"caps\">AOM</span>. Ces <span class=\"caps\">AOM</span> sont gérées par les collectivités territoriales et servent à organiser les services de (…)</p>\n\n            <a href=\"https://reporterre.net/Le-gouvernement-sabre-100-millions-d-euros-dedies-aux-transports-en-commun?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Transports\" rel=\"tag\">Transports</a>"
   },
   {
-    "id": "af7ee48afb7691a13471ede0933c5c3b",
-    "source": "Reporterre",
-    "title": "Tchernobyl : une collecte à 500 millions d'euros pour réparer l'arche de confinement",
-    "link": "https://reporterre.net/Tchernobyl-une-collecte-a-500-millions-d-euros-pour-reparer-l-arche-de-confinement",
-    "date": "2026-11-09T15:06:19Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/tchernoboom-92f23.jpg?1794236874\" width=\"700\" />\n<p>Opération rafistolage enclenchée. Le gouvernement français accueille, lundi 9 novembre à Paris, une conférence internationale de donateurs pour réunir les fonds nécessaires à la restauration de l'arche de la centrale nucléaire de Tchernobyl en Ukraine. <br class=\"autobr\" />\nEndommagée par un drone russe le 14 février 2025, cette immense structure métallique recouvre les restes du réacteur numéro 4, dont l'explosion avait provoqué la catastrophe nucléaire de 1986. Les dégâts ont fragilisé les deux fonctions (…)</p>\n\n            <a href=\"https://reporterre.net/Tchernobyl-une-collecte-a-500-millions-d-euros-pour-reparer-l-arche-de-confinement?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nucleaire\" rel=\"tag\">Nucléaire</a>\n            , \n                <a href=\"https://reporterre.net/Ukraine\" rel=\"tag\">Ukraine</a>"
-  },
-  {
-    "id": "c840867d738590b91bad557ca6924daf",
+    "id": "0803a5e68d95f6884292f80b05393086",
     "source": "BFMTV",
-    "title": "\"On va aller évidemment beaucoup plus loin\": Orange remodèle ses applications Orange et Sosh pour en faire des hubs de services dopés à l'IA et ouverts à tous",
-    "link": "https://www.bfmtv.com/tech/actualites/telecoms/on-va-aller-evidemment-beaucoup-plus-loin-orange-remodele-ses-applications-orange-et-sosh-pour-en-faire-des-hubs-de-services-dopes-a-l-ia-et-ouverts-a-tous_AN-202611110082.html",
-    "date": "Wed, 11 Nov 2026 07:09:00 GMT",
-    "summary": "Orange a dévoilé sa nouvelle application qui veut concentrer tous ses services au sein d'une seule proposition, plus moderne, plus complète et ouverte à l'IA comme aux partenaires extérieurs pour enrichir son offre. Orange et Moi devient ainsi simplement Orange, MySosh migre en Sosh.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Gxmz7NrDL3ckwbo6aHnjfs7419Q=/0x0:2048x1152/800x0/images/Orange-app-2381638.jpg\" />"
-  },
-  {
-    "id": "eb185b21aa2ef816996f0dd9dc79b689",
-    "source": "BFMTV",
-    "title": "Bouteille d'essence jetée sur une élue à Chelles: les images et témoignages des lycéens",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-bouteille-d-essence-jetee-sur-une-elue-a-chelles-les-images-et-temoignages-des-lyceens_VN-202611110126.html",
-    "date": "Wed, 11 Nov 2026 07:04:49 GMT",
-    "summary": "Un élève d'un lycée à Chelles (Seine-et-Marne) a jeté une bouteille d'essence sur une élue venue devant l'établissement pour tenter une médiation afin que les cours reprennent, a-t-on appris de source policière et auprès de la région Ile-de-France. \"Je condamne l'agression d'une conseillère régionale, adjointe au maire de Chelles, par un élève lui ayant jeté une bouteille d'essence au niveau du torse, devant un lycée\", a réagi sur X le ministre de l'Intérieur Laurent Nuñez. \"Nous ne sommes plus ici dans le cadre d'un mouvement lycéen, ce sont des violences urbaines, qui appellent la réponse la plus ferme et déterminée\", a-t-il ajouté. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Xe4VGGnIdT6xnkigrocOXVze7No=/0x0:1280x720/800x0/images/Bouteille-d-essence-jetee-sur-une-elue-a-Chelles-les-images-et-temoignages-des-lyceens-2381900.jpg\" />"
-  },
-  {
-    "id": "2c195256e3d85ab3cca32f14243db01a",
-    "source": "BFMTV",
-    "title": "Une mère et sa fille tuées par quatre grizzlis au “comportement prédateur” dans l’ouest du Canada",
-    "link": "https://www.bfmtv.com/international/amerique-nord/canada/une-mere-et-sa-fille-tuees-par-quatre-grizzlis-au-comportement-predateur-dans-l-ouest-du-canada_AD-202611110230.html",
-    "date": "Wed, 11 Nov 2026 07:02:04 GMT",
-    "summary": "Les deux victimes, une mère et sa fille, étaient parties en promenade non loin de leur domicile à Bella Coola, dans l'ouest du Canada, quand elles ont été attaquées par quatre grizzlis.   <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nWLdQugQ_0VPOusUUYFwVZyQIdc=/0x106:2048x1258/800x0/images/grizzlis-2381966.jpg\" />"
-  },
-  {
-    "id": "041cd4de442036aa7cdfaeeaa92dcbe4",
-    "source": "BFMTV",
-    "title": "La tribune éco : Exit tax, taxe Zucman... les États font fuir les riches - 11/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-eco-exit-tax-taxe-zucman-les-etats-font-fuir-les-riches-11-11_VN-202611110229.html",
-    "date": "Wed, 11 Nov 2026 06:59:22 GMT",
-    "summary": "Ce mercredi 11 novembre, retrouvez le replay de la tribune éco sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Ick1LlsdGUJWT9NKzb0L3UAp18I=/0x0:1280x720/800x0/images/La-tribune-eco-Exit-tax-taxe-Zucman-les-Etats-font-fuir-les-riches-11-11-2381967.jpg\" />"
-  },
-  {
-    "id": "dd889d509247c83e54c9dc0c1619abf6",
-    "source": "BFMTV",
-    "title": "Une première depuis 2012: une grève générale en Espagne pour défendre l'accès au logement en pleine campagne électorale",
-    "link": "https://www.bfmtv.com/economie/international/une-premiere-depuis-2012-une-greve-generale-en-espagne-pour-defendre-l-acces-au-logement-en-pleine-campagne-electorale_AD-202611110222.html",
-    "date": "Wed, 11 Nov 2026 06:51:07 GMT",
-    "summary": "Une grève générale se tient aujourd'hui en Espagne pour défendre l'accès au logement, une mobilisation d'ampleur à quelques jours des élections prévues le 29 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/s_rqXJzNCwCufiBA4gkP4sFBYPI=/0x106:2048x1258/800x0/images/Affiches-dans-les-rues-du-centre-de-Madrid-le-7-novembre-2026-par-les-principaux-syndicats-pour-promouvoir-la-greve-generale-prevue-dans-toute-l-Espagne-le-11-novembre-2381962.jpg\" />"
-  },
-  {
-    "id": "7f63463602e1e44a4b22b6590bbdca67",
-    "source": "BFMTV",
-    "title": "Procès des policiers jugés pour avoir agressé Michel Zecler: ces images tournées à l'extérieur du studio par des riverains qui ont saisi la salle d'audience",
-    "link": "https://www.bfmtv.com/police-justice/video-proces-des-policiers-juges-pour-avoir-agresse-michel-zecler-ces-images-tournees-a-l-exterieur-du-studio-par-des-riverains-qui-ont-saisi-la-salle-d-audience_VN-202611110221.html",
-    "date": "Wed, 11 Nov 2026 06:47:29 GMT",
-    "summary": "Au deuxième jour du procès des trois policiers jugés pour avoir agressé Michel Zecler en novembre 2020, le producteur de musique a livré son témoignage ce mardi. \"S'il n'y avait pas eu les vidéos, je ne serais pas devant vous en tant que victime aujourd'hui\", a-t-il déclaré à plusieurs reprises.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WzQ2ie_JRnx_zfszkE-Y9b1MvHI=/0x0:1280x720/800x0/images/Proces-des-policiers-juges-pour-avoir-agresse-Michel-Zecler-ces-images-tournees-a-l-exterieur-du-studio-par-des-riverains-qui-ont-saisi-la-salle-d-audience-2381963.jpg\" />"
+    "title": "370m², 107.500 euros... Une église \"désacralisée et atypique\" du Nord mise en vente sur Leboncoin",
+    "link": "https://www.bfmtv.com/grand-lille/370m2-107-500-euros-une-eglise-desacralisee-et-atypique-du-nord-mise-en-vente-sur-leboncoin_AN-202611110570.html",
+    "date": "Wed, 11 Nov 2026 15:31:40 GMT",
+    "summary": "L'église de Renescure (Nord) est mise en vente sur le site Leboncoin. L'annonce la présente comme un bien \"désacralisé et atypique\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rqDd1AFwZYUgJMHoWhZPcc964BA=/0x0:1920x1080/800x0/images/L-interieur-de-l-eglise-de-Renescure-en-vente-sur-Leboncoin-2382257.jpg\" />"
   },
   {
     "id": "d795ba689e0d20929799ab302a02e502",
     "source": "BFMTV",
-    "title": "DIRECT. Commémoration du 11-Novembre à l’école: Alice Rufo déplore une \"polémique regrettable\" autour d’une \"célébration de la paix\"",
+    "title": "DIRECT. \"Leur mémoire nous unit\": Emmanuel Macron rend hommage aux soldats “qui ont donné leur vie pour la France”",
     "link": "https://www.bfmtv.com/politique/direct-11-novembre-des-commemorations-de-l-armistice-partout-en-france-dans-un-contexte-social-toujours-tendu_LN-202611110183.html",
     "date": "Wed, 11 Nov 2026 06:11:52 GMT",
-    "summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5wyfJE4lPn-msLAJ12aEeT_ANy0=/0x276:2048x1428/800x0/images/Alice-Rufo-sur-le-pont-d-envol-du-porte-avions-francais-Charles-De-Gaulle-amarre-au-port-de-Malmoe-le-27-fevrier-2274154.jpg\" />"
+    "summary": "Les dirigeants politiques de tout bord commémorent l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ShM_CyC4I5r8GlBMOmCY-zLHnhY=/0x0:1920x1080/800x0/images/Emmanuel-Macron-ravive-la-flamme-du-soldat-inconnu-sous-l-Arc-de-triomphe-le-11-novembre-2026-2382114.jpg\" />"
   },
   {
-    "id": "fa432b940fab4a4e30fe6b8222053109",
+    "id": "bb9efab5dec1dc3c2131cdaf2e77cf9b",
     "source": "BFMTV",
-    "title": "Le PS n’apportera pas ses voix à David Lisnard pour la présidence de l’AMF, dénonçant une “dérive toujours plus droitière”",
-    "link": "https://www.bfmtv.com/politique/parti-socialiste/le-ps-n-apportera-pas-ses-voix-a-david-lisnard-pour-la-presidence-de-l-amf-denoncant-une-derive-toujours-plus-droitiere_AD-202611110201.html",
-    "date": "Wed, 11 Nov 2026 06:28:32 GMT",
-    "summary": "Dans un communiqué, le parti socialiste repproche à David Lisnard une \"dérive toujours plus droitière\" et des \"propos toujours plus caricaturaux et irresponsables\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4MGhgQ3oszfpOzbEI7xn2wSj9Bg=/0x197:2048x1349/800x0/images/Johanna-Rolland-premiere-secretaire-adjointe-du-Parti-socialiste-Olivier-Faure-premier-secretaire-du-PS-et-Boris-Vallaud-president-du-groupe-PS-a-l-Assemblee-arrivent-a-l-hotel-de-Matignon-le-8-octobre-2025-2151470.jpg\" />"
+    "title": "\"C'est la France qui est attaquée\", réagit Arthur Delaporte, député socialiste, interdit de territoire russe",
+    "link": "https://www.bfmtv.com/international/asie/russie/video-c-est-la-france-qui-est-attaquee-reagit-arthur-delaporte-depute-socialiste-interdit-de-territoire-russe_VN-202611110569.html",
+    "date": "Wed, 11 Nov 2026 15:28:51 GMT",
+    "summary": "Les députés français Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin et Paul Gogo sont désormais interdits d'entrée en Russie, une mesure prise en réponse à l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova, a annoncé la diplomatie russe mercredi.\n\n\n La décision à l'encontre de ces quatre personnalités a été prise \"en raison de leur participation au harcèlement de Fedorova et de leurs appels à son expulsion\", a déclaré Maria Zakharova, porte-parole du ministère des Affaires étrangères, lors d'un briefing.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YLNMcJAmNwaY08RbAM9EVjdxvdM=/0x0:1280x720/800x0/images/C-est-la-France-qui-est-attaquee-reagit-Arthur-Delaporte-depute-socialiste-interdit-de-territoire-russe-2382266.jpg\" />"
   },
   {
-    "id": "4f91b58adcd0f8deb01a4b90a8170e34",
+    "id": "464b6df9c86abc5bd04cf4e344fdc52e",
     "source": "BFMTV",
-    "title": "BFM Crypto, la chronique : Clap de fin pour Binance en France - 11/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-bfm-crypto-la-chronique-clap-de-fin-pour-binance-en-france-11-11_VN-202611110202.html",
-    "date": "Wed, 11 Nov 2026 06:25:52 GMT",
-    "summary": "Bitcoin, Stablecoins, Ethereum, Tous les lundis à 6h50, Sandra Gandoin revient sur une actu du secteur crypto, et sur les différentes séquences de son émission BFM Crypto, diffusée tous les vendredis en direct de 15h00 à 15h30.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/w95rLCdkPRs63biNcsydoQhFqJo=/0x0:1280x720/800x0/images/BFM-Crypto-la-chronique-Clap-de-fin-pour-Binance-en-France-11-11-2381947.jpg\" />"
+    "title": "Deux députés français et deux journalistes interdits d'entrée en Russie en réponse à l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova",
+    "link": "https://www.bfmtv.com/international/asie/russie/video-deux-deputes-francais-et-deux-journalistes-interdits-d-entree-en-russie-en-reponse-a-l-expulsion-de-la-chroniqueuse-pro-kremlin-xenia-fedorova_VN-202611110567.html",
+    "date": "Wed, 11 Nov 2026 15:23:30 GMT",
+    "summary": "Les députés français Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin et Paul Gogo sont désormais interdits d'entrée en Russie, une mesure prise en réponse à l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova, a annoncé la diplomatie russe mercredi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dqTN6UClRoxRNOLpNMPPdg85bY8=/0x0:1280x720/800x0/images/Deux-deputes-francais-et-deux-journalistes-interdits-d-entree-en-Russie-en-reponse-a-l-expulsion-de-la-chroniqueuse-pro-Kremlin-Xenia-Fedorova-2382262.jpg\" />"
   },
   {
-    "id": "9dc790b1216a2d4205d9981df9cdbfe0",
+    "id": "be3ddbe7b31b31520ae4697c0d85b4a1",
     "source": "BFMTV",
-    "title": "Un \"agent politique\" selon l'équipe du président brésilien: Meta écope d'une amende de plus d'un million d'euros pour traitement inégal entre Lula et Bolsonaro lors de la présidentielle",
-    "link": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/un-agent-politique-selon-l-equipe-du-president-bresilien-meta-ecope-d-une-amende-de-plus-d-un-million-d-euros-pour-traitement-inegal-entre-lula-et-bolsonaro-lors-de-la-presidentielle_AD-202611110191.html",
-    "date": "Wed, 11 Nov 2026 06:17:20 GMT",
-    "summary": "Une amende d'environ 1,2 million d'euros a été infligée par la justice brésilienne à Meta, propriétaire de Facebook, Instagram et WhatsApp, pour non-respect de l'égalité de traitement entre Lula et Flavio Bolosonaro durant la campagne présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cnQp-L43iROW9KKC9xvMAwDWB-o=/0x8:2048x1160/800x0/images/Lula-2324052.jpg\" />"
+    "title": "\"J’espère que je deviendrai un exemple\": les déclarations glaçantes de Kevin Tessier aux enquêteurs après l’attentat de Trappes",
+    "link": "https://www.bfmtv.com/police-justice/terrorisme/video-j-espere-que-je-deviendrai-un-exemple-les-declarations-glacantes-de-kevin-tessier-aux-enqueteurs-apres-l-attentat-de-trappes_VN-202611110555.html",
+    "date": "Wed, 11 Nov 2026 15:04:56 GMT",
+    "summary": "Kevin Tessier, mis en examen et écroué pour l’attentat raciste de Trappes et La Verrière, a raconté devant la SDAT son parcours meurtrier glaçant du 23 octobre, selon ses déclarations consultées par BFMTV et RMC. Il espère, par son geste, inspirer d’autres terroristes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tzLfmaeEb3h4gRJG2yJLmkXVp40=/0x0:1280x720/800x0/images/J-espere-que-je-deviendrai-un-exemple-les-declarations-glacantes-de-Kevin-Tessier-aux-enqueteurs-apres-l-attentat-de-Trappes-2382252.jpg\" />"
   },
   {
-    "id": "460547a111faf43104a6a8a8213a227f",
+    "id": "f311a8be6cf2005d1ce5378861db4d4a",
     "source": "BFMTV",
-    "title": "\"Je rajoute des chaussettes sur mes chaussettes\": ces Français qui retardent au maximum l'allumage du chauffage",
-    "link": "https://www.bfmtv.com/societe/je-rajoute-des-chaussettes-sur-mes-chaussettes-ces-francais-qui-retardent-au-maximum-l-allumage-du-chauffage_AV-202611110079.html",
-    "date": "Wed, 11 Nov 2026 06:13:00 GMT",
-    "summary": "Un nouveau défi inonde les réseaux sociaux cet automne: il consiste à retarder au maximum l'allumage de son chauffage. En vidéo, les participants multiplient les astuces: plaid, bonnet et capuche pour certains, grosses chaussettes et thé chaud pour d’autres. Mais derrière ces vidéos humoristiques se cache une réalité moins amusante: le coût de l’énergie qui plombe le budget de millions de Français. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_snxiPGTqqk52w5DF1wdG-gZGRw=/0x70:1344x826/800x0/images/Le-cout-du-chauffage-au-gaz-ou-a-l-electrique-pese-un-peu-plus-chaque-annee-dans-le-budget-des-Francais-2381501.jpg\" />"
+    "title": "INFO RMC-BFMTV.  \"J’espère que je deviendrai un exemple\": les déclarations glaçantes de Kevin Tessier après l’attentat de Trappes",
+    "link": "https://www.bfmtv.com/police-justice/info-bfmtv-rmc-j-espere-que-je-deviendrai-un-exemple-les-declarations-glacantes-de-kevin-tessier-apres-l-attentat-de-trappes_AV-202611110554.html",
+    "date": "Wed, 11 Nov 2026 15:03:32 GMT",
+    "summary": "Kevin Tessier, mis en examen et écroué pour l’attentat raciste de Trappes et La Verrière, a raconté devant la SDAT son parcours meurtrier glaçant du 23 octobre, selon ses déclarations consultées par BFMTV et RMC. Il espère, par son geste, inspirer d’autres terroristes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3tru7OobfJ3E9gp3inQbx3T_4IE=/0x0:1920x1080/800x0/images/Des-policiers-procedent-a-des-actes-d-investigation-dans-une-station-service-apres-l-attentat-raciste-a-Trappes-qui-fait-un-mort-et-plusieurs-blesses-le-23-octobre-2372228.jpg\" />"
   },
   {
-    "id": "48e49e722c616d7e62fce43cf3695192",
+    "id": "e710fa86c33bf30da6a53d40cc3974a2",
     "source": "BFMTV",
-    "title": "Le Pitch : Mâche&Maché propose des emballages comestibles - 11/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/le-pitch/video-le-pitch-mache-mache-propose-des-emballages-comestibles-11-11_VN-202611110189.html",
-    "date": "Wed, 11 Nov 2026 06:12:52 GMT",
-    "summary": "Arnaud Pfeffer, cofondateur de Mâche&amp;Maché, était l'invité de Brigitte Boucher dans Good Morning Business, ce mercredi 11 novembre. Ils ont présenté le concept des emballages comestibles et leurs applications dans la vente à emporter, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Rh9sbTOTGv1DgTnUJrIuIzk_QCE=/0x0:1280x720/800x0/images/Le-Pitch-Mache-and-Mache-propose-des-emballages-comestibles-11-11-2381941.jpg\" />"
+    "title": "KPop Demon Hunters, slime, Beyblade... Quelles sont les grandes tendances de jouets pour Noël 2026?",
+    "link": "https://rmc.bfmtv.com/conso/loisirs/k-pop-demon-hunters-slime-beyblade-quels-sont-les-grandes-tendances-de-jouets-pour-noel-2026_AN-202611110548.html",
+    "date": "Wed, 11 Nov 2026 14:57:53 GMT",
+    "summary": "Alors que le marché du jouet se porte particulièrement bien, il aborde la période de Noël avec des nouveautés, et des licences qui cartonnent toujours autant. Voici tout ce que l'on sera le plus susceptible de trouver sous le sapin.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/8xT-0dOLn8Tts7WCLmUjkqSZb9I=/0x150:1600x1050/800x0/images/figurines-K-Pop-Demon-Hunters-2381564.jpg\" />"
   },
   {
-    "id": "54fd25770c432207b878678dfbfefe3d",
+    "id": "aafc4af1e989df08c5b9b84e82a9ed87",
     "source": "BFMTV",
-    "title": "OpenAI lance une \"Control Room\" pour interrompre ses modèles désalignés en 35 secondes maximum en cas de problème de sécurité",
-    "link": "https://www.bfmtv.com/tech/intelligence-artificielle/open-ai-lance-une-control-room-pour-interrompre-ses-modeles-desalignes-en-35-secondes-maximum-en-cas-de-probleme-de-securite_AV-202611110081.html",
-    "date": "Wed, 11 Nov 2026 06:11:00 GMT",
-    "summary": "Après de nombreux dérapages, OpenAI a mis en place une \"Control Room\", soit un système central qui travaille de concert avec les systèmes de surveillance de désalignement de l'entreprise pour interrompre rapidement un modèle lorsqu'un problème de sécurité est détecté.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Ss-iht3Pp19MJZmhXE2sOppuLHo=/76x3:1292x687/800x0/images/Control-Room-OpenAI-2381685.jpg\" />"
+    "title": "Prévisions de ce soir et du 12 novembre 2026",
+    "link": "https://www.bfmtv.com/meteo/video-previsions-de-ce-soir-et-du-12-novembre-2026_VN-202611110540.html",
+    "date": "Wed, 11 Nov 2026 14:50:00 GMT",
+    "summary": "La météo du jour et du lendemain par l'équipe météo de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4Pdwu71giCCb5HIc7YyGL1hvZxI=/0x0:1280x720/800x0/images/Previsions-de-ce-soir-et-du-12-novembre-2026-2382232.jpg\" />"
   },
   {
-    "id": "d18efccbf5e9a2a76d70f1356f52edab",
+    "id": "828afc9ed12aef8c2dd05054fa9fd5ce",
     "source": "BFMTV",
-    "title": "L'ENQUÊTE DE LA MATINALE - Nos routes tombent-elles en ruines ?",
-    "link": "https://www.bfmtv.com/economie/entreprises/transports/video-l-enquete-de-la-matinale-nos-routes-tombent-elles-en-ruines_VN-202611110180.html",
-    "date": "Wed, 11 Nov 2026 06:02:27 GMT",
-    "summary": "La France occupait la première place mondiale pour la qualité des infrastructures routières en 2012. Problème : aujourd'hui, elle a dégringolé dans le classement. Cela entraîne de nombreuses difficultés pour les usagers qui peuvent avoir des difficultés à se déplacer. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sl4uI-PmMkDZ7PpzzUp2-DE2UGo=/0x0:1280x720/800x0/images/L-ENQUETE-DE-LA-MATINALE-Nos-routes-tombent-elles-en-ruines-2381936.jpg\" />"
+    "title": "Une nouvelle méthode permet de détecter le GHB jusqu'à 72 heures après son ingestion",
+    "link": "https://www.bfmtv.com/sciences/une-nouvelle-methode-permet-de-detecter-le-ghb-jusqu-a-72-heures-apres-son-ingestion_AD-202611110543.html",
+    "date": "Wed, 11 Nov 2026 14:36:55 GMT",
+    "summary": "Un nouveau biomarqueur, identifié par des chercheurs en Suisse, permet de détecter la présence de GHB, surnommé \"drogue du violeur\", dans l'urine jusqu'à 72 heures après sa consommation. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7wP1QBBgv_wc2lcOabfvqd1uz6c=/0x66:1280x786/800x0/images/Analyse-medicale-2094356.jpg\" />"
   },
   {
-    "id": "7651eb6e1747393c43d36f878dccfead",
+    "id": "eee3d2fa55fc328d55b9a2dfa86e9617",
     "source": "BFMTV",
-    "title": "Le secrétaire au Trésor américain se réfugie dans une base militaire après des menaces de l'Iran",
-    "link": "https://www.bfmtv.com/international/moyen-orient/iran/video-le-secretaire-au-tresor-americain-se-refugie-dans-une-base-militaire-apres-des-menaces-de-l-iran_VN-202611110175.html",
-    "date": "Wed, 11 Nov 2026 05:58:16 GMT",
-    "summary": "D'après le New York Times, le secrétaire au Trésor, Scott Bessent, a récemment quitté son domicile pour s’installer sur une base militaire, à la suite de menaces iraniennes le visant.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mgsff_QpjZIeUEorZVBX9-t8C1E=/0x0:1280x720/800x0/images/Le-secretaire-au-Tresor-americain-se-refugie-dans-une-base-militaire-apres-des-menaces-de-l-Iran-2381934.jpg\" />"
+    "title": "Une liste de plusieurs personnalités de gauche, des stickers, des tracts... Ce que les policiers ont retrouvé chez l'auteur de l'attentat raciste de Trappes",
+    "link": "https://www.bfmtv.com/police-justice/terrorisme/video-une-liste-de-plusieurs-personnalites-de-gauche-des-stickers-des-tracts-ce-que-les-policiers-ont-retrouve-chez-l-auteur-de-l-attentat-raciste-de-trappes_VN-202611110541.html",
+    "date": "Wed, 11 Nov 2026 14:34:25 GMT",
+    "summary": "Selon les informations de RMC et BFMTV, lors de la perquisition menée au domicile de Kevin Tessier peu après l'attentat de Trappes, les enquêteurs ont retrouvé une liste inquiétante, avec les identités de plusieurs personnalités de gauche.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/IdlOOdmocJxp4o_mntyn9xbquz0=/0x0:1280x720/800x0/images/Une-liste-de-plusieurs-personnalites-de-gauche-des-stickers-des-tracts-Ce-que-les-policiers-ont-retrouve-chez-l-auteur-de-l-attentat-raciste-de-Trappes-2382234.jpg\" />"
+  },
+  {
+    "id": "97119e5fd025b457e899bb50f3676742",
+    "source": "BFMTV",
+    "title": "La météo pour ce jeudi 12 novembre 2026",
+    "link": "https://www.bfmtv.com/meteo/video-la-meteo-pour-ce-jeudi-12-novembre-2026_VN-202611110542.html",
+    "date": "Wed, 11 Nov 2026 14:34:21 GMT",
+    "summary": "Les prévisions météo du moment par l'équipe météo de BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XVMGBq63CoCLMMblzXpsnLkSc2U=/0x0:1280x720/800x0/images/La-meteo-pour-ce-jeudi-12-novembre-2026-2382235.jpg\" />"
+  },
+  {
+    "id": "7a3dee9c67ba45d0a90f909eb3acc988",
+    "source": "BFMTV",
+    "title": "INFO RMC-BFM: l'auteur de l'attentat de Trappes, avait listé des personnalités de gauche",
+    "link": "https://www.bfmtv.com/police-justice/terrorisme/video-info-rmc-bfm-l-auteur-de-l-attentat-de-trappes-avait-liste-des-personnalites-de-gauche_VN-202611110545.html",
+    "date": "Wed, 11 Nov 2026 14:33:58 GMT",
+    "summary": "Selon les informations de RMC et BFMTV, lors de la perquisition menée au domicile de Kevin Tessier peu après l'attentat de Trappes, les enquêteurs ont retrouvé une liste inquiétante, avec les identités de plusieurs personnalités de gauche.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qskDZTYtiTZEda98LmHW3jBTETc=/0x0:1280x720/800x0/images/INFO-RMC-BFM-l-auteur-de-l-attentat-de-Trappes-avait-liste-des-personnalites-de-gauche-2382236.jpg\" />"
+  },
+  {
+    "id": "0d263bf58c88f7bb1ce053a7c499a45d",
+    "source": "BFMTV",
+    "title": "\"Heureusement qu'ils étaient là\": un policier fait un infarctus en plein service et est sauvé par ses collègues à Toulon",
+    "link": "https://www.bfmtv.com/var/heureusement-qu-ils-etaient-la-un-policier-fait-un-infarctus-en-plein-service-et-est-sauve-par-ses-collegues-a-toulon_AN-202611110538.html",
+    "date": "Wed, 11 Nov 2026 14:30:04 GMT",
+    "summary": "Lundi 9 novembre, un policier en service à Toulon a fait un infarctus et a été sauvé par ses collègues qui ont rapidement réagi. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/UKBd8_YnS76LKkUPFUfCYcVm-4U=/0x192:2048x1344/800x0/images/Les-policiers-de-la-compagnie-d-intervention-de-Toulon-patrouillent-dans-le-quartier-de-Saint-Jean-du-Var-le-9-novembre-2026-2382227.jpg\" />"
+  },
+  {
+    "id": "284459b50c93952b039695c3128fbc48",
+    "source": "BFMTV",
+    "title": "Serge Papin avait affirmé que le gouvernement débloquerait de nouveaux stocks de carburant \"s'il le faut\": le cabinet du ministre du Commerce rectifie ses propos et assure que cette mesure \"n'est pas à l'ordre du jour\"",
+    "link": "https://www.bfmtv.com/economie/entreprises/energie/serge-papin-avait-affirme-que-le-gouvernement-debloquerait-de-nouveaux-stocks-de-carburant-s-il-le-faut-le-cabinet-du-ministre-du-commerce-rectifie-ses-propos-et-assure-que-cette-mesure-n-est-pas-a-l-ordre-du-jour_AD-202611110536.html",
+    "date": "Wed, 11 Nov 2026 14:27:50 GMT",
+    "summary": "Invité mardi sur RMC, le ministre du Commerce avait laissé entendre que l'exécutif pourrait une nouvelle fois débloquer une partie des réserves stratégiques de carburant au profit des stations-service. Mais son cabinet a nuancé mercredi ses propos.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/R8coLUyLm4xaC0h8In3oqER1mCc=/0x0:2048x1152/800x0/images/Serge-Papin-2305902.jpg\" />"
+  },
+  {
+    "id": "f3ece718d2b78fc4c13ceadff2f2ac14",
+    "source": "BFMTV",
+    "title": "Liste contre des personnalités de gauche de Kevin Tessier: \"Il y a une forme de cohérence et de danger\", réagit Dominique Sopo, président de SOS Racisme",
+    "link": "https://www.bfmtv.com/police-justice/terrorisme/video-liste-contre-des-personnalites-de-gauche-de-kevin-tessier-il-y-a-une-forme-de-coherence-et-de-danger-reagit-dominique-sopo-president-de-sos-racisme_VN-202611110537.html",
+    "date": "Wed, 11 Nov 2026 14:26:36 GMT",
+    "summary": "Selon les informations de RMC et BFMTV, lors de la perquisition menée au domicile de Kevin Tessier peu après l'attentat de Trappes, les enquêteurs ont retrouvé une liste inquiétante, avec les identités de plusieurs personnalités de gauche.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3nuN3puwdc1WP4g52cjpq43Mezc=/0x0:1280x720/800x0/images/Liste-contre-des-personnalites-de-gauche-de-Kevin-Tessier-Il-y-a-une-forme-de-coherence-et-de-danger-reagit-Dominique-Sopo-president-de-SOS-Racisme-2382228.jpg\" />"
   }
 ]
