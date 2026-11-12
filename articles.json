@@ -88,20 +88,20 @@
     "summary": "Même s’il ne l’a pas organisée, le président de la République se réjouit de la candidature du judoka, alors qu’il n’a jamais soutenu ses anciens premiers ministres Edouard Philippe et Gabriel Attal. Il voit dans le positionnement de l’athlète des ressemblances avec sa première campagne présidentielle."
   },
   {
-    "id": "31d6f157aa360edbcf5146bf799a0671",
-    "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les négociations à Abou Dhabi",
-    "link": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-irlande-ou-il-doit-notamment-s-entretenir-avec-les-emissaires-americains-apres-les-negociations-a-abou-dhabi_6808609_3210.html",
-    "date": "Wed, 11 Nov 2026 19:54:42 +0100",
-    "summary": "« Les négociations ont été difficiles », selon Kyrylo Boudanov, chef de cabinet du président ukrainien, qui faisait partie de la délégation dépêchée à Abou Dhabi. « L’ensemble des objectifs que nous nous sommes fixés seront atteints », a pour sa part déclaré le négociateur russe Vladimir Medinski."
-  },
-  {
     "id": "75a3bcfd60306fa5f89c63c097aa14a9",
     "source": "Le Monde",
     "title": "En garde à vue, Kevin Tessier, auteur de l’attentat raciste de Trappes, a déclaré « assumer » ses actes et « espérer devenir un exemple pour les Français »",
     "link": "https://www.lemonde.fr/societe/article/2026/11/11/les-declarations-en-garde-a-vue-de-kevin-tessier-l-auteur-de-l-attentat-raciste-de-trappes-j-espere-que-je-deviendrai-un-exemple-pour-les-francais_6808986_3224.html",
     "date": "Wed, 11 Nov 2026 15:57:45 +0100",
     "summary": "« Le Monde » révèle les coulisses de la garde à vue de Kevin Tessier, suspecté d’avoir assassiné un homme et blessé sept personnes dans les Yvelines le 23 octobre, entre déclarations confuses, séjour en psychiatrie et revendications ouvertement racistes de son passage à l’acte."
+  },
+  {
+    "id": "4d0cd074a6aa930fb7d8868642c10936",
+    "source": "Le Monde",
+    "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
+    "date": "Thu, 12 Nov 2026 00:30:03 +0100",
+    "summary": "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence artificielle."
   },
   {
     "id": "65f3366a5dab56034808989b55899f7e",
@@ -114,26 +114,50 @@
   {
     "id": "457ffcb3d415c6308178b5044454f715",
     "source": "Le Monde",
-    "title": "Quatre journalistes et députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
+    "title": "Deux journalistes et deux députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
     "link": "https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html",
     "date": "Wed, 11 Nov 2026 21:40:01 +0100",
     "summary": "Les députés Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin, du « Monde », et Paul Gogo ont été ciblés « en raison de leur participation au harcèlement de Xenia Fedorova », propagandiste du Kremlin et salariée du groupe Bolloré, selon les termes du ministère russe des affaires étrangères."
   },
   {
-    "id": "90a963509db8389005a1ce1d61204738",
+    "id": "5349eb7e0ce5aeb6197a230568de807f",
     "source": "Le Monde",
-    "title": "Les voitures électriques, un gouffre financier pour les assureurs",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html",
-    "date": "Wed, 11 Nov 2026 18:00:08 +0100",
-    "summary": "La réparation des véhicules électriques coûte 14 % de plus que celle des modèles thermiques. En cause : des batteries peu réparables, des dommages plus importants, des pièces détachées encore peu disponibles sur le court terme."
+    "title": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
+    "link": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html",
+    "date": "Wed, 11 Nov 2026 23:30:54 +0100",
+    "summary": "Des courriers électroniques menaçants ont été envoyés à des milliers d’établissements scolaires, mercredi 11 novembre. Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais en Italie le gouvernement voudrait quand même sensibiliser davantage les citoyens aux risques de la guerre hybride."
   },
   {
-    "id": "0f5dfd2943b0b4a4bec4fb681de5fe42",
+    "id": "7b4945305b5432444831e139ad93c07f",
     "source": "Le Monde",
-    "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
-    "link": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
-    "date": "Wed, 11 Nov 2026 21:07:54 +0100",
-    "summary": "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires."
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix",
+    "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
+    "date": "Thu, 12 Nov 2026 01:10:19 +0100",
+    "summary": "« Aujourd’hui, cette fenêtre d’opportunité existe réellement, où tous les participants actuellement engagés dans le processus de négociation souhaitent véritablement obtenir un résultat avant 2027 », a estimé mercredi le président ukrainien. En visite en Irlande, il doit s’entretenir jeudi avec les émissaires américains, Jared Kushner et Steve Witkoff, qui auront au préalable rencontré son homologue russe Vladimir Poutine."
+  },
+  {
+    "id": "aa66e8c55e7adeb333c63ed0fe92f5c9",
+    "source": "Le Monde",
+    "title": "Louise, 57 ans, aidée par le Secours catholique : « Etre pauvre, au RSA, ce n’est pas profiter du système, c’est vivre dans le stress »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
+    "date": "Thu, 12 Nov 2026 00:01:09 +0100",
+    "summary": "Dans son rapport annuel publié jeudi 12 novembre, l’association invite à « comprendre la pauvreté », qui est « multidimensionnelle » comme en témoigne le quotidien de Louise, rencontrée par « Le Monde », où les difficultés matérielles se doublent de maltraitances et d’isolement."
+  },
+  {
+    "id": "0f866c182952d8433905ce633fe33a4e",
+    "source": "Le Monde",
+    "title": "A New York, au moins deux morts dans l’effondrement d’un immeuble de Brooklyn",
+    "link": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html",
+    "date": "Thu, 12 Nov 2026 03:41:29 +0100",
+    "summary": "Dix-sept personnes, dont sept enfants, ont été blessées, alors que les pompiers continuent de rechercher d’éventuelles personnes sous les décombres. Les causes de l’effondrement sont pour l’heure inconnues."
+  },
+  {
+    "id": "60714d7f66c0b62452768b7ac30ca83c",
+    "source": "Le Monde",
+    "title": "Midterms 2026 : le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis près de 150 ans",
+    "link": "https://www.lemonde.fr/international/article/2026/11/12/midterms-2026-le-democrate-scott-colom-devient-le-premier-senateur-noir-du-mississippi-depuis-pres-de-150-ans_6809036_3210.html",
+    "date": "Thu, 12 Nov 2026 02:04:56 +0100",
+    "summary": "Ce procureur de district de 43 ans a battu de justesse la sénatrice républicaine sortante, Cindy Hyde-Smith, dans un Etat traditionnellement conservateur. Aucun démocrate ne représentait le Mississippi au Sénat depuis 1989."
   },
   {
     "id": "940f6caeb7db8584a5cb135660345cbf",
@@ -152,52 +176,28 @@
     "summary": "Le diplomate avait pris ses fonctions en mars 2025 et participé au rapprochement entre la Russie et les Etats-Unis."
   },
   {
-    "id": "19054c8815d991fc82ebc87d47be53fd",
+    "id": "96161d81b5f90c2bf2c6ffa0b5d52731",
     "source": "Le Monde",
-    "title": "Midterms 2026 : au Texas, l’improbable victoire du démocrate Bobby Pulido, star de la musique tex-mex",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/midterms-2026-aux-etats-unis-l-improbable-victoire-de-bobby-pulido-star-de-la-musique-tex-mex_6809009_3210.html",
-    "date": "Wed, 11 Nov 2026 18:30:04 +0100",
-    "summary": "Le chanteur américain, star de ce genre musical apprécié des Latinos, vient d’être élu dans un territoire qui avait largement voté pour Donald Trump en 2024. Jeudi 12 novembre, il est en lice pour une nouvelle récompense aux Latin Grammy Awards."
+    "title": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
+    "date": "Thu, 12 Nov 2026 02:18:19 +0100",
+    "summary": "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, interpelle le syndicat."
   },
   {
-    "id": "69a173045175c15067fea02fbd030987",
+    "id": "0b8e690c99074ae92ff66ff2016d6938",
     "source": "Le Monde",
-    "title": "En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html",
-    "date": "Wed, 11 Nov 2026 19:40:40 +0100",
-    "summary": "Cette révision constitutionnelle vise les citoyennetés obtenues par fraude ou les personnes condamnées pour des crimes portant gravement atteinte aux « intérêts vitaux » du pays, mais ses modalités restent à définir par le prochain gouvernement."
+    "title": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html",
+    "date": "Thu, 12 Nov 2026 03:36:03 +0100",
+    "summary": "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien."
   },
   {
-    "id": "8b0e8b0fd572ffa9ca38e3c2cef15269",
+    "id": "122b51c54abfc9317f9e6f031157f083",
     "source": "Le Monde",
-    "title": "En Hongrie, Aron Orban, frère de Viktor Orban, placé en détention provisoire dans une enquête pour trafic d’êtres humains",
-    "link": "https://www.lemonde.fr/international/article/2026/11/11/en-hongrie-aron-orban-frere-de-viktor-orban-place-en-detention-provisoire-dans-une-enquete-pour-trafic-d-etres-humains_6809025_3210.html",
-    "date": "Wed, 11 Nov 2026 20:21:54 +0100",
-    "summary": "Il est soupçonné d’avoir aidé, contre une commission, plus d’une centaine de Vietnamiens à obtenir des visas en 2024. L’ancien premier ministre hongrois dénonce un « coup bas » visant à l’atteindre."
-  },
-  {
-    "id": "024b63627f651182a78aa158809195a6",
-    "source": "Le Monde",
-    "title": "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
-    "date": "Wed, 11 Nov 2026 20:37:09 +0100",
-    "summary": "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… Méthode habituelle des criminels et du narcobanditisme en particulier » et a requis, le 11 novembre, de lourdes peines à l’égard des accusés."
-  },
-  {
-    "id": "ace59dc2ea659837713cdd30db10d83a",
-    "source": "Le Monde",
-    "title": "Accusation de viol classée sans suite : un ancien haut cadre de la CGT essuie un revers dans sa contre-offensive judiciaire",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/11/accusation-de-viol-classee-sans-suite-un-ancien-haut-cadre-de-la-cgt-essuie-un-revers-dans-sa-contre-offensive-judiciaire_6809020_823448.html",
-    "date": "Wed, 11 Nov 2026 19:38:12 +0100",
-    "summary": "En première instance, Benjamin Amar avait gagné son procès pour atteinte à la vie privée, après la divulgation d’éléments d’une enquête pénale pour viol qui avait été ouverte contre lui, puis classée sans suite. Ce jugement, rendu en mars 2025, vient d’être partiellement infirmé par la cour d’appel de Paris."
-  },
-  {
-    "id": "6722074a3cbdab1536936e5077145e4a",
-    "source": "Le Monde",
-    "title": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
-    "date": "Wed, 11 Nov 2026 22:20:11 +0100",
-    "summary": "Le président du conseil exécutif et la présidente de l’Assemblée de Corse, qui reprochent au gouvernement de ne pas avoir répondu à des propositions adoptées le 4 novembre, avaient annoncé qu’ils ne participeraient pas à la réunion."
+    "title": "De la fuite d’Hitler en soucoupe volante au mythe des Illuminati, un essai plonge dans les croyances irrationnelles de l’extrême droite",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/11/de-la-fuite-d-hitler-en-soucoupe-volante-au-mythe-des-illuminati-un-essai-plonge-dans-les-croyances-irrationnelles-de-l-extreme-droite_6809017_3232.html",
+    "date": "Wed, 11 Nov 2026 19:15:16 +0100",
+    "summary": "Dans son livre « Irrationnelle. La longue histoire de l’extrême droite avec l’irrationalisme », le politiste et historien Stéphane François revient sur le rôle central de l’ésotérisme dans les cultures politiques d’extrême droite."
   },
   {
     "id": "c3e4a3fda230849f5d8b45f7c5223d6f",
@@ -440,12 +440,76 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261109__d6vq7cn__v1__highres__cop31unclimatechangeconference_1_-58f2e.jpg?1794240097\" width=\"700\" />\n<p>La sortie des hydrocarbures est aux abonnés absents à la <span class=\"caps\">COP31</span> en Turquie. Ce silence n'a rien d'étonnant, tant cette grand-messe est présidée par des États ayant des intérêts économiques colossaux dans le secteur. <br class=\"autobr\" />\nAntalya (Turquie), envoyé spécial <br class=\"autobr\" />\nPatrick Pouyanné peut dormir sur ses deux oreilles. Le business du <span class=\"caps\">PDG</span> de TotalEnergies ne risque pas d'être chahuté lors de cette 31<sup class=\"typo_exposants\">e</sup> conférence des Nations unies sur le changement climatique. Le 9 novembre, à Antalya (Turquie), a eu lieu la (…)</p>\n\n            <a href=\"https://reporterre.net/Patrick-Pouyanne-peut-dormir-sur-ses-deux-oreilles-la-COP-s-ouvre-sans-mention-des-energies-fossiles?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Climat-18\" rel=\"tag\">Climat </a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
   },
   {
+    "id": "879adb520e6a0c03f0bed73fde979e75",
+    "source": "BFMTV",
+    "title": "Le Forum BFMTV – Face aux violences, comment stopper l’engrenage ?",
+    "link": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-le-forum-bfmtv-face-aux-violences-comment-stopper-l-engrenage_VN-202611120090.html",
+    "date": "Thu, 12 Nov 2026 00:17:13 GMT",
+    "summary": "Revoir notre grande émission spéciale \"Forum BFMTV – Face aux violences, comment stopper l’engrenage ?\" présentée par Maxime Switek ce mercredi 11 novembre 2026 sur BFMTV. Jets de bouteilles d'essence, incendies volontaires, tirs de mortiers dans les classes, agressions de proviseurs… Comment sortir de l’engrenage ? Faut-il forcément recourir à une forme de violence pour se faire entendre ?<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4CgwQxIOGAZQ2Rzv-OkEpK7Kkps=/0x0:1280x720/800x0/images/Le-Forum-BFMTV-Face-aux-violences-comment-stopper-l-engrenage-2382463.jpg\" />"
+  },
+  {
+    "id": "7906cf3e37cba10b03c35519443684bc",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - Face aux violences, comment sortir de l’engrenage?",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-face-aux-violences-comment-sortir-de-l-engrenage_VN-202611110855.html",
+    "date": "Wed, 11 Nov 2026 23:08:03 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ok-aglVEklg5uf7C9kTOb4mon94=/0x0:1280x720/800x0/images/FORUM-BFMTV-Face-aux-violences-comment-sortir-de-l-engrenage-2382460.jpg\" />"
+  },
+  {
+    "id": "50ded7d37cb24a7eae3976ab5ac96153",
+    "source": "BFMTV",
+    "title": "\"Une nouvelle entrave à la liberté d'informer\": Le Monde et Ouest-France dénoncent l'interdiction d'entrée en Russie de deux journalistes français",
+    "link": "https://www.bfmtv.com/international/asie/russie/une-nouvelle-entrave-a-la-liberte-d-informer-le-monde-et-ouest-france-denoncent-l-interdiction-d-entree-en-russie-de-deux-journalistes-francais_AD-202611110842.html",
+    "date": "Wed, 11 Nov 2026 22:58:13 GMT",
+    "summary": "Deux quotidiens français, Le Monde et Ouest-France, ont dénoncé la mesure prise par les autorités russes d'interdire l'entrée en Russie des journalistes Ariane Chemin et Paul Gogo, après l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/v-Y3VwSVeYYyV0-3hCzXY3stduM=/96x4:2048x1102/800x0/images/Le-Kremlin-Moscou-le-21-mai-2026-2305384.jpg\" />"
+  },
+  {
+    "id": "94e7cedeab8d0d19db09473cb1da0731",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - Mouvement lycéen: \"Je vois mes élèves très inquiets sur l'avenir\", témoigne Farid, enseignant",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-je-vois-mes-eleves-tres-inquiets-sur-l-avenir-temoigne-farid-enseignant_VN-202611110843.html",
+    "date": "Wed, 11 Nov 2026 22:56:25 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Vh22s5d-qcquiXHXEJJezZJvCQ0=/0x0:1280x720/800x0/images/FORUM-BFMTV-Mouvement-lyceen-Je-vois-mes-eleves-tres-inquiets-sur-l-avenir-temoigne-Farid-enseignant-2382457.jpg\" />"
+  },
+  {
+    "id": "9c44f08f2866f41dcf30af998d3e82ce",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - \"Les gens comprennent que, maintenant, on n'obtient des choses que par la casse\", selon Maxime",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-les-gens-comprennent-que-maintenant-on-n-obtient-des-choses-que-par-la-casse-selon-maxime_VN-202611110837.html",
+    "date": "Wed, 11 Nov 2026 22:48:14 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gPpcATVdzwlugZ3BDLdI3C1rKFk=/0x0:1280x720/800x0/images/FORUM-BFMTV-Les-gens-comprennent-que-maintenant-on-n-obtient-des-choses-que-par-la-casse-selon-Maxime-2382454.jpg\" />"
+  },
+  {
     "id": "52da9be628b7d783e88cd20b30e156f3",
     "source": "BFMTV",
-    "title": "Un immeuble s'effondre à New York, des opérations de secours en cours",
+    "title": "Un immeuble s'effondre dans le quartier de Brooklyn à New York, un bilan provisoire fait état d'un mort et plusieurs blessés",
     "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/un-immeuble-s-effondre-a-new-york-des-operations-de-secours-en-cours_AN-202611110830.html",
     "date": "Wed, 11 Nov 2026 22:14:53 GMT",
-    "summary": "Des opérations de secours sont menées dans le quartier de Brroklyn, où un immeuble s'est effondré.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/z22O0vuoun2Z5pT0trsHTJzIs7A=/0x0:1920x1080/800x0/images/Un-immeuble-s-est-effondre-a-New-York-le-11-novembre-2026-2382444.jpg\" />"
+    "summary": "Des opérations de secours sont menées dans le quartier de Brroklyn, où un immeuble s'est effondré. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WEAGUpb_pzHFfM3utwDa9m6lTb8=/7x111:2039x1254/800x0/images/Un-immeuble-s-est-effondre-a-Brooklyn-le-11-novembre-2026-2382453.jpg\" />"
+  },
+  {
+    "id": "754dfa4ff80440a6599bb3364b6acd6a",
+    "source": "BFMTV",
+    "title": "Le chef du Pentagone, Pete Hegseth, réprimandé par un soldat devant la tombe du Soldat inconnu à Arlington",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/le-chef-du-pentagone-pete-hegseth-reprimande-par-un-soldat-devant-la-tombe-du-soldat-inconnu-a-arlington_AN-202611110835.html",
+    "date": "Wed, 11 Nov 2026 22:41:44 GMT",
+    "summary": "Le ministre américain de la Défense, Pete Hegseth, a été réprimandé par un soldat alors qu'il se recueillait devant la tombe du Soldat inconnu ce mercredi 11 novembre à Arlington. Le chef du Pentagone faisait partie d'un groupe qui a été jugé trop bruyant.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kPYcs_QbWMXdNprhRhne3EcqwBE=/7x111:2039x1254/800x0/images/Le-ministre-americain-de-la-Defense-Pete-Hegseth-lors-d-une-ceremonie-d-hommage-aux-anciens-combattants-au-cimetiere-d-Arlington-aux-Etats-Unis-le-mercredi-11-novembre-2026-2382449.jpg\" />"
+  },
+  {
+    "id": "fe91306d002ac940d8c6f7aae783c844",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV -  “Les lycéens et les étudiants ne doivent pas revoir leurs exigences à la baisse”, explique Shérine, juriste",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-les-lyceens-et-les-etudiants-ne-doivent-pas-revoir-leurs-exigences-a-la-baisse-explique-sherine-juriste_VN-202611110834.html",
+    "date": "Wed, 11 Nov 2026 22:39:00 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/N595-JXAZhtuPSYnh05cjTtAEEw=/0x0:1280x720/800x0/images/FORUM-BFMTV-Les-lyceens-et-les-etudiants-ne-doivent-pas-revoir-leurs-exigences-a-la-baisse-explique-Sherine-juriste-2382451.jpg\" />"
+  },
+  {
+    "id": "b3bf9bf3057b3da3c4a3791766c6578c",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - Mouvement lycéen: \"En dialoguant, en gardant le sourire, on arrive à se faire comprendre\", témoigne Thierry, professeur de physique-chimie",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-en-dialoguant-en-gardant-le-sourire-on-arrive-a-se-faire-comprendre-temoigne-thierry-professeur-de-physique-chimie_VN-202611110836.html",
+    "date": "Wed, 11 Nov 2026 22:38:50 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hTXNB0hSjrrgyX11gs_88vfKYzc=/0x0:1280x720/800x0/images/FORUM-BFMTV-Mouvement-lyceen-En-dialoguant-en-gardant-le-sourire-on-arrive-a-se-faire-comprendre-temoigne-Thierry-professeur-de-physique-chimie-2382452.jpg\" />"
   },
   {
     "id": "3c2013ba619d0c5ae2ffdf6f3fb668e5",
@@ -494,69 +558,5 @@
     "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-je-vois-mes-eleves-tres-inquiets-sur-l-avenir-explique-farid-enseignant-et-responsable-associatif-dans-le-nord_VN-202611110817.html",
     "date": "Wed, 11 Nov 2026 21:59:00 GMT",
     "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YPegjaRyvM_xrJpyfjXQqWQ1iAM=/0x0:1280x720/800x0/images/FORUM-BFMTV-Mouvement-lyceen-Je-vois-mes-eleves-tres-inquiets-sur-l-avenir-explique-Farid-enseignant-et-responsable-associatif-dans-le-Nord-2382442.jpg\" />"
-  },
-  {
-    "id": "cc4e96da4ce39a4b1a30564181ae1f2f",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup",
-    "link": "https://www.bfmtv.com/politique/video-forum-bfmtv-pierre-henri-dumont-porte-parole-de-bruno-retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-parcoursup_VN-202611110816.html",
-    "date": "Wed, 11 Nov 2026 21:55:29 GMT",
-    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GnareFrVBOIqmXLuYG_M4aP6Wsg=/0x0:1280x720/800x0/images/FORUM-BFMTV-Pierre-Henri-Dumont-porte-parole-de-Bruno-Retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-Parcoursup-2382441.jpg\" />"
-  },
-  {
-    "id": "c54ab124e9e2d4d3c8562fbe9629a350",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Mouvement lycéen: \"J'ai des établissements où il n'y a pas de prof de français depuis la rentrée\", témoigne Sabrina Sebaihi, députée \"Écologiste et social\" des Hauts-de-Seine",
-    "link": "https://www.bfmtv.com/politique/video-forum-bfmtv-mouvement-lyceen-j-ai-des-etablissements-ou-il-n-y-a-pas-de-prof-de-francais-depuis-la-rentree-temoigne-sabrina-sebaihi-deputee-ecologiste-et-social-des-hauts-de-seine_VN-202611110812.html",
-    "date": "Wed, 11 Nov 2026 21:38:51 GMT",
-    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PbVBM81psRdX3fIM61nbEx-J2dA=/0x0:1280x720/800x0/images/FORUM-BFMTV-Mouvement-lyceen-J-ai-des-etablissements-ou-il-n-y-a-pas-de-prof-de-francais-depuis-la-rentree-temoigne-Sabrina-Sebaihi-deputee-Ecologiste-et-social-des-Hauts-de-Seine-2382438.jpg\" />"
-  },
-  {
-    "id": "a81665c300ae008d39813ce33621e39e",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - “Les gens comprennent que, maintenant, on n'obtient des choses que par la casse”, explique Maxime, propriétaire de plusieurs boulangeries dans l’Oise",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-les-gens-comprennent-que-maintenant-on-n-obtient-des-choses-que-par-la-casse-explique-maxime-proprietaire-de-plusieurs-boulangeries-dans-l-oise_VN-202611110811.html",
-    "date": "Wed, 11 Nov 2026 21:38:13 GMT",
-    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/W9BClGAb1-av83_1fUt2_X5OwAQ=/0x0:1280x720/800x0/images/FORUM-BFMTV-Les-gens-comprennent-que-maintenant-on-n-obtient-des-choses-que-par-la-casse-explique-Maxime-proprietaire-de-plusieurs-boulangeries-dans-l-Oise-2382437.jpg\" />"
-  },
-  {
-    "id": "a45621da847ee633cdee3f49a927c155",
-    "source": "BFMTV",
-    "title": "Grève nationale en Espagne: 120.000 manifestants à Madrid pour le logement et le pouvoir d'achat",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-greve-nationale-en-espagne-120-000-manifestants-a-madrid-pour-le-logement-et-le-pouvoir-d-achat_VN-202611110808.html",
-    "date": "Wed, 11 Nov 2026 21:30:48 GMT",
-    "summary": "C’est la première grève nationale de 24 heures dans le pays depuis 2012. Organisée par les syndicats, elle vise à intensifier la pression sur la question de l’accès au logement, à quelques semaines d'élections anticipées. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/q070eS7REpZF0CNAipuoA79jgp0=/0x0:1280x720/800x0/images/Greve-nationale-en-Espagne-120-000-manifestants-a-Madrid-pour-le-logement-et-le-pouvoir-d-achat-2382434.jpg\" />"
-  },
-  {
-    "id": "14c27d7a5ed1bedab40a3dab94896ba8",
-    "source": "BFMTV",
-    "title": "\"Des initiatives dangereuses\": Gadi Eisenkot appelle Benjamin Netanyahu à \"faire preuve de responsabilité\" sur les décisions sécuritaires en Israël",
-    "link": "https://www.bfmtv.com/international/moyen-orient/israel/des-initiatives-dangereuses-gadi-eisenkot-appelle-benjamin-netanyahu-a-faire-preuve-de-responsabilite-sur-les-decisions-securitaires-en-israel_AD-202611110802.html",
-    "date": "Wed, 11 Nov 2026 21:24:48 GMT",
-    "summary": "Celui qui est chargé de former le prochain gouvernement israélien a appelé Benjamin Netanyahu à \"faire preuve de responsabilité\" après ses déclarations martiales contre Téhéran.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l66g8di5BIp70QKYr56bbqnjblk=/0x106:2048x1258/800x0/images/Gadi-Eisenkot-a-Jerusalem-le-8-novembre-2026-2380882.jpg\" />"
-  },
-  {
-    "id": "1cb7fc4021f672eb997c42c553551544",
-    "source": "BFMTV",
-    "title": "Résultats Loto FDJ: le tirage du mercredi 11 novembre 2026",
-    "link": "https://www.bfmtv.com/loto/resultats-loto-fdj-le-tirage-du-mercredi-11-novembre-2026_AN-202611110077.html",
-    "date": "Wed, 11 Nov 2026 21:20:00 GMT",
-    "summary": "Ce mercredi 11 novembre 2026, le deuxième tirage du Loto de la semaine a été effectué. Les résultats sont consultables ici. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FD2tfd-WSdquSQ5F7wJ2gzH75LA=/6x69:1254x771/800x0/images/Resultats-Loto-du-mercredi-1656349.jpg\" />"
-  },
-  {
-    "id": "0df90ff7684874b8f47ae765fa1af6b1",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - “On doit être fiers car les lycéens sont politisés à un âge intéressant”,  explique Reda Didi, fondateur de l’association Graines de France",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-on-doit-etre-fiers-car-les-lyceens-sont-politises-a-un-age-interessant-explique-reda-didi-fondateur-de-l-association-graines-de-france_VN-202611110798.html",
-    "date": "Wed, 11 Nov 2026 21:15:36 GMT",
-    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/07qQI8ZAsryNqLR5_XMedJvgLqw=/0x0:1280x720/800x0/images/FORUM-BFMTV-On-doit-etre-fiers-car-les-lyceens-sont-politises-a-un-age-interessant-explique-Reda-Didi-fondateur-de-l-association-Graines-de-France-2382426.jpg\" />"
-  },
-  {
-    "id": "da098008459d656f43eff4a7b5a3510f",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Blocage des lycées: \"Les chiffres ministériels existent, ils sont faux\", estime Cyril Coupaud, proviseur dans l'Essonne, secrétaire académique du syndicat SNDPEN-UNSA",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-blocage-des-lycees-les-chiffres-ministeriels-existent-ils-sont-faux-estime-cyril-coupaud-proviseur-dans-l-essonne-secretaire-academique-du-syndicat-sndpen-unsa_VN-202611110799.html",
-    "date": "Wed, 11 Nov 2026 21:14:40 GMT",
-    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Wih3bjgY7ZIgnJhGxmSVXsHmSjQ=/0x0:1280x720/800x0/images/FORUM-BFMTV-Blocage-des-lycees-Les-chiffres-ministeriels-existent-ils-sont-faux-estime-Cyril-Coupaud-proviseur-dans-l-Essonne-secretaire-academique-du-syndicat-SNDPEN-UNSA-2382427.jpg\" />"
   }
 ]
