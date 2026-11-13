@@ -1,5 +1,29 @@
 [
   {
+    "id": "f8aa23b23b73f6d3d72cdcadfc71b25c",
+    "source": "Mediapart",
+    "title": "Nucléaire: à Chinon, EDF refuse de déplacer une station de mesure de radioactivité mal située",
+    "link": "https://www.mediapart.fr/journal/ecologie/131126/nucleaire-chinon-edf-refuse-de-deplacer-une-station-de-mesure-de-radioactivite-mal-situee",
+    "date": "Fri, 13 Nov 2026 08:08:08 +0100",
+    "summary": "EDF comparaît devant la justice vendredi 13 novembre pour répondre des défaillances de la station de mesure de radioactivité située en aval de l’une des plus grosses centrales nucléaires en bord de Loire. Des associations l’accusent de ne pas assez protéger l’environnement."
+  },
+  {
+    "id": "368eda77899f080c6edb17fdab82af58",
+    "source": "Mediapart",
+    "title": "Fausse rétractation de Takieddine: Nicolas Sarkozy et Carla Bruni essuient un revers cinglant",
+    "link": "https://www.mediapart.fr/journal/france/131126/fausse-retractation-de-takieddine-nicolas-sarkozy-et-carla-bruni-essuient-un-revers-cinglant",
+    "date": "Fri, 13 Nov 2026 07:32:42 +0100",
+    "summary": "L’ancien président de la République et son épouse avaient lancé fin 2024 une offensive tous azimuts pour contester les fondements juridiques de cette affaire dans l’affaire des financements libyens. La chambre de l’instruction de la cour d’appel de Paris leur a infligé, le 10 novembre, une défaite judiciaire aux airs de désaveu."
+  },
+  {
+    "id": "437a90236a17b232610b6b90611886ce",
+    "source": "Mediapart",
+    "title": "Incendie de la mairie de Limoges: les premiers éléments de l’enquête n’étayent pas la thèse d’une action concertée",
+    "link": "https://www.mediapart.fr/journal/france/131126/incendie-de-la-mairie-de-limoges-les-premiers-elements-de-l-enquete-n-etayent-pas-la-these-d-une-action-co",
+    "date": "Fri, 13 Nov 2026 07:12:49 +0100",
+    "summary": "Sur fond de surenchère politique autour de l’épouvantail «ultragauche», le parquet de Limoges a rapidement déployé des moyens d’enquête hors norme après l’incendie de la mairie. Deux hommes ont été mis en examen le 23 octobre, mais une vidéo semble disculper l’un d’eux. «Mediapart» a eu accès aux premiers éléments de l’enquête."
+  },
+  {
     "id": "f6cc706dc77ff0fe2c0f6312875e0379",
     "source": "Mediapart",
     "title": "À Gaza et en Cisjordanie, Israël perpétue sa politique de dévastation",
@@ -56,28 +80,28 @@
     "summary": "Vice-président du Rassemblement national, le député du Pas-de-Calais, ami et conseiller de la candidate à l’élection présidentielle, est un des principaux concepteurs du prototype municipal du parti à Hénin-Beaumont, conquise en 2014. Il cherche désormais à le reproduire en formant les nouveaux maires d’extrême droite."
   },
   {
-    "id": "675d103bd75e2751d0c74fb83f8df4a3",
-    "source": "Mediapart",
-    "title": "Asphyxié par l’État, le CNRS placé sous la surveillance de Bercy",
-    "link": "https://www.mediapart.fr/journal/france/121126/asphyxie-par-l-etat-le-cnrs-place-sous-la-surveillance-de-bercy",
-    "date": "Thu, 12 Nov 2026 12:24:48 +0100",
-    "summary": "Face à un déficit creusé par le sous-investissement public, le CNRS va devoir réduire ses effectifs et ses dépenses, selon une note consultée par «Mediapart». Un «pilotage tripartite» avec les ministères des comptes publics et de la recherche est aussi prévu: une «mise sous tutelle», dénoncent des syndicats."
+    "id": "9f2b038492ce4c805326ce615de137cd",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : l’offensive illibérale de Marine Le Pen",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html",
+    "date": "Fri, 13 Nov 2026 05:29:17 +0100",
+    "summary": "Associations, syndicats, magistrats, journalistes : les dirigeants du Rassemblement national multiplient les attaques publiques contre les corps intermédiaires, les institutions et les organisations civiles susceptibles de les critiquer."
   },
   {
-    "id": "804b0157da1f6112bd794ac74264e037",
-    "source": "Mediapart",
-    "title": "Espagne: le socialiste Sánchez espère profiter de l’élan de la grève pour le logement",
-    "link": "https://www.mediapart.fr/journal/international/121126/espagne-le-socialiste-sanchez-espere-profiter-de-l-elan-de-la-greve-pour-le-logement",
-    "date": "Thu, 12 Nov 2026 12:23:17 +0100",
-    "summary": "La grève générale pour le droit au logement s’est conclue mercredi par des cortèges massifs dans les grandes villes d’Espagne. Si les gauches espèrent en profiter dans les urnes, la droite, elle, tempête contre une «anomalie démocratique» à trois semaines des législatives."
+    "id": "d685981c57fefc704bcd9d5131b3e328",
+    "source": "Le Monde",
+    "title": "Mouvement lycéen : le risque du « pourrissement » de la situation pour les établissements mobilisés",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/13/mouvement-lyceen-entre-blocages-persistants-et-montee-des-violences-les-lycees-mobilises-face-a-la-crainte-d-une-situation-inextricable_6809270_3224.html",
+    "date": "Fri, 13 Nov 2026 05:00:29 +0100",
+    "summary": "Si la mobilisation s’est resserrée, elle gagne en intensité dans certains établissements. Alors que les tensions augmentent et que les faits de violence se multiplient, l’inquiétude monte chez les enseignants, les proviseurs et les parents."
   },
   {
-    "id": "caa2b7bfd558d2f84ac875d2ff91b65f",
-    "source": "Mediapart",
-    "title": "«Voter, ce n’est pas se marier»: sur le plateau de Millevaches, un vote Mélenchon sans illusions",
-    "link": "https://www.mediapart.fr/journal/politique/121126/voter-ce-n-est-pas-se-marier-sur-le-plateau-de-millevaches-un-vote-melenchon-sans-illusions",
-    "date": "Thu, 12 Nov 2026 10:58:32 +0100",
-    "summary": "Accusés par la droite dure d’être responsables de l’incendie de la mairie de Limoges, le 17 octobre, Jean-Luc Mélenchon et les militants du plateau limousin se sont retrouvés en Creuse pour une commémoration pacifiste du 11 Novembre. Sur place, on votera insoumis, par stratégie plus que par passion."
+    "id": "dc66a4e978c788358abad97beba5e900",
+    "source": "Le Monde",
+    "title": "Une panne mondiale de la messagerie Outlook perturbe l’accès aux e-mails, Microsoft peine à résoudre la situation",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
+    "date": "Fri, 13 Nov 2026 00:36:49 +0100",
+    "summary": "Après environ huit heures de blocage, le géant Microsoft a annoncé, dans la nuit de jeudi à vendredi, que les mesures prises pour résoudre le problème ne fonctionnaient « pas comme prévu », et qu’il s’employait à trouver des solutions."
   },
   {
     "id": "89f1a28c76328572d06c35b6180c8304",
@@ -88,12 +112,36 @@
     "summary": "Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son parcours, les zones grises de la guerre technologique sino-américaine."
   },
   {
-    "id": "707e948cb14aeb6b6241c0f5a5592674",
+    "id": "800f6745a01a492e352e1ddf3e6f232a",
     "source": "Le Monde",
-    "title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
-    "date": "Thu, 12 Nov 2026 19:23:31 +0100",
-    "summary": "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public. Une approche largement guidée par une logique comptable."
+    "title": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
+    "date": "Fri, 13 Nov 2026 05:00:29 +0100",
+    "summary": "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord. Jared Kushner et Steve Witkoff, les envoyés spéciaux de Donald Trump, sont repartis de Moscou, jeudi, avec très peu d’éléments nouveaux sur les négociations entre la Russie et l’Ukraine."
+  },
+  {
+    "id": "51530bffb729c0ccb5ba6f2959aeea03",
+    "source": "Le Monde",
+    "title": "Procès des parents de l’« inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/13/proces-des-parents-de-l-inconnue-de-l-a10-je-suis-un-vaurien-je-n-ai-pas-pu-proteger-mes-enfants_6809259_3224.html",
+    "date": "Fri, 13 Nov 2026 02:53:33 +0100",
+    "summary": "Accusé de complicité des actes de torture et de barbarie reprochés à Halima El Bakhti, sur leur fille Inass, dont le corps a été retrouvé en bordure de l’A10 en 1987, Ahmed Touloub a expliqué son silence par la « peur » que lui inspirait son ex-épouse, depuis un mariage plus subi que choisi."
+  },
+  {
+    "id": "677972d13febb0c32d695a7f4a9eb13e",
+    "source": "Le Monde",
+    "title": "Audiences de la radio : les stations d’information accusent le coup",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/13/audiences-de-la-radio-les-stations-d-information-accusent-le-coup_6809290_3234.html",
+    "date": "Fri, 13 Nov 2026 08:00:27 +0100",
+    "summary": "Alors que France Inter, Franceinfo, RTL, RMC et Europe 1 affichent, en septembre-octobre, des audiences en recul par rapport à la même période en 2025, Radio Nova confirme sa spectaculaire percée, et fait jeu égal avec France Culture."
+  },
+  {
+    "id": "c15ecfe090846955d938f685210ef9fb",
+    "source": "Le Monde",
+    "title": "U2 fête son demi-siècle avec panache grâce à « Carnaval de Luz »",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/13/u2-fete-son-demi-siecle-avec-panache-grace-a-carnaval-de-luz_6809265_3246.html",
+    "date": "Fri, 13 Nov 2026 05:00:16 +0100",
+    "summary": "Le quatuor irlandais, dont la carrière a connu des creux et des rebondissements spectaculaires, sort un seizième album dans lequel il retrouve toute sa vigueur en se recentrant sur ses bases."
   },
   {
     "id": "1845e56eb87d628b4b0f34173c177fbe",
@@ -104,30 +152,6 @@
     "summary": "L’Etat hébreu interdira l’accès à son territoire à toute personne « agissant contre ses intérêts et incitant à la haine contre ses citoyens », a prévenu la diplomatie israélienne."
   },
   {
-    "id": "d23143730ce053b7e26e861272f4a7ab",
-    "source": "Le Monde",
-    "title": "France-Italie : le résumé de la première défaite des Bleus sous Zinédine Zidane, surpris par les Azzurri en Ligue des nations",
-    "link": "https://www.lemonde.fr/football/article/2026/11/12/france-italie-le-resume-de-la-premiere-defaite-des-bleus-sous-zinedine-zidane-surpris-par-les-azzurri-en-ligue-des-nations_6809168_1616938.html",
-    "date": "Thu, 12 Nov 2026 23:15:13 +0100",
-    "summary": "Face à l’Italie, les Bleus se sont inclinés pour la première fois (1-3) depuis l’arrivée de Zinédine Zidane sur le banc, jeudi à Milan. Ils devront au moins accrocher le nul face à la Turquie, dimanche à Bordeaux, pour se qualifier en quarts de finale de la compétition."
-  },
-  {
-    "id": "09cd395d9bd5d5089d0828e9e9a287b1",
-    "source": "Le Monde",
-    "title": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
-    "date": "Thu, 12 Nov 2026 22:10:52 +0100",
-    "summary": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transition écologique."
-  },
-  {
-    "id": "9150d8d40654ed38609474c046405712",
-    "source": "Le Monde",
-    "title": "Avis de tempête sur les écoles de commerce : « Certaines se trouvent quasiment au bord du précipice »",
-    "link": "https://www.lemonde.fr/campus/article/2026/11/12/avis-de-tempete-sur-les-ecoles-de-commerce-certaines-se-trouvent-quasiment-au-bord-du-precipice_6809122_4401467.html",
-    "date": "Thu, 12 Nov 2026 16:51:25 +0100",
-    "summary": "Dans un marché saturé, le fossé se creuse entre les « stars » du top 5 et les autres business schools, dont le modèle économique vacille face à la baisse des aides à l’alternance et au recul démographique qui s’annonce."
-  },
-  {
     "id": "c1e120392636f90e2301738d2371b9d4",
     "source": "Le Monde",
     "title": "Au procès de l’explosion de la rue de Trévise, à Paris, les vies brisées des victimes",
@@ -136,12 +160,20 @@
     "summary": "Blessés physiques et psychologiques ont raconté l’explosion du 12 janvier 2019 et ses conséquences sur leurs vies près de huit ans après. Delphine Bürkli, la maire du 9ᵉ arrondissement, qui s’est battue pour qu’ils soient correctement indemnisés, a dénoncé la « survictimisation » dont ils ont fait l’objet."
   },
   {
-    "id": "6147c0b2e57d874584a80946f0c64dd2",
+    "id": "475045156e0f33cb0eba148540722cae",
     "source": "Le Monde",
-    "title": "Près de 40 000 enfants handicapés sans AESH à la rentrée 2026 : une action de groupe en cours pour « ouvrir une brèche »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html",
-    "date": "Thu, 12 Nov 2026 21:54:18 +0100",
-    "summary": "L’association Une école inclusive pour tous avait lancé, en décembre 2025, une action en justice visant le non-respect par l’Etat de ses obligations dans dix départements. Selon des données du ministère de l’éducation, la situation reste très tendue dans le Val-de-Marne, la Savoie ou le Bas-Rhin."
+    "title": "Italie-France : le premier échec de l’ère Zidane plonge les Bleus dans le doute",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/13/italie-france-le-premier-echec-de-l-ere-zidane-plonge-les-bleus-dans-le-doute_6809260_3242.html",
+    "date": "Fri, 13 Nov 2026 03:17:43 +0100",
+    "summary": "L’équipe de France de football a chuté face aux Transalpins (3-1), jeudi, à Milan, en Ligue des nations. Une contre-performance qui l’oblige à aller chercher sa qualification pour les quarts de finale, dimanche, face à la Turquie, à Bordeaux."
+  },
+  {
+    "id": "d4a4f58c28e9ca2982e01afde4b5165a",
+    "source": "Le Monde",
+    "title": "Procès de l’interpellation violente de Michel Zecler par des policiers : « Depuis l’agression, il a perdu cette lumière, cette faculté à aller de l’avant »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/13/proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-depuis-l-agression-il-a-perdu-cette-lumiere-cette-faculte-a-aller-de-l-avant_6809266_3224.html",
+    "date": "Fri, 13 Nov 2026 05:00:28 +0100",
+    "summary": "Au troisième jour d’audience du procès de trois policiers jugés pour avoir passé à tabac le producteur de musique, à Paris, en 2020, les proches de ce dernier ont décrit les conséquences et le traumatisme de l’agression sur leur ami."
   },
   {
     "id": "6c1660dba59a4f380531c4030371947a",
@@ -152,52 +184,116 @@
     "summary": "Conséquence des tensions diplomatiques entre les deux Etats, les exportations françaises vers l’Algérie subissent une baisse sans précédent. Des secteurs comme les produits sidérurgiques ou alimentaires sont ciblés par les autorités algériennes."
   },
   {
-    "id": "57873fa4aaa825983364cbc541316adb",
+    "id": "2d3b716ab2545871145f075aca28665e",
     "source": "Le Monde",
-    "title": "Après l’éborgnement d’une adolescente lors des manifestations du 17 octobre, le parquet de Mulhouse saisit le juge d’instruction",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/12/apres-l-eborgnement-d-une-adolescente-lors-des-manifestations-du-17-octobre-le-parquet-de-mulhouse-saisit-le-juge-d-instruction_6809131_3224.html",
-    "date": "Thu, 12 Nov 2026 17:39:58 +0100",
-    "summary": "La victime, Maïssa, a déposé plainte avec sa mère. Selon des témoins, elle aurait été blessée par une grenade lacrymogène lors des manifestations du 17 octobre."
+    "title": "La visite du pape au Pérou ravive l’espoir de justice pour des populations paysannes autochtones qui se disent spoliées",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/la-visite-du-pape-au-perou-ravive-l-espoir-de-justice-pour-des-populations-paysannes-autochtones-qui-se-disent-spoliees_6809287_3210.html",
+    "date": "Fri, 13 Nov 2026 07:00:10 +0100",
+    "summary": "En mai, le Vatican a demandé pardon aux villageois de Catacaos, dans le nord du Pérou, pour la dépossession de leurs terres au nom de l’Eglise et du Sodalicio – une organisation apostolique laïque dissoute en 2025 par Rome. Un pardon symbolique pour ceux qui attendent toujours la restitution de leurs terres et une réparation financière. Ils espèrent rencontrer le pape lors de sa visite à Chiclayo les 13 et 14 novembre."
   },
   {
-    "id": "21693608471a32ad05765d126bbdf383",
+    "id": "dfd0f4c2317338c4cc2fd1b1887a2107",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
-    "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html",
-    "date": "Thu, 12 Nov 2026 22:10:19 +0100",
-    "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine."
+    "title": "La Turquie en cinq escales à portée de main et de clic",
+    "link": "https://www.lemonde.fr/les-envies-du-monde/article/2026/11/13/la-turquie-en-cinq-escales-a-portee-de-main-et-de-clic_6809262_6024727.html",
+    "date": "Fri, 13 Nov 2026 04:30:06 +0100",
+    "summary": "Chaque mois, La Matinale du Monde vous propose un dépaysement à moindres frais. Aujourd’hui, exploration du « pont entre l’Orient et l’Occident », à table ou en BD."
   },
   {
-    "id": "ec87052ffab6fce83c1ae13eb498417f",
-    "source": "Le Monde",
-    "title": "Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/13/violences-policieres-lors-des-manifestations-laurent-nunez-s-engage-a-proteger-les-journalistes-et-faire-respecter-le-droit-d-informer_6809257_3224.html",
-    "date": "Fri, 13 Nov 2026 01:37:10 +0100",
-    "summary": "Plusieurs plaintes pénales ont été déposées par des reporters blessés lors des récentes manifestations en France. Le ministre de l’intérieur, qui a rencontré une intersyndicale de la profession, a promis que le rappel des règles du maintien de l’ordre sera adressé à toutes les forces de police dès vendredi."
+    "id": "66bcd426e15f6ac7c3ca964abbde28a0",
+    "source": "Libération",
+    "title": "Panne mondiale d’Outlook, manifs des proviseurs, les syndicats de fonctionnaires à Matignon, les Bleus battus… L’actu de ce vendredi 13 novembre au matin",
+    "link": "https://www.liberation.fr/international/europe/panne-mondiale-doutlook-manifs-des-proviseurs-les-syndicats-de-fonctionnaires-a-matignon-les-bleus-battus-lactu-de-ce-vendredi-13-novembre-au-matin-20261113_ZI5XR5ZL7FGPRKYC4A3WFHN55Y/",
+    "date": "Fri, 13 Nov 2026 06:48:25 +0000",
+    "summary": "La rédaction de «Libération» compile les principales infos du jour"
   },
   {
-    "id": "f636dca878fc88f9df4d72ba836e3ba0",
-    "source": "Le Monde",
-    "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
-    "link": "https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html",
-    "date": "Fri, 13 Nov 2026 01:01:12 +0100",
-    "summary": "Parti du Honduras, le groupe a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l’Etat du Chiapas, dans le sud du pays. Il espère rejoindre les Etats-Unis, où le Parti républicain du président a subi une défaite écrasante aux midterms."
+    "id": "e0ca7008374d1ed3b951cf01b36bd6cd",
+    "source": "Libération",
+    "title": "Haïti : la police aidée de militaires salvadoriens reprend le contrôle du principal stade du pays aux gangs",
+    "link": "https://www.liberation.fr/international/amerique/haiti-la-police-aidee-de-militaires-salvadoriens-reprend-le-controle-du-principal-stade-de-pays-aux-gangs-20261113_HIWSZJGJRRC2FFV2QI6OTB7XIE/",
+    "date": "Fri, 13 Nov 2026 06:36:29 +0000",
+    "summary": "Depuis octobre 2026, deux mille soldats salvadoriens sont déployés dans le pays et assurent désormais la sécurité de l’enceinte qui échappait au contrôle des forces de sécurité locales depuis deux ans."
   },
   {
-    "id": "dc66a4e978c788358abad97beba5e900",
-    "source": "Le Monde",
-    "title": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
-    "link": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
-    "date": "Fri, 13 Nov 2026 00:36:49 +0100",
-    "summary": "Microsoft affirme travailler « sans relâche » pour régler la panne qui influence également certaines fonctions des assistants d’intelligence artificielle, dont Copilot, son propre assistant IA, mais aussi Claude et ChatGPT."
+    "id": "18ca10101a27835999794e5683b8affb",
+    "source": "Libération",
+    "title": "Dans les coulisses de la Chine made in IA",
+    "link": "https://www.liberation.fr/economie/economie-numerique/dans-les-coulisses-de-la-chine-made-in-ia-20261113_FJCQ644MQRA5PBEOFMAKJB3IBQ/",
+    "date": "Fri, 13 Nov 2026 06:00:00 +0000",
+    "summary": "Durant quatorze jours, «Libération» a sillonné quatre mégalopoles chinoises – Pékin, Shanghai, Hangzhou et Qingdao – afin de raconter en cinq épisodes le pays à l’ère de l’intelligence artificielle."
   },
   {
-    "id": "bc042f7390e53d8eb8b0af461bcc6ed7",
-    "source": "Le Monde",
-    "title": "Mort de Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch après le « traitement défaillant » de la procédure",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html",
-    "date": "Thu, 12 Nov 2026 20:25:57 +0100",
-    "summary": "La gestion des dossiers de violences sur mineurs par la magistrate d’Auch soulève des interrogations sur l’ensemble de sa carrière et la rigueur des procédures judiciaires locales."
+    "id": "ca0caf8942dada7adc6a1b93157fa2a3",
+    "source": "Libération",
+    "title": "Ce jeu vidéo qui a changé ma vie : «Dans cet univers fantastique, je peux enfin avoir le corps dont je rêve»",
+    "link": "https://www.liberation.fr/lifestyle/ce-jeu-video-qui-a-change-ma-vie-dans-cet-univers-fantastique-je-peux-enfin-avoir-le-corps-dont-je-reve-20261113_RH4QQPDQ6RFWPMATLHEJLMQAIU/",
+    "date": "Fri, 13 Nov 2026 06:00:00 +0000",
+    "summary": "Dans le cinquième épisode de notre série, Clémence raconte comment le jeu de rôle et d’aventure «Baldur’s Gate 3», a accompagné sa transition de genre."
+  },
+  {
+    "id": "44171068fb1c0bd757f21a7a8ead1620",
+    "source": "Libération",
+    "title": "Face au colosse d’Afrique du Sud, le XV de France cabossé se présente en outsider",
+    "link": "https://www.liberation.fr/sports/rugby/rugby-face-au-colosse-sud-africain-les-bleus-cabosses-se-presentent-en-outsiders-20261113_FXL5Q5ARMVEZXBFV54LBTCKT4E/",
+    "date": "Fri, 13 Nov 2026 06:00:00 +0000",
+    "summary": "Décimée par les blessures, au point de devoir faire jouer le capitaine Antoine Dupont à un autre poste que le sien, le XV de France défie la meilleure équipe du monde, ce vendredi 13 novembre au Stade de France, en Championnat des Nations."
+  },
+  {
+    "id": "996d4c5bdcefd321adaa05886819ac1e",
+    "source": "Libération",
+    "title": "Outlook : vous n’avez plus de message",
+    "link": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/",
+    "date": "Fri, 13 Nov 2026 05:59:41 +0000",
+    "summary": "74 pays sont frappés par la panne de la messagerie de Microsoft. La firme avoue ne pas parvenir à régler le problème causé par «une charge élevée» sur l’infrastructure et ne peut prévoir quand le service sera rétabli."
+  },
+  {
+    "id": "81ef42c6f3290a086418a93386e569cc",
+    "source": "Libération",
+    "title": "Au procès de l’explosion de la rue de Trévise : «J’appelle mon papa, je lui dis que je viens d’exploser»",
+    "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lexplosion-de-la-rue-de-trevise-jappelle-mon-papa-je-lui-dis-que-je-viens-dexploser-20261113_XJ4YHVCLMJCLPGNTAU7ITVJNIU/",
+    "date": "Fri, 13 Nov 2026 05:56:27 +0000",
+    "summary": "Ce jeudi 12 novembre, pour la première fois, des rescapés ont raconté au tribunal leur vie brisée par la déflagration survenue le 12 janvier 2019. La ville de Paris et le syndic y sont jugés pour homicides involontaires."
+  },
+  {
+    "id": "5b7d1b40bc26d50552d9e8a052a82a22",
+    "source": "Libération",
+    "title": "Les acteurs de l’intelligence artificielle ont accumulé plus de 2000 milliards de dollars de nouvelle dette ou quasi-dette",
+    "link": "https://www.liberation.fr/economie/economie-numerique/les-acteurs-de-lintelligence-artificielle-ont-accumule-plus-de-2000-milliards-de-dollars-de-nouvelle-dette-ou-quasi-dette-20261113_PAONIGXAERETBB26PLYZ3FHXDY/",
+    "date": "Fri, 13 Nov 2026 05:00:01 +0000",
+    "summary": "Pour construire des infrastructures, l’endettement du secteur a bondi au cours des deux dernières années, le rendant plus vulnérable en cas de crise, comme celle que traverse le géant de la tech Nvidia depuis fin octobre."
+  },
+  {
+    "id": "abc7119a525efd75c371bcfb06e8972a",
+    "source": "Libération",
+    "title": "Quand peut-on parler de «génocide» ? Plongée au cœur des débats entre spécialistes",
+    "link": "https://www.liberation.fr/international/europe/quand-peut-on-parler-de-genocide-plongee-au-coeur-des-debats-entre-specialistes-20261113_BRIZJBOOI5CEFNZUZXHGMZNJ4E/",
+    "date": "Fri, 13 Nov 2026 05:00:01 +0000",
+    "summary": "Après trois ans de guerre à Gaza, le débat sur l’emploi du terme «génocide» pour qualifier les actes d’Israël – ou du Hamas le 7 octobre 2023 – reste vif entre militants, ONG, juristes, historiens et responsables politiques. Plongée au cœur des discussions pour tenter de sortir de l’instrumentalisation d’un mot «piégé»."
+  },
+  {
+    "id": "754adb29a2b3883d39eb280692aa53b0",
+    "source": "Libération",
+    "title": "U2, H JeuneCrack, Radie Peat… Qu’est-ce qu’on écoute cette semaine ?",
+    "link": "https://www.liberation.fr/culture/musique/u2-h-jeunecrack-radie-peat-quest-ce-quon-ecoute-cette-semaine-20261113_7UUXECQKU5GUJMP47OUWMVKXZU/",
+    "date": "Fri, 13 Nov 2026 05:00:01 +0000",
+    "summary": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties."
+  },
+  {
+    "id": "a1cbae68d11f580006a790ad3028f70c",
+    "source": "Libération",
+    "title": "«Swallow !» de Shygirl, la loi des chéries",
+    "link": "https://www.liberation.fr/culture/musique/swallow-de-shygirl-la-loi-des-cheries-20261113_3NUP55GTKJCI5A3U5Z5JYTEX2Q/",
+    "date": "Fri, 13 Nov 2026 04:54:00 +0000",
+    "summary": "Dans son deuxième album, l’Anglaise, follement entichée, continue ses expérimentations entre hyperpop, électronique et quasi-indie."
+  },
+  {
+    "id": "6c3c7bab4f9da4d0b5eafe409083661a",
+    "source": "Libération",
+    "title": "Derrière l’affaire Jensen Huang, la course chinoise au développement de puces IA",
+    "link": "https://www.liberation.fr/international/asie-pacifique/derriere-laffaire-jensen-huang-la-course-chinoise-au-developpement-de-puces-ia-20261113_IFH2JGRCPJEWNBHSM4LPTMK4KI/",
+    "date": "Fri, 13 Nov 2026 04:41:00 +0000",
+    "summary": "Si Pékin dépend toujours des puces Nvidia pour ses modèles les plus avancés, les autorités chinoises entendent réduire la dépendance du pays aux solutions américaines, malgré un retard encore marqué. Et l’année 2027 s’annonce déterminante."
   },
   {
     "id": "505f964401068a979350c9e983fa2b75",
@@ -224,100 +320,20 @@
     "summary": "Plusieurs organisations (syndicats, gilets jaunes, associations) appellent à ce que des cortèges communs se tiennent partout pour que les colères convergent. «Libération» fait le point."
   },
   {
-    "id": "8a66a718d1ea228409f93cc79b7c59ac",
-    "source": "Libération",
-    "title": "Des superprofits «absurdes» et «moralement inacceptables» : depuis la COP31, António Guterres s’en prend aux géants pétroliers",
-    "link": "https://www.liberation.fr/environnement/climat/des-superprofits-absurdes-et-moralement-inacceptables-depuis-la-cop31-antonio-guterres-sen-prend-aux-geants-petroliers-20261112_HA2J5MVREFBFZLF2Y2L33X567E/",
-    "date": "Thu, 12 Nov 2026 20:37:34 +0000",
-    "summary": "En pleine crise des carburants et alors que se tient la COP31 en Turquie, le secrétaire général des Nations unies a fustigé ce jeudi 12 novembre les bénéfices monstres engrangés par les grandes entreprises d’énergies fossiles."
+    "id": "5f97fbe8d4fcde4e25ade5cd500cd14a",
+    "source": "Reporterre",
+    "title": "« Passer du moche en acrylique au 100% local » : elles fabriquent des pulls de la brebis au tricot",
+    "link": "https://reporterre.net/Passer-du-moche-en-acrylique-au-100-local-elles-fabriquent-des-pulls-de-la-brebis-au-tricot",
+    "date": "2026-11-13T06:05:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/5w9a2189_resized-63d6a.jpg?1794549903\" width=\"700\" />\n<p>Dans le Maine-et-Loire, un petit groupe de tricot s'est lancé le défi de confectionner un pull en laine 100<small class=\"fine d-inline\"> </small>% local avec un éleveur de brebis. En réapprenant au passage un savoir-faire perdu depuis longtemps en France. <br class=\"autobr\" />\nGennes (Maine-et-Loire) reportage <br class=\"autobr\" />\nSous un soleil doré, les brebis brunes et blanches disparaissent presque au milieu des herbes folles. Thomas, l'éleveur, les couve d'un regard doux. Sur son dos, un gilet écru parsemé de rayures chocolat rappelle le camaïeu de son (…)</p>\n\n            <a href=\"https://reporterre.net/Passer-du-moche-en-acrylique-au-100-local-elles-fabriquent-des-pulls-de-la-brebis-au-tricot?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Alternatives\" rel=\"tag\">Alternatives</a>"
   },
   {
-    "id": "403e5c0dbed984f1fe09cee7b4dc35e4",
-    "source": "Libération",
-    "title": "Etats-Unis : le ministre de la Défense, Pete Hegseth, enguirlandé par un garde près de la tombe du Soldat inconnu",
-    "link": "https://www.liberation.fr/international/amerique/etats-unis-le-ministre-de-la-defense-pete-hegseth-enguirlande-par-un-garde-pres-de-la-tombe-du-soldat-inconnu-20261112_LCUUTTXCRZHLVOXMTT2CZVAWRE/",
-    "date": "Thu, 12 Nov 2026 20:34:18 +0000",
-    "summary": "Le ministre de l’administration Trump et ses invités, pris à bavarder et à rire dans ce lieu solennel mercredi 11 novembre, jour de commémoration des anciens combattants américains, ont été vivement sermonnés par un soldat."
-  },
-  {
-    "id": "ca8f2e2453c441abcfe8fed66e3ffa49",
-    "source": "Libération",
-    "title": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
-    "link": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/",
-    "date": "Thu, 12 Nov 2026 20:26:04 +0000",
-    "summary": "Cette mesure, annoncée ce jeudi 12 novembre, pourrait avoir été prise en réaction au refoulement la veille à Paris d’un responsable des colons israéliens qui venait d’atterrir en France. Le candidat à la présidentielle a dit «regretter que le gouvernement d’Israël [le] poursuive de cette manière»."
-  },
-  {
-    "id": "a49a615851469573cb83225ce2899c04",
-    "source": "Libération",
-    "title": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
-    "link": "https://www.liberation.fr/politique/elections/des-gens-tuent-en-son-nom-apres-les-propos-de-marine-tondelier-sur-lattentat-de-trappes-le-rn-va-porter-plainte-en-diffamation-20261112_HFJ4OYDV7ZEXNKWYRG32QKOHDA/",
-    "date": "Thu, 12 Nov 2026 20:15:20 +0000",
-    "summary": "La candidate des écologistes à la présidentielle dénonçait la semaine dernière le fait que des «tracts» du Rassemblement national ont été retrouvés au domicile de Kévin Tessier. Le ton employé n’a visiblement pas plu au parti d’extrême droite."
-  },
-  {
-    "id": "e0c7b12a149298c2ef27d42ca0ffc218",
-    "source": "Libération",
-    "title": "Démission de Jensen Huang : derrière le scandale, une forte implication géopolitique",
-    "link": "https://www.liberation.fr/idees-et-debats/editorial/demission-de-jensen-huang-derriere-le-scandale-une-forte-implication-geopolitique-20261112_TCOSGKQ7F5HOTAXLSPVCTR3LDA/",
-    "date": "Thu, 12 Nov 2026 20:06:20 +0000",
-    "summary": "Au-delà du feuilleton rocambolesque mêlant aventures extraconjugales et espionnage industriel, la démission du PDG de Nvidia pourrait surtout devenir un argument politique contre l’administration Trump."
-  },
-  {
-    "id": "cb50681d3d11ec44532d58b16724267e",
-    "source": "Libération",
-    "title": "Une enquête confiée à l’IGPN après la «collision» entre un jeune à moto et une voiture de police près de Paris",
-    "link": "https://www.liberation.fr/societe/police-justice/une-enquete-confiee-a-ligpn-apres-la-collision-entre-un-jeune-a-moto-et-une-voiture-de-police-pres-de-paris-20261112_DWEK4QGT2VCYRDO3D6QJ4IHLSY/",
-    "date": "Thu, 12 Nov 2026 19:44:08 +0000",
-    "summary": "Un jeune homme de 19 ans qui ne portait pas de casque a été hospitalisé dans un état grave samedi 7 novembre après être entré en collision avec un véhicule policier à Chaville, dans les Hauts-de-Seine. Les circonstances de l’accident sont encore floues."
-  },
-  {
-    "id": "e8cfb6de54b6fb3387279364c5579480",
-    "source": "Libération",
-    "title": "Rendez-vous galants, montages financiers, rumeurs d’espionnage... Le récit de la chute de Jensen Huang, patron de Nvidia",
-    "link": "https://www.liberation.fr/economie/economie-numerique/rendez-vous-galants-montages-financiers-rumeurs-despionnage-le-recit-de-la-chute-de-jensen-huang-patron-de-nvidia-20261112_53WXP7SCP5GKBGOGDHZT46LPIM/",
-    "date": "Thu, 12 Nov 2026 19:37:36 +0000",
-    "summary": "L’Américano-Taïwanais, l’homme le plus puissant du secteur de l’intelligence artificielle, a été contraint de présenter sa démission ce jeudi 12 novembre, après les révélations sur ses aventures extraconjugales, notamment avec une femme d’affaires chinoise. Retour sur la liaison hors norme qui a provoqué sa débâcle."
-  },
-  {
-    "id": "8f453f7460ac5a2f346a471d930fb2d3",
-    "source": "Libération",
-    "title": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch",
-    "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-dauch-20261112_R7YZEZF7HVBKLP77VULAGHIGAA/",
-    "date": "Thu, 12 Nov 2026 19:22:03 +0000",
-    "summary": "Le garde des Sceaux reproche à une substitute du procureur d’Auch un «manquement à son devoir de conscience professionnelle» lorsqu’elle était en charge de l’enquête visant Jérôme Barella."
-  },
-  {
-    "id": "06c7de41f7dd1b2937a14d85803db1d1",
-    "source": "Libération",
-    "title": "En Italie, le gouvernement de Meloni réhabilite une figure néofasciste",
-    "link": "https://www.liberation.fr/international/europe/en-italie-le-gouvernement-de-meloni-rehabilite-une-figure-neofasciste-20261112_MNZPYHU22VAUFMGOJMWCZOP5BM/",
-    "date": "Thu, 12 Nov 2026 19:07:12 +0000",
-    "summary": "Député et militant contre la démocratie, inspirateur de plusieurs attentats, Pino Rauti (1926-2012) a droit à une exposition à la Chambre des députés pour le centenaire de sa naissance, et même à un timbre à son effigie."
-  },
-  {
-    "id": "f0f1c3d4f87f0cfd0f903925c6f52925",
-    "source": "Libération",
-    "title": "Attentat raciste des Yvelines : Kévin Tessier avait déjà fait l’objet d’une plainte pour violences en 2024, selon «Mediapart»",
-    "link": "https://www.liberation.fr/societe/police-justice/attentat-raciste-de-trappes-kevin-tessier-avait-deja-fait-lobjet-dune-plainte-pour-violences-en-2024-selon-mediapart-20261112_HAETOSO6MJH25NSTYREQO3GB2I/",
-    "date": "Thu, 12 Nov 2026 18:45:08 +0000",
-    "summary": "Un Français d’origine tunisienne avait mis en cause Kevin Tessier deux ans avant l’attentat meurtrier, révèle le média ce jeudi 12 novembre. «L’enquête est en cours» et aucune garde à vue n’a eu lieu, explique le parquet de Nanterre."
-  },
-  {
-    "id": "c56eeccf39716c2003c510ac755bd5d9",
-    "source": "Libération",
-    "title": "Présidentielle 2027 : pour Bruno Retailleau, une primaire de la droite doit se faire même sans Edouard Philippe",
-    "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-pour-bruno-retailleau-une-primaire-de-la-droite-doit-se-faire-meme-sans-edouard-philippe-20261112_PVIINOMGVVFH5BBITBMCAGUZOQ/",
-    "date": "Thu, 12 Nov 2026 18:31:58 +0000",
-    "summary": "Alors que les candidats passaient à tour de rôle ce jeudi 12 novembre sur France Info pour parler des services publics, le candidat Les Républicains en a profité pour mettre encore une fois la pression sur le président d’Horizons."
-  },
-  {
-    "id": "524921f8f118bb5e95bb76dbcc594567",
-    "source": "Libération",
-    "title": "Au Liban, derrière le silence du Hezbollah, une stratégie et des inquiétudes",
-    "link": "https://www.liberation.fr/international/moyen-orient/au-liban-derriere-le-silence-du-hezbollah-une-strategie-et-des-inquietudes-20261112_JJVMUZUXYBBGNGEXW7W3YCA3KA/",
-    "date": "Thu, 12 Nov 2026 18:27:22 +0000",
-    "summary": "Si le parti-milice libanais s’abstient de riposter aux frappes israéliennes, il mise sur une relance des négociations entre Washington et Téhéran, tout en réorganisant ses forces et en cherchant à remobiliser sa base éprouvée par la guerre."
+    "id": "819aef3489b1095bf1f3eccfcc49a74a",
+    "source": "Reporterre",
+    "title": "« On se sent abandonnés » : trois mois après le mégafeu en Gironde, la colère des sinistrés ne s'éteint pas",
+    "link": "https://reporterre.net/On-se-sent-abandonnes-trois-mois-apres-le-megafeu-en-Gironde-la-colere-des-sinistres-ne-s-eteint-pas",
+    "date": "2026-11-13T06:00:00Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"466\" src=\"https://reporterre.net/local/cache-vignettes/L700xH466/8453-le-porge-3-mois-3389-_c_timothe_ebuisson-d4ec6.jpg?1794549601\" width=\"700\" />\n<p>Faute de dialogue avec l'administration, la souffrance des sinistrés du Porge se double d'une défiance envers l'État, trois mois après les incendies de Gironde. <br class=\"autobr\" />\nLe Porge (Gironde), reportage <br class=\"autobr\" />\nEn sortant de la mairie, Benjamin Veyres est déçu, mais pas surpris. «<small class=\"fine d-inline\"> </small>J'étais venu voir dans quelle zone ma maison se situait, mais personne n'a pu me répondre<small class=\"fine d-inline\"> </small>», peste cet habitant installé au Porge depuis cinq ans. Ce village a été le plus durement touché par l'incendie de Gironde, qui a ravagé 42 (…)</p>\n\n            <a href=\"https://reporterre.net/On-se-sent-abandonnes-trois-mois-apres-le-megafeu-en-Gironde-la-colere-des-sinistres-ne-s-eteint-pas?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Megafeux\" rel=\"tag\">Incendies</a>"
   },
   {
     "id": "abe0da6e189f5ec938da93e15554d6ff",
@@ -424,139 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/cern_server_03_resized-8dd58.jpg?1794327830\" width=\"700\" />\n<p>En pleine <span class=\"caps\">COP</span>, où les États tentent de préserver les apparences mais ne font aucune mention de la sortie des hydrocarbures, le symbole est fâcheux : le géant de l'<span class=\"caps\">IA</span> Anthropic vient d'acheter, pour 3,4 milliards de dollars, deux générateurs au gaz à OnePWR, entreprise basée à San Antonio, au Texas. Il compte donc brûler toujours plus d'énergie fossile, une des principales sources du dérèglement climatique, pour produire l'électricité nécessaire au fonctionnement de l'intelligence (…)</p>\n\n            <a href=\"https://reporterre.net/IA-le-geant-Anthropic-achete-des-turbines-a-gaz-pour-alimenter-ses-centres-de-donnees?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Energie\" rel=\"tag\">Énergie</a>\n            , \n                <a href=\"https://reporterre.net/Numerique\" rel=\"tag\">Numérique</a>"
   },
   {
-    "id": "c006c3e95587c860aec6dfaa082c1ca8",
-    "source": "Reporterre",
-    "title": "La pétition pour fermer CNews dépasse le million de signatures, les députés ne donnent pas suite",
-    "link": "https://reporterre.net/Plus-d-un-millions-de-personnes-ont-signela",
-    "date": "2026-11-10T16:11:34Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"466\" src=\"https://reporterre.net/local/cache-vignettes/L700xH466/afp__20261110__hl_rdoucelin_3382840__v1__highres__francepetitiontoclosecnews-d8517.jpg?1794327096\" width=\"700\" />\n<p>Plus de 1 million de personnes ont signé la pétition pour supprimer la chaîne de télévision CNews, et n'auront pas droit à leur débat. <br class=\"autobr\" />\nMardi 10 novembre, le bureau de la commission des affaires culturelles et de l'éducation de l'Assemblée nationale a classé sans suite la pétition appelant à supprimer la chaîne d'opinion détenue par Vincent Bolloré. Avec 28 votes contre, majoritairement issus de l'extrême droite, et 25 pour, le débat réclamé par 1 066 909 sur le site de l'Assemblée (…)</p>\n\n            <a href=\"https://reporterre.net/Plus-d-un-millions-de-personnes-ont-signela?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Medias\" rel=\"tag\">Médias</a>"
-  },
-  {
-    "id": "010d59ecf21ba35d6f17e8d7b15dd9d0",
-    "source": "Reporterre",
-    "title": "Conflit d'intérêts : une lobbyiste de la viande s'infiltre au bureau exécutif du Modem",
-    "link": "https://reporterre.net/Conflit-d-interets-une-lobbyiste-de-la-viande-s-infiltre-au-bureau-executif-du-Modem",
-    "date": "2026-11-10T15:35:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/capture_d_ecran_du_2026-11-10_11-50-58-a2f49.png?1794324910\" width=\"700\" />\n<p>Élue à la tête des Jeunes démocrates, Louise Daniel est aussi lobbyiste de Culture Viande. Sa double casquette soulève des interrogations autour de potentiels conflits d'intérêts entre le Modem et l'industrie de la viande. <br class=\"autobr\" /> Peut-on participer à la stratégie politique d'un parti tout en étant salariée d'un organe de défense des intérêts d'industriels<small class=\"fine d-inline\"> </small>? L'élection le 31 octobre de Louise Daniel, responsable des affaires publiques de Culture Viande, à la présidence des Jeunes démocrates, (…)</p>\n\n            <a href=\"https://reporterre.net/Conflit-d-interets-une-lobbyiste-de-la-viande-s-infiltre-au-bureau-executif-du-Modem?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Enquete\" rel=\"directory\">Enquête</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Agriculture\" rel=\"tag\">Agriculture</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
-  },
-  {
-    "id": "94380eaa30f71a72cf0dda0e1ce61d5e",
+    "id": "d678bb795b6a11734dfface65afb2bda",
     "source": "BFMTV",
-    "title": "Activités hybrides : \"Nous savons qu'il y a ceux qui utiliseraient de telles attaques pour créer la confusion (...) : nous ne les laisserons pas faire\" déclare Micheál Martin",
-    "link": "https://www.bfmtv.com/international/europe/irlande/video-activites-hybrides-nous-savons-qu-il-y-a-ceux-qui-utiliseraient-de-telles-attaques-pour-creer-la-confusion-nous-ne-les-laisserons-pas-faire-declare-micheal-martin_VN-202611121024.html",
-    "date": "Thu, 12 Nov 2026 23:50:54 GMT",
-    "summary": "La Communauté politique européenne se réunit ce jeudi 12 novembre, en sommet à Dublin en Irlande, pour sa 9e édition. Le président Emmanuel Macron souhaite y définir, avec l'ensemble des représentants européens et internationaux présents, des \"principes-clés\" sur le futur de la sécurité de la \"Grande Europe\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_yJX-fVdlCgnewys90Qe1KE2ekU=/0x0:1280x720/800x0/images/Activites-hybrides-Nous-savons-qu-il-y-a-ceux-qui-utiliseraient-de-telles-attaques-pour-creer-la-confusion-nous-ne-les-laisserons-pas-faire-declare-Micheal-Martin-2383216.jpg\" />"
+    "title": "BFM Nord et Vous: la région en première ligne du diabète ?",
+    "link": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-bfm-nord-et-vous-la-region-en-premiere-ligne-du-diabete_VN-202611130269.html",
+    "date": "Fri, 13 Nov 2026 07:22:13 GMT",
+    "summary": "La région Hauts-de-France est-elle en première ligne du diabète ? réponse dans BFM Nord et Vous du vendredi 13 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ANMRV2nFKGzC_CuU_EjNBMpw-Tg=/0x0:1280x720/800x0/images/BFM-Nord-et-Vous-la-region-en-premiere-ligne-du-diabete-2383336.jpg\" />"
   },
   {
-    "id": "bac7953a4818f24afbbd4e0684cd8d72",
+    "id": "e04ade445413f1ca19489370e4915ea0",
     "source": "BFMTV",
-    "title": "Marine Tondelier souhaite un monde \"sans l'arme atomique\" mais estime que ce n'est \"pas le moment\" du désarmement",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-marine-tondelier-souhaite-un-monde-sans-l-arme-atomique-mais-estime-que-ce-n-est-pas-le-moment-du-desarmement_VN-202611121021.html",
-    "date": "Thu, 12 Nov 2026 23:39:35 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2JB_6mQj8pTDvknqG9t7hGhyR3E=/0x0:1280x720/800x0/images/Marine-Tondelier-souhaite-un-monde-sans-l-arme-atomique-mais-estime-que-ce-n-est-pas-le-moment-du-desarmement-2383209.jpg\" />"
+    "title": "Le journal de 8h du vendredi 13 novembre 2026",
+    "link": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-le-journal-de-8h-du-vendredi-13-novembre-2026_VN-202611130267.html",
+    "date": "Fri, 13 Nov 2026 07:18:11 GMT",
+    "summary": "Bonjour Littoral présentée par Adrien Lanoy, c’est le rendez-vous info en direct pour démarrer la journée avec un tour de l’actualité locale, la météo, les conditions de circulation et un journal dédié à la métropole. Au sommaire : Lycéens, l'incertitude au Salon de l'étudiant. Rodéo mortel, 4 ans ferme pour le conducteur. Caudry... le \"made in France\", gage de réussite.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FGTAiscYNBjqB7MavXGpqkfKa-4=/0x0:1280x720/800x0/images/Le-journal-de-8h-du-vendredi-13-novembre-2026-2383335.jpg\" />"
   },
   {
-    "id": "abffc559b5297572a5837a26efe7048b",
+    "id": "031efeff40246175cd679f22dbaed684",
     "source": "BFMTV",
-    "title": "Marine Tondelier déplore l'émergence d'un \"vote utile au premier tour\"",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-marine-tondelier-deplore-l-emergence-d-un-vote-utile-au-premier-tour_VN-202611121016.html",
-    "date": "Thu, 12 Nov 2026 23:20:38 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nsQA_zuOMt7uCRvhR-EGr_6t7os=/0x0:1280x720/800x0/images/Marine-Tondelier-deplore-l-emergence-d-un-vote-utile-au-premier-tour-2383204.jpg\" />"
+    "title": "L'invité de Bonjour Lyon du vendredi 13 novembre- Christophe Jaillet",
+    "link": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-l-invite-de-bonjour-lyon-du-vendredi-13-novembre-christophe-jaillet_VN-202611130263.html",
+    "date": "Fri, 13 Nov 2026 07:16:08 GMT",
+    "summary": "Christophe Jaillet, comédien et Membre CGT Spectacle du Rhône, était l'invité de Bonjour Lyon pour parler de la Bourse du travail qui est occupée par des militants de la culture depuis plus d'une semaine.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XsU624G1ui4A_GzgEqo3W77OrCo=/0x0:1280x720/800x0/images/L-invite-de-Bonjour-Lyon-du-vendredi-13-novembre-Christophe-Jaillet-2383331.jpg\" />"
   },
   {
-    "id": "9de93e72f91bd9eb6243898b697d0862",
+    "id": "a182421707e4826aad4deb83467c35f2",
     "source": "BFMTV",
-    "title": "\"Vous avez répondu à certaines de mes questions\", \"L'union de la gauche, ça m'intéresse\": les électeurs indécis tirent leurs conclusions après avoir échangé avec Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-vous-avez-repondu-a-certaines-de-mes-questions-l-union-de-la-gauche-ca-m-interesse-les-electeurs-indecis-tirent-leurs-conclusions-apres-avoir-echange-avec-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611121011.html",
-    "date": "Thu, 12 Nov 2026 23:15:49 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/gFSZvKhSKF6-Vt-bttPIgVkhWHM=/0x0:1280x720/800x0/images/Vous-avez-repondu-a-certaines-de-mes-questions-L-union-de-la-gauche-ca-m-interesse-les-electeurs-indecis-tirent-leurs-conclusions-apres-avoir-echange-avec-Marine-Tondelier-candidate-Les-Ecologistes-a-l-election-presidentielle-2383201.jpg\" />"
+    "title": "Il vise 10% de vêtements neufs fabriqués en France d'ici 2032: Jean-Luc Mélenchon veut relancer la filière textile en mobilisant 3,4 milliards d'euros sur cinq ans",
+    "link": "https://www.bfmtv.com/economie/entreprises/industries/il-vise-10-de-vetements-neufs-fabriques-en-france-d-ici-2032-jean-luc-melenchon-veut-relancer-la-filiere-textile-en-mobilisant-3-4-milliards-d-euros-sur-cinq-ans_AD-202611130258.html",
+    "date": "Fri, 13 Nov 2026 07:16:01 GMT",
+    "summary": "Pour dynamiser la filière textile française, le candidat de La France insoumise à la présidentielle, Jean-Luc Mélenchon, mise sur \"une montée en puissance\" du chanvre et du lin en augmentant les surfaces cultivées.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1qSrP58K0XMlRX0Q5CzCGXrhSbw=/0x33:2048x1185/800x0/images/Le-leader-de-La-France-insoumise-Jean-Luc-Melenchon-le-14-octobre-2026-a-Paris-2370881.jpg\" />"
   },
   {
-    "id": "b5caff3be25734e3ab89ed27d872d367",
+    "id": "fbac1aa270084c490df9621d52d7ddf7",
     "source": "BFMTV",
-    "title": "\"Je ne renoncerai pas\" à l'idée d'une union de la gauche, insiste Marine Tondelier, candidate Les Écologistes à l'élection présidentielle",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-ne-renoncerai-pas-a-l-idee-d-une-union-de-la-gauche-insiste-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611121008.html",
-    "date": "Thu, 12 Nov 2026 23:13:12 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HdKdfLVuIguarA7yTBvWlvArGhY=/0x0:1280x720/800x0/images/Je-ne-renoncerai-pas-a-l-idee-d-une-union-de-la-gauche-insiste-Marine-Tondelier-candidate-Les-Ecologistes-a-l-election-presidentielle-2383199.jpg\" />"
+    "title": "Windows peine à résoudre le bug mondial de la messagerie Outlook",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-windows-peine-a-resoudre-le-bug-mondial-de-la-messagerie-outlook_VN-202611130259.html",
+    "date": "Fri, 13 Nov 2026 07:15:50 GMT",
+    "summary": "Le service Outlook de Microsoft est en panne depuis plus de huit heures ce vendredi matin. Microsofit, l'éditeur de la boîte mail, a annoncé que ses mesures d'urgence ne fonctionnent pas comme il le souhaiterait. Cette perturbation touche des milliers d'utilisateurs, dont des organismes publics. Privé de messagerie électronique et vocale, le réseau hospitalier de l'université de l'Iowa a ainsi dû demander à ses patients de passer par leur portail en ligne pour joindre leurs soignants.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1woNeos9BxYEnZfY2WqNf15nsSA=/0x0:1280x720/800x0/images/Windows-peine-a-resoudre-le-bug-mondial-de-la-messagerie-Outlook-2383327.jpg\" />"
   },
   {
-    "id": "310baba6dd26335dec7f409f62f29e4e",
+    "id": "5d09d6447f8f51105e4f8792d5b8cacb",
     "source": "BFMTV",
-    "title": "Présidentielle: Marine Tondelier affirme discuter avec tous ses partenaires politiques pour \"trouver une solution\" pour la gauche",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-la-candidate-ecologiste-marine-tondelier-est-l-invitee-de-vous-presidente_LN-202611120882.html",
-    "date": "Thu, 12 Nov 2026 19:30:05 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0mcccdja68ZmMsTdgn53xC4ue-k=/0x106:2048x1258/800x0/images/Marine-Tondelier-candidate-Les-Ecologistes-a-la-presidentielle-sur-le-plateau-de-BFMTV-le-12-novembre-2026-2383138.jpg\" />"
+    "title": "\"Les psychologues sont débordés\": l'alerte du président de l'université Aix-Marseille sur l'impact des blocus sur la santé mentale des étudiants",
+    "link": "https://rmc.bfmtv.com/actualites/societe/education/les-psychologues-sont-debordes-l-alerte-du-president-de-l-universite-aix-marseille-sur-l-impact-des-blocus-sur-la-sante-mentale-des-etudiants_AV-202611130256.html",
+    "date": "Fri, 13 Nov 2026 07:14:29 GMT",
+    "summary": "Le président de l'université Aix-Marseille, Éric Berton, a affirmé, ce vendredi 13 novembre sur RMC, que les blocages des universités et les cours en distanciel avaient un impact important sur la santé mentale des étudiants.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Wl3aD82wihPo04OaEt5zzwmI1Cg=/0x0:1600x900/800x0/images/MacBook-Apple-Cle-USB-voici-le-kit-pour-etudiant-en-promo-juste-avant-les-ruptures-de-stock-2346005.jpg\" />"
   },
   {
-    "id": "d85d47b52fe9c42a5c9743616971f4b4",
+    "id": "fc8e108ae49daa4cce4c6b1be05aa21b",
     "source": "BFMTV",
-    "title": "Affaire Marion Wagon: le pôle cold case de Nanterre lance un appel à témoin pour retrouver un homme aperçu à Agen",
-    "link": "https://www.bfmtv.com/police-justice/affaire-marion-wagon-le-pole-cold-case-de-nanterre-lance-un-appel-a-temoin-pour-retrouver-un-homme-apercu-a-agen_AN-202611121001.html",
-    "date": "Thu, 12 Nov 2026 23:08:04 GMT",
-    "summary": "Ce jeudi 12 novembre, trente presque jours pour jour après la disparition de Marion Wagon, le pôle cold case de Nanterre lance un appel à témoin pour retrouver un homme. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eeNdHig8p48lTQyUwaQKK64ay9I=/0x0:2048x1152/800x0/images/Disparition-de-Marion-Wagon-en-1996-a-Agen-1643371.jpg\" />"
+    "title": "L'invité de Bonjour Littoral du vendredi 13 novembre 2026 - Laurent Meheust",
+    "link": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-l-invite-de-bonjour-littoral-du-vendredi-13-novembre-2026-laurent-meheust_VN-202611130254.html",
+    "date": "Fri, 13 Nov 2026 07:11:21 GMT",
+    "summary": "Laurent Meheust, co-organisateur du festival Forever Young, était l'invité du Bonjour Littoral ce vendredi 13 novembre 2026. Il a clarifié l'identité et les ambitions de base de ce festival de danse, qui commence dès aujourd'hui et durera jusqu'au 13 décembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/s7RN8-8Ny7dyTVnxbTPJB2zUH08=/0x0:1280x720/800x0/images/L-invite-de-Bonjour-Littoral-du-vendredi-13-novembre-2026-Laurent-Meheust-2383325.jpg\" />"
   },
   {
-    "id": "d4ea5198ba4241b3896f3563df0ed6c5",
+    "id": "b88005441a055d67ea090121d52dca56",
     "source": "BFMTV",
-    "title": "Sortir de l'OTAN? \"Je ne pense pas que ce soit le moment\", défend Marine Tondelier",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-sortir-de-l-otan-je-ne-pense-pas-que-ce-soit-le-moment-defend-marine-tondelier_VN-202611121000.html",
-    "date": "Thu, 12 Nov 2026 23:01:36 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5jQ_aqpTZnaOyOXRGKVIyWtRzDI=/0x0:1280x720/800x0/images/Sortir-de-l-OTAN-Je-ne-pense-pas-que-ce-soit-le-moment-defend-Marine-Tondelier-2383194.jpg\" />"
+    "title": "Assurances : les manifestations font grimper la facture",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-assurances-les-manifestations-font-grimper-la-facture_VN-202611130252.html",
+    "date": "Fri, 13 Nov 2026 07:10:44 GMT",
+    "summary": "Les assureurs changent les règles du jeu. Selon leurs dernières analyses, les pays développés tendent désormais à présenter un niveau de risque comparable à celui des pays émergents, remettant en question leur image de marchés stables et prévisibles. Une évolution qui se traduit directement par une hausse des tarifs. Les derniers événements survenus en France, en Espagne ou encore en Italie leur ont permis de dresser un premier bilan des dégâts matériels et des coûts de réparation. Et, selon leurs constats, celui-ci est loin d'être encourageant.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9HWIzodOipnLiGX0dON_3wo5O_U=/0x0:1280x720/800x0/images/Assurances-les-manifestations-font-grimper-la-facture-2383323.jpg\" />"
   },
   {
-    "id": "d21cfe5579e43217268ccbceee590a02",
+    "id": "132ebd2a4d5077cabb0e3b1cc72ff6aa",
     "source": "BFMTV",
-    "title": "Smic, coalition à gauche, immigration, nucléaire... Ce qu'il faut retenir de l'entretien de Marine Tondelier sur BFMTV",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/smic-coalition-a-gauche-immigration-nuclaire-ce-qu-il-faut-retenir-de-l-entretien-de-marine-tondelier-sur-bfmtv_AV-202611120997.html",
-    "date": "Thu, 12 Nov 2026 23:01:26 GMT",
-    "summary": "La candidate écologiste à la présidentielle était l'invitée de \"Vous Présidente\" ce jeudi 12 novembre au soir sur BFMTV. Du nucléaire au mouvement des lycéens en passant par le Smic, Marine Tondelier a défendu son programme pour 2027.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/O51wlTpk-LqNgQrVKmhlXWdIOas=/0x0:1920x1080/800x0/images/La-candidate-des-Ecologistes-a-l-election-presidentielle-Marine-Tondelier-le-12-novembre-2026-sur-BFMTV-2383130.jpg\" />"
+    "title": "Thomas Buberl (AXA) : 17 octobre, AXA a annoncé trois mesures d'urgence - 13/11",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-thomas-buberl-axa-17-octobre-axa-a-annonce-trois-mesures-d-urgence-13-11_VN-202611130251.html",
+    "date": "Fri, 13 Nov 2026 07:08:02 GMT",
+    "summary": "Thomas Buberl, directeur général d'AXA, était l'invité de Brigitte Boucher dans Good Morning Business, ce vendredi 13 novembre. Il parle des trois mesures d'urgence après les pillages du 17 octobre, sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GHpfzT-9rU8j7PCLNkaqlCbFjD8=/0x0:1280x720/800x0/images/Thomas-Buberl-AXA-17-octobre-AXA-a-annonce-trois-mesures-d-urgence-13-11-2383322.jpg\" />"
   },
   {
-    "id": "c2bce0df38f1955f7a843b044de549af",
+    "id": "332fe784ea378a364597bc22e6325367",
     "source": "BFMTV",
-    "title": "Mort de Quentin Deranque: un des suspects remis en liberté sous contrôle judiciaire",
-    "link": "https://www.bfmtv.com/police-justice/mort-de-quentin-deranque-un-des-suspects-remis-en-liberte-sous-controle-judiciaire_AD-202611120996.html",
-    "date": "Thu, 12 Nov 2026 23:01:14 GMT",
-    "summary": "Un homme né en 1999 qui avait été mis en examen dans l'enquête sur la mort de Quentin Deranque, battu à mort par plusieurs personnes cagoulées en février à Lyon, a été remis en liberté sous contrôle judiciaire. Son maintien sous écrou avait déjà fait l'objet d'un désaccord. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/V-d0tS3GpaIk7q-gTKXSTyYK61g=/0x40:768x472/800x0/images/Photo-non-datee-et-non-situee-de-Quentin-Deranque-obtenue-le-17-fevrier-2026-aupres-de-l-avocat-de-la-famille-tue-en-marge-d-une-manifestation-d-extreme-droite-contre-une-personnalite-politique-de-gauche-a-Lyon-2354086.jpg\" />"
+    "title": "Pendant une tempête de 30h, il utilise sa voiture électrique comme alimentation de secours pour sa maison... et ne consomme que 8% de batterie",
+    "link": "https://www.bfmtv.com/tech/innovation/pendant-une-tempete-de-30h-il-utilise-sa-voiture-electrique-comme-alimentation-de-secours-pour-sa-maison-et-ne-consomme-que-8-de-batterie_AV-202611130079.html",
+    "date": "Fri, 13 Nov 2026 07:02:00 GMT",
+    "summary": "En pleine tempête, dans le Lake District en Angleterre, le courant a été coupé dans la location de vacances d'un journaliste. Avec un adaptateur, il a pu brancher quelques appareils essentiels à son Scénic électrique, et ne consommer qu'une petite partie de sa batterie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qzzeD46T_t-SNB24jayHzBQhLik=/0x0:1200x675/800x0/images/Ce-journaliste-anglais-a-utilise-son-Scenic-comme-batterie-de-secours-pendant-une-tempete-2382896.jpg\" />"
   },
   {
-    "id": "8012515855fdeaf6c7d9552bdc0238f5",
+    "id": "89e872e9a2109e8f9ae9907c8b59d9b5",
     "source": "BFMTV",
-    "title": "\"Je veux un monde sans l'arme atomique\", plaide Marine Tondelier, qui estime néanmoins que \"ce n'est pas le moment\" du désarmement pour la France",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-veux-un-monde-sans-l-arme-atomique-plaide-marine-tondelier-qui-estime-neanmoins-que-ce-n-est-pas-le-moment-du-desarmement-pour-la-france_VN-202611120998.html",
-    "date": "Thu, 12 Nov 2026 22:59:29 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5aHdGcH46h86wolxom7gtOLV324=/0x0:1280x720/800x0/images/Je-veux-un-monde-sans-l-arme-atomique-plaide-Marine-Tondelier-qui-estime-neanmoins-que-ce-n-est-pas-le-moment-du-desarmement-pour-la-France-2383193.jpg\" />"
+    "title": "Mercedes : la crise industrielle vire au bras de fer",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-mercedes-la-crise-industrielle-vire-au-bras-de-fer_VN-202611130247.html",
+    "date": "Fri, 13 Nov 2026 07:00:49 GMT",
+    "summary": "Nouveau signal d’alerte en Allemagne, cette fois-ci dans le secteur automobile. Le géant Mercedes suspend ses nouveaux investissements dans le pays et envisage même la fermeture de certaines usines. Une décision qui illustre les difficultés croissantes du constructeur, contraint de revoir ses dépenses face à une concurrence chinoise toujours plus menaçante. Une pression qui ne touche pas uniquement Mercedes, mais l’ensemble des constructeurs historiques allemands, de BMW à Volkswagen, longtemps considérés comme les références de l’excellence automobile<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rD0Z8G9XMgbS_zTB46hQygA3XTg=/0x0:1280x720/800x0/images/Mercedes-la-crise-industrielle-vire-au-bras-de-fer-2383321.jpg\" />"
   },
   {
-    "id": "ecca5e3753cd6aa715941c70df5b154e",
+    "id": "0509c25cdc7974ff888f8552af547d45",
     "source": "BFMTV",
-    "title": "\"Une faute industrielle\": Marine Tondelier dénonce une mise à l'écart de l'industrie photovoltaïque en France",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-une-faute-industrielle-marine-tondelier-denonce-une-mise-a-l-ecart-de-l-industrie-photovoltaique-en-france_VN-202611120994.html",
-    "date": "Thu, 12 Nov 2026 22:58:06 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fzXIh6ufc8Sq0ByvrzW9CA6YFGE=/0x0:1280x720/800x0/images/Une-faute-industrielle-Marine-Tondelier-denonce-une-mise-a-l-ecart-de-l-industrie-photovoltaique-en-France-2383190.jpg\" />"
+    "title": "Le Crazy Horse s'exporte aux Emirats arabes unis",
+    "link": "https://www.bfmtv.com/economie/video-le-crazy-horse-s-exporte-aux-emirats-arabes-unis_VN-202611130246.html",
+    "date": "Fri, 13 Nov 2026 07:00:03 GMT",
+    "summary": "Le Crazy Horse ouvre ses portes à Dubaï et propose une adaptation locale. Un nouveau marché pour cette marque française, alors que les tensions persistent au Moyen-Orient.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/no_pEYTwwRWaie_Gt-xBUA6incs=/0x0:1280x720/800x0/images/Le-Crazy-Horse-s-exporte-aux-Emirats-arabes-unis-2383320.jpg\" />"
   },
   {
-    "id": "699debcd5a13c58626a44bdfda0be7ca",
+    "id": "b427dff791c3c643e93ed14e17efe8e4",
     "source": "BFMTV",
-    "title": "Une panne majeure touche la messagerie Outlook de Microsoft, des dizaines de milliers d'utilisateurs touchés",
-    "link": "https://www.bfmtv.com/tech/une-panne-majeure-touche-la-messagerie-outlook-de-microsoft-des-dizaines-de-milliers-d-utilisateurs-touches_AD-202611120992.html",
-    "date": "Thu, 12 Nov 2026 22:57:03 GMT",
-    "summary": "\"Nous recherchons sans relâche toutes les pistes pour limiter l'impact\" pour les utilisateurs, a affirmé sur X Microsoft.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/GVlsNPC1hOpHklWdkergK-zOHWo=/0x0:1280x720/800x0/images/Outlook-404673.jpg\" />"
+    "title": "Le député LFI Sébastien Delogu jugé pour outrage après une altercation avec des policiers en août dernier à Marseille",
+    "link": "https://www.bfmtv.com/marseille/le-depute-lfi-sebastien-delogu-juge-pour-outrage-apres-une-altercation-avec-des-policiers-en-aout-dernier-a-marseille_AD-202611130237.html",
+    "date": "Fri, 13 Nov 2026 06:54:04 GMT",
+    "summary": "Sébastien Delogu est de nouveau devant la justice ce vendredi 13 novembre. Il comparaît, cette fois, pour outrage envers des policiers lors d'une altercation en août. Il avait alors été placé en garde à vue pendant huit heures dans le cadre d'une \"enquête de flagrance diligentée pour outrage sur personne dépositaire de l'autorité publique\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/NWT47etIdxMcJNf_2ITNbEPSTgM=/0x212:2048x1364/800x0/images/Sebastien-Delogu-a-Marseile-le-14-janvier-2026-2231581.jpg\" />"
   },
   {
-    "id": "a3e07b57b0c04a5a94c8a7e0522ffb92",
+    "id": "1f1517dda3d06a6495dce985c132286e",
     "source": "BFMTV",
-    "title": "Énergie: Marine Tondelier, candidate Les Écologistes à l’élection présidentielle, reconnaît “des nuisances pour l’environnement” et affirme avoir “combattu certains projets éoliens” pour protéger les oiseaux ou les poissons",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-energie-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle-reconnait-des-nuisances-pour-l-environnement-et-affirme-avoir-combattu-certains-projets-eoliens-pour-proteger-les-oiseaux-ou-les-poissons_VN-202611120993.html",
-    "date": "Thu, 12 Nov 2026 22:55:50 GMT",
-    "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Gw41aaRWu5z_HmlBilG68UPq03U=/0x0:1280x720/800x0/images/Energie-Marine-Tondelier-candidate-Les-Ecologistes-a-l-election-presidentielle-reconnait-des-nuisances-pour-l-environnement-et-affirme-avoir-combattu-certains-projets-eoliens-pour-proteger-les-oiseaux-ou-les-poissons-2383188.jpg\" />"
+    "title": "La tribune éco : La politique économique se fait au rayon bricolage - 13/11",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-eco-la-politique-economique-se-fait-au-rayon-bricolage-13-11_VN-202611130241.html",
+    "date": "Fri, 13 Nov 2026 06:53:52 GMT",
+    "summary": "Ce vendredi 13 novembre, retrouvez le replay de la tribune éco sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jL-tgPW9D8KnxyS6ziFy-WaELS4=/0x0:1280x720/800x0/images/La-tribune-eco-La-politique-economique-se-fait-au-rayon-bricolage-13-11-2383317.jpg\" />"
   },
   {
-    "id": "36ee47859d826e5f5805439914dd3649",
+    "id": "681a068ae61a76918d857daeab0e0a94",
     "source": "BFMTV",
-    "title": "Politique européenne : \"Il n'y a aucune division\" car \"nous nous sommes engagés dans ces discussions diplomatiques et nous travaillons en équipe\", affirme le président du Conseil européen",
-    "link": "https://www.bfmtv.com/international/europe/ukraine/video-politique-europeenne-il-n-y-a-aucune-division-car-nous-nous-sommes-engages-dans-ces-discussions-diplomatiques-et-nous-travaillons-en-equipe-affirme-le-president-du-conseil-europeen_VN-202611120990.html",
-    "date": "Thu, 12 Nov 2026 22:53:40 GMT",
-    "summary": "La Communauté politique européenne se réunit ce jeudi 12 novembre, en sommet à Dublin, pour sa 9e édition. Le président Emmanuel Macron souhaite y définir, avec l'ensemble des représentants européens et internationaux présents, des \"principes-clés\" sur le futur de la sécurité de la \"Grande Europe\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5G5WQhA2r02r3laBXPSBysQoCMw=/0x0:1280x720/800x0/images/Politique-europeenne-Il-n-y-a-aucune-division-car-nous-nous-sommes-engages-dans-ces-discussions-diplomatiques-et-nous-travaillons-en-equipe-affirme-le-president-du-Conseil-europeen-2383186.jpg\" />"
+    "title": "EX-OL : Pierre Sage écarté de Crystal Palace",
+    "link": "https://www.bfmtv.com/lyon/replay-emissions/bonjour-lyon/video-ex-ol-pierre-sage-ecarte-de-crystal-palace_VN-202611130240.html",
+    "date": "Fri, 13 Nov 2026 06:53:45 GMT",
+    "summary": "L’ex-Lyonnais Pierre Sage a été démis de ses fonctions en Angleterre. En grande difficulté après une série de quatre défaites de suite en Premier League, l’ancien Belleysan a connu une aventure anglaise très compliquée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6OZnAj0U45NbNYpo7JhKHH-VsY4=/0x0:1280x720/800x0/images/EX-OL-Pierre-Sage-ecarte-de-Crystal-Palace-2383316.jpg\" />"
   }
 ]
