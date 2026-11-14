@@ -104,6 +104,14 @@
     "summary": "Pour reprendre langue avec les Etats européens, le Kremlin leur propose, entre autres, de signer des accords bilatéraux d’assistance mutuelle, à l’image de ceux qu’il a conclus avec la Biélorussie et la Corée du Nord."
   },
   {
+    "id": "cc7e037454426074ef7aae5d92fa5821",
+    "source": "Le Monde",
+    "title": "Aux Etats-Unis, l’agence de l’aviation civile ordonne l’arrêt de tous les vols en raison d’un problème de communication",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html",
+    "date": "Fri, 13 Nov 2026 22:52:38 +0100",
+    "summary": "L’autorité américaine de régulation de l’aviation précise que cette suspension a été imposée « en raison de circonstances exceptionnelles et pour des raisons de sécurité »."
+  },
+  {
     "id": "1df12ed6a91a6060f0f603c341833009",
     "source": "Le Monde",
     "title": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous été un peu dans le même bateau que nos clients »",
@@ -112,12 +120,12 @@
     "summary": "L’arrêt des services du groupe américain entre jeudi 12 novembre et vendredi midi restant malgré tout limité, l’impact sur les entreprises est à relativiser."
   },
   {
-    "id": "d09196da52484d387214ab8c90c8d6c7",
+    "id": "75d157dffe4b5d60e3f72e1e1ab697e3",
     "source": "Le Monde",
-    "title": "EN DIRECT, France - Afrique du Sud : malgré le carton rouge, les Springboks réduisent l’écart",
-    "link": "https://www.lemonde.fr/sport/live/2026/11/13/en-direct-france-afrique-du-sud-suivez-le-choc-du-championnat-des-nations-de-rugby_6809376_3242.html",
-    "date": "Fri, 13 Nov 2026 19:10:04 +0100",
-    "summary": "Les joueurs de Fabien Galthié, premiers de la poule Nord du Championnat des nations, affrontent les Springboks, doubles champions du monde en titre, vendredi au Stade de France. Un défi de taille pour le XV de France d’Antoine Dupont, miné par les blessures."
+    "title": "France - Afrique du Sud : le résumé de la victoire sur le fil des Bleus face aux Springboks",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/13/france-afrique-du-sud-le-resume-de-la-victoire-sur-le-fil-des-bleus-face-aux-springboks_6809393_3242.html",
+    "date": "Fri, 13 Nov 2026 23:52:51 +0100",
+    "summary": "Le XV de France a remporté, vendredi au Stade de France, le choc de ce Championnat des nations face à l’Afrique du Sud (21-19). Les Bleus prennent une option pour la finale de cette nouvelle compétition de rugby."
   },
   {
     "id": "07c9d9815fcde963d727f89333d3a180",
@@ -152,12 +160,12 @@
     "summary": "Le Vatican a estimé qu’un million de personnes s’étaient massées le long du parcours emprunté par le cortège du pape pour se rendre à l’office auquel 500 000 fidèles auraient assisté."
   },
   {
-    "id": "439d2f96fec580a724ffc37d3165b43b",
+    "id": "e735ec2b15fbc0efdf0705dc3b6daf3e",
     "source": "Le Monde",
-    "title": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
-    "link": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html",
-    "date": "Fri, 13 Nov 2026 18:00:00 +0100",
-    "summary": "Dans ce deuxième épisode du vodcast « L’Heure de la présidentielle », les journalistes Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à la gauche sont issus les candidats à l’Elysée."
+    "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+    "link": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+    "date": "Fri, 13 Nov 2026 23:51:25 +0100",
+    "summary": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre."
   },
   {
     "id": "d05f647eb8070411dcc36b7fdfd134cb",
@@ -168,36 +176,36 @@
     "summary": "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre. Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans effet sur la compétitivité des entreprises."
   },
   {
-    "id": "d7074e082045828a7c1066fcd3876dc3",
+    "id": "7c50d456cf52462357987364a3ade3c2",
     "source": "Le Monde",
-    "title": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
-    "link": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html",
-    "date": "Fri, 13 Nov 2026 17:43:02 +0100",
-    "summary": "Les partis arabes israéliens, qui comptent 19 députés depuis les dernières élections législatives, sont au cœur des négociations pour former le futur gouvernement. La prise de position de M. Eisenkot est inhabituelle de la part d’un responsable politique juif majeur."
+    "title": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes russes de concourir sur son sol",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html",
+    "date": "Sat, 14 Nov 2026 01:21:48 +0100",
+    "summary": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique, Jakob Forssmed. La mesure devrait être effective avant les championnats du monde de ski nordique, en février."
   },
   {
-    "id": "6eaf9c98960c86d83ae9f0cefd049fce",
+    "id": "ff0ea55616c08f92cda18f342690766c",
     "source": "Le Monde",
-    "title": "Au Cameroun, les parlementaires sous la pression de la société civile pour légiférer contre les féminicides",
-    "link": "https://www.lemonde.fr/afrique/article/2026/11/13/au-cameroun-les-parlementaires-sous-la-pression-de-la-societe-civile-pour-legiferer-contre-les-feminicides_6809373_3212.html",
-    "date": "Fri, 13 Nov 2026 19:00:07 +0100",
-    "summary": "Le thème des violences contre les femmes s’est peu à peu imposé dans le débat public, où le terme de « féminicide » a fait son apparition. Avant la fin de la mandature des députés, le 20 décembre, un dispositif juridique spécifique pourrait voir le jour."
+    "title": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
+    "date": "Sat, 14 Nov 2026 01:35:34 +0100",
+    "summary": "Douze personnes ont été sorties de l’eau et 32 personnes ont été transportées à l’hôpital. La collision a eu lieu alors que le bateau de la compagnie American Cruise Lines était amarré à quai, sur le Mississippi, avec ses passagers à bord."
   },
   {
     "id": "20e33265b4fb30de224be6d61aed3858",
     "source": "Le Monde",
-    "title": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été prochain",
+    "title": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été 2027",
     "link": "https://www.lemonde.fr/culture/article/2026/11/13/la-madrague-maison-mythique-de-brigitte-bardot-a-saint-tropez-ouvrira-ses-portes-au-public-des-l-ete-prochain_6809382_3246.html",
     "date": "Fri, 13 Nov 2026 20:48:59 +0100",
     "summary": "Dès 1992, l’ancienne actrice avait fait don de La Madrague à sa fondation. « Pour le moment, les modalités d’accueil des visiteurs ne sont pas arrêtées avec précision », a fait savoir cette dernière."
   },
   {
-    "id": "86fbe6a6b42aebcd64a8e7c5271aea89",
-    "source": "Le Monde",
-    "title": "Le reggae de Dub Inc sur les scènes françaises et les pancartes des manifestations",
-    "link": "https://www.lemonde.fr/culture/article/2026/11/13/le-reggae-de-dub-inc-sur-les-scenes-francaises-et-les-pancartes-des-manifestations_6809367_3246.html",
-    "date": "Fri, 13 Nov 2026 18:30:08 +0100",
-    "summary": "Le groupe de Saint-Etienne, actuellement en tournée en France, évoque le terreau local qui a forgé le groupe et façonné ses idées, le poussant à écrire des textes engagés dont certaines phrases sont aujourd’hui reprises dans les mobilisations sociales."
+    "id": "9efbcf6e845fff446bdcf32f61127716",
+    "source": "Libération",
+    "title": "Axel Boman & Superpitcher : «Estomper la frontière entre réalité et imagination»",
+    "link": "https://www.liberation.fr/culture/musique/axel-boman-superpitcher-estomper-la-frontiere-entre-realite-et-imagination-20261114_EU3LFMEYUVAY5L7IVQHZLMJTCA/",
+    "date": "Sat, 14 Nov 2026 00:23:00 +0000",
+    "summary": "Quand deux producteurs house partent en randonnée en Suède, ils reviennent avec un album qu’ils illustrent avec des champignons. Logique, pour le designer Laurenz Brunner."
   },
   {
     "id": "860f78831416a804dd76938cd81e7d09",
@@ -205,7 +213,7 @@
     "title": "Tous les avions cloués au sol aux Etats-Unis en raison d’un dysfonctionnement des systèmes de communication",
     "link": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/",
     "date": "Fri, 13 Nov 2026 21:31:40 +0000",
-    "summary": "Les autorités américaines ont invoqué ce vendredi soir «des circonstances exceptionnelles et des raisons de sécurité», sans préciser à ce stade l’origine de la panne. Près de 7 000 vols seraient affectés."
+    "summary": "Les autorités américaines ont invoqué ce vendredi soir «des circonstances exceptionnelles et des raisons de sécurité», sans préciser à ce stade l’origine de la panne. Près de 7 000 vols sont affectés."
   },
   {
     "id": "d24cad807f2321ada53e0fc60d064d5f",
@@ -310,14 +318,6 @@
     "link": "https://www.liberation.fr/international/afrique/dans-lest-de-la-rdc-au-moins-100-civils-tues-en-une-semaine-dans-des-raids-meurtriers-du-groupe-terroriste-adf-20261113_USFUXTESDVCBPGNRNOA2TSDJGY/",
     "date": "Fri, 13 Nov 2026 18:31:59 +0000",
     "summary": "La bande armée jihadiste a mené une série d’attaques dévastatrices contre des villages des provinces du Nord-Kivu et de l’Ituri en ce début du mois de novembre."
-  },
-  {
-    "id": "2d843198a2ac09ed8f9954a19ad24aa8",
-    "source": "Libération",
-    "title": "Zin Mar Aung, ministre birmane des Affaires étrangères : «Notre pays est plongé dans une instabilité qui gagne toute la région»",
-    "link": "https://www.liberation.fr/international/asie-pacifique/zin-mar-aung-ministre-birmane-des-affaires-etrangeres-notre-pays-est-plonge-dans-une-instabilite-qui-gagne-toute-la-region-20261113_7U6VSZ3NWVBFPF64KQPFMRMBYU/",
-    "date": "Fri, 13 Nov 2026 18:24:33 +0000",
-    "summary": "Face au régime autoritaire de Min Aung Hlaing, cette ancienne activiste, membre du gouvernement d’unité nationale, parcourt le monde pour rallier des soutiens. Dans une interview exclusive à «Libération», elle revient sur les difficultés de la résistance face à l’offensive diplomatique et militaire du chef de l’armée devenu président après un coup d’Etat."
   },
   {
     "id": "7ecf0e74f99a56667f7863adee5afacc",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/montage_juliette-58b3b.jpg?1794463801\" width=\"700\" />\n<p>En Gironde, des retraités vivent ensemble dans une maison qu'ils ont eux-mêmes imaginée. Une façon de chasser l'isolement tout en leur permettant de se réinstaller en zone rurale, à l'endroit où ils ont passé leur vie. <br class=\"autobr\" />\nCastillon-la-Bataille (Gironde), reportage <br class=\"autobr\" />\nDes rires résonnent dans les couloirs neufs, où les odeurs de peinture se mêlent à celle du café chaud. «<small class=\"fine d-inline\"> </small>Il reste quelques travaux, mais on s'y sent déjà bien<small class=\"fine d-inline\"> </small>!<small class=\"fine d-inline\"> </small>» sourit Françoise Villechenoux, bientôt 80 ans. Elle est la (…)</p>\n\n            <a href=\"https://reporterre.net/La-solitude-je-n-en-pouvais-plus-ces-retraites-ont-choisi-l-habitat-partage?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Habitat\" rel=\"tag\">Habitat et urbanisme</a>\n            , \n                <a href=\"https://reporterre.net/Alternatives\" rel=\"tag\">Alternatives</a>\n            , \n                <a href=\"https://reporterre.net/Social\" rel=\"tag\">Social</a>"
   },
   {
-    "id": "ff1234143a6628591935719492490133",
+    "id": "1e1074901153e77605eda0a6629fd201",
     "source": "BFMTV",
-    "title": "Un pétrolier percute un navire de croisière à La Nouvelle-Orléans, des opérations de secours en cours",
-    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/un-petrolier-percute-un-navire-de-croisiere-a-la-nouvelle-orleans-des-operations-de-secours-en-cours_AN-202611130883.html",
-    "date": "Fri, 13 Nov 2026 21:41:12 GMT",
-    "summary": "L'incident s'est produit à la mi-journée ce vendredi 13 novembre sur le Mississippi. Au moins 129 passagers se trouvait à bord du bateau à roues à aubes lorsque le pétrolier Atlantic Asphalt l'a percuté. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mfy_xnLGc_K-uGB8rqR2KKEIYbw=/0x0:1920x1080/800x0/images/dsq-2383846.jpg\" />"
+    "title": "Crise financière : \"Un tsunami nous menace\" (Sarkozy) - 13/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-crise-financiere-un-tsunami-nous-menace-sarkozy-13-11_VN-202611130917.html",
+    "date": "Fri, 13 Nov 2026 23:17:11 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DH6Z4-ECQrRSBrD7KP_kLF7y9qU=/0x0:1280x720/800x0/images/Crise-financiere-Un-tsunami-nous-menace-Sarkozy-13-11-2383873.jpg\" />"
   },
   {
-    "id": "e9a5d56a654beb8d51475c9903bcd870",
+    "id": "d3988ef4f337e77c1d183a45af88c692",
     "source": "BFMTV",
-    "title": "Le top / flop de la semaine : l'enquête Ifop sur le système de retraite français - 13/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-flop-de-la-semaine-l-enquete-ifop-sur-le-systeme-de-retraite-francais-13-11_VN-202611130875.html",
-    "date": "Fri, 13 Nov 2026 21:24:12 GMT",
-    "summary": "Ce vendredi 13 novembre, Wilfrid Galand, directeur général adjoint de Montpensier Arbevel, Patrice Gautry, chef économiste chez Union Bancaire Privée, Julie Jourdan, gérante d'actions américaines chez Amplegest, et Léa Dunand-Chatellet, directrice générale de Mirova, se sont penchés sur la bascule des parts de marchés pour les véhicules électriques en France, l'inflation et l'indice de prix aux États-Unis, l'enquête Ifop sur le système de retraite français, ainsi que la baisse du prix du baril de pétrole, dans Le top / flop de la semaine, dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_zrQY6Q-K1DKeLt_n7Z-Kg_P0hI=/0x0:1280x720/800x0/images/Le-top-flop-de-la-semaine-l-enquete-Ifop-sur-le-systeme-de-retraite-francais-13-11-2383844.jpg\" />"
+    "title": "2027 : Teddy Riner entre en campagne - 13/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-teddy-riner-entre-en-campagne-13-11_VN-202611130911.html",
+    "date": "Fri, 13 Nov 2026 23:03:51 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0cEoAwCj9iOoWxJLdXMm_a7Gitk=/0x0:1280x720/800x0/images/2027-Teddy-Riner-entre-en-campagne-13-11-2383871.jpg\" />"
   },
   {
-    "id": "1b1d5c37ba7d805e19212f56db134243",
+    "id": "3a86df6dc146e62728885390c069c559",
     "source": "BFMTV",
-    "title": "Le top 3 des gérants : Frédéric Rozier, Pierre Schang et Pascale Seivy - 13/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-3-des-gerants-frederic-rozier-pierre-schang-et-pascale-seivy-13-11_VN-202611130869.html",
-    "date": "Fri, 13 Nov 2026 21:09:44 GMT",
-    "summary": "Ce vendredi 13 novembre, Marc Fiorentino a mis en avant la performance de Frédéric Rozier, Pierre Schang et Pascale Seivy, dans Le top 3 des gérants dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/P4Zl-ZMGL0WEDXFSNZir7Y0B2HA=/0x0:1280x720/800x0/images/Le-top-3-des-gerants-Frederic-Rozier-Pierre-Schang-et-Pascale-Seivy-13-11-2383840.jpg\" />"
+    "title": "Crise financière: \"Monsieur Sarkozy est le dernier à pouvoir donner des leçons\", estime Danièle Obono, députée LFI de Paris",
+    "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-crise-financiere-monsieur-sarkozy-est-le-dernier-a-pouvoir-donner-des-lecons-estime-daniele-obono-deputee-lfi-de-paris_VN-202611130908.html",
+    "date": "Fri, 13 Nov 2026 23:02:51 GMT",
+    "summary": "Danièle Obono, députée LFI de Paris, était invitée sur le plateau de BFMTV, ce vendredi 13 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dGqkTHFcMUuPMs_zhOHf339_xec=/0x0:1280x720/800x0/images/Crise-financiere-Monsieur-Sarkozy-est-le-dernier-a-pouvoir-donner-des-lecons-estime-Daniele-Obono-deputee-LFI-de-Paris-2383869.jpg\" />"
   },
   {
-    "id": "e93b43a725282c8ea6d50a2e3be1370d",
+    "id": "1e4e8243166a16c39c0aaa393fa26122",
     "source": "BFMTV",
-    "title": "\"La concurrence est saine\": pour Bruno Le Maire, \"il ne restera plus qu'un seul candidat\" de la droite et du centre à la présidentielle",
-    "link": "https://www.bfmtv.com/politique/la-concurrence-est-saine-pour-bruno-le-maire-il-ne-restera-plus-qu-un-seul-candidat-de-la-droite-et-du-centre-a-la-presidentielle_AV-202611130867.html",
-    "date": "Fri, 13 Nov 2026 21:08:14 GMT",
-    "summary": "Invité ce vendredi 13 novembre sur BFMTV, l'ancien ministre de l'Économie a déclaré qu'il ne fallait \"pas s'inquiéter d'avoir plusieurs candidats qui débattent\". \"J'ai toujours cru à la concurrence, en matière économique comme en matière politique\", a-t-il ajouté.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JQ_X0rQ2PaNU7kzBRxlYWpI7tYo=/0x0:1920x1080/800x0/images/Bruno-Le-Maire-sur-BFMTV-ce-vendredi-13-novembre-2383805.jpg\" />"
+    "title": "\"Quand vous êtes au pouvoir, il est difficile pour vous de défendre votre bilan\", observe Jean-Charles Orsucci, porte-parole de Gabriel Attal",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-quand-vous-etes-au-pouvoir-il-est-difficile-pour-vous-de-defendre-votre-bilan-observe-jean-charles-orsucci-porte-parole-de-gabriel-attal_VN-202611130905.html",
+    "date": "Fri, 13 Nov 2026 23:00:30 GMT",
+    "summary": "Jean-Charles Orsucci, porte-parole de Gabriel Attal et maire de Bonifacio, était invité sur le plateau de BFMTV, ce vendredi 13 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nAmzv75uwKuxrJ9LHrX35vJ2z2c=/0x0:1280x720/800x0/images/Quand-vous-etes-au-pouvoir-il-est-difficile-pour-vous-de-defendre-votre-bilan-observe-Jean-Charles-Orsucci-porte-parole-de-Gabriel-Attal-2383867.jpg\" />"
   },
   {
-    "id": "e029f8fe67fd0f7cff46bfd994a4f0d7",
+    "id": "d7b34744cb0b30377ea422a929bc9a8e",
     "source": "BFMTV",
-    "title": "La semaine de l'économie - 13/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-13-11_VN-202611130870.html",
-    "date": "Fri, 13 Nov 2026 21:04:03 GMT",
-    "summary": "Ce vendredi 13 novembre, Wilfrid Galand, directeur général adjoint de Montpensier Arbevel, Patrice Gautry, chef économiste chez Union Bancaire Privée, Julie Jourdan, gérante d'actions américaines chez Amplegest, et Léa Dunand-Chatellet, directrice générale de Mirova, sont revenus sur la conférence sociale organisée par le gouvernement, l'intérêt du paiement de l'impôt sur le revenu, ainsi que les enjeux économiques mondiaux liés aux difficultés actuelles de Nvidia, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0C-Kw4d4UY5MAKY5JsFqK1WaDhw=/0x0:1280x720/800x0/images/La-semaine-de-l-economie-13-11-2383841.jpg\" />"
+    "title": "Teddy Riner: \"C'est une candidature macroniste\", selon Florian Philippot, président des \"Patriotes\", candidat à l'élection présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-c-est-une-candidature-macroniste-selon-florian-philippot-president-des-patriotes-candidat-a-l-election-presidentielle_VN-202611130903.html",
+    "date": "Fri, 13 Nov 2026 22:59:21 GMT",
+    "summary": "Florian Philippot, président des \"Patriotes\", candidat à l'élection présidentielle, était invité sur le plateau de BFMTV, ce vendredi 13 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7_VMu4NWqWZ7C6FKiJ-NSlR6sdI=/0x0:1280x720/800x0/images/Teddy-Riner-C-est-une-candidature-macroniste-selon-Florian-Philippot-president-des-Patriotes-candidat-a-l-election-presidentielle-2383866.jpg\" />"
   },
   {
-    "id": "56688f7b331c5762a602b208c4473fad",
+    "id": "b4b15612e547adaa1ab0a8c0442ef0ef",
     "source": "BFMTV",
-    "title": "Émission du 13 novembre 2026",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/iconic-business/video-emission-du-13-novembre-2026_VN-202611130866.html",
-    "date": "Fri, 13 Nov 2026 21:00:00 GMT",
-    "summary": "Ce vendredi 13 novembre, Audrey Maubert a reçu Augustin de Buffévent, directeur de la création Fauré Le Page, et Nicolas Rebet, expert retail, fondateur de Retailoscope, dans l'émission Iconic Business sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YZBmGzuFaxSGhFB7-TF5V03gdy0=/0x0:1280x720/800x0/images/Emission-du-13-novembre-2026-2383837.jpg\" />"
+    "title": "Un \"acte d'une extrême gravité\": le vice-président de l'université de Versailles-Saint-Quentin-en-Yvelines agressé à l'arme blanche dans son bureau",
+    "link": "https://www.bfmtv.com/police-justice/un-acte-d-une-extreme-gravite-le-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-dans-son-bureau_AN-202611130902.html",
+    "date": "Fri, 13 Nov 2026 22:55:38 GMT",
+    "summary": "Philippe Baptiste, ministre de l'Enseignement supérieur, a annoncé ce vendredi 13 novembre l'agression à l'arme blanche d'\"un vice-président d'une grande université d'Ile-de-France\". D'après nos informations, il s'agit de celui de l'université de Versailles Saint-Quentin-en-Yvelines, qui a été blessé mais dont les jours ne sont pas en danger.   <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/HoyufokhmJ59EzVfkxIhLazMj-w=/0x106:2048x1258/800x0/images/Un-fourgon-de-la-police-nationale-a-Valence-Drome-le-30-avril-2026-2291430.jpg\" />"
   },
   {
-    "id": "21c9e60ee8d1aa7eb3eda86300bbb9ee",
+    "id": "c066d83121767df113c9912afc3afc13",
     "source": "BFMTV",
-    "title": "Ukraine: \"Les dirigeants ont convenu que notre équipe européenne chargée des négociations de paix était composée de l’Allemagne, la France, l’Italie, la Pologne et le Royaume-Uni\", déclare António Costa, président du Conseil européen",
-    "link": "https://www.bfmtv.com/international/europe/ukraine/video-ukraine-les-dirigeants-ont-convenu-que-notre-equipe-europeenne-chargee-des-negociations-de-paix-etait-composee-de-l-allemagne-la-france-l-italie-la-pologne-et-le-royaume-uni-declare-antonio-costa-president-du-conseil-europeen_VN-202611130863.html",
-    "date": "Fri, 13 Nov 2026 20:52:12 GMT",
-    "summary": "Cinq pays européens, dont la France, l'Allemagne et le Royaume-Uni, représenteront les Européens lors des prochains pourparlers sur l'Ukraine. La Pologne, l'Italie, et des responsables de la Commission et du Conseil européen complèteront cette équipe.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/pUml7CDBpSFeCCCD3sq0BAVakbc=/0x0:1280x720/800x0/images/Ukraine-Les-dirigeants-ont-convenu-que-notre-equipe-europeenne-chargee-des-negociations-de-paix-etait-composee-de-l-Allemagne-la-France-l-Italie-la-Pologne-et-le-Royaume-Uni-declare-Antonio-Costa-president-du-Conseil-europeen-2383832.jpg\" />"
+    "title": "Violences au lycée : le gouvernement accuse LFI - 13/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-violences-au-lycee-le-gouvernement-accuse-lfi-13-11_VN-202611130899.html",
+    "date": "Fri, 13 Nov 2026 22:29:51 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3JJSvsS_A0REyUioZ51-qKjPeVs=/0x0:1280x720/800x0/images/Violences-au-lycee-le-gouvernement-accuse-LFI-13-11-2383863.jpg\" />"
   },
   {
-    "id": "3ae2fd5565f79dc7110b88614dd7fe55",
+    "id": "fda665879a7e2c2a504e301fe493b963",
     "source": "BFMTV",
-    "title": "On achète ou on vend ? : Novonesis, Siemens, et Alphabet - 13/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-on-achete-ou-on-vend-novonesis-siemens-et-alphabet-13-11_VN-202611130857.html",
-    "date": "Fri, 13 Nov 2026 20:35:35 GMT",
-    "summary": "Ce vendredi 13 novembre, Julie Jourdan, gérante d'actions américaines chez Amplegest, et Léa Dunand-Chatellet, directrice générale de Mirova, se sont penchés sur les titres de Novonesis, Siemens, et Alphabet, dans On achète ou on vend ? dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/on3L7uy-_4jaghCJSksCOVb947k=/0x0:1280x720/800x0/images/On-achete-ou-on-vend-Novonesis-Siemens-et-Alphabet-13-11-2383829.jpg\" />"
+    "title": "Versailles-Saint-Quentin-en-Yvelines: le vice-président de l'université agressé dans son bureau",
+    "link": "https://www.bfmtv.com/police-justice/video-versailles-saint-quentin-en-yvelines-le-vice-president-de-l-universite-agresse-dans-son-bureau_VN-202611130896.html",
+    "date": "Fri, 13 Nov 2026 22:27:43 GMT",
+    "summary": "Le vice-président de la faculté de Versailles-Saint-Quentin a été agressé à l'arme blanche, dans son bureau. Il est blessé à la tête et à la main, mais son pronostic vital n'est pas engagé. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Sgp05qn2MKlmB0gdN0YX_4iaijw=/0x0:1280x720/800x0/images/Versailles-Saint-Quentin-en-Yvelines-le-vice-president-de-l-universite-agresse-dans-son-bureau-2383860.jpg\" />"
   },
   {
-    "id": "a3b3203cfaab122e2638e1bb7473ccdc",
+    "id": "35fe0e4732a21cd5bf2cfc05a517448b",
     "source": "BFMTV",
-    "title": "Accident de la route à Tours: la conductrice de 19 ans mise en examen pour homicide routier après la mort de trois jeunes",
-    "link": "https://www.bfmtv.com/police-justice/accident-de-la-route-a-tours-la-conductrice-de-19-ans-mise-en-examen-pour-homicide-routier-apres-la-mort-de-trois-jeunes_AD-202611130854.html",
-    "date": "Fri, 13 Nov 2026 20:35:14 GMT",
-    "summary": "La conductrice qui a percuté un arbre à Tours mercredi, provoquant la mort de trois jeunes hommes âgés de 17, 18 et 19 ans, a été mise en examen \"pour homicide routier aggravé pour deux circonstances, le défaut de permis de conduire et le grand excès de vitesse\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DgEl8Ey3cf2qLrQTpfgiYOYHa0w=/55x32:2327x1310/800x0/images/-71998.jpg\" />"
+    "title": "Résultats EuroMillions: le tirage du vendredi 13 novembre 2026",
+    "link": "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-vendredi-13-novembre-2026_AN-202611130078.html",
+    "date": "Fri, 13 Nov 2026 22:20:00 GMT",
+    "summary": "Le second tirage de l'EuroMillions de la semaine s'est déroulé ce vendredi 13 novembre 2026. Les résultats du tirage au sort des 5 numéros et des 2 étoiles peuvent être consultés sur cette page. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/80Njrm_lj9kgNS2oOrNV-lBiAFs=/6x69:1254x771/800x0/images/Resultats-EuroMillions-du-vendredi-1656359.jpg\" />"
   },
   {
-    "id": "77caa5df17474adf0808afbb8bfbe8f1",
+    "id": "01ee01c8ac23ca059e96b967447187bb",
     "source": "BFMTV",
-    "title": "Le salaire médian en France est \"une honte\", selon Bruno Le Maire, qui veut le doubler",
-    "link": "https://www.bfmtv.com/economie/video-le-salaire-median-en-france-est-une-honte-selon-bruno-le-maire-qui-veut-le-doubler_VN-202611130849.html",
-    "date": "Fri, 13 Nov 2026 20:25:42 GMT",
-    "summary": "Bruno Le Maire, ancien ministre de l'Économie, était l'invité de BFMTV ce vendredi 13 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/09-_Ons3koMs1ZYxSFhAJEJtF4w=/0x0:1280x720/800x0/images/Le-salaire-median-en-France-est-une-honte-selon-Bruno-Le-Maire-qui-veut-le-doubler-2383823.jpg\" />"
+    "title": "500.000 euros récoltés: la cagnotte pour Sonia, héroïne du 13-Novembre, bientôt clôturée",
+    "link": "https://www.bfmtv.com/police-justice/video-500-000-euros-recoltes-la-cagnotte-pour-sonia-heroine-du-13-novembre-bientot-cloturee_VN-202611130894.html",
+    "date": "Fri, 13 Nov 2026 22:17:05 GMT",
+    "summary": "C’est après la diffusion d’un documentaire sur Sonia, qui a permis l’arrestation des auteurs des attentats du 13 novembre, que cette cagnotte a été ouverte en décembre 2025. L’objectif était de récolter 2.500 euros. Elle affiche aujourd’hui un montant de plus de 500.000 euros. Ce vendredi 13 novembre, à 23h59, elle sera clôturée et la somme lui sera versée pour la soutenir dans sa nouvelle vie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bps3BuvhXScmBxROShTDgoW4Aj8=/0x0:1280x720/800x0/images/500-000-euros-recoltes-la-cagnotte-pour-Sonia-heroine-du-13-Novembre-bientot-cloturee-2383858.jpg\" />"
   },
   {
-    "id": "9f70672b7af308777a98ac6da2e979ba",
+    "id": "97dbc197cf42d1dea89f93b02d932b6d",
     "source": "BFMTV",
-    "title": "La panne mondiale subie par Microsoft inspire les internautes sur les réseaux sociaux",
-    "link": "https://www.bfmtv.com/societe/video-la-panne-mondiale-subie-par-microsoft-inspire-les-internautes-sur-les-reseaux-sociaux_VN-202611130846.html",
-    "date": "Fri, 13 Nov 2026 20:19:44 GMT",
-    "summary": "Outlook et Teams qui plantent un vendredi… Il n’en fallait pas plus pour que la panne subie par Microsoft fasse rire sur les réseaux sociaux<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/G7ThW9Z2GtTKdgwgP2se3e9rdgs=/0x0:1280x720/800x0/images/La-panne-mondiale-subie-par-Microsoft-inspire-les-internautes-sur-les-reseaux-sociaux-2383822.jpg\" />"
+    "title": "Versailles-Saint-Quentin: un vice-président de la faculté agressé dans son bureau",
+    "link": "https://www.bfmtv.com/police-justice/video-versailles-saint-quentin-un-vice-president-de-la-faculte-agresse-dans-son-bureau_VN-202611130893.html",
+    "date": "Fri, 13 Nov 2026 22:16:30 GMT",
+    "summary": "Le vice-président de la faculté de Versailles-Saint-Quentin a été agressé à l'arme blanche, dans son bureau. Il est blessé à la tête et à la main, mais son pronostic vital n'est pas engagé. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ukSey8d7QpVUwkhE0Db663RlBOs=/0x0:1280x720/800x0/images/Versailles-Saint-Quentin-un-vice-president-de-la-faculte-agresse-dans-son-bureau-2383857.jpg\" />"
   },
   {
-    "id": "accd474f16a279ccc3039f5db86770ab",
+    "id": "9c8d4dacce839102544c73b0cdcdbb34",
     "source": "BFMTV",
-    "title": "Programme de LFI, Teddy Riner...: Aurélie Trouvé (LFI) répond",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-teddy-riner-aurelie-trouve-lfi-repond_VN-202611130851.html",
-    "date": "Fri, 13 Nov 2026 20:18:23 GMT",
-    "summary": "Face à une salle pleine, Jean-Luc Mélenchon a développé les idées de son programme présidentiel au Bourget (Seine-Saint-Denis). Il a évoqué la situation nationale mais aussi internationale et a appelé à \"tout changer\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PuCFxeeqtRFEk5DblU6quQI6o7Q=/0x0:1280x720/800x0/images/Programme-de-LFI-Teddy-Riner-Aurelie-Trouve-LFI-repond-2383825.jpg\" />"
+    "title": "Un engin suspect \"rudimentaire\" mais opérationnel neutralisé par la police à Dublin, où se tient un sommet de l'Union européenne",
+    "link": "https://www.bfmtv.com/international/europe/irlande/un-engin-suspect-rudimentaire-mais-operationnel-neutralise-par-la-police-a-dublin-ou-se-tient-un-sommet-de-l-union-europeenne_AD-202611130891.html",
+    "date": "Fri, 13 Nov 2026 22:11:03 GMT",
+    "summary": "La police a indiqué avoir été alertée en début d'après-midi de la présence d'un \"engin suspect\" dans un immeuble à Dublin, le même jour où se tient un sommet informel des dirigeants des pays de l'Union européenne dans la capitale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6PzVEE4v3xy-Jh36rat2eZQxc10=/0x108:2048x1260/800x0/images/Des-membres-de-la-police-irlandaise-a-Dublin-le-4-juin-2021-2165825.jpg\" />"
   },
   {
-    "id": "8dd14a4540c00d6b7da25567d0d013c7",
+    "id": "3cfda240b3c8a21d3b045f5236022e37",
     "source": "BFMTV",
-    "title": "\"On vient tôt pour vérifier, voir s'il n'y a pas du matériel qui serait stocké\": Mortiers, incendies: au cœur des violences dans les lycées",
-    "link": "https://www.bfmtv.com/police-justice/video-on-vient-tot-pour-verifier-voir-s-il-n-y-a-pas-du-materiel-qui-serait-stocke-mortiers-incendies-au-c-ur-des-violences-dans-les-lycees_VN-202611130845.html",
-    "date": "Fri, 13 Nov 2026 20:15:52 GMT",
-    "summary": "Une centaine de lycées fermés, des dizaines d’établissement bloqués et une série d’actes violents au sein même des établissements : après bientôt 8 semaines de mobilisation, le mouvement lycéen s’est poursuivi cette semaine en se radicalisant. “Mortiers, incendies : au cœur des violences dans les lycées” c’est un grand reportage Ligne Rouge signé Maël Jeanthon, Juan Palencia, Michaelle Gagnet, Clément Granon, Stéphanie Zénati et Sophie Herbé (avec Raphael Redon, Sébastien Savoye, Jérémy Normand, Julie Roeser, Manuela Braun, Elodie Noiret et Agathe Ferriere)<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9I9-taaoWejo5Wnf8rGUzzYutxU=/0x0:1280x720/800x0/images/On-vient-tot-pour-verifier-voir-s-il-n-y-a-pas-du-materiel-qui-serait-stocke-Mortiers-incendies-au-coeur-des-violences-dans-les-lycees-2383821.jpg\" />"
+    "title": "\"On est dans une période avec une poussée autoritaire\", estime Olivier Besancenot, membre du \"Nouveau Parti anticapitaliste\"",
+    "link": "https://www.bfmtv.com/politique/video-on-est-dans-une-periode-avec-une-poussee-autoritaire-estime-olivier-besancenot-membre-du-nouveau-parti-anticapitaliste_VN-202611130890.html",
+    "date": "Fri, 13 Nov 2026 22:04:30 GMT",
+    "summary": "Olivier Besancenot, membre du \"Nouveau Parti anticapitaliste\", ancien candidat à la présidentielle, était invité sur le plateau de BFMTV, ce vendredi 13 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3cut_YshrYlzt0GRXcLA41qff0g=/0x0:1280x720/800x0/images/On-est-dans-une-periode-avec-une-poussee-autoritaire-estime-Olivier-Besancenot-membre-du-Nouveau-Parti-anticapitaliste-2383855.jpg\" />"
   },
   {
-    "id": "c586dd63bf6f41b53d8c60dfbc96b671",
+    "id": "478da923ddbc940fab776bb4e2daa5dd",
     "source": "BFMTV",
-    "title": "Candidature de Teddy Riner: \"C'est un candidat de plus\", réagit Aurélie Trouvé (LFI)",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-c-est-un-candidat-de-plus-reagit-aurelie-trouve-lfi_VN-202611130839.html",
-    "date": "Fri, 13 Nov 2026 20:06:52 GMT",
-    "summary": "Après avoir effectué son premier déplacement de campagne à l'hôpital Delafontaine, à Saint-Denis ce vendredi 13 novembre, Teddy Riner a déclaré qu'il avait \"appris beaucoup\" des soignants et entendu leurs messages. Il assure qu'il va à présent, \"avec [s]es équipes\", \"continuer à bosser le programme\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LBwRytw883O4V_TsofJ7VoZeJLA=/0x0:1280x720/800x0/images/Candidature-de-Teddy-Riner-C-est-un-candidat-de-plus-reagit-Aurelie-Trouve-LFI-2383815.jpg\" />"
+    "title": "\"La sanction fait partie de la pédagogie quand elle est bienveillante\", estime Natacha Polony, candidate à l'élection présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-sanction-fait-partie-de-la-pedagogie-quand-elle-est-bienveillante-estime-natacha-polony-candidate-a-l-election-presidentielle_VN-202611130889.html",
+    "date": "Fri, 13 Nov 2026 22:03:55 GMT",
+    "summary": "Natacha Polony, candidate à l'élection présidentielle \"Nous sommes la France\" était l'invitée de BFMTV ce vendredi 13 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_Ur-_9gdoU2KP_8mW8mLNIMVCJ8=/0x0:1280x720/800x0/images/La-sanction-fait-partie-de-la-pedagogie-quand-elle-est-bienveillante-estime-Natacha-Polony-candidate-a-l-election-presidentielle-2383854.jpg\" />"
   },
   {
-    "id": "e80dba8b0b78972911300cfd292ec540",
+    "id": "cee493525601bc9339e2bb0dacaf6736",
     "source": "BFMTV",
-    "title": "Émission du 13 novembre 2026",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-emission-du-13-novembre-2026_VN-202611130874.html",
-    "date": "Fri, 13 Nov 2026 20:00:00 GMT",
-    "summary": "Chaque week-end, offrez un coach à votre portefeuille, C'est Votre Argent : Marc Fiorentino vous donne les clés pour investir. Acheter ou Vendre ? Actions ou Immobilier ? Spécialiste des marchés financiers, il vous parle cash pour vous aider à faire vos choix en matière de patrimoine.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/n9MydDkaBJiD8TIgwXqSDKQTQMs=/0x0:1280x720/800x0/images/Emission-du-13-novembre-2026-2383842.jpg\" />"
+    "title": "L'ensemble des vols suspendus aux États-Unis en raisons de \"problèmes de communication\"",
+    "link": "https://www.bfmtv.com/economie/entreprises/transports/l-ensemble-des-vols-suspendus-aux-etats-unis-en-raisons-de-problemes-de-communication_AD-202611130887.html",
+    "date": "Fri, 13 Nov 2026 21:55:46 GMT",
+    "summary": "Le régulateur américain de l'aviation (FAA) a ordonné ce vendredi 13 novembre à l'ensemble des aéroports américains d'arrêter la totalité des vols. \"Un problème de communication affectant l'ensemble des centres de contrôle du trafic aérien\" en est la cause, d'après le secrétaire aux Transports.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wj7Tlf3YLJckGtu0OURHqUBZkDU=/0x213:2048x1365/800x0/images/L-aeroport-de-JFK-a-New-York-Etats-Unis-le-11-janvier-2023-1558625.jpg\" />"
   }
 ]
