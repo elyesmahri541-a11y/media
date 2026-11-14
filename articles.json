@@ -1,5 +1,37 @@
 [
   {
+    "id": "567650837c37ba8cbf4442779c23cfca",
+    "source": "Mediapart",
+    "title": "«Si on s’y met ensemble, on peut faire entendre nos revendications»: à Paris, les luttes convergent",
+    "link": "https://www.mediapart.fr/journal/france/141126/si-s-y-met-ensemble-peut-faire-entendre-nos-revendications-paris-les-luttes-convergent",
+    "date": "Sat, 14 Nov 2026 19:46:58 +0100",
+    "summary": "Trois cortèges ont choisi de manifester ensemble dans la capitale samedi 14 novembre, au nom des mouvements lycéens et étudiants, pour le climat et contre les violences policières. À travers cette «solidarité», les manifestants et manifestantes espèrent se faire enfin entendre."
+  },
+  {
+    "id": "107b98a79e393487836f3215a4219db6",
+    "source": "Mediapart",
+    "title": "L’écrivaine Lucía Lijtmaer: «Le ras-le-bol de la jeunesse espagnole est beaucoup plus généralisé qu’en 2011»",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/141126/l-ecrivaine-lucia-lijtmaer-le-ras-le-bol-de-la-jeunesse-espagnole-est-beaucoup-plus-generalise-q",
+    "date": "Sat, 14 Nov 2026 18:10:38 +0100",
+    "summary": "Dans un entretien à «Mediapart», l’autrice hispano-argentine, coanimatrice d’un podcast féministe à succès en Espagne, revient sur l’écriture de son surprenant roman «Cautère» et sur le moment «gothique» que traverse le pays à l’approche des législatives."
+  },
+  {
+    "id": "f54068664a0d1f471d347f6f9e67f45d",
+    "source": "Mediapart",
+    "title": "Aux midterms, la rhétorique antiwoke du camp Maga s’est enrayée",
+    "link": "https://www.mediapart.fr/journal/international/141126/aux-midterms-la-rhetorique-antiwoke-du-camp-maga-s-est-enrayee",
+    "date": "Sat, 14 Nov 2026 18:02:06 +0100",
+    "summary": "Certains ont lu le résultat des élections de mi-mandat aux États-Unis comme une défaite du «wokisme», au bénéfice des bons vieux enjeux économiques. Mais cette grille d’analyse est loin de rendre compte de la complexité du paysage politique de 2026."
+  },
+  {
+    "id": "0592fdfbcecd1f6d736d8e4722cefcf2",
+    "source": "Mediapart",
+    "title": "Hongrie: l’agence anticorruption déterre le butin d’un ministre d’Orbán dans une forêt",
+    "link": "https://www.mediapart.fr/journal/international/141126/hongrie-l-agence-anticorruption-deterre-le-butin-d-un-ministre-d-orban-dans-une-foret",
+    "date": "Sat, 14 Nov 2026 17:07:18 +0100",
+    "summary": "Créée cet été, la nouvelle agence anticorruption remporte une victoire marquante contre l’élite déchue de Viktor Orbán, rattrapée dans plusieurs affaires depuis sa défaite aux élections ce printemps. Le frère de l’ancien premier ministre, quant à lui, dort en prison."
+  },
+  {
     "id": "35c25403008d9828877699733d5127cf",
     "source": "Mediapart",
     "title": "Fanfare et révolution: à Lyon, la musique porteuse des manifestations",
@@ -48,44 +80,76 @@
     "summary": "Rejeté à l’unanimité à l’Assemblée nationale, le projet de budget 2027 du gouvernement est désormais discuté au Sénat. Il reviendra après le 9 décembre au Palais-Bourbon pour une adoption par voie de 49-3 ou d’ordonnance, non sans risque pour le premier ministre."
   },
   {
-    "id": "f0adadd4edf17e9c879717911f30d9f0",
-    "source": "Mediapart",
-    "title": "Les proviseurs dénoncent les violences et «la réponse de l’État» aux lycéens",
-    "link": "https://www.mediapart.fr/journal/france/141126/les-proviseurs-denoncent-les-violences-et-la-reponse-de-l-etat-aux-lyceens",
-    "date": "Sat, 14 Nov 2026 10:30:51 +0100",
-    "summary": "Près de 2 000 chefs d’établissement et adjoints se sont rassemblés vendredi 13 novembre partout en France pour dénoncer les violences subies en marge des blocus et des manifestations. Reportage dans l’Hérault, où le contexte reste explosif."
-  },
-  {
-    "id": "27564302cd35e29ee191df19be36980b",
-    "source": "Mediapart",
-    "title": "Aux États-Unis, des milliers de vols suspendus et des équipements obsolètes",
-    "link": "https://www.mediapart.fr/journal/international/141126/aux-etats-unis-des-milliers-de-vols-suspendus-et-des-equipements-obsoletes",
-    "date": "Sat, 14 Nov 2026 09:10:50 +0100",
-    "summary": "L’espace aérien a rouvert aux États-Unis vendredi soir, après la suspension de tous les décollages dans le pays pendant plusieurs heures, qui a provoqué l’annulation de presque 6 000 vols et affecté des centaines de milliers de passagers. En cause: du «vieux matériel»."
-  },
-  {
-    "id": "68df5c6efc3798bee193323f38eb5315",
-    "source": "Mediapart",
-    "title": "L’actualité du Front populaire, avec Ludivine Bantigny",
-    "link": "https://www.mediapart.fr/journal/culture-et-idees/131126/l-actualite-du-front-populaire-avec-ludivine-bantigny",
-    "date": "Fri, 13 Nov 2026 19:02:13 +0100",
-    "summary": "De 1934 à 1938, les gauches se sont unies face au péril fasciste. Amplifiée par une grève générale, l’action réformatrice du gouvernement de Front populaire en a résulté. Que peut, pour aujourd’hui, nous apprendre cette histoire? Les réponses de l’historienne spécialiste des mouvements sociaux."
-  },
-  {
-    "id": "9d061a5d0c38dc4d89c1cfe13381a139",
-    "source": "Mediapart",
-    "title": "«Ici, on construit le monde auquel on aspire»: dans les universités, les occupations bousculent les présidences",
-    "link": "https://www.mediapart.fr/journal/france/131126/ici-construit-le-monde-auquel-aspire-dans-les-universites-les-occupations-bousculent-les-presidences",
-    "date": "Fri, 13 Nov 2026 18:52:15 +0100",
-    "summary": "Sur plusieurs campus, la mobilisation sociale a changé de visage. Les blocages ont cédé la place à des occupations de bâtiments. Une modalité d’action pour se réapproprier les lieux d’études qui met les présidences d’université en première ligne du conflit."
-  },
-  {
-    "id": "2b4eab47472e1ea445fb38e3e018d771",
+    "id": "d14911f6a46ac4a09989ea78947f875a",
     "source": "Le Monde",
-    "title": "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
-    "date": "Sat, 14 Nov 2026 07:49:22 +0100",
-    "summary": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est parti de République à 14 heures."
+    "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
+    "date": "Sat, 14 Nov 2026 17:29:53 +0100",
+    "summary": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore en faveur de moyens supplémentaires dans l’éducation."
+  },
+  {
+    "id": "250f705ed68f267cdce6d2c58ebfedfa",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html",
+    "date": "Sat, 14 Nov 2026 06:18:15 +0100",
+    "summary": "Le candidat du PS et de Place publique a toujours critiqué le bilan d’Emmamuel Macron. Mais quelques anciens fidèles du président de la République l’ont rejoint, ce qui donne des arguments aux « insoumis » pour le critiquer. Du côté de l’aile gauche du camp présidentiel, sa candidature intéresse, autant qu’elle laisse dubitatif."
+  },
+  {
+    "id": "97af2880639b4213d07ad22668317822",
+    "source": "Le Monde",
+    "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
+    "date": "Sat, 14 Nov 2026 18:00:16 +0100",
+    "summary": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste."
+  },
+  {
+    "id": "3e48efa52dd3df768b736a544e6349ab",
+    "source": "Le Monde",
+    "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
+    "date": "Sat, 14 Nov 2026 20:18:07 +0100",
+    "summary": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »"
+  },
+  {
+    "id": "116c22e4a86c409a18b63df11bcb1e81",
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
+    "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
+    "date": "Sat, 14 Nov 2026 20:33:34 +0100",
+    "summary": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une « vulnérabilisation durable » de l’Europe."
+  },
+  {
+    "id": "90c2f38c982f6fb5516d1ca92f6accb4",
+    "source": "Le Monde",
+    "title": "« Je suis retournée au travail du sexe pour payer les factures » : dans les campagnes, une prostitution de la « débrouille » se banalise",
+    "link": "https://www.lemonde.fr/m-perso/article/2026/11/14/je-suis-retournee-au-travail-du-sexe-pour-payer-les-factures-dans-les-campagnes-la-prostitution-de-la-debrouille-gagne-du-terrain_6809693_4497916.html",
+    "date": "Sat, 14 Nov 2026 06:00:42 +0100",
+    "summary": "Si on l’imagine urbaine, la prostitution existe aussi dans les espaces ruraux, démunis en services publics et marqués par un difficile accès à l’emploi. Du Centre-Bretagne au Tarn, des femmes ont recours au travail du sexe pour compléter leurs revenus ou surmonter des accidents de la vie."
+  },
+  {
+    "id": "00bbb0ef1b5b17cde9c15babbbc2a0df",
+    "source": "Le Monde",
+    "title": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
+    "date": "Sat, 14 Nov 2026 20:33:52 +0100",
+    "summary": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
+  },
+  {
+    "id": "b64596f26d5b6c35b629b989a030c813",
+    "source": "Le Monde",
+    "title": "Suspension des vols aux Etats-Unis : plus de 16 000 vols annulés vendredi et samedi alors que des perturbations persistent",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
+    "date": "Sat, 14 Nov 2026 16:31:00 +0100",
+    "summary": "Les autorités américaines de l’aviation avaient interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent progressivement à la normale [samedi] matin » malgré quelques retards persistants, a fait savoir le ministre des transports."
+  },
+  {
+    "id": "fd2ecbfc223a23619282acd97584aba0",
+    "source": "Le Monde",
+    "title": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
+    "date": "Sat, 14 Nov 2026 17:39:10 +0100",
+    "summary": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match."
   },
   {
     "id": "0fb7bd79a0a8d3100f84e1eb7a23580a",
@@ -96,52 +160,20 @@
     "summary": "Pour rattraper son retard, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’« autosuffisance scientifique et technologique »."
   },
   {
-    "id": "2b71cf93e5fe165c71dcff307948c10b",
+    "id": "5a4556e7f22b8a6c783d92aed44bc047",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
-    "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
-    "date": "Sat, 14 Nov 2026 16:04:39 +0100",
-    "summary": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les termes d’un éventuel accord de paix devraient être approuvés par référendum."
+    "title": "Les « nouveaux Tanguy », ces jeunes adultes qui tiennent à conserver l’alternance entre chez papa et chez maman",
+    "link": "https://www.lemonde.fr/intimites/article/2026/11/14/les-nouveaux-tanguy-ces-jeunes-adultes-qui-tiennent-a-conserver-l-alternance-entre-chez-papa-et-chez-maman_6810454_6190330.html",
+    "date": "Sat, 14 Nov 2026 18:00:10 +0100",
+    "summary": "Depuis la séparation de leurs parents, ils vivent en résidence alternée. Un rythme auquel ils sont attachés, même devenus majeurs… au grand dam de leurs géniteurs. Car la cohabitation à temps partiel avec un jeune adulte qui suit ses propres règles s’avère délicate."
   },
   {
-    "id": "5c3ce4c01244f0c1267451d8b7e75ce8",
+    "id": "412686943f92573fe148fe190470f762",
     "source": "Le Monde",
-    "title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
-    "date": "Sat, 14 Nov 2026 15:47:45 +0100",
-    "summary": "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle depuis le salon du Made in France. Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays »."
-  },
-  {
-    "id": "154af0f199ae1c88fff07938a5cbca0a",
-    "source": "Le Monde",
-    "title": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html",
-    "date": "Sat, 14 Nov 2026 13:54:18 +0100",
-    "summary": "Le Goncourt, le Renaudot, le Femina et le Médicis ont couronné, en 2026, des auteurs de Madrigall, la maison mère de Gallimard, ce qui irrite les éditeurs concurrents, qui critiquent la composition des jurys."
-  },
-  {
-    "id": "156cfc1e4f14748db63f7acb0024e30d",
-    "source": "Le Monde",
-    "title": "A la recherche du meilleur jeune chef d’orchestre : « Il faut un truc, un charisme particulier. Savoir être un leader sans être un dictateur »",
-    "link": "https://www.lemonde.fr/culture/article/2026/11/14/a-la-recherche-du-meilleur-jeune-chef-d-orchestre-il-faut-avoir-un-truc-un-charisme-particulier_6810319_3246.html",
-    "date": "Sat, 14 Nov 2026 15:38:06 +0100",
-    "summary": "Pour sa 80ᵉ édition, le concours international de musique de Genève a organisé une compétition de direction d’orchestre, une première depuis plus de trente ans. Les qualités recherchées chez ces musiciens à part ont évolué."
-  },
-  {
-    "id": "936cd2cebe0a0b796e9737ad94187115",
-    "source": "Le Monde",
-    "title": "Inondations à Gaza : l’UE exhorte Israël à garantir un accès humanitaire « immédiat » et « sans entrave »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/14/gaza-l-union-europeenne-exhorte-israel-a-garantir-un-acces-immediat-et-sans-entrave-a-l-enclave-apres-des-inondations-importantes_6810313_3210.html",
-    "date": "Sat, 14 Nov 2026 14:42:04 +0100",
-    "summary": "Depuis la fin de semaine dernière, des intempéries ont entraîné l’inondation de dizaines de milliers de tentes de personnes déplacées, et ont provoqué la mort d’au moins cinq personnes, selon les secours palestiniens."
-  },
-  {
-    "id": "86db092514c44262e0206d266d15934b",
-    "source": "Le Monde",
-    "title": "Pour les écoles d’ingénieurs, la difficile équation de la baisse du niveau en maths",
-    "link": "https://www.lemonde.fr/campus/article/2026/11/14/pour-les-ecoles-d-ingenieurs-la-difficile-equation-de-la-baisse-du-niveau-en-maths_6810082_4401467.html",
-    "date": "Sat, 14 Nov 2026 12:00:05 +0100",
-    "summary": "Alors que les résultats de l’enquête internationale PISA ont une nouvelle fois souligné les lacunes des jeunes Français en sciences, les établissements redoublent d’efforts pour redresser la barre."
+    "title": "L’université de Nottingham, symbole extrême de la crise de l’enseignement supérieur britannique, supprime des centaines de postes et ferme des filières",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/l-universite-de-nottingham-symbole-extreme-de-la-crise-de-l-enseignement-superieur-britannique-supprime-des-centaines-de-postes-et-ferme-des-filieres_6810447_3210.html",
+    "date": "Sat, 14 Nov 2026 17:00:15 +0100",
+    "summary": "L’établissement a engagé un plan de coupes drastiques qui laisse étudiants et enseignants dans l’incertitude. D’autres universités à travers le pays envisagent des réductions d’effectifs alors que près de la moitié d’entre elles sont en crise financière."
   },
   {
     "id": "15707e62e4a6c6b36af14ae80781c93e",
@@ -152,60 +184,92 @@
     "summary": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les menaces et insultes envers la productrice de l’émission, Rebecca Manzoni."
   },
   {
-    "id": "5996ce904ad7d8e17347635300855f5c",
+    "id": "2a0f3618cf69d532e86e2fd9c805d6c4",
     "source": "Le Monde",
-    "title": "En Ile-de-France, les usagers de la ligne J confrontés à des incidents en série : « Quand il y a des suppressions de trains, je ne vois pas mes enfants »",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
-    "date": "Sat, 14 Nov 2026 13:26:59 +0100",
-    "summary": "« Crise des essieux », caténaires arrachées… Les accidents se sont succédé en 2026 sur cette ligne du Transilien qui part de la gare Saint-Lazare, à Paris, pour parcourir 174 kilomètres jusqu’aux confins de la Normandie et des Hauts-de-France. Un calvaire pour les 277 000 voyageurs quotidiens qui vivent dans l’angoisse de voir leur train retardé ou supprimé."
+    "title": "The FinalSlam, un show de catch entre influenceurs qui crispe certains passionnés",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/14/the-finalslam-un-show-de-catch-entre-influenceurs-qui-crispe-certains-passionnes_6810455_4408996.html",
+    "date": "Sat, 14 Nov 2026 18:00:08 +0100",
+    "summary": "Aidé de catcheurs, le streameur AmineMaTue organise, samedi, à 20 heures, sur Twitch et à la Pléenitude Arena, à Nanterre (Hauts-de-Seine), des combats auxquels prendront part des stars d’Internet comme Squeezie, Inoxtag et Kaatsup."
   },
   {
-    "id": "6d35fd84e05068901334c5c0e81669dc",
+    "id": "fd6ff2c8a7d31fb3ed30054d91905109",
     "source": "Le Monde",
-    "title": "Jean Rolin, écrivain : « Cette histoire communiste, c’est aussi un peu d’où je viens »",
-    "link": "https://www.lemonde.fr/livres/article/2026/11/14/jean-rolin-cette-histoire-communiste-c-est-aussi-un-peu-d-ou-je-viens_6809819_3260.html",
-    "date": "Sat, 14 Nov 2026 08:00:10 +0100",
-    "summary": "L’écrivain est un arpenteur persévérant de lieux périphériques, attentif aux populations vulnérables qui y vivent. « Gagarine » l’atteste de nouveau, pour lequel il a fait un tour de France des sites nommés d’après le cosmonaute, sur les traces de l’espérance communiste."
+    "title": "La panne du site de fanfictions AO3, victime d’un « incident de sécurité », génère mobilisation et tensions",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/14/la-panne-du-site-de-fanfictions-ao3-victime-d-un-incident-de-securite-genere-mobilisation-et-tensions_6810449_4408996.html",
+    "date": "Sat, 14 Nov 2026 17:00:21 +0100",
+    "summary": "Le site aux 18 millions de « fanfictions », des déclinaisons littéraires d’œuvres existantes rédigées par des fans, est inaccessible depuis le 29 octobre. En cause, un « incident de sécurité » qui laisse ses utilisateurs désœuvrés et réveille des tensions au sein de cette communauté centrale de la culture Web."
   },
   {
-    "id": "bd0ecbf84aed68eda69aa9a135fa6bdb",
-    "source": "Le Monde",
-    "title": "Abdel-Kader Guerz, maire de Dreux, est mort à 69 ans des suites d’un AVC",
-    "link": "https://www.lemonde.fr/disparitions/article/2026/11/14/le-maire-de-dreux-abdel-kader-guerza-est-mort-a-69-ans_6810248_3382.html",
-    "date": "Sat, 14 Nov 2026 13:40:02 +0100",
-    "summary": "L’édile, élu en mars 2026, avait été victime d’un accident vasculaire cérébral au début de novembre et était hospitalisé depuis, selon « L’Echo républicain ». Des membres de son équipe ont convergé en fin de matinée vers la mairie pour un moment de recueillement."
+    "id": "3cf0ca1f941394b328050ffc43820134",
+    "source": "Libération",
+    "title": "A Paris, Yu Nishimura en vogue à l’âme",
+    "link": "https://www.liberation.fr/culture/arts/a-paris-yu-nishimura-en-vogue-a-lame-20261114_KYIVG37ZVBHBDIMQ4V2DKFN54E/",
+    "date": "Sat, 14 Nov 2026 19:22:00 +0000",
+    "summary": "Entre indécision et irrésolution, souvenirs et nostalgie, l’artiste japonais se révèle avec ses émouvantes peintures exposées à Lafayette Anticipations."
   },
   {
-    "id": "6bcb64ce8d227f2c02c3ffca3f35cfdf",
-    "source": "Le Monde",
-    "title": "Le retour de la Russie, ordonné par le Tribunal arbitral du sport, plonge le hockey sur glace dans une crise sans précédent",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-retour-des-equipes-russes-ordonne-par-le-tas-plonge-le-hockey-sur-glace-dans-une-crise-sans-precedent_6810318_3242.html",
-    "date": "Sat, 14 Nov 2026 15:30:06 +0100",
-    "summary": "Une décision du Tribunal arbitral du sport contraint la Fédération internationale à la réintégration immédiate de la Russie en compétitions officielles. Cette sentence suscite l’opposition de nombreuses nations."
+    "id": "f9a8465e4eacc9473baa40f84d6fc199",
+    "source": "Libération",
+    "title": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
+    "link": "https://www.liberation.fr/politique/presidentielle-au-salon-du-made-in-france-teddy-riner-coupe-le-cordon-avec-macron-mais-ne-donne-toujours-pas-de-programme-20261114_CJ3ZTFA4P5A35EHP75BUXHTZXU/",
+    "date": "Sat, 14 Nov 2026 19:05:27 +0000",
+    "summary": "Le quintuple champion olympique de judo a fait le plein de com ce samedi 14 novembre au Parc des expositions de Paris, pour son troisième déplacement depuis son annonce surprise de candidature."
   },
   {
-    "id": "af2facd2f2b1cb730a62be0e0e619f4c",
-    "source": "Le Monde",
-    "title": "Un vice-président de l’université de Versailles - Saint-Quentin-en-Yvelines agressé à l’arme blanche dans les locaux de l’établissement",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/14/un-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-pas-de-blessures-graves_6809950_3224.html",
-    "date": "Sat, 14 Nov 2026 10:31:58 +0100",
-    "summary": "L’agression a eu lieu vendredi en début de soirée dans son bureau, selon le président de l’établissement et le ministre de l’enseignement supérieur, qui affirme qu’elle « s’inscrit dans un contexte de violences dans les campus ». L’identité de l’agresseur et son mobile ne sont toutefois pas encore connus."
+    "id": "fc2971bf18f2e4a8adf7fbc1fe90342f",
+    "source": "Libération",
+    "title": "Primaire à droite : au tour de Gérard Larcher de demander une réunion entre candidats",
+    "link": "https://www.liberation.fr/politique/primaire-a-droite-au-tour-de-gerard-larcher-de-demander-une-reunion-entre-candidats-20261114_GEGE46CXONGIDOR67OIMO4SHYE/",
+    "date": "Sat, 14 Nov 2026 19:00:04 +0000",
+    "summary": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire."
   },
   {
-    "id": "b9b90740aafdb31e6b24083707931e87",
-    "source": "Le Monde",
-    "title": "Le RC Lens crée la surprise en nommant Didier Digard au poste d’entraîneur",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-rc-lens-cree-la-surprise-en-nommant-didier-digard-au-poste-d-entraineur_6810016_3242.html",
-    "date": "Sat, 14 Nov 2026 11:49:17 +0100",
-    "summary": "Quelques heures après avoir démis Yannick Cahuzac de ses fonctions, le club artésien a annoncé l’arrivée de Didier Digard sur son banc, pour deux saisons. Le Normand avait été limogé à la fin d’octobre par Le Havre, après un début de saison catastrophique."
+    "id": "538b92808005984a8ed3291a6931398b",
+    "source": "Libération",
+    "title": "«Mamies du futur», militants des droits humains, collectifs enfantistes… A Paris, une manifestation bigarrée et une moindre affluence",
+    "link": "https://www.liberation.fr/societe/mamies-du-futur-militants-des-droits-humains-collectifs-enfantistes-a-paris-une-manifestation-bigarree-et-une-moindre-affluence-20261114_6QEUXNQJAVGYFGQWCLYUKDYHUE/",
+    "date": "Sat, 14 Nov 2026 18:48:58 +0000",
+    "summary": "Dans la capitale, de République à Nation, 24 000 personnes selon l’Intérieur, 100 000 selon l’intersyndicale jeune ont défilé à l’occasion de l’acte V contre la vie chère. Etudiants, syndicats, écologistes et citoyens mobilisés contre les violences policières ont mêlé leurs revendications."
   },
   {
     "id": "d8b44582e92649b797aed7a7e2c9e61f",
     "source": "Libération",
-    "title": "Manifestations : de 30 000 à 60 000 personnes attendues à Paris",
+    "title": "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
     "link": "https://www.liberation.fr/societe/manifestations-de-30-000-a-60-000-personnes-attendues-a-paris-20261114_UKPYNHRL4ZBIRBAHICK64N2FDM/",
-    "date": "Sat, 14 Nov 2026 15:06:25 +0000",
-    "summary": "Le cortège parisien s’est élancé un peu après 14 heures de la place de la République vers celle de la Nation pour l’acte V contre la vie chère. Entre 50 et 60 actions similaires sont attendues dans tout le pays."
+    "date": "Sat, 14 Nov 2026 17:21:24 +0000",
+    "summary": "Le cortège parisien République-Nation a réuni ce samedi 14 novembre entre 24 000, selon le ministère de l’Intérieur, et 100 000 manifestants, selon l’intersyndicale jeune."
+  },
+  {
+    "id": "842f99e49cc93b36bdbcb32b4a6ccd7a",
+    "source": "Libération",
+    "title": "«La Caserne» de John McGahern, une femme tuée à la tâche",
+    "link": "https://www.liberation.fr/culture/livres/la-caserne-de-john-mcgahern-une-femme-tuee-a-la-tache-20261114_VKR6AGCYYVCQJC7ZWHEVRB6KKI/",
+    "date": "Sat, 14 Nov 2026 17:00:01 +0000",
+    "summary": "Le premier roman de l’écrivain irlandais disparu il y a vingt ans enfin réédité."
+  },
+  {
+    "id": "cf3943667b9b0ff1790103b00f5c2543",
+    "source": "Libération",
+    "title": "Le critique littéraire Arnaud Viviant quitte «le Masque et la Plume», disant avoir été empêché de conseiller le livre de Rima Hassan",
+    "link": "https://www.liberation.fr/economie/medias/le-critique-litteraire-arnaud-viviant-quitte-le-masque-et-la-plume-disant-avoir-ete-empeche-de-conseiller-le-livre-de-rima-hassan-20261114_L42QFQJQUFDTBMEUWYGZBZIWX4/",
+    "date": "Sat, 14 Nov 2026 16:20:59 +0000",
+    "summary": "France Inter invoque une règle interne interdisant de mettre en avant les livres de personnalités en fonction. Une convention à géométrie variable, accuse le critique, qui avance plusieurs contre-exemples."
+  },
+  {
+    "id": "6e26b3c4d890d3caf0a284f63d5070cb",
+    "source": "Libération",
+    "title": "L’Hérault rejoint le Gard et les Bouches-du-Rhône en vigilance orange pluie-inondation ce samedi",
+    "link": "https://www.liberation.fr/environnement/climat/orages-et-fortes-pluies-le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-dans-la-soiree-20261114_4LXU2ENXP5DXJLM7VCSFSGUGSA/",
+    "date": "Sat, 14 Nov 2026 15:48:57 +0000",
+    "summary": "Dans son dernier bulletin, Météo France met en garde contre des «risques de ruissellements» et de possibles «phénomènes tourbillonnaires»."
+  },
+  {
+    "id": "d3c9973d848dfa20cd85e67181b9dd3d",
+    "source": "Libération",
+    "title": "«Ils ont tous peur de perdre» : comment Gianni Infantino a retourné la Fifa avant le vote pour sa succession",
+    "link": "https://www.liberation.fr/sports/football/ils-ont-tous-peur-de-perdre-comment-gianni-infantino-a-retourne-la-fifa-avant-le-vote-pour-sa-succession-20261114_3OL64F2UL5FZFAWF3YLFFUVBII/",
+    "date": "Sat, 14 Nov 2026 15:36:26 +0000",
+    "summary": "A quelques jours du 18 novembre, date limite de dépôt des candidatures en vue du congrès de mars, le patron du foot mondial est en position de force, malgré la crise historique cet été. Ses opposants peinent à trouver un candidat pour l’affronter et misent plutôt sur ses ennuis judiciaires."
   },
   {
     "id": "cc9bacf521b562c62fc30356a09516ec",
@@ -240,14 +304,6 @@
     "summary": "Création d’une «cellule invités», interview offensive de Jordan Bardella… Depuis l’embauche de Sonia Mabrouk, transfuge de CNews, et après un moment de sidération, les choses bougent dans la chaîne d’info sous la pression des reporters, dépités d’être assimilés aux éditorialistes réacs de plateau."
   },
   {
-    "id": "cf3943667b9b0ff1790103b00f5c2543",
-    "source": "Libération",
-    "title": "Le critique littéraire Arnaud Viviant quitte «le Masque et la Plume», disant avoir été empêché de conseiller le livre de Rima Hassan",
-    "link": "https://www.liberation.fr/economie/medias/le-critique-litteraire-arnaud-viviant-quitte-le-masque-et-la-plume-disant-avoir-ete-empeche-de-conseiller-le-livre-de-rima-hassan-20261114_L42QFQJQUFDTBMEUWYGZBZIWX4/",
-    "date": "Sat, 14 Nov 2026 13:55:06 +0000",
-    "summary": "France Inter invoque une règle interne interdisant de mettre en avant les livres d’élus en fonction. Une convention à géométrie variable, accuse le critique, qui avance plusieurs contre-exemples."
-  },
-  {
     "id": "91851fa5b467b887327fd4f240c7525d",
     "source": "Libération",
     "title": "Les groupes de parole de Terreur Graphique : «Bonjour, je m’appelle James Franco de Porc…»",
@@ -262,62 +318,6 @@
     "link": "https://www.liberation.fr/international/asie-pacifique/en-coree-du-sud-des-medicaments-contre-le-tdah-prescrits-pour-booster-les-performances-scolaires-20261114_CTVSRLP75RGZ5DOGDEUWSALFW4/",
     "date": "Sat, 14 Nov 2026 12:44:00 +0000",
     "summary": "Face à l’ultracompétition académique, des jeunes Sud-Coréens obtiennent facilement la prescription d’un médicament contre les troubles d’attention avec hyperactivité pour améliorer leurs résultats."
-  },
-  {
-    "id": "e572f11b11bc323f51b2ec678bacd03d",
-    "source": "Libération",
-    "title": "Précaires de l’enseignement supérieur : «On navigue entre le chômage, les dettes et des revenus très bas»",
-    "link": "https://www.liberation.fr/societe/education/precaires-de-lenseignement-superieur-on-navigue-entre-le-chomage-les-dettes-et-des-revenus-tres-bas-20261114_IVKRPLL6PRCMNAOHR4UWCMDWWA/",
-    "date": "Sat, 14 Nov 2026 12:20:07 +0000",
-    "summary": "Mal payées, souvent en retard, parfois sans contrat : portées par le mouvement lycéen, étudiant et contre la vie chère, des vacataires de l’université, réunies au sein du collectif #JesuisLéa, sont venues demander des conditions de travail dignes jusqu’à Matignon."
-  },
-  {
-    "id": "2bd7a9392edc8a746f8b1ff861d57e12",
-    "source": "Libération",
-    "title": "Silence on joue ! «Ocarina of Time», «Castlevania», «Remothered», «Penguin Colony»",
-    "link": "https://www.liberation.fr/culture/jeux-video/silence-on-joue-ocarina-of-time-castlevania-remothered-penguin-colony-20261114_XVSBNSL3ZJGMXMM7KHZFTV5DNA/",
-    "date": "Sat, 14 Nov 2026 12:09:00 +0000",
-    "summary": "Cette semaine, une petite musique remise au goût du jour, une chasseuse de vampires, un manoir inquiétant et des manchots."
-  },
-  {
-    "id": "c2040720b06b76663696fe7116b86738",
-    "source": "Libération",
-    "title": "Coup de frein sur la médecine esthétique : le gouvernement invite les médecins à se concentrer sur les malades",
-    "link": "https://www.liberation.fr/societe/sante/coup-de-frein-sur-la-medecine-esthetique-le-gouvernement-invite-les-medecins-a-se-concentrer-sur-les-malades-20261106_CGRCV6B2KNB3VKZ4H55VALK4XY/",
-    "date": "Sat, 14 Nov 2026 12:04:34 +0000",
-    "summary": "Publié au Journal officiel ce samedi 14 novembre, un décret plafonne l’activité esthétique des médecins à 30 % de leur temps de travail. La mesure destinée à libérer du temps médical suscite la grogne de syndicats de dermatologues et de généralistes."
-  },
-  {
-    "id": "e6363e9e162cb7723527d779685620be",
-    "source": "Libération",
-    "title": "Le vice-président de l’université Versailles-Saint-Quentin agressé à l’arme blanche dans son bureau",
-    "link": "https://www.liberation.fr/societe/le-vice-president-de-luniversite-versailles-saint-quentin-agresse-a-larme-blanche-dans-son-bureau-20261114_P5FQSS6AGZFPJMR56AVGQPDFTI/",
-    "date": "Sat, 14 Nov 2026 11:52:54 +0000",
-    "summary": "Le pronostic vital de la victime n’est pas engagé. L’attaque survient dans un contexte étudiant perturbé, marqué par des mobilisations qui secouent le fonctionnement de l’établissement depuis plusieurs semaines."
-  },
-  {
-    "id": "5db2ba1e9adff876da381dffca7c45fc",
-    "source": "Libération",
-    "title": "«Nous ne pouvons même plus accéder à certaines zones» : les ONG contraintes de réduire l’aide humanitaire pour compenser le démantèlement de l’USaid",
-    "link": "https://www.liberation.fr/international/afrique/nous-ne-pouvons-meme-plus-acceder-a-certaines-zones-les-ong-contraintes-de-reduire-laide-humanitaire-pour-compenser-le-demantelement-de-lusaid-20261114_LEZIH5P2Q5FFBDIP5XJYXO3W3I/",
-    "date": "Sat, 14 Nov 2026 11:30:00 +0000",
-    "summary": "Les coupes budgétaires américaines continuent de fragiliser les opérations humanitaires. Les fonds débloqués privilégient l’urgence et certaines crises, laissant les ONG sans visibilité pour la suite."
-  },
-  {
-    "id": "75e0bf148879f612454eb042227b134e",
-    "source": "Libération",
-    "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
-    "link": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
-    "date": "Sat, 14 Nov 2026 11:29:29 +0000",
-    "summary": "Les intimidations sont notamment liées au refus de la présidence de valider automatiquement le semestre perturbé par la grogne, comme demandé par les étudiants."
-  },
-  {
-    "id": "0fe62f87ffc3272b9775e20630b98189",
-    "source": "Libération",
-    "title": "La semaine vue par Coco : au Bourget, un Mélenchon inflexible",
-    "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-au-bourget-un-melenchon-inflexible-20261114_QDHAWLJXQNG25MYKV6SSGNNP7Y/",
-    "date": "Sat, 14 Nov 2026 11:06:00 +0000",
-    "summary": "L’actualité croquée par notre dessinatrice."
   },
   {
     "id": "4b975d5a514c596799bd15ab3d99fcde",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/6782741739_8295987b3f_k_1_-e59ec.jpg?1794501273\" width=\"700\" />\n<p>La surveillance des rejets radioactifs de la centrale nucléaire de Chinon devant la justice. <span class=\"caps\">EDF</span> et le directeur du site seront jugés vendredi 13 novembre à 9 heures au tribunal de police de Tours (Indre-et-Loire), à la suite d'une plainte déposée le 8 janvier par un collectif d'associations. Celui-ci dénonce des défaillances dans le dispositif de mesure de la radioactivité rejetée dans la Loire. <br class=\"autobr\" />\nEn cause : l'emplacement de la station de mesure multiparamètres (<span class=\"caps\">SMP</span>), installée en aval de (…)</p>\n\n            <a href=\"https://reporterre.net/Nucleaire-EDF-juge-pour-une-surveillance-defaillante-des-rejets-a-Chinon?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nucleaire\" rel=\"tag\">Nucléaire</a>\n            , \n                <a href=\"https://reporterre.net/Justice\" rel=\"tag\">Justice</a>"
   },
   {
-    "id": "e76fe15a2eb7ad47f5a3f4095f2615dc",
+    "id": "4b40a0d613cdb25d8b52b30a3dc04040",
     "source": "BFMTV",
-    "title": "Le bâtiment avait été racheté par un futur député du parti d'extrême droite La Ligue: à Rome, l'ancien siège des communistes italiens se transforme en hôtel de luxe à 4.000 euros la nuit",
-    "link": "https://www.bfmtv.com/luxe/le-batiment-avait-ete-rachete-par-un-futur-depute-du-parti-d-extreme-droite-la-ligue-a-rome-l-ancien-siege-des-communistes-italiens-se-transforme-en-hotel-de-luxe-a-4-000-euros-la-nuit_AD-202611140282.html",
-    "date": "Sat, 14 Nov 2026 15:16:14 GMT",
-    "summary": "À Rome, l'ancien quartier général du Parti communiste italien abrite désormais un hôtel de luxe, le Thompson Rome by Hyatt. Suites à 4.000 euros en haute saison, marbre, travertin et rooftop, l'adresse est bien loin de ses anciennes convictions marxistes. Ses nouveaux propriétaires assurent pourtant avoir \"réalisé une restauration dans le respect de ce qui existait auparavant\". Un argument qui peine à convaincre certains militants de gauche.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/T_L4Hyak_2DXY59jnv7lhMbNjlM=/0x106:2048x1258/800x0/images/L-hotel-Thompson-Rome-by-Hyatt-2383483.jpg\" />"
+    "title": "Présidentielle 2027: découvrez notre sondage Elabe /BFMTV / La Tribune Dimanche",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-decouvrez-notre-sondage-elabe-bfmtv-la-tribune-dimanche_VN-202611140354.html",
+    "date": "Sat, 14 Nov 2026 19:54:44 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/J1N9cWsX0c6BxioWyyQcugim6Zo=/0x0:1280x720/800x0/images/Presidentielle-2027-decouvrez-notre-sondage-Elabe-BFMTV-La-Tribune-Dimanche-2384114.jpg\" />"
   },
   {
-    "id": "aa7f3fc1b5e881c19bb1eb79e5c782f0",
+    "id": "0d002b2568f8af57554bacd9d0e0f895",
     "source": "BFMTV",
-    "title": "Manifestations du 14 novembre: 8.900 manifestants à 14h en région",
-    "link": "https://www.bfmtv.com/police-justice/video-manifestations-du-14-novembre-8-900-manifestants-a-14h-en-region_VN-202611140281.html",
-    "date": "Sat, 14 Nov 2026 15:14:21 GMT",
-    "summary": "Plusieurs mobilisations distinctes sont attendues dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, 50 à 60 cortèges sont attendus.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rYlHP1aaBuV1D1wOy-bu_lnDR-U=/0x0:1280x720/800x0/images/Manifestations-du-14-novembre-8-900-manifestants-a-14h-en-region-2384045.jpg\" />"
+    "title": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"La question, c'est qu'au sein de la gauche, si elle se rassemblait, elle peut gagner\", analyse Alexis Corbière, député L'Après",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-la-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-alexis-corbiere-depute-l-apres_VN-202611140353.html",
+    "date": "Sat, 14 Nov 2026 19:54:18 GMT",
+    "summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aDxGkMD8N9165H-eaJcYzBAUyWI=/0x0:1280x720/800x0/images/Teddy-Riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-La-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-Alexis-Corbiere-depute-L-Apres-2384112.jpg\" />"
   },
   {
-    "id": "38d9372da42401edd37510d8cd73233b",
+    "id": "49ee2d5747cecee741c23ff49e39f22f",
     "source": "BFMTV",
-    "title": "Pluie-inondation: trois départements placés en vigilance orange par Météo France",
-    "link": "https://www.bfmtv.com/meteo/pluie-inondation-deux-departements-places-en-vigilance-orange-par-meteo-france_AN-202611140172.html",
-    "date": "Sat, 14 Nov 2026 09:16:09 GMT",
-    "summary": "Météo France a placé trois départements du Sud en vigilance orange pour pluie-inondation: l'Hérault, le Gard et les Bouches-du-Rhône. Cette alerte commence à 20h ce samedi soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Y022RadMfRLWO8PEVAa2CWpCano=/0x106:2048x1258/800x0/images/pluie-370115.jpg\" />"
+    "title": "L'ancien maire socialiste de Grenoble et député de l'Isère Michel Destot est mort à l'âge de 80 ans",
+    "link": "https://www.bfmtv.com/politique/l-ancien-maire-socialiste-de-grenoble-et-depute-de-l-isere-michel-destot-est-mort-a-l-age-de-80-ans_AD-202611140351.html",
+    "date": "Sat, 14 Nov 2026 19:52:12 GMT",
+    "summary": "Michel Destot avait été maire de Grenoble entre 1995 et 2014. Il avait également été député de la troisième circonscription du département de l'Isère de 1988 à 2017. François Hollande a salué sur son compte X ce samedi \"un homme qui cherchait à unir autour de grandes causes\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OY2P8oq02I6-Z3xAvpetEgfYLi4=/0x106:2048x1258/800x0/images/Michel-Destot-a-Grenoble-le-29-avril-2024-2384108.jpg\" />"
   },
   {
-    "id": "ecf51079e9f14a7013cc2c83899c6522",
+    "id": "5b792b9c77b0d6d3d69b552a4f955c3c",
     "source": "BFMTV",
-    "title": "L'Union européenne exhorte Israël à permettre aux Palestiniens d'accéder à l'aide humanitaire après les inondations qui ont touché Gaza",
-    "link": "https://www.bfmtv.com/international/moyen-orient/l-union-europeenne-exhorte-israel-a-permettre-aux-palestiniens-d-acceder-a-l-aide-humanitaire-apres-les-inondations-qui-ont-touche-gaza_AD-202611140278.html",
-    "date": "Sat, 14 Nov 2026 15:02:56 GMT",
-    "summary": "Les intempéries ont entraîné depuis la semaine dernière, dans la bande de Gaza, l'inondation de dizaines de milliers de tentes de personnes déplacées et provoqué la mort de cinq personnes dont trois enfants, selon les secours palestiniens.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1GAhLgaSl0cTBT0MoyplcX8UgZY=/0x106:2048x1258/800x0/images/Des-pluies-diluviennes-s-abattent-sur-la-bande-de-Gaza-des-milliers-de-deplacees-privees-d-abri-et-plusieurs-blesses-2379877.jpg\" />"
+    "title": "La plateforme Maileva du groupe La Poste victime d'un vol de données touchant 22 millions de personnes",
+    "link": "https://www.bfmtv.com/tech/cybersecurite/la-plateforme-maileva-du-groupe-la-poste-victime-d-un-vol-de-donnees-touchant-22-millions-de-personnes_AD-202611140348.html",
+    "date": "Sat, 14 Nov 2026 19:19:05 GMT",
+    "summary": "La plateforme Maileva a été victime d'une cyberattaque. La filiale du groupe La Poste annonce un vol de données touchant 22 millions de personnes. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/28-e609qP-fAOTHQc1KReDRF0Fs=/0x106:2048x1258/800x0/images/VISUEL-PC-2378611.jpg\" />"
   },
   {
-    "id": "268fd69ecacacdc98bfdefc211f7ebe0",
+    "id": "475db1c5e33f96c1170f8efff1d14080",
     "source": "BFMTV",
-    "title": "Elle voulait révolutionner les liaisons transatlantiques à bord d'A380: Global Airlines liquidée après seulement deux allers-retours entre le Royaume-Uni et New York",
-    "link": "https://www.bfmtv.com/economie/entreprises/transports/elle-voulait-revolutionner-les-liaisons-transatlantiques-a-bord-d-a380-global-airlines-liquidee-apres-seulement-deux-allers-retours-entre-le-royaume-uni-et-new-york_AN-202611140276.html",
-    "date": "Sat, 14 Nov 2026 14:56:46 GMT",
-    "summary": "Cette jeune compagnie britannique entendait transformer l'expérience du voyage vers les États-Unis mais elle n'est jamais parvenue à confirmer son modèle. Son seul Airbus A380 était immobilisé à Tarbes depuis plus d'un an.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kHDoa-QkgktkeBZx0SbGNPWHZCk=/2x12:706x408/800x0/images/L-A380-de-Global-Airways-2384017.jpg\" />"
+    "title": "Présidentielle 2027: dans un sondage Elabe / BFMTV / La Tribune Dimanche, Teddy Riner est crédité de 4,5% des intentions de vote",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-dans-un-sondage-elabe-bfmtv-la-tribune-dimanche-teddy-riner-est-credite-de-4-5-des-intentions-de-vote_VN-202611140344.html",
+    "date": "Sat, 14 Nov 2026 19:10:08 GMT",
+    "summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KmULtfgXEdq_aFInY_Oud_CGpYE=/0x0:1280x720/800x0/images/Presidentielle-2027-dans-un-sondage-Elabe-BFMTV-La-Tribune-Dimanche-Teddy-Riner-est-credite-de-4-5-des-intentions-de-vote-2384105.jpg\" />"
+  },
+  {
+    "id": "5a9c5b507f8e551bd5d88bf088686f3d",
+    "source": "BFMTV",
+    "title": "Guerre en Ukraine: Emmanuel Macron estime que \"ceux qui veulent rationner\" l'aide à Kiev veulent \"obliger\" les Ukrainiens \"à une paix injuste\"",
+    "link": "https://www.bfmtv.com/politique/elysee/guerre-en-ukraine-emmanuel-macron-estime-que-ceux-qui-veulent-rationner-l-aide-a-kiev-veulent-obliger-les-ukrainiens-a-une-paix-injuste_AD-202611140339.html",
+    "date": "Sat, 14 Nov 2026 19:00:25 GMT",
+    "summary": "Dans un message publié sur son compte X ce samedi 14 novembre, le président de la République estime que \"rationner les moyens de l'Ukraine\" est \"la recette pour la guerre d'après\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg\" />"
+  },
+  {
+    "id": "0a350a13db48a7f09958d6eeb70c111f",
+    "source": "BFMTV",
+    "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
+    "date": "Sat, 14 Nov 2026 19:00:00 GMT",
+    "summary": "Cinq mois avant le premier tour de l'élection présidentielle, Jean-Luc Mélenchon consolide sa deuxième place derrière Marine Le Pen, d'après le dernier sondage Elabe pour BFMTV et La Tribune dimanche. Teddy Riner, testé dans une des six configurations, est lui crédité de 4,5% des intentions de vote.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1qSrP58K0XMlRX0Q5CzCGXrhSbw=/0x33:2048x1185/800x0/images/Le-leader-de-La-France-insoumise-Jean-Luc-Melenchon-le-14-octobre-2026-a-Paris-2370881.jpg\" />"
+  },
+  {
+    "id": "e68b3c13c6ee504fd1dea5587adf583f",
+    "source": "BFMTV",
+    "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Christine Lagarde, David Lisnard... Qui serait le meilleur candidat selon les électeurs de la droite et du centre?",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-christine-lagarde-david-lisnard-qui-serait-le-meilleur-candidat-selon-les-electeurs-de-la-droite-et-du-centre_AN-202611140332.html",
+    "date": "Sat, 14 Nov 2026 19:00:00 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KWmNebQiUUcsCg64gnhS7mUg-S4=/0x40:768x472/800x0/images/Le-candidat-Horizons-a-la-presidentielle-Edouard-Philippe-a-La-Ciotat-dans-les-Bouches-du-Rhone-le-7-novembre-2026-2382973.jpg\" />"
   },
   {
     "id": "899929c01a9589daa5120a0356b43f9c",
     "source": "BFMTV",
-    "title": "DIRECT. Colère sociale: quelques tensions à Nantes, le cortège parisien défile dans le calme",
+    "title": "DIRECT. Colère sociale: 200.000 personnes mobilisées à travers la France selon les syndicats, 106.000 selon les autorités",
     "link": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-jusqu-60-corteges-attendus-dans-toute-la-france-quelque-70-000-forces-de-l-ordre-mobilises_LN-202611140082.html",
     "date": "Sat, 14 Nov 2026 04:50:11 GMT",
-    "summary": "Plusieurs mobilisations distinctes sont attendues dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, 50 à 60 cortèges sont attendus.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wFdDwculvdoEU0mVLwht77iSKV8=/0x106:2048x1258/800x0/images/Des-manifestants-sur-la-statue-de-la-Place-de-la-Republique-a-Paris-le-14-novembre-2026-2384007.jpg\" />"
+    "summary": "Plusieurs mobilisations distinctes avaient lieu dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, plus de 60 cortèges ont défilé.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VQ71Jo3NHLra8sYrXPFqzVYUu_I=/0x40:768x472/800x0/images/Manifestation-a-Marseille-le-14-novembre-2026-2384034.jpg\" />"
   },
   {
-    "id": "542123a2496be6c528477d4cbbd9722d",
+    "id": "9cc3a87794cf1119509693338ba61276",
     "source": "BFMTV",
-    "title": "Jean-Claude Petit (Lorvolt) : Lorvolt, la protection contre les risques de foudre - 14/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-jean-claude-petit-lorvolt-lorvolt-la-protection-contre-les-risques-de-foudre-14-11_VN-202611140274.html",
-    "date": "Sat, 14 Nov 2026 14:45:03 GMT",
-    "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 14 novembre, Jean-Claude Petit, président du Groupe Lorvolt, s'est penché sur la protection des bâtiments et des installations dites sensibles contre les risques liés à la foudre, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias France.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/N3y_kJIf8QQBn9K3BW_0mrKsz7U=/0x0:1280x720/800x0/images/Jean-Claude-Petit-Lorvolt-Lorvolt-la-protection-contre-les-risques-de-foudre-14-11-2384037.jpg\" />"
+    "title": "Agression d'une de ses équipes sur le terrain le 14 novembre à Lyon: BFMTV porte plainte",
+    "link": "https://www.bfmtv.com/bfmtv-et-vous/making-of/agression-d-une-de-ses-equipes-sur-le-terrain-le-14-novembre-a-lyon-bfmtv-porte-plainte_AN-202611140334.html",
+    "date": "Sat, 14 Nov 2026 18:34:56 GMT",
+    "summary": "Une équipe de BFMTV a été agressée ce samedi 14 novembre à Lyon. Le groupe CMA Média apporte son soutien total à ses rédactions et s’associe au dépôt de plainte de ses journalistes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9aycxNOFW1LCGX1B6ETaac6Bhd8=/0x0:2000x1125/800x0/images/Logo-BFMTV-1725586.jpg\" />"
   },
   {
-    "id": "6be660b559b1bc24df692761f731d979",
+    "id": "4ab51b540cf3cb78791f57b48b23e4db",
     "source": "BFMTV",
-    "title": "Un homme placé en garde à vue après la découverte du corps de son ex-conjointe dans les Ardennes",
-    "link": "https://www.bfmtv.com/police-justice/un-homme-place-en-garde-a-vue-apres-la-decouverte-du-corps-de-son-ex-conjointe-dans-les-ardennes_AD-202611140273.html",
-    "date": "Sat, 14 Nov 2026 14:41:00 GMT",
-    "summary": "Une enquête a été ouverte pour \"homicide volontaire par ex-conjoint\" après la découverte du corps sans vie d'une femme à Charleville-Mézières (Ardennes). Son ex-conjoint a été placé en garde à vue. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ugNfNtkJcv1xIzQuF99cgNVZSNQ=/0x0:1248x702/800x0/images/Vehicule-de-police-illustration-405910.jpg\" />"
+    "title": "Plus de 16.000 vols annulés aux États-Unis depuis vendredi et la suspension des décollages pendant plusieurs heures",
+    "link": "https://www.bfmtv.com/economie/entreprises/transports/plus-de-16-000-vols-annules-aux-etats-unis-depuis-vendredi-et-la-suspension-des-decollages-pendant-plusieurs-heures_AD-202611140331.html",
+    "date": "Sat, 14 Nov 2026 18:29:25 GMT",
+    "summary": "Selon Bryan Bedford, le patron de la FAA, le régulateur américain de l'aviation civile, 12.000 vols prévus vendredi n'ont pas pu être reprogrammés. Entre 4.000 et 5.000 vols prévus ce samedi devraient également être annulés.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l7Dztr2OjTDqkFIeC5-4kYLiOIQ=/0x106:2048x1258/800x0/images/Une-personne-regarde-les-vols-retardes-ou-annules-a-l-aeroport-LaGuardia-de-New-York-le-13-novembre-2026-2384091.jpg\" />"
   },
   {
-    "id": "1e0aadb535fea94121095e153b0e64ae",
+    "id": "b32a2c87186bb1f0b2a6f3bfeef95f39",
     "source": "BFMTV",
-    "title": "Le Best of Tech&Co La quotidienne du samedi 14 novembre",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-best-of-tech-co-la-quotidienne-du-samedi-14-novembre_VN-202611140275.html",
-    "date": "Sat, 14 Nov 2026 14:36:22 GMT",
-    "summary": "Retrouvez le Best of Tech&amp;Co La quotidienne en replay sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XyHgPBVIHNxnibX7499_Kpsd4qA=/0x0:1280x720/800x0/images/Le-Best-of-Tech-and-Co-La-quotidienne-du-samedi-14-novembre-2384038.jpg\" />"
+    "title": "\"On dénonce depuis une vingtaine d'années un manque de moyens dans l'Éducation nationale\", rappelle Aurore Metenier, proviseure de lycée et chargée de communication du SNPDEN",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-on-denonce-depuis-une-vingtaine-d-annees-un-manque-de-moyens-dans-l-education-nationale-rappelle-aurore-metenier-proviseure-de-lycee-et-chargee-de-communication-du-snpden_VN-202611140329.html",
+    "date": "Sat, 14 Nov 2026 18:21:54 GMT",
+    "summary": "Plusieurs mobilisations distinctes ont eu lieu dans la capitale ce samedi 14 novembre. Paris, Nantes, Lyon: c'est la fin des manifestations partout en France, émaillées de quelques incidents.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YRNBJXAIPAlSRUbblFO0oEcC2Co=/0x0:1280x720/800x0/images/On-denonce-depuis-une-vingtaine-d-annees-un-manque-de-moyens-dans-l-Education-nationale-rappelle-Aurore-Metenier-proviseure-de-lycee-et-chargee-de-communication-du-SNPDEN-2384095.jpg\" />"
   },
   {
-    "id": "101e7c9e6f67f17741a05d5a5a4d8463",
+    "id": "34ae0ef2ed491e4cd031979563f45c02",
     "source": "BFMTV",
-    "title": "Rouen : quelques tensions dans le cortège contre la vie chère",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-rouen-quelques-tensions-dans-le-cortege-contre-la-vie-chere_VN-202611140271.html",
-    "date": "Sat, 14 Nov 2026 14:31:22 GMT",
-    "summary": "Plusieurs mobilisations distinctes sont attendues dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, 50 à 60 cortèges sont attendus.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bLk_TzGZ3u6DLVmaki_grB7tGH0=/0x0:1280x720/800x0/images/Rouen-quelques-tensions-dans-le-cortege-contre-la-vie-chere-2384033.jpg\" />"
+    "title": "Michael Debaveye (Creaplan Group) : Creaplan Group, société de design - 14/11",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-michael-debaveye-creaplan-group-creaplan-group-societe-de-design-14-11_VN-202611140325.html",
+    "date": "Sat, 14 Nov 2026 18:11:04 GMT",
+    "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 14 novembre, Michael Debaveye, PDG  de Creaplan Group, est revenu sur la conception de stands d'exposition, d’espaces commerciaux ou la création d'événements corporates qui intègre les dernières tendances, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias France. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nsrcREt9s6ySlicJ9S2KW5tH_hQ=/0x0:1280x720/800x0/images/Michael-Debaveye-Creaplan-Group-Creaplan-Group-societe-de-design-14-11-2384093.jpg\" />"
   },
   {
-    "id": "2accffda26e76fe9a5d803ec44af1895",
+    "id": "53c260d1ebf335a32a1b4b719885924c",
     "source": "BFMTV",
-    "title": "Encore une méga-amende infligée à Facebook avec 805 millions d'euros en Italie",
-    "link": "https://www.bfmtv.com/economie/entreprises/encore-une-mega-amende-infligee-a-facebook-avec-805-millions-d-euros-en-italie_AD-202611140269.html",
-    "date": "Sat, 14 Nov 2026 14:21:16 GMT",
-    "summary": "La plateforme a été condamnée pour avoir accédé à des photos sans un consentement \"spécifique\" des utilisateurs, a annoncé samedi l'Autorité italienne de protection des données personnelles.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/lJGRxlOnchglYNY31nzZXCfd3s4=/7x111:2039x1254/800x0/images/Les-applications-de-Meta-2333495.jpg\" />"
+    "title": "Pas-de-Calais: le corps d'un jeune homme retrouvé sur le littoral après une tentative de départ vers l'Angleterre",
+    "link": "https://www.bfmtv.com/grand-littoral/pas-de-calais-le-corps-d-un-jeune-homme-retrouve-sur-le-littoral-apres-une-tentative-de-depart-vers-l-angleterre_AD-202611140321.html",
+    "date": "Sat, 14 Nov 2026 18:01:23 GMT",
+    "summary": "Le corps d’un homme d’une vingtaine d’années a été découvert ce samedi 14 novembre sur la plage de Sainte-Cécile, à Camiers (Pas-de-Calais). Il aurait perdu la vie lors d’une tentative de traversée clandestine de la Manche dans la nuit de vendredi à samedi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iAxSIDlczup-dN9d_kIQ9b8ysQ8=/0x40:768x472/800x0/images/Des-migrants-s-appretent-a-traverser-la-Manche-sur-un-bateau-pneumatique-depuis-le-Pas-de-Calais-vers-l-Angleterre-le-16-octobre-2021-1165545.jpg\" />"
   },
   {
-    "id": "d4e867d9e25951e5d5e18ad7fa3a4426",
+    "id": "54d7110048e6d3ff4de89490f7ab8b0f",
     "source": "BFMTV",
-    "title": "\"Il laisse une ville en deuil\": Abdel-Kader Guerza, maire de Dreux, est mort à l'âge de 69 ans",
-    "link": "https://www.bfmtv.com/politique/il-laisse-une-ville-en-deuil-abdel-kader-guerza-maire-de-dreux-est-mort-a-l-age-de-69-ans_AN-202611140268.html",
-    "date": "Sat, 14 Nov 2026 14:20:45 GMT",
-    "summary": "Abdel-Kader Guerza avait été élu maire de Dreux en mars dernier face à Pierre-Frédéric Billet, le maire sortant. En réaction à sa disparition, le maire de Chartres, Ladislas Vergne, a estimé que Dreux \"perd(ait) un maire\" et que \"la France perd(ait) un serviteur de l’État\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/niOITgua94T9jsi4WB7UjIfaaTY=/0x0:1920x1080/800x0/images/Abdel-Kader-Guerza-avait-ete-elu-maire-de-Dreux-le-22-mars-2026-2384023.jpg\" />"
-  },
-  {
-    "id": "fec19f306690da48d9be02e07f24170d",
-    "source": "BFMTV",
-    "title": "70.000 forces de l'ordre mobilisées: \"Le personnel commence à être épuisé\", met en garde Christian Prouteau, fondateur et premier commandant du GIGN",
-    "link": "https://www.bfmtv.com/police-justice/video-70-000-forces-de-l-ordre-mobilisees-le-personnel-commence-a-etre-epuise-met-en-garde-christian-prouteau-fondateur-et-premier-commandant-du-gign_VN-202611140267.html",
-    "date": "Sat, 14 Nov 2026 14:14:58 GMT",
-    "summary": "Plusieurs mobilisations distinctes ont lieu dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, 50 à 60 cortèges sont attendus.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qSFOcEdQqAgRVfJShZeCtUS8RA0=/0x0:1280x720/800x0/images/70-000-forces-de-l-ordre-mobilisees-Le-personnel-commence-a-etre-epuise-met-en-garde-Christian-Prouteau-fondateur-et-premier-commandant-du-GIGN-2384030.jpg\" />"
-  },
-  {
-    "id": "58c0554fb14e2a26d2ec0acae046f16c",
-    "source": "BFMTV",
-    "title": "Mobilisation à Nantes: un rassemblement interdit se poursuit dans le centre-ville",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-a-nantes-un-rassemblement-interdit-se-poursuit-dans-le-centre-ville_VN-202611140265.html",
-    "date": "Sat, 14 Nov 2026 14:09:07 GMT",
-    "summary": "Plusieurs mobilisations distinctes sont attendues dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, 50 à 60 cortèges sont attendus.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Kkx9wEdzx_ShAotsqKzguyDy56I=/0x0:1280x720/800x0/images/Mobilisation-a-Nantes-un-rassemblement-interdit-se-poursuit-dans-le-centre-ville-2384025.jpg\" />"
-  },
-  {
-    "id": "002aac7f3d66110b50523e8ffab023f7",
-    "source": "BFMTV",
-    "title": "Émission du 14 novembre 2026",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/check-up-sante/video-emission-du-14-novembre-2026_VN-202611140266.html",
-    "date": "Sat, 14 Nov 2026 14:00:00 GMT",
-    "summary": "Ce samedi 14 novembre, Fabien Guez a reçu Pascale Buchberger, présidente fondatrice de CPartner, Vincent Montet, vice-président de l'ACSEL et directeur programme de l'EFAP, et Laurent Permasse, directeur de Sofinco Éco-Transitions, dans l'émission Check-up Santé sur BFM Business.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MRUb48iNxqPJ24thogHYxu91rww=/0x0:1280x720/800x0/images/Emission-du-14-novembre-2026-2384027.jpg\" />"
+    "title": "Colère sociale: 106.000 personnes ont manifesté en France ce samedi d’après le ministère de l’Intérieur, 200.000 personnes mobilisées selon les syndicats",
+    "link": "https://www.bfmtv.com/societe/manifestations/colere-sociale-106-000-personnes-ont-manifeste-en-france-ce-samedi-d-apres-le-ministere-de-l-interieur-200-000-personnes-mobilisees-selon-les-syndicats_AD-202611140313.html",
+    "date": "Sat, 14 Nov 2026 17:32:21 GMT",
+    "summary": "L'intersyndicale jeune a dénombré de son côté 200.000 manifestants en France, dont 100.000 à Paris ce samedi 14 novembre. Elle avait recensé 250.000 personnes dans la rue dans tout le pays, dont 75.000 dans la capitale samedi dernier. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7-m1AAkPfoAcmrBNgnZcTf6XsJ8=/0x40:768x472/800x0/images/Manifestation-a-Paris-le-14-novembre-2026-2384036.jpg\" />"
   }
 ]
