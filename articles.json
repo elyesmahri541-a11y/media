@@ -80,12 +80,12 @@
     "summary": "Rejeté à l’unanimité à l’Assemblée nationale, le projet de budget 2027 du gouvernement est désormais discuté au Sénat. Il reviendra après le 9 décembre au Palais-Bourbon pour une adoption par voie de 49-3 ou d’ordonnance, non sans risque pour le premier ministre."
   },
   {
-    "id": "d14911f6a46ac4a09989ea78947f875a",
+    "id": "fd4914c400afd5d12f018b0e2f9f5b82",
     "source": "Le Monde",
-    "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
-    "date": "Sat, 14 Nov 2026 17:29:53 +0100",
-    "summary": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore en faveur de moyens supplémentaires dans l’éducation."
+    "title": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
+    "date": "Sun, 15 Nov 2026 00:39:08 +0100",
+    "summary": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la présomption de légitime défense pour les policiers et gendarmes."
   },
   {
     "id": "250f705ed68f267cdce6d2c58ebfedfa",
@@ -104,6 +104,38 @@
     "summary": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste."
   },
   {
+    "id": "feb2941ab9d7cae9a99c4f9149b39197",
+    "source": "Le Monde",
+    "title": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+    "link": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
+    "date": "Sun, 15 Nov 2026 00:49:29 +0100",
+    "summary": "Les envoyés de Donald Trump ont proposé à Kiev une adhésion à l’OTAN en échange de territoires dans le Donbass, ce que l’Ukraine ne prend pas au sérieux, tandis que Vladimir Poutine campe sur ses exigences territoriales."
+  },
+  {
+    "id": "82ed932183bbcfce495c701751cefe5d",
+    "source": "Le Monde",
+    "title": "SpaceX parvient pour la première fois à récupérer l’étage supérieur de sa mégafusée Starship après 14 orbites",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/15/spacex-parvient-a-recuperer-l-etage-superieur-de-sa-megafusee-starship-apres-14-orbites_6810742_1650684.html",
+    "date": "Sun, 15 Nov 2026 01:26:48 +0100",
+    "summary": "Le retour du premier étage du lanceur géant a été avorté pour des raisons inconnues, mais l’étage supérieur a lui été recouvré avec succès samedi 14 novembre, après avoir passé près de vingt-quatre heures en orbite."
+  },
+  {
+    "id": "f99f0d44155b8eaa37bc255937b95900",
+    "source": "Le Monde",
+    "title": "Charlyne, travailleuse du sexe en milieu rural : « Les rares fois où les clients sont venus chez moi, j’ai caché mon nom sur la boîte aux lettres »",
+    "link": "https://www.lemonde.fr/m-perso/article/2026/11/14/charlyne-travailleuse-du-sexe-en-milieu-rural-les-rares-fois-ou-les-clients-sont-venus-chez-moi-j-ai-cache-mon-nom-sur-la-boite-aux-lettres_6809621_4497916.html",
+    "date": "Sat, 14 Nov 2026 05:30:07 +0100",
+    "summary": "Avant de devenir escort, Charlyne, 42 ans, était maroquinière dans un village en Occitanie. Mobilité, isolement, réseaux d’entraide : elle raconte ce qu’implique être une travailleuse du sexe en milieu rural."
+  },
+  {
+    "id": "fba2319173547e4de35f053ddda74fa3",
+    "source": "Le Monde",
+    "title": "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
+    "date": "Sat, 14 Nov 2026 21:05:18 +0100",
+    "summary": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours."
+  },
+  {
     "id": "3e48efa52dd3df768b736a544e6349ab",
     "source": "Le Monde",
     "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
@@ -112,44 +144,20 @@
     "summary": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »"
   },
   {
-    "id": "116c22e4a86c409a18b63df11bcb1e81",
+    "id": "b64596f26d5b6c35b629b989a030c813",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
-    "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
-    "date": "Sat, 14 Nov 2026 20:33:34 +0100",
-    "summary": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une « vulnérabilisation durable » de l’Europe."
-  },
-  {
-    "id": "90c2f38c982f6fb5516d1ca92f6accb4",
-    "source": "Le Monde",
-    "title": "« Je suis retournée au travail du sexe pour payer les factures » : dans les campagnes, une prostitution de la « débrouille » se banalise",
-    "link": "https://www.lemonde.fr/m-perso/article/2026/11/14/je-suis-retournee-au-travail-du-sexe-pour-payer-les-factures-dans-les-campagnes-la-prostitution-de-la-debrouille-gagne-du-terrain_6809693_4497916.html",
-    "date": "Sat, 14 Nov 2026 06:00:42 +0100",
-    "summary": "Si on l’imagine urbaine, la prostitution existe aussi dans les espaces ruraux, démunis en services publics et marqués par un difficile accès à l’emploi. Du Centre-Bretagne au Tarn, des femmes ont recours au travail du sexe pour compléter leurs revenus ou surmonter des accidents de la vie."
+    "title": "Suspension des vols aux Etats-Unis : plus de 17 000 vols annulés vendredi et samedi alors que des perturbations persistent",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
+    "date": "Sat, 14 Nov 2026 16:31:00 +0100",
+    "summary": "Après l’annulation de 12 000 vols vendredi, ce sont plus de 5 000 qui ont connu le même sort samedi. Les autorités, qui imputent la panne à des travaux sur des infrastructures vétustes, s’attendent à un retour à la normale d’ici dimanche soir."
   },
   {
     "id": "00bbb0ef1b5b17cde9c15babbbc2a0df",
     "source": "Le Monde",
-    "title": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+    "title": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
     "link": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
     "date": "Sat, 14 Nov 2026 20:33:52 +0100",
     "summary": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
-  },
-  {
-    "id": "b64596f26d5b6c35b629b989a030c813",
-    "source": "Le Monde",
-    "title": "Suspension des vols aux Etats-Unis : plus de 16 000 vols annulés vendredi et samedi alors que des perturbations persistent",
-    "link": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
-    "date": "Sat, 14 Nov 2026 16:31:00 +0100",
-    "summary": "Les autorités américaines de l’aviation avaient interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent progressivement à la normale [samedi] matin » malgré quelques retards persistants, a fait savoir le ministre des transports."
-  },
-  {
-    "id": "fd2ecbfc223a23619282acd97584aba0",
-    "source": "Le Monde",
-    "title": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
-    "date": "Sat, 14 Nov 2026 17:39:10 +0100",
-    "summary": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match."
   },
   {
     "id": "0fb7bd79a0a8d3100f84e1eb7a23580a",
@@ -168,36 +176,28 @@
     "summary": "Depuis la séparation de leurs parents, ils vivent en résidence alternée. Un rythme auquel ils sont attachés, même devenus majeurs… au grand dam de leurs géniteurs. Car la cohabitation à temps partiel avec un jeune adulte qui suit ses propres règles s’avère délicate."
   },
   {
-    "id": "412686943f92573fe148fe190470f762",
+    "id": "85be6ae57bda7698aab83cf0ab90a352",
     "source": "Le Monde",
-    "title": "L’université de Nottingham, symbole extrême de la crise de l’enseignement supérieur britannique, supprime des centaines de postes et ferme des filières",
-    "link": "https://www.lemonde.fr/international/article/2026/11/14/l-universite-de-nottingham-symbole-extreme-de-la-crise-de-l-enseignement-superieur-britannique-supprime-des-centaines-de-postes-et-ferme-des-filieres_6810447_3210.html",
-    "date": "Sat, 14 Nov 2026 17:00:15 +0100",
-    "summary": "L’établissement a engagé un plan de coupes drastiques qui laisse étudiants et enseignants dans l’incertitude. D’autres universités à travers le pays envisagent des réductions d’effectifs alors que près de la moitié d’entre elles sont en crise financière."
+    "title": "Michel Destot, ancien maire PS de Grenoble et député de l’Isère, est mort",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
+    "date": "Sat, 14 Nov 2026 21:53:06 +0100",
+    "summary": "Elu maire en 1995, il a accompli trois mandats, tout en étant député de la troisième circonscription du département de 1988 à 2017 et conseiller général de l’Isère de 1985 à 1995. François Hollande a salué un homme qui « ne tolérait ni le sectarisme, ni la facilité »."
   },
   {
-    "id": "15707e62e4a6c6b36af14ae80781c93e",
+    "id": "1ad8d7c74f09c6aeb878a58f2fcd1255",
     "source": "Le Monde",
-    "title": "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
-    "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/arnaud-viviant-chroniqueur-du-masque-et-la-plume-annonce-quitter-l-emission-de-france-inter_6810280_3236.html",
-    "date": "Sat, 14 Nov 2026 14:04:14 +0100",
-    "summary": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les menaces et insultes envers la productrice de l’émission, Rebecca Manzoni."
+    "title": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+    "link": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+    "date": "Sat, 14 Nov 2026 22:17:50 +0100",
+    "summary": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de 60,8 % sur cette période."
   },
   {
-    "id": "2a0f3618cf69d532e86e2fd9c805d6c4",
+    "id": "fd2ecbfc223a23619282acd97584aba0",
     "source": "Le Monde",
-    "title": "The FinalSlam, un show de catch entre influenceurs qui crispe certains passionnés",
-    "link": "https://www.lemonde.fr/pixels/article/2026/11/14/the-finalslam-un-show-de-catch-entre-influenceurs-qui-crispe-certains-passionnes_6810455_4408996.html",
-    "date": "Sat, 14 Nov 2026 18:00:08 +0100",
-    "summary": "Aidé de catcheurs, le streameur AmineMaTue organise, samedi, à 20 heures, sur Twitch et à la Pléenitude Arena, à Nanterre (Hauts-de-Seine), des combats auxquels prendront part des stars d’Internet comme Squeezie, Inoxtag et Kaatsup."
-  },
-  {
-    "id": "fd6ff2c8a7d31fb3ed30054d91905109",
-    "source": "Le Monde",
-    "title": "La panne du site de fanfictions AO3, victime d’un « incident de sécurité », génère mobilisation et tensions",
-    "link": "https://www.lemonde.fr/pixels/article/2026/11/14/la-panne-du-site-de-fanfictions-ao3-victime-d-un-incident-de-securite-genere-mobilisation-et-tensions_6810449_4408996.html",
-    "date": "Sat, 14 Nov 2026 17:00:21 +0100",
-    "summary": "Le site aux 18 millions de « fanfictions », des déclinaisons littéraires d’œuvres existantes rédigées par des fans, est inaccessible depuis le 29 octobre. En cause, un « incident de sécurité » qui laisse ses utilisateurs désœuvrés et réveille des tensions au sein de cette communauté centrale de la culture Web."
+    "title": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
+    "date": "Sat, 14 Nov 2026 17:39:10 +0100",
+    "summary": "Le XV du Poireau s’est imposé 35-28 face aux All Blacks, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, grâce à cinq essais marqués et une défense acharnée en fin de match."
   },
   {
     "id": "3cf0ca1f941394b328050ffc43820134",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/6782741739_8295987b3f_k_1_-e59ec.jpg?1794501273\" width=\"700\" />\n<p>La surveillance des rejets radioactifs de la centrale nucléaire de Chinon devant la justice. <span class=\"caps\">EDF</span> et le directeur du site seront jugés vendredi 13 novembre à 9 heures au tribunal de police de Tours (Indre-et-Loire), à la suite d'une plainte déposée le 8 janvier par un collectif d'associations. Celui-ci dénonce des défaillances dans le dispositif de mesure de la radioactivité rejetée dans la Loire. <br class=\"autobr\" />\nEn cause : l'emplacement de la station de mesure multiparamètres (<span class=\"caps\">SMP</span>), installée en aval de (…)</p>\n\n            <a href=\"https://reporterre.net/Nucleaire-EDF-juge-pour-une-surveillance-defaillante-des-rejets-a-Chinon?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Nucleaire\" rel=\"tag\">Nucléaire</a>\n            , \n                <a href=\"https://reporterre.net/Justice\" rel=\"tag\">Justice</a>"
   },
   {
-    "id": "4b40a0d613cdb25d8b52b30a3dc04040",
+    "id": "868fadf19c4a92fccd0a7db2e6053abf",
     "source": "BFMTV",
-    "title": "Présidentielle 2027: découvrez notre sondage Elabe /BFMTV / La Tribune Dimanche",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-decouvrez-notre-sondage-elabe-bfmtv-la-tribune-dimanche_VN-202611140354.html",
-    "date": "Sat, 14 Nov 2026 19:54:44 GMT",
-    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/J1N9cWsX0c6BxioWyyQcugim6Zo=/0x0:1280x720/800x0/images/Presidentielle-2027-decouvrez-notre-sondage-Elabe-BFMTV-La-Tribune-Dimanche-2384114.jpg\" />"
+    "title": "Pascal Haté (SMARTANCE) : SMARTANCE, conseil et solutions en IA - 14/11",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-pascal-hate-smartance-smartance-conseil-et-solutions-en-ia-14-11_VN-202611140436.html",
+    "date": "Sat, 14 Nov 2026 23:59:53 GMT",
+    "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 14 novembre, Pascal Haté, président fondateur de SMARTANCE, s'est penché sur les activités principales de son cabinet de conseil spécialisé dans la performance des entreprises, en transformant la complexité de l'IA en création de valeur, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias France. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_ppkzALgCScdD0M1f65mmGCQRjA=/0x0:1280x720/800x0/images/Pascal-Hate-SMARTANCE-SMARTANCE-conseil-et-solutions-en-IA-14-11-2384175.jpg\" />"
   },
   {
-    "id": "0d002b2568f8af57554bacd9d0e0f895",
+    "id": "414528c07bc455f64a53ab222e809912",
     "source": "BFMTV",
-    "title": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"La question, c'est qu'au sein de la gauche, si elle se rassemblait, elle peut gagner\", analyse Alexis Corbière, député L'Après",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-la-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-alexis-corbiere-depute-l-apres_VN-202611140353.html",
-    "date": "Sat, 14 Nov 2026 19:54:18 GMT",
-    "summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aDxGkMD8N9165H-eaJcYzBAUyWI=/0x0:1280x720/800x0/images/Teddy-Riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-La-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-Alexis-Corbiere-depute-L-Apres-2384112.jpg\" />"
+    "title": "Syndicats, lycéens… crise jusqu'à la présidentielle ? - 14/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-syndicats-lyceens-crise-jusqu-a-la-presidentielle-14-11_VN-202611140429.html",
+    "date": "Sat, 14 Nov 2026 23:20:31 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/3W8jb6hdCo3ttqRA18wQLXeamKQ=/0x0:1280x720/800x0/images/Syndicats-lyceens-crise-jusqu-a-la-presidentielle-14-11-2384172.jpg\" />"
   },
   {
-    "id": "49ee2d5747cecee741c23ff49e39f22f",
+    "id": "26e6b42976ae9040058113ac91c32282",
     "source": "BFMTV",
-    "title": "L'ancien maire socialiste de Grenoble et député de l'Isère Michel Destot est mort à l'âge de 80 ans",
-    "link": "https://www.bfmtv.com/politique/l-ancien-maire-socialiste-de-grenoble-et-depute-de-l-isere-michel-destot-est-mort-a-l-age-de-80-ans_AD-202611140351.html",
-    "date": "Sat, 14 Nov 2026 19:52:12 GMT",
-    "summary": "Michel Destot avait été maire de Grenoble entre 1995 et 2014. Il avait également été député de la troisième circonscription du département de l'Isère de 1988 à 2017. François Hollande a salué sur son compte X ce samedi \"un homme qui cherchait à unir autour de grandes causes\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/OY2P8oq02I6-Z3xAvpetEgfYLi4=/0x106:2048x1258/800x0/images/Michel-Destot-a-Grenoble-le-29-avril-2024-2384108.jpg\" />"
+    "title": "Droite et centre : une primaire ou la défaite ? - 14/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-droite-et-centre-une-primaire-ou-la-defaite-14-11_VN-202611140423.html",
+    "date": "Sat, 14 Nov 2026 22:59:41 GMT",
+    "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ydomtWqcLcUHirvg9Ii8gqZZC-4=/0x0:1280x720/800x0/images/Droite-et-centre-une-primaire-ou-la-defaite-14-11-2384170.jpg\" />"
   },
   {
-    "id": "5b792b9c77b0d6d3d69b552a4f955c3c",
+    "id": "2d04a5f2054a0922e0bb76c65296a7b2",
     "source": "BFMTV",
-    "title": "La plateforme Maileva du groupe La Poste victime d'un vol de données touchant 22 millions de personnes",
-    "link": "https://www.bfmtv.com/tech/cybersecurite/la-plateforme-maileva-du-groupe-la-poste-victime-d-un-vol-de-donnees-touchant-22-millions-de-personnes_AD-202611140348.html",
-    "date": "Sat, 14 Nov 2026 19:19:05 GMT",
-    "summary": "La plateforme Maileva a été victime d'une cyberattaque. La filiale du groupe La Poste annonce un vol de données touchant 22 millions de personnes. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/28-e609qP-fAOTHQc1KReDRF0Fs=/0x106:2048x1258/800x0/images/VISUEL-PC-2378611.jpg\" />"
+    "title": "Selon le sondage Elabe pour La Tribune dimanche et BFMTV sur la présidentielle, 55% des interrogés sont certains de leur choix, 45% peuvent changer d'avis",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-selon-le-sondage-elabe-pour-la-tribune-dimanche-et-bfmtv-sur-la-presidentielle-55-des-interroges-sont-certains-de-leur-choix-45-peuvent-changer-d-avis_VN-202611140417.html",
+    "date": "Sat, 14 Nov 2026 22:33:32 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RQcfhDOG0y-G5oC3ECp7iQ149HA=/0x0:1280x720/800x0/images/Selon-le-sondage-Elabe-pour-La-Tribune-dimanche-et-BFMTV-sur-la-presidentielle-55-des-interroges-sont-certains-de-leur-choix-45-peuvent-changer-d-avis-2384166.jpg\" />"
   },
   {
-    "id": "475db1c5e33f96c1170f8efff1d14080",
+    "id": "4884cce4c5183ee6578c659d8a8051bb",
     "source": "BFMTV",
-    "title": "Présidentielle 2027: dans un sondage Elabe / BFMTV / La Tribune Dimanche, Teddy Riner est crédité de 4,5% des intentions de vote",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-dans-un-sondage-elabe-bfmtv-la-tribune-dimanche-teddy-riner-est-credite-de-4-5-des-intentions-de-vote_VN-202611140344.html",
-    "date": "Sat, 14 Nov 2026 19:10:08 GMT",
-    "summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KmULtfgXEdq_aFInY_Oud_CGpYE=/0x0:1280x720/800x0/images/Presidentielle-2027-dans-un-sondage-Elabe-BFMTV-La-Tribune-Dimanche-Teddy-Riner-est-credite-de-4-5-des-intentions-de-vote-2384105.jpg\" />"
+    "title": "Candidature de Teddy Riner: \"On a l'impression qu'il est quand même là téléguidé par une partie du système\", observe Danielle Simonnet, députée L'Après",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-on-a-l-impression-qu-il-est-quand-meme-la-teleguide-par-une-partie-du-systeme-observe-danielle-simonnet-deputee-l-apres_VN-202611140416.html",
+    "date": "Sat, 14 Nov 2026 22:32:22 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5eiGIICzLsBGjxZdhX6jFjjmJpA=/0x0:1280x720/800x0/images/Candidature-de-Teddy-Riner-On-a-l-impression-qu-il-est-quand-meme-la-teleguide-par-une-partie-du-systeme-observe-Danielle-Simonnet-deputee-L-Apres-2384165.jpg\" />"
   },
   {
-    "id": "5a9c5b507f8e551bd5d88bf088686f3d",
+    "id": "39080663bb81bd1e90f219d44fd1f6ff",
     "source": "BFMTV",
-    "title": "Guerre en Ukraine: Emmanuel Macron estime que \"ceux qui veulent rationner\" l'aide à Kiev veulent \"obliger\" les Ukrainiens \"à une paix injuste\"",
-    "link": "https://www.bfmtv.com/politique/elysee/guerre-en-ukraine-emmanuel-macron-estime-que-ceux-qui-veulent-rationner-l-aide-a-kiev-veulent-obliger-les-ukrainiens-a-une-paix-injuste_AD-202611140339.html",
-    "date": "Sat, 14 Nov 2026 19:00:25 GMT",
-    "summary": "Dans un message publié sur son compte X ce samedi 14 novembre, le président de la République estime que \"rationner les moyens de l'Ukraine\" est \"la recette pour la guerre d'après\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg\" />"
+    "title": "Candidature de Teddy Riner: \"Gouverner, ça ne s'improvise pas\", déclare Jordan Bardella, président du RN",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-gouverner-ca-ne-s-improvise-pas-declare-jordan-bardella-president-du-rn_VN-202611140413.html",
+    "date": "Sat, 14 Nov 2026 22:21:57 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Jk0ngk_B0dfLqRLXl5hwjLL1o38=/0x0:1280x720/800x0/images/Candidature-de-Teddy-Riner-Gouverner-ca-ne-s-improvise-pas-declare-Jordan-Bardella-president-du-RN-2384162.jpg\" />"
   },
   {
-    "id": "0a350a13db48a7f09958d6eeb70c111f",
+    "id": "ab37f3955ac00c0b0d859a3c7e65caa8",
     "source": "BFMTV",
-    "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
-    "date": "Sat, 14 Nov 2026 19:00:00 GMT",
-    "summary": "Cinq mois avant le premier tour de l'élection présidentielle, Jean-Luc Mélenchon consolide sa deuxième place derrière Marine Le Pen, d'après le dernier sondage Elabe pour BFMTV et La Tribune dimanche. Teddy Riner, testé dans une des six configurations, est lui crédité de 4,5% des intentions de vote.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1qSrP58K0XMlRX0Q5CzCGXrhSbw=/0x33:2048x1185/800x0/images/Le-leader-de-La-France-insoumise-Jean-Luc-Melenchon-le-14-octobre-2026-a-Paris-2370881.jpg\" />"
+    "title": "Space X: pour la première fois, l'entreprise parvient à rattraper l'étage supérieur de sa mégafusée Starship",
+    "link": "https://www.bfmtv.com/international/video-space-x-pour-la-premiere-fois-l-entreprise-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship_VN-202611140411.html",
+    "date": "Sat, 14 Nov 2026 22:17:04 GMT",
+    "summary": "Après plus de 22 heures de vol, l'entreprise américaine d'Elon Musk, SpaceX a réussi à rattraper l'étage supérieur de sa fusée Starship, une première. L'engin a rejoint la base spatiale au Texas et a été rattrapé par de gigantesques bras métalliques.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eP_rzWMC8-I7Pka0l1oHBOnTwkI=/0x0:1280x720/800x0/images/Space-X-pour-la-premiere-fois-l-entreprise-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-Starship-2384161.jpg\" />"
   },
   {
-    "id": "e68b3c13c6ee504fd1dea5587adf583f",
+    "id": "ef460a24fed59b7b7ca2cf458d8ad0d1",
     "source": "BFMTV",
-    "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Christine Lagarde, David Lisnard... Qui serait le meilleur candidat selon les électeurs de la droite et du centre?",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-christine-lagarde-david-lisnard-qui-serait-le-meilleur-candidat-selon-les-electeurs-de-la-droite-et-du-centre_AN-202611140332.html",
-    "date": "Sat, 14 Nov 2026 19:00:00 GMT",
-    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KWmNebQiUUcsCg64gnhS7mUg-S4=/0x40:768x472/800x0/images/Le-candidat-Horizons-a-la-presidentielle-Edouard-Philippe-a-La-Ciotat-dans-les-Bouches-du-Rhone-le-7-novembre-2026-2382973.jpg\" />"
+    "title": "Pour la première fois, SpaceX parvient à rattraper l'étage supérieur de sa mégafusée Starship",
+    "link": "https://www.bfmtv.com/sciences/pour-la-premiere-fois-space-x-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship_AD-202611140405.html",
+    "date": "Sat, 14 Nov 2026 22:10:42 GMT",
+    "summary": "Après plus de 22 heures de vol, l'entreprise américaine d'Elon Musk, SpaceX a réussi à rattraper l'étage supérieur de sa fusée Starship, une première. L'engin a rejoint la base spatiale au Texas et a été rattrapé par de gigantesques bras métalliques. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/p55VVeETYTcDTfKiHpDpglUCxmY=/0x106:2048x1258/800x0/images/Starship-SpaceX-2384157.jpg\" />"
   },
   {
-    "id": "899929c01a9589daa5120a0356b43f9c",
+    "id": "127b2023cf78c96ef8cf8daa02e4293a",
     "source": "BFMTV",
-    "title": "DIRECT. Colère sociale: 200.000 personnes mobilisées à travers la France selon les syndicats, 106.000 selon les autorités",
-    "link": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-jusqu-60-corteges-attendus-dans-toute-la-france-quelque-70-000-forces-de-l-ordre-mobilises_LN-202611140082.html",
-    "date": "Sat, 14 Nov 2026 04:50:11 GMT",
-    "summary": "Plusieurs mobilisations distinctes avaient lieu dans la capitale ce samedi 14 novembre: une contre le projet de loi sur la présomption d'usage légitime des armes par les forces de l'ordre, une marche internationale contre les violences faites aux enfants ainsi qu'un rassemblement des gilets jaunes pour l'acte V du mouvement contre la vie chère. Au total en France, plus de 60 cortèges ont défilé.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VQ71Jo3NHLra8sYrXPFqzVYUu_I=/0x40:768x472/800x0/images/Manifestation-a-Marseille-le-14-novembre-2026-2384034.jpg\" />"
+    "title": "Espionnage, intelligence artificielle: le séisme Nvidia",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-espionnage-intelligence-artificielle-le-seisme-nvidia_VN-202611140394.html",
+    "date": "Sat, 14 Nov 2026 21:38:32 GMT",
+    "summary": "Quelques heures après que Jensen Huang a été forcé de démissionner de Nvidia, les réactions s'enchaînent. Et pas seulement au sein de l'entreprise, montrant l'influence de Jensen Huang dans le secteur de l'IA et aux États-Unis.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ffX0UTE-9DI_4xlmX6SD4y97XWU=/0x0:1280x720/800x0/images/Espionnage-intelligence-artificielle-le-seisme-Nvidia-2384150.jpg\" />"
   },
   {
-    "id": "9cc3a87794cf1119509693338ba61276",
+    "id": "cf1f9e4461dc34c206d98dc7df9fead3",
     "source": "BFMTV",
-    "title": "Agression d'une de ses équipes sur le terrain le 14 novembre à Lyon: BFMTV porte plainte",
-    "link": "https://www.bfmtv.com/bfmtv-et-vous/making-of/agression-d-une-de-ses-equipes-sur-le-terrain-le-14-novembre-a-lyon-bfmtv-porte-plainte_AN-202611140334.html",
-    "date": "Sat, 14 Nov 2026 18:34:56 GMT",
-    "summary": "Une équipe de BFMTV a été agressée ce samedi 14 novembre à Lyon. Le groupe CMA Média apporte son soutien total à ses rédactions et s’associe au dépôt de plainte de ses journalistes.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/9aycxNOFW1LCGX1B6ETaac6Bhd8=/0x0:2000x1125/800x0/images/Logo-BFMTV-1725586.jpg\" />"
+    "title": "Benjamin Netanyahu plaide pour un gouvernement d'union nationale pour \"garantir la sécurité d'Israël\"",
+    "link": "https://www.bfmtv.com/international/moyen-orient/israel/benjamin-netanyahu-plaide-pour-un-gouvernement-d-union-national-pour-garantir-la-securite-d-israel_AD-202611140390.html",
+    "date": "Sat, 14 Nov 2026 21:20:55 GMT",
+    "summary": "Le Premier ministre sortant israélien persiste dans sa volonté de mettre en place un gouvernement d'unité nationale avec son rival Gadi Eisenkot et ce pour \"garantir la sécurité d'Israël\" face à l'Iran dont il promet d'éliminer la menace. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zLn4J_mHebUMrpGUrgmmG8irSgg=/0x106:2048x1258/800x0/images/Benjamin-Netanyahu-a-Tel-Aviv-le-24-aout-2026-2342052.jpg\" />"
   },
   {
-    "id": "4ab51b540cf3cb78791f57b48b23e4db",
+    "id": "9910f925722cb2567eee4f1e0b3eb496",
     "source": "BFMTV",
-    "title": "Plus de 16.000 vols annulés aux États-Unis depuis vendredi et la suspension des décollages pendant plusieurs heures",
-    "link": "https://www.bfmtv.com/economie/entreprises/transports/plus-de-16-000-vols-annules-aux-etats-unis-depuis-vendredi-et-la-suspension-des-decollages-pendant-plusieurs-heures_AD-202611140331.html",
-    "date": "Sat, 14 Nov 2026 18:29:25 GMT",
-    "summary": "Selon Bryan Bedford, le patron de la FAA, le régulateur américain de l'aviation civile, 12.000 vols prévus vendredi n'ont pas pu être reprogrammés. Entre 4.000 et 5.000 vols prévus ce samedi devraient également être annulés.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l7Dztr2OjTDqkFIeC5-4kYLiOIQ=/0x106:2048x1258/800x0/images/Une-personne-regarde-les-vols-retardes-ou-annules-a-l-aeroport-LaGuardia-de-New-York-le-13-novembre-2026-2384091.jpg\" />"
+    "title": "Résultats Loto FDJ: le tirage du samedi 14 novembre 2026",
+    "link": "https://www.bfmtv.com/loto/resultats-loto-fdj-le-tirage-du-samedi-14-novembre-2026_AN-202611140055.html",
+    "date": "Sat, 14 Nov 2026 21:20:00 GMT",
+    "summary": "Samedi 14 novembre 2026, le troisième tirage du Loto de la semaine a été organisé, après ceux du lundi et du mercredi. Les résultats sont disponibles sur cette page pour que vous puissiez vérifier vos grilles. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jLILeGsU22lAemRjU2ox6ZzNWEE=/6x69:1254x771/800x0/images/Resultats-Loto-du-samedi-1656361.jpg\" />"
   },
   {
-    "id": "b32a2c87186bb1f0b2a6f3bfeef95f39",
+    "id": "804073933b72b3a5815ff33f77a85b16",
     "source": "BFMTV",
-    "title": "\"On dénonce depuis une vingtaine d'années un manque de moyens dans l'Éducation nationale\", rappelle Aurore Metenier, proviseure de lycée et chargée de communication du SNPDEN",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-on-denonce-depuis-une-vingtaine-d-annees-un-manque-de-moyens-dans-l-education-nationale-rappelle-aurore-metenier-proviseure-de-lycee-et-chargee-de-communication-du-snpden_VN-202611140329.html",
-    "date": "Sat, 14 Nov 2026 18:21:54 GMT",
-    "summary": "Plusieurs mobilisations distinctes ont eu lieu dans la capitale ce samedi 14 novembre. Paris, Nantes, Lyon: c'est la fin des manifestations partout en France, émaillées de quelques incidents.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YRNBJXAIPAlSRUbblFO0oEcC2Co=/0x0:1280x720/800x0/images/On-denonce-depuis-une-vingtaine-d-annees-un-manque-de-moyens-dans-l-Education-nationale-rappelle-Aurore-Metenier-proviseure-de-lycee-et-chargee-de-communication-du-SNPDEN-2384095.jpg\" />"
+    "title": "Les \"patrons ont la parole du gouvernement\": en cas de relance salariale, Jean-Pierre Farandou promet de limiter la progression du coût du travail",
+    "link": "https://www.bfmtv.com/politique/gouvernement/les-patrons-ont-la-parole-du-gouvernement-en-cas-de-relance-salariale-jean-pierre-farandou-promet-de-limiter-la-progression-du-cout-du-travail_AD-202611140378.html",
+    "date": "Sat, 14 Nov 2026 20:51:14 GMT",
+    "summary": "À l’issue d'un \"comité de suivi des salaires\", le ministre du Travail, Jean-Pierre Farandou promet aux patrons que la progression du coût du travail sera limitée, si la relance salariale est effective. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jbPfZW3G6-Gd4FewjlJWAqNYoOg=/0x40:768x472/800x0/images/Le-ministre-du-Travail-Jean-Pierre-Farandou-a-Paris-le-14-octobre-2026-2380066.jpg\" />"
   },
   {
-    "id": "34ae0ef2ed491e4cd031979563f45c02",
+    "id": "fbc051ac5973f388bb9c5732fdaa3ea5",
     "source": "BFMTV",
-    "title": "Michael Debaveye (Creaplan Group) : Creaplan Group, société de design - 14/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-michael-debaveye-creaplan-group-creaplan-group-societe-de-design-14-11_VN-202611140325.html",
-    "date": "Sat, 14 Nov 2026 18:11:04 GMT",
-    "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 14 novembre, Michael Debaveye, PDG  de Creaplan Group, est revenu sur la conception de stands d'exposition, d’espaces commerciaux ou la création d'événements corporates qui intègre les dernières tendances, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias France. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nsrcREt9s6ySlicJ9S2KW5tH_hQ=/0x0:1280x720/800x0/images/Michael-Debaveye-Creaplan-Group-Creaplan-Group-societe-de-design-14-11-2384093.jpg\" />"
+    "title": "Teddy Riner, le champion qui bouscule la campagne",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-le-champion-qui-bouscule-la-campagne_VN-202611140376.html",
+    "date": "Sat, 14 Nov 2026 20:37:13 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle. Teddy Riner lui, est crédité de 4,5% des intentions de vote <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ISUVdp5n3e263vqx_dqK7IRdRSI=/0x0:1280x720/800x0/images/Teddy-Riner-le-champion-qui-bouscule-la-campagne-2384133.jpg\" />"
   },
   {
-    "id": "53c260d1ebf335a32a1b4b719885924c",
+    "id": "6e5fa4c7058827eb1af412a713bca603",
     "source": "BFMTV",
-    "title": "Pas-de-Calais: le corps d'un jeune homme retrouvé sur le littoral après une tentative de départ vers l'Angleterre",
-    "link": "https://www.bfmtv.com/grand-littoral/pas-de-calais-le-corps-d-un-jeune-homme-retrouve-sur-le-littoral-apres-une-tentative-de-depart-vers-l-angleterre_AD-202611140321.html",
-    "date": "Sat, 14 Nov 2026 18:01:23 GMT",
-    "summary": "Le corps d’un homme d’une vingtaine d’années a été découvert ce samedi 14 novembre sur la plage de Sainte-Cécile, à Camiers (Pas-de-Calais). Il aurait perdu la vie lors d’une tentative de traversée clandestine de la Manche dans la nuit de vendredi à samedi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/iAxSIDlczup-dN9d_kIQ9b8ysQ8=/0x40:768x472/800x0/images/Des-migrants-s-appretent-a-traverser-la-Manche-sur-un-bateau-pneumatique-depuis-le-Pas-de-Calais-vers-l-Angleterre-le-16-octobre-2021-1165545.jpg\" />"
+    "title": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"Ce qui est très inquiétant au-delà des personnes, c'est surtout que les deux extrêmes sont en train d'arriver au second tour\", déclare Florence Portelli, vice-présidente des LR",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-ce-qui-est-tres-inquietant-au-dela-des-personnes-c-est-surtout-que-les-deux-extremes-sont-en-train-d-arriver-au-second-tour-declare-florence-portelli-vice-presidente-des-lr_VN-202611140375.html",
+    "date": "Sat, 14 Nov 2026 20:36:15 GMT",
+    "summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/lbCH7C_xHIWJS6BnMkCW3P9z94g=/0x0:1280x720/800x0/images/Teddy-Riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-Ce-qui-est-tres-inquietant-au-dela-des-personnes-c-est-surtout-que-les-deux-extremes-sont-en-train-d-arriver-au-second-tour-declare-Florence-Portelli-vice-presidente-des-LR-2384132.jpg\" />"
   },
   {
-    "id": "54d7110048e6d3ff4de89490f7ab8b0f",
+    "id": "465a8536962eef6f854aa1ed2abef976",
     "source": "BFMTV",
-    "title": "Colère sociale: 106.000 personnes ont manifesté en France ce samedi d’après le ministère de l’Intérieur, 200.000 personnes mobilisées selon les syndicats",
-    "link": "https://www.bfmtv.com/societe/manifestations/colere-sociale-106-000-personnes-ont-manifeste-en-france-ce-samedi-d-apres-le-ministere-de-l-interieur-200-000-personnes-mobilisees-selon-les-syndicats_AD-202611140313.html",
-    "date": "Sat, 14 Nov 2026 17:32:21 GMT",
-    "summary": "L'intersyndicale jeune a dénombré de son côté 200.000 manifestants en France, dont 100.000 à Paris ce samedi 14 novembre. Elle avait recensé 250.000 personnes dans la rue dans tout le pays, dont 75.000 dans la capitale samedi dernier. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7-m1AAkPfoAcmrBNgnZcTf6XsJ8=/0x40:768x472/800x0/images/Manifestation-a-Paris-le-14-novembre-2026-2384036.jpg\" />"
+    "title": "Éducation: \"On veut remettre le baccalauréat tel qu'il était avant la réforme Blanquer\", déclare Thomas Ménagé, porte-parole du groupe RN à l'Assemblée nationale",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-on-veut-remettre-le-baccalaureat-tel-qu-il-etait-avant-la-reforme-blanquer-declare-thomas-menage-porte-parole-du-groupe-rn-a-l-assemblee-nationale_VN-202611140374.html",
+    "date": "Sat, 14 Nov 2026 20:34:19 GMT",
+    "summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/kVckoXWnw7JV4CZmAS_uRbuDSEE=/0x0:1280x720/800x0/images/Education-On-veut-remettre-le-baccalaureat-tel-qu-il-etait-avant-la-reforme-Blanquer-declare-Thomas-Menage-porte-parole-du-groupe-RN-a-l-Assemblee-nationale-2384131.jpg\" />"
   }
 ]
