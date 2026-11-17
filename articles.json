@@ -1,5 +1,61 @@
 [
   {
+    "id": "8616c07eb90bd07414ea990bb32fc24c",
+    "source": "Mediapart",
+    "title": "«Les data centers vont nous pourrir la vie»",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/171126/les-data-centers-vont-nous-pourrir-la-vie",
+    "date": "Tue, 17 Nov 2026 18:59:18 +0100",
+    "summary": "La démission, jeudi 12 novembre, du PDG de Nvidia, leader mondial des puces destinées à l’intelligence artificielle, a plongé le secteur dans une période d’incertitude. La bulle de l’intelligence artificielle va-t-elle bientôt éclater?"
+  },
+  {
+    "id": "391cddfc3415b5f667ec15a663fb5d08",
+    "source": "Mediapart",
+    "title": "À Créteil, une manifestation tout en symboles pour «montrer qu’il n’y a pas de retour à la normale»",
+    "link": "https://www.mediapart.fr/journal/france/171126/creteil-une-manifestation-tout-en-symboles-pour-montrer-qu-il-n-y-pas-de-retour-la-normale",
+    "date": "Tue, 17 Nov 2026 18:49:01 +0100",
+    "summary": "Plus de 300 personnes ont défilé dans la préfecture du Val-de-Marne, mardi 17 novembre au matin. Un cortège joyeux et on ne peut plus symbolique, alors que c’est ici, il y a deux mois jour pour jour, que débutait le mouvement de la jeunesse."
+  },
+  {
+    "id": "8a0ef0d54985c54cbee5d64222daab72",
+    "source": "Mediapart",
+    "title": "De la garde à vue au conseil de discipline du lycée, la double peine pour les élèves",
+    "link": "https://www.mediapart.fr/journal/france/171126/de-la-garde-vue-au-conseil-de-discipline-du-lycee-la-double-peine-pour-les-eleves",
+    "date": "Tue, 17 Nov 2026 18:38:28 +0100",
+    "summary": "Depuis le début de la mobilisation lycéenne, l’échange d’informations entre la police, la justice et l’Éducation nationale s’est intensifié comme jamais, piétinant le secret de l’enquête. Dans les Alpes-Maritimes, les proviseurs ont directement reçu la liste des élèves à convoquer."
+  },
+  {
+    "id": "5328743441b9d9cb02ca70f88bd3413d",
+    "source": "Mediapart",
+    "title": "Liberté de la presse: les indignations sélectives de Yaël Braun-Pivet",
+    "link": "https://www.mediapart.fr/journal/politique/171126/liberte-de-la-presse-les-indignations-selectives-de-yael-braun-pivet",
+    "date": "Tue, 17 Nov 2026 18:30:16 +0100",
+    "summary": "Muette sur les menaces proférées par Marine Le Pen contre «Mediapart» en plein Palais-Bourbon, la présidente de l’Assemblée nationale est montée au créneau pour défendre CNews, victime d’une main placée devant un de ses micros par une députée. Un signe de plus de la mansuétude dont elle fait régulièrement preuve vis-à-vis de l’extrême droite."
+  },
+  {
+    "id": "f84b8937d709a426c2a504103889cc61",
+    "source": "Mediapart",
+    "title": "Un chasseur condamné pour avoir tiré sur un bar de nuit, le motif raciste écarté par la justice",
+    "link": "https://www.mediapart.fr/journal/france/171126/un-chasseur-condamne-pour-avoir-tire-sur-un-bar-de-nuit-le-motif-raciste-ecarte-par-la-justice",
+    "date": "Tue, 17 Nov 2026 14:07:55 +0100",
+    "summary": "Samedi 14 novembre au matin, un homme a tiré à l’arme à feu sur un club à Troyes. Au moins un témoin dit l’avoir entendu crier une injure raciste. Si le tireur a été condamné lundi à trente mois de prison et au retrait de son permis de chasse, la justice n’a pas retenu le caractère raciste."
+  },
+  {
+    "id": "6fd157e3d5106ae622e0ff1f39349254",
+    "source": "Mediapart",
+    "title": "Comment le Parti communiste chinois resserre son contrôle sur la société",
+    "link": "https://www.mediapart.fr/journal/international/171126/comment-le-parti-communiste-chinois-resserre-son-controle-sur-la-societe",
+    "date": "Tue, 17 Nov 2026 13:09:18 +0100",
+    "summary": "Actif sur la scène internationale, le président Xi Jinping n’en continue pas moins d’approfondir son pouvoir à l’intérieur des frontières de la Chine. Une vaste restructuration de la gouvernance de l’État-Parti s’accompagne d’un encadrement politique plus fin de la population."
+  },
+  {
+    "id": "657b076818099cbaaf3327d4e91fd401",
+    "source": "Mediapart",
+    "title": "Propos racistes de policiers municipaux à Carcassonne: les résultats d’une enquête bâclée",
+    "link": "https://www.mediapart.fr/journal/france/171126/propos-racistes-de-policiers-municipaux-carcassonne-les-resultats-d-une-enquete-baclee",
+    "date": "Tue, 17 Nov 2026 12:16:40 +0100",
+    "summary": "«Mediapart» s’est procuré le rapport commandé par la ville de Carcassonne après la découverte de propos tenus par ses agents. Loin de prendre la mesure de l’affaire qui allait scandaliser le pays, le document n’établissait aucune responsabilité, permettant ainsi au maire d’enterrer l’histoire."
+  },
+  {
     "id": "67c686e5fab1885e80ce66d0269043fe",
     "source": "Mediapart",
     "title": "«C’est incroyable de devoir se justifier des années après»: à son procès, Pierre Ménès se pose en «tête de Turc» de #MeToo",
@@ -8,321 +64,321 @@
     "summary": "Jugé lundi pour violences sexuelles et harcèlement moral à l’égard d’une habilleuse et de deux journalistes, l’ancien consultant sportif de Canal+ s’est enfoncé dans une défense agressive. Deux ans de prison, dont un ferme, et 20 000 euros d’amende ont été requis."
   },
   {
-    "id": "bbe33d7fd6e1a51442200bda6323374b",
+    "id": "94a712ec8caaba7d23d8672507405d70",
     "source": "Mediapart",
-    "title": "Manifestations du 17 novembre: suivez la journée en direct",
-    "link": "https://www.mediapart.fr/journal/france/171126/manifestations-du-17-novembre-suivez-la-journee-en-direct",
+    "title": "Manifestations du 17 novembre: entre 146 000 et 500 000 personnes ont défilé en France",
+    "link": "https://www.mediapart.fr/journal/france/171126/manifestations-du-17-novembre-entre-146-000-et-500-000-personnes-ont-defile-en-france",
     "date": "Tue, 17 Nov 2026 09:42:04 +0100",
-    "summary": "De nombreux syndicats, de la fonction publique aux organisations de jeunesse, appellent de nouveau à une mobilisation massive mardi 17 novembre. Suivez avec «Mediapart» le live de la journée dans plusieurs villes de France."
+    "summary": "De nombreux syndicats, de la fonction publique aux organisations de jeunesse, appellaient de nouveau à la mobilisation massive mardi 17 novembre. Retrouvez notre live de la journée dans plusieurs villes de France."
   },
   {
-    "id": "252421dd16e790494a2b3159c1a60ee2",
+    "id": "3f499ca6131463b42e045800ecd68493",
     "source": "Mediapart",
     "title": "Présidentielle: aux Restos du cœur, les candidats confrontés à leurs engagements contre la pauvreté",
-    "link": "https://www.mediapart.fr/journal/politique/171126/presidentielle-aux-restos-du-coeur-les-candidats-confrontes-leurs-engagements-contre-la-pauvrete",
+    "link": "https://www.mediapart.fr/journal/france/171126/presidentielle-aux-restos-du-coeur-les-candidats-confrontes-leurs-engagements-contre-la-pauvrete",
     "date": "Tue, 17 Nov 2026 09:40:08 +0100",
     "summary": "À l’occasion d’un débat organisé dans un entrepôt des Restos du cœur, Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont confronté leurs visions antagonistes de la solidarité. La candidate du RN s’en est prise violemment à la Ligue des droits humains."
   },
   {
-    "id": "bde98e3493ce7b24a2425b59b3e87789",
-    "source": "Mediapart",
-    "title": "Même dans l’opposition, le RN de la région Grand Est en croisade contre la liberté d’expression",
-    "link": "https://www.mediapart.fr/journal/politique/171126/meme-dans-l-opposition-le-rn-de-la-region-grand-est-en-croisade-contre-la-liberte-d-expression",
-    "date": "Tue, 17 Nov 2026 07:15:15 +0100",
-    "summary": "Dans l’opposition au conseil régional du Grand Est, le Rassemblement national mène une politique de censure contre certains artistes qu’il juge «politisés». À plusieurs reprises, la majorité de droite a cédé à ces attaques contre la liberté d’expression et de création."
-  },
-  {
-    "id": "f6c18c5ab79053d65591295adb0e4cd6",
-    "source": "Mediapart",
-    "title": "«Le patrimoine immobilier est un enjeu fondamental des inégalités sociales contemporaines»",
-    "link": "https://www.mediapart.fr/journal/economie-et-social/171126/le-patrimoine-immobilier-est-un-enjeu-fondamental-des-inegalites-sociales-contemporaines",
-    "date": "Tue, 17 Nov 2026 07:10:49 +0100",
-    "summary": "Alors qu’arrive à l’Assemblée nationale le projet de loi de «relance du logement», l’hyperconcentration de la propriété reste un angle mort des discours publics. Entretien avec la sociologue Cécile Vignal, autrice de «À qui appartient la ville?»,\" \"qui vient de paraître aux PUF."
-  },
-  {
-    "id": "f8502429ad73df5ad562c1920523b30e",
-    "source": "Mediapart",
-    "title": "Cinq pays européens pourraient envoyer des exilés au Rwanda: toujours plus loin dans le cynisme",
-    "link": "https://www.mediapart.fr/journal/international/161126/cinq-pays-europeens-pourraient-envoyer-des-exiles-au-rwanda-toujours-plus-loin-dans-le-cynisme",
-    "date": "Mon, 16 Nov 2026 18:47:36 +0100",
-    "summary": "Un accord a été annoncé lundi 16 novembre entre le Rwanda et l’Allemagne, l’Autriche, les Pays-Bas, le Danemark et la Grèce. Alors que les modalités des expulsions qu’il prévoit ne sont pas encore connues, la démarche montre la volonté d’«affichage» en matière de migrations."
-  },
-  {
-    "id": "4d1058aac863279b22c92eb85c5cb99b",
-    "source": "Mediapart",
-    "title": "Dans le Val-d’Oise, la préfecture s’acharne sur les jeunes majeurs étrangers",
-    "link": "https://www.mediapart.fr/journal/france/161126/dans-le-val-d-oise-la-prefecture-s-acharne-sur-les-jeunes-majeurs-etrangers",
-    "date": "Mon, 16 Nov 2026 18:47:15 +0100",
-    "summary": "Pris en charge par l’aide sociale à l’enfance alors qu’ils étaient mineurs, de jeunes exilés peinent à obtenir un droit au séjour une fois leur majorité atteinte, voyant leur demande quasi systématiquement rejetée. Tous les acteurs locaux y voient une situation insensée ainsi qu’un gâchis humain et financier."
-  },
-  {
-    "id": "27990287a9cb8aa450bb9a48402c7fda",
-    "source": "Mediapart",
-    "title": "Aliağa, cimetière des navires européens et des ouvriers turcs",
-    "link": "https://www.mediapart.fr/journal/international/161126/aliaga-cimetiere-des-navires-europeens-et-des-ouvriers-turcs",
-    "date": "Mon, 16 Nov 2026 18:45:35 +0100",
-    "summary": "Au bord de la mer Égée, Aliağa est devenue la capitale méditerranéenne du démantèlement des bateaux en fin de vie. Sans plus de précautions pour l’environnement que pour la santé des travailleurs."
-  },
-  {
-    "id": "d8fc978d5efabd5aad89bdee0bd1c322",
-    "source": "Mediapart",
-    "title": "À la COP31, des négociations climatiques à la peine",
-    "link": "https://www.mediapart.fr/journal/ecologie/161126/la-cop31-des-negociations-climatiques-la-peine",
-    "date": "Mon, 16 Nov 2026 18:44:47 +0100",
-    "summary": "En ce début de deuxième semaine du sommet onusien d’Antalya en Turquie, de profondes divergences subsistent entre les États autour de la finance climatique et d’un possible accord diplomatique sur un objectif mondial d’électrification."
-  },
-  {
-    "id": "00361b7d6358ff0d634ec8d7b08901e5",
-    "source": "Mediapart",
-    "title": "Soldats français en Ukraine: l’exécutif continue de contourner le Parlement",
-    "link": "https://www.mediapart.fr/journal/international/161126/soldats-francais-en-ukraine-l-executif-continue-de-contourner-le-parlement",
-    "date": "Mon, 16 Nov 2026 18:43:42 +0100",
-    "summary": "Des militaires français sont en Ukraine depuis «au moins l’été 2026» pour donner des formations et participer à l’entretien de matériels livrés par la France, selon Radio France internationale. Comme par le passé, le Parlement n’a pas été informé de cette intervention à l’étranger."
-  },
-  {
-    "id": "8450b50dc8f17e08802a324ea74028b1",
+    "id": "f299d9475988021a8525d9ab9563e1cb",
     "source": "Le Monde",
-    "title": "EN DIRECT, grève du 17 novembre : suivez la journée avec nos envoyés spéciaux à Paris, Marseille, Lyon, Toulouse, en Bretagne et dans le Nord",
-    "link": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html",
-    "date": "Tue, 17 Nov 2026 10:16:08 +0100",
-    "summary": "L’ensemble des organisations syndicales dans la fonction publique appellent à se mobiliser ce mardi pour exiger des augmentations immédiates de salaires. Nos correspondants sont sur place dans toute la France."
+    "title": "EN DIRECT, manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France contre la vie chère",
+    "link": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html",
+    "date": "Tue, 17 Nov 2026 17:28:59 +0100",
+    "summary": "A Paris, le cortège qui a relié la place de la Nation à la place d’Italie a réuni 28 000 personnes, mardi, selon la Préfecture de police, et 175 000, selon la CGT."
   },
   {
-    "id": "59fd1f1101f981278548ef6a23134920",
+    "id": "45666e85800e5faa8652133bf8d9ae4d",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : une enquête pénale ouverte en Russie après le bombardement du pont de Crimée ; deux ponts majeurs de Kiev fermés à la suite de frappes russes",
-    "link": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-une-enquete-penale-ouverte-en-russie-apres-le-bombardement-du-pont-de-crimee-deux-ponts-majeurs-de-kiev-fermes-apres-des-frappes-russes_6810982_3210.html",
-    "date": "Tue, 17 Nov 2026 10:06:32 +0100",
-    "summary": "Le Comité d’enquête de la Fédération de Russie a annoncé l’ouverture d’une procédure pénale pour « acte de terrorisme en raison des attaques des forces armées ukrainiennes contre le pont de Crimée ». Les ponts Sud et Nord de la capitale ukrainienne ont été fermés à la circulation, ce matin, après avoir été touchés par des bombardements russes dans la nuit."
+    "title": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
+    "date": "Tue, 17 Nov 2026 19:00:02 +0100",
+    "summary": "Des drones et des missiles ont ciblé le 17 novembre l’une des deux arches de cette mégastructure de 19 kilomètres, qui s’est effondrée dans les eaux du détroit de Kertch. Vital pour la péninsule ukrainienne, cet ouvrage inauguré en 2018 se veut aussi un symbole politique fort pour le Kremlin."
   },
   {
-    "id": "7a1d31b93905f731abe2bdaa00d33853",
+    "id": "6574ca4234c658f9ccd61d9e9ea68ae3",
     "source": "Le Monde",
-    "title": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-secrets-inavouables-du-geant-bancaire-reveles-par-15-millions-de-documents-confidentiels_6812911_4355770.html",
-    "date": "Tue, 17 Nov 2026 06:58:02 +0100",
-    "summary": "Des oligarques russes sous sanctions à Jeffrey Epstein, en passant par la vente d’armes et le blanchiment d’argent, une enquête internationale démontre que la banque allemande a sciemment ignoré ses propres dispositifs d’alerte pour préserver des marchés ultra-lucratifs."
+    "title": "« Inside Deutsche Bank » : les documents secrets qui lient Donald Trump à l’argent sale azerbaïdjanais",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-documents-secrets-qui-lient-donald-trump-a-l-argent-sale-azerbaidjanais_6812989_4355770.html",
+    "date": "Tue, 17 Nov 2026 16:00:03 +0100",
+    "summary": "Pour la première fois, les révélations d’une enquête internationale permettent d’établir un lien formel et direct entre le président américain et l’argent sale azerbaïdjanais."
   },
   {
-    "id": "b2500118446e64f9652fe7c01c334512",
+    "id": "fdf5b40c4f63d5bf76f195284207494f",
     "source": "Le Monde",
-    "title": "Les journalistes qui suivent l’Elysée demandent le « respect » de leur métier au prochain président",
-    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/les-journalistes-qui-suivent-l-elysee-demandent-le-respect-de-leur-metier-au-prochain-president_6812927_6205049.html",
-    "date": "Tue, 17 Nov 2026 09:10:10 +0100",
-    "summary": "« Comment les journalistes politiques vont-ils pouvoir travailler à partir de mai 2027 ? Auront-ils toujours accès à l’Elysée ? », questionne l’Association de la presse présidentielle."
+    "title": "En Israël, la police et le renseignement intérieur accusés d’avoir servi le clan Nétanyahou pour contester les résultats des législatives",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/en-israel-la-police-et-le-renseignement-interieur-accuses-d-avoir-servi-le-clan-netanyahou-pour-contester-les-resultats-des-legislatives_6813031_3210.html",
+    "date": "Tue, 17 Nov 2026 19:30:04 +0100",
+    "summary": "Trois semaines après les législatives, aucun élément concret ne vient étayer les accusations de « fraude massive » portées par le premier ministre, Benyamin Nétanyahou, et relayées par la police et le Shin Bet à l’encontre des listes arabes. Ces allégations avaient conduit à des perquisitions et des placements en garde à vue."
   },
   {
-    "id": "6cc355ed3383dae49b1568766502224a",
+    "id": "059b316d25661b139df2d8d074f42cf9",
     "source": "Le Monde",
-    "title": "Comment on a renaturé une friche polluée en créant des emplois",
-    "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/17/comment-on-a-renature-une-friche-polluee-en-creant-des-emplois_6812898_6125299.html",
-    "date": "Tue, 17 Nov 2026 05:45:02 +0100",
-    "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. A l’Ile-Saint-Denis (Seine-Saint-Denis), un ancien site industriel accueille une ferme florale, des salariés en insertion et des scientifiques."
+    "title": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html",
+    "date": "Tue, 17 Nov 2026 17:58:45 +0100",
+    "summary": "Un « catalogue de contradictions », selon Bruno Retailleau (LR), une réforme « mensongère, coûteuse et antisociale », selon Edouard Philippe (Horizons)… le projet de réforme des retraites présenté par Marine Le Pen, mardi, a immédiatement fait réagir sur tout le spectre politique."
   },
   {
-    "id": "4738bcb6da86663fad6eef1b3e2a4c6e",
+    "id": "08c74f715fe12303053733edec2a315f",
     "source": "Le Monde",
-    "title": "L’utilisation de l’IA a fait disparaître 100 000 offres d’emploi en 2026, et cela ne concerne pas forcément que les débutants, selon une étude",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/17/l-essor-de-l-ia-ralentit-les-recrutements-des-metiers-les-plus-automatisables-au-dela-des-postes-juniors_6812918_3234.html",
-    "date": "Tue, 17 Nov 2026 07:30:09 +0100",
-    "summary": "Le Coface et l’Observatoire des emplois menacés et émergents montre que le déploiement de l’intelligence artificielle dans les entreprises ne se traduit pas encore par des licenciements dans les métiers les plus facilement automatisables mais contribue à raréfier les offres d’emploi."
+    "title": "« Les Empêchés » fait le récit intime et politique d’un couple face au handicap",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/17/les-empeches-fait-le-recit-intime-et-politique-d-un-couple-face-au-handicap_6813032_3232.html",
+    "date": "Tue, 17 Nov 2026 19:30:06 +0100",
+    "summary": "Lamia El Aaraje, première adjointe à la Mairie de Paris, et son mari, Julien Parelon, racontent dans un récit à deux voies l’irruption de la maladie de Charcot dans leurs vies, et les nombreux obstacles médicaux, matériels ou administratifs érigés par la société, que même une responsable politique peine à franchir."
   },
   {
-    "id": "fce0c65f8ab35b63ee2266b24ef06c5e",
+    "id": "c5c18266bbc73ec8a09bf115b76213a7",
     "source": "Le Monde",
-    "title": "PFAS : comment le lobby des fluoropolymères manœuvre pour sauver ses polluants éternels d’une interdiction européenne",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html",
-    "date": "Tue, 17 Nov 2026 05:30:03 +0100",
-    "summary": "Dans un rapport publié mardi 17 novembre, Corporate Europe Observatory s’inquiète des reculs de la Commission européenne sur le projet de restriction universelle des PFAS, les polluants éternels. L’organisation non gouvernementale détaille l’offensive du lobby des fluoropolymères pour obtenir une exemption totale."
+    "title": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html",
+    "date": "Tue, 17 Nov 2026 19:02:40 +0100",
+    "summary": "Cinq écoles du 14ᵉ arrondissement pourraient être fermées à cause de la baisse démographique et des finances exsangues de la Ville de Paris face aux besoins de rénovation du bâti. Une méthode bientôt étendue à toute la capitale."
   },
   {
-    "id": "3feeacfc559d584eb7b3b05820d1dfdb",
+    "id": "6163044d42e0dcdadb5b5eb85e36fa6a",
     "source": "Le Monde",
-    "title": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
-    "link": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
-    "date": "Tue, 17 Nov 2026 04:30:05 +0100",
-    "summary": "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche."
+    "title": "Pluie et inondations : le Pas-de-Calais et la Somme placés en vigilance orange mardi à partir de 23 heures",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/17/pluie-et-inondations-le-pas-de-calais-et-la-somme-places-en-vigilance-orange-mardi-a-partir-de-23-heures_6813028_3244.html",
+    "date": "Tue, 17 Nov 2026 19:07:52 +0100",
+    "summary": "Plusieurs liaisons ferroviaires sont interrompues dans les Hauts-de-France depuis mardi matin et jusqu’à mercredi midi en raison de vents violents."
   },
   {
-    "id": "9b70a0dad69acd81e4230affbf27e147",
+    "id": "6cfc2b89650fbd4aa337d117b80fa836",
     "source": "Le Monde",
-    "title": "Olala, le premier modèle d’IA de l’entreprise française OVHcloud",
-    "link": "https://www.lemonde.fr/pixels/article/2026/11/17/l-entreprise-francaise-ovhcloud-devoile-son-premier-modele-d-ia-baptise-olala_6812932_4408996.html",
-    "date": "Tue, 17 Nov 2026 10:12:33 +0100",
-    "summary": "OVHcloud va devoir trouver sa place au sein d’un écosystème dominé par des géants américains, talonnés par un florilège d’entreprises chinoises proposant des IA ouvertes à bas coûts."
+    "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
+    "date": "Tue, 17 Nov 2026 17:58:59 +0100",
+    "summary": "Le Mexique et la Bolivie ont subi le même sort, un an après que le Canada a déjà perdu ce statut en raison d’une épidémie persistante de rougeole."
   },
   {
-    "id": "cb3c10b2f5755e01fe874ca25bfe5699",
+    "id": "9231b9e6375cc3ee6351f1043c6a5db1",
     "source": "Le Monde",
-    "title": "A la COP31, un premier projet de « décision finale » témoigne de l’ampleur des désaccords entre les pays",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/17/a-la-cop31-un-premier-projet-de-decision-finale-temoigne-de-l-ampleur-des-desaccords-entre-les-pays_6812908_3244.html",
-    "date": "Tue, 17 Nov 2026 06:30:08 +0100",
-    "summary": "Les ministres de nombreux Etats, arrivés en Turquie pour la deuxième semaine de la conférence mondiale sur le climat, doivent permettre de faire avancer les négociations."
+    "title": "En Belgique, une œuvre représentant un cochon au volant d’une fourgonnette de police fait polémique",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/en-belgique-une-uvre-representant-un-cochon-au-volant-d-une-fourgonnette-de-police-fait-polemique_6813022_3210.html",
+    "date": "Tue, 17 Nov 2026 18:45:07 +0100",
+    "summary": "Alors qu’à Bruxelles les étudiants manifestent à nouveau le mardi 17 novembre, une pièce exposée au musée municipal de Gand représentant un porc aux manettes d’un véhicule de patrouille déclenche une bataille politique."
   },
   {
-    "id": "981779f374b1679f1dc0f24b1d4bb4bc",
+    "id": "fc363b75deb093f823355beed811d54b",
     "source": "Le Monde",
-    "title": "Le pape Léon XIV rassure sur son état de santé, à l’issue de son périple latino-américain",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/le-pape-leon-xiv-rassure-sur-son-etat-de-sante-a-l-issue-de-son-periple-latino-americain_6812936_3210.html",
-    "date": "Tue, 17 Nov 2026 10:34:56 +0100",
-    "summary": "Dans l’avion qui le ramenait d’Amérique latine, après un périple éprouvant d’une dizaine de jours entre l’Uruguay, l’Argentine et le Pérou, lundi 16 novembre, Léon XIV a parlé de son « endurance » mais a admis « ne pas être à 100 % »."
+    "title": "Nicolas Thierry récompensé par le prix Earthshot pour son combat contre les PFAS en France",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/17/nicolas-thierry-recompense-par-le-prix-earthshot-pour-son-combat-contre-les-pfas-en-france_6813033_3244.html",
+    "date": "Tue, 17 Nov 2026 19:45:26 +0100",
+    "summary": "Fils et petit-fils de viticulteurs, l’élu de Gironde a fait de la lutte contre la pollution chimique le fil conducteur de son engagement. Sa campagne contre les PFAS a abouti en 2025 à une loi restreignant leur utilisation."
   },
   {
-    "id": "8504d2106e5feac72d8e772b93489c35",
+    "id": "317af58974f2fd43644b94019af8bebb",
     "source": "Le Monde",
-    "title": "Au procès de l’interpellation violente de Michel Zecler par des policiers : « Les vidéos parlent d’elles-mêmes, c’est impardonnable, ce n’est même pas de l’amateurisme »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-les-videos-parlent-d-elles-memes-c-est-impardonnable-ce-n-est-meme-pas-de-l-amateurisme_6812689_3224.html",
-    "date": "Tue, 17 Nov 2026 00:36:06 +0100",
-    "summary": "Trois agents sont jugés pour avoir roué de coups le producteur de musique, à Paris, en 2020, et pour « faux en écriture publique ». Sept fonctionnaires de police, appelés en renfort par les accusés ce soir-là, ont livré leur témoignage."
+    "title": "Le directeur de la prison d’Aix-Luynes en garde à vue pour détention d’images pédocriminelles",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/17/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedocriminelles_6812999_3224.html",
+    "date": "Tue, 17 Nov 2026 16:50:41 +0100",
+    "summary": "Le ministère de la justice a suspendu le fonctionnaire « à titre conservatoire » et annonce une procédure de révocation « si les faits sont avérés »."
   },
   {
-    "id": "6879f20240e1e6a32cfac519b1234830",
+    "id": "b82235d7f7529feba16dd9902ea24958",
     "source": "Le Monde",
-    "title": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
-    "date": "Tue, 17 Nov 2026 08:39:25 +0100",
-    "summary": "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025. Habitués des tribunes du Stade brestois, les prévenus nient la motivation politique de l’agression, qui « ne fait aucun doute », selon la procureure."
+    "title": "Masculinisme : 34 membres d’une chaîne Telegram baptisée « Femmeblancherie » devant la justice pour leurs propos haineux",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/17/masculinisme-34-membres-d-une-chaine-telegram-baptisee-femmeblancherie-devant-la-justice-pour-leurs-propos-haineux_6813009_3224.html",
+    "date": "Tue, 17 Nov 2026 17:30:12 +0100",
+    "summary": "Prévus en plusieurs sessions, les procès de ces hommes s’ouvrent mercredi 18 novembre au tribunal correctionnel de Paris. Ils comparaissent pour une multiplicité de délits : injures contre les femmes, appels au meurtre et au viol, mais aussi diatribes racistes et antisémites."
   },
   {
-    "id": "f0d1c3ac17280f3428251ef44f0f84aa",
+    "id": "d20c515c7c093d41c7bb055a17bef4ca",
     "source": "Le Monde",
-    "title": "Budget 2027 : le Sénat et le gouvernement à la recherche d’un compromis sur la mise à contribution des retraités",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/17/budget-2027-le-senat-et-le-gouvernement-a-la-recherche-d-un-compromis-sur-la-mise-a-contribution-des-retraites_6812925_823448.html",
-    "date": "Tue, 17 Nov 2026 08:48:03 +0100",
-    "summary": "Lundi, les élus du Palais du Luxembourg ont supprimé l’article du PLFSS qui freine la revalorisation des pensions. Pour compenser les économies perdues du fait de ce vote, la droite et le centre droit proposent de mettre fin à une niche fiscale. L’exécutif s’est déclaré ouvert à ce scénario."
+    "title": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
+    "date": "Tue, 17 Nov 2026 18:42:16 +0100",
+    "summary": "Le cofondateur de la multinationale américaine des semi-conducteurs a aussi déclaré, sur X, se tenir prêt à revenir à la tête de l’entreprise si son conseil d’administration le décidait. Il a démissionné le 12 novembre après la révélation de sa liaison avec Alice Huang, une femme d’affaires chinoise."
   },
   {
-    "id": "b8221a69fd05bf19f521154d6fd7744d",
+    "id": "c6c6217350099749ba42907a6198fe1d",
     "source": "Le Monde",
-    "title": "En Corse, la préfecture dénonce un « attentat » contre l’agence régionale de santé de Bastia",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/17/en-corse-la-prefecture-denonce-un-attentat-contre-l-agence-regionale-de-sante-de-bastia_6812940_3224.html",
-    "date": "Tue, 17 Nov 2026 10:46:12 +0100",
-    "summary": "Une enquête a été ouverte du chef de destruction par un moyen dangereux, confiée aux services de DIPN de Haute-Corse."
+    "title": "L’arrêt très attendu de la Cour internationale de justice sur la question du génocide des Rohingya",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
+    "date": "Tue, 17 Nov 2026 18:15:07 +0100",
+    "summary": "La CIJ dira, jeudi 19 novembre, si la Birmanie a commis un génocide contre la minorité musulmane. Alors que la décision devrait préciser les contours de la définition juridique du génocide, les tentatives américaines d’intimidation contre ses juges se multiplient."
   },
   {
-    "id": "1a7ab331c06e0f2343798608ff16e03e",
+    "id": "ec15339f4d18301adce651b389e1226a",
     "source": "Libération",
-    "title": "«America is back», clame une délégation démocrate à la COP31, venue montrer son engagement pour le climat",
-    "link": "https://www.liberation.fr/environnement/climat/america-is-back-clame-une-delegation-democrate-a-la-cop31-venue-montrer-son-engagement-pour-le-climat-20261117_G2KYW2LFL5B2NFVDVRWYZZZ7XE/",
-    "date": "Tue, 17 Nov 2026 09:48:38 +0000",
-    "summary": "Des maires, députés et gouverneurs américains, exaltés par la vague bleue des Midterms, ont fait le déplacement à Antalya, où se tient le sommet onusien annuel sur le climat jusqu’au 20 novembre, sans pouvoir participer aux négociations officielles."
-  },
-  {
-    "id": "3b504547f817aa2be8403906ce7be279",
-    "source": "Libération",
-    "title": "«Octopussy» d’Agnieszka Szpila : portrait de toutes les filles en feu",
-    "link": "https://www.liberation.fr/culture/livres/octopussy-dagnieszka-szpila-portrait-de-toutes-les-filles-en-feu-20261117_LIXKPGK7YFFGDJV36ABTPI7XQ4/",
-    "date": "Tue, 17 Nov 2026 09:38:00 +0000",
-    "summary": "L’autrice écoféministe fait, dans un recueil de cinq nouvelles, l’éloge d’héroïnes métamorpheset fantasmées, révolutionnant leur monde ensemble."
-  },
-  {
-    "id": "2ad850be2c8c379326886ae1a1c0cada",
-    "source": "Libération",
-    "title": "Etats-Unis : la vague bleue pourrait faire d’Hakeem Jeffries le premier président noir de la Chambre des représentants",
-    "link": "https://www.liberation.fr/international/amerique/etats-unis-la-vague-bleue-pourrait-faire-dhakeem-jeffries-le-premier-president-noir-de-la-chambre-des-representants-20261117_XI2HA74QMZEOJOLVKIYOQJ5UHU/",
-    "date": "Tue, 17 Nov 2026 09:26:56 +0000",
-    "summary": "Après la victoire des démocrates aux élections de mi-mandat le 3 novembre, l’élu de l’Etat de New York, 56 ans, est le grand favori au poste de «speaker» mercredi 18 novembre 2026 malgré des dissensions avec l’aile gauche du parti."
-  },
-  {
-    "id": "29b1348425d8b0dbd21992b79afb7d7a",
-    "source": "Libération",
-    "title": "Un dîner chez Drouant ce mardi entre Jean-Luc Mélenchon, Bernard Arnault et Patrick Pouyanné",
-    "link": "https://www.liberation.fr/politique/un-diner-chez-drouant-ce-mardi-entre-jean-luc-melenchon-bernard-arnault-et-patrick-pouyanne-20261117_HKHJG34XLZFVXCQJIBE7THWFQQ/",
-    "date": "Tue, 17 Nov 2026 09:11:57 +0000",
-    "summary": "Le candidat insoumis a répondu favorablement à l’invitation du groupe Entreprise & Cité, une association de très grands patrons dont ceux de LVMH et TotalEnergies, qui reçoit dans le prestigieux restaurant parisien les prétendants à l’Elysée. Marine Le Pen était leur hôte en avril."
+    "title": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole",
+    "link": "https://www.liberation.fr/international/amerique/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-20261117_NOO3PV3TINFC3MY5MVWJ6MAZ4U/",
+    "date": "Tue, 17 Nov 2026 18:46:16 +0000",
+    "summary": "En raison d’une couverture vaccinale en baisse et de la défiance de l’administration Trump envers les injections, le pays fait aujourd’hui face à sa pire épidémie en trois décennies. Depuis le début de l’année, 12 personnes sont mortes, dont de très jeunes enfants."
   },
   {
     "id": "b5c39cbc08d2d8f32513795f3b347f7c",
     "source": "Libération",
-    "title": "EN DIRECT – Mobilisations sociales : fonctionnaires, cheminots, étudiants et lycéens dans la rue ce mardi",
+    "title": "EN DIRECT – Mobilisation sociale : 146 000 personnes ont manifesté en France selon l’Intérieur, plus de 500 000 selon les syndicats",
     "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
-    "date": "Tue, 17 Nov 2026 08:57:08 +0000",
-    "summary": "Dans la foulée des manifestations qui ont rassemblé entre 100 000 et 200 000 personnes samedi 14 novembre, l’intersyndicale appelle à une nouvelle journée de grève et de manifestations."
+    "date": "Tue, 17 Nov 2026 18:31:04 +0000",
+    "summary": "En cette nouvelle journée de grève, des manifestations ont eu lieu ce mardi 17 novembre dans la matinée à travers le pays, comme à Marseille, Lyon, Nantes ou Toulouse. A Paris, le cortège est parti peu après 14 heures."
   },
   {
-    "id": "b92987bfa6affdaf0a4fdfa5992a83cb",
+    "id": "6ac8e4f72f861c96e42e9b2e3849d68a",
     "source": "Libération",
-    "title": "Un jeune sur trois souffre d’une difficulté psychique élevée, révèle un nouveau rapport sur la santé mentale des enfants et ados français",
-    "link": "https://www.liberation.fr/societe/education/un-jeune-sur-trois-souffre-dune-difficulte-psychique-elevee-revele-un-nouveau-rapport-sur-la-sante-mentale-des-enfants-et-ados-francais-20261117_PTILNIN7XVA3VDJAOSINHUVEAU/",
-    "date": "Tue, 17 Nov 2026 08:24:48 +0000",
-    "summary": "L’étude de l’Unicef, parue ce mardi 17 novembre 2026, met en lumière les principaux facteurs extérieurs causant ces troubles. La précarité, l’exposition à des violences et un manque de soutien social de la part d’un proche ou de l’institution scolaire sont mis en cause."
+    "title": "«On reste scotché au téléphone» : le BHV fermé, ses salariés déprimés attendent une hypothétique réouverture",
+    "link": "https://www.liberation.fr/economie/social/on-reste-scotche-au-telephone-le-bhv-ferme-ses-salaries-deprimes-attendent-une-hypothetique-reouverture-20261117_TQNSJBBQIFHZFI67UGGBA22Y5U/",
+    "date": "Tue, 17 Nov 2026 18:26:21 +0000",
+    "summary": "Les employés de la célèbre enseigne sont dans l’incertitude depuis la soudaine fermeture administrative des deux grands magasins franciliens, le 9 novembre, faute d’assurance en règle. Désabusés, ils peinent à croire en une reprise certaine de l’activité."
   },
   {
-    "id": "8042b18405885629fe145461473e1b2a",
+    "id": "f54f8513bfa615c6333526d6539e87bc",
     "source": "Libération",
-    "title": "L’Europe, telle qu’y travaillent Trump et Poutine, par Bernard Guetta",
-    "link": "https://www.liberation.fr/idees-et-debats/tribunes/leurope-telle-quy-travaillent-trump-et-poutine-par-bernard-guetta-20261117_QRVTGSNLBFD3LAG5YNKWTSWWPY/",
-    "date": "Tue, 17 Nov 2026 08:16:00 +0000",
-    "summary": "Face à la proposition américaine d’associer la Russie à l’élaboration d’un nouveau cadre de sécurité européen, le député européen fustige cette volonté de redécouper l’Europe, qui n’est pas sans rappeler la conférence de Yalta."
+    "title": "Mobilisation sociale, soldats français en Ukraine, pont de Crimée… L’actu de ce mardi 17 novembre",
+    "link": "https://www.liberation.fr/international/europe/mobilisation-sociale-soldats-francais-en-ukraine-pont-de-crimee-lactu-de-ce-mardi-17-novembre-20261117_COFKJTGAEBA5ZONZCCWP345L5I/",
+    "date": "Tue, 17 Nov 2026 17:57:03 +0000",
+    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 17 novembre."
   },
   {
-    "id": "5bc21b833fe0490dc0b6b67833b55f48",
+    "id": "cdf51c08aca02ca93fb2578b1c38894a",
     "source": "Libération",
-    "title": "Un mois après le 17 octobre, où en est l’indemnisation des commerces dégradés et pillés ?",
-    "link": "https://www.liberation.fr/checknews/un-mois-apres-le-17-octobre-ou-en-est-lindemnisation-des-commerces-degrades-et-pilles-20261117_YEDY4ZIDGBC4LLLJFO6WI6TMXE/",
-    "date": "Tue, 17 Nov 2026 08:00:00 +0000",
-    "summary": "Pour rouvrir leurs boutiques, les commerçants s’appuient en premier lieu sur les garanties prévues dans leurs contrats d’assurance. Certains déplorent une indemnisation très inférieure aux pertes subies."
+    "title": "Après sa tournée triomphale en Amérique du Sud, Léon XIV creuse son sillon en antipopuliste social",
+    "link": "https://www.liberation.fr/societe/apres-sa-tournee-triomphale-en-amerique-du-sud-leon-xiv-creuse-son-sillon-en-antipopuliste-social-20261117_UVCQVXQW4JBC5EXGFJLGC3GXA4/",
+    "date": "Tue, 17 Nov 2026 17:38:04 +0000",
+    "summary": "Au fil de ses voyages, le pontife américain assoit son leadership mondial et réveille, en Amérique latine, une Eglise catholique toujours confrontée à la progression des évangéliques."
   },
   {
-    "id": "752efb45b076492fb2d060d3037266ea",
+    "id": "dcc8a34b38546bc6416130ee678b1bf6",
     "source": "Libération",
-    "title": "Déjà 37 candidats à la présidentielle, et Dominique de Villepin prêt à entrer en scène ?",
-    "link": "https://www.liberation.fr/politique/deja-37-candidats-a-la-presidentielle-et-dominique-de-villepin-pret-a-entrer-en-scene-20261117_DJ47ULWAHJCOXD4H7K6KJOX63Y/",
-    "date": "Tue, 17 Nov 2026 07:42:16 +0000",
-    "summary": "L’ancien Premier ministre doit prendre la parole vendredi 20 novembre, a fait savoir lundi dans la soirée son équipe de campagne, laissant entendre que le septuagénaire allait officiellement se lancer dans la course à l’Elysée."
+    "title": "La mise aux enchères d’un Van Gogh à New York bousculée par la contestation d’héritiers",
+    "link": "https://www.liberation.fr/culture/arts/new-york-la-mise-aux-encheres-dun-van-gogh-confirmee-malgre-la-contestation-dheritiers-20261117_LGJRE4RRNZCMZH6CDRQ4EBJIOM/",
+    "date": "Tue, 17 Nov 2026 17:37:44 +0000",
+    "summary": "La famille de l’ancien propriétaire du tableau «Châtaigniers en fleurs», estimé à 180 millions de dollars, affirme qu’il aurait été vendu en 1936 sous la pression des nazis. Un accord a été trouvé avec Sotheby’s."
   },
   {
-    "id": "6894496add8765367a606255472a9045",
+    "id": "2aaa92adfcdc4de8bbcc54752647144d",
     "source": "Libération",
-    "title": "Au Chili, José Antonio Kast regarde vers Washington malgré l’influence de Pékin",
-    "link": "https://www.liberation.fr/international/amerique/au-chili-jose-antonio-kast-regarde-vers-washington-malgre-linfluence-de-pekin-20261117_IH7DAGHM5RGJDEWBGA26GR3MTA/",
-    "date": "Tue, 17 Nov 2026 07:15:00 +0000",
-    "summary": "La Chine demeure le premier partenaire commercial du pays andin. Mais son président d’extrême droite fait le pari d’un alignement sur Donald Trump, au risque de réduire ainsi son autonomie diplomatique."
+    "title": "Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe»",
+    "link": "https://www.liberation.fr/politique/elections/le-rn-presente-enfin-sa-reforme-des-retraites-un-projet-tout-en-tours-de-passe-passe-20261117_MA72YG6BJBHVBI3DQSQZFEHSFE/",
+    "date": "Tue, 17 Nov 2026 17:29:24 +0000",
+    "summary": "Si le plan de Marine Le Pen continue de faire miroiter des départs dès 60 ans pour les plus jeunes travailleurs, il crée une nouvelle obligation : un nombre plancher de trimestres à valider, qui allongerait de nombreuses carrières."
   },
   {
-    "id": "e7547b24e2c9ee1935dfe368c90e06ce",
+    "id": "3f9b63d0fec2a71dfd7e8c700ec89b03",
     "source": "Libération",
-    "title": "Obsolescence programmée des iPhone : Apple sera jugé à Paris en 2027",
-    "link": "https://www.liberation.fr/economie/economie-numerique/obsolescence-programmee-des-iphone-apple-sera-juge-a-paris-en-2027-20261117_HPM7WKFK4FFQHL4GUWTGVVTGNQ/",
-    "date": "Tue, 17 Nov 2026 06:56:34 +0000",
-    "summary": "La marque à la pomme est poursuivie pour «entrave à la réparation et au reconditionnement» en empêchant les utilisateurs de faire réparer leur téléphone en dehors des boutiques officielles."
+    "title": "Candidat à la présidentielle, Teddy Riner ne peut plus être ambassadeur de l’Unicef",
+    "link": "https://www.liberation.fr/politique/elections/candidat-a-la-presidentielle-teddy-riner-ne-peut-plus-etre-ambassadeur-de-lunicef-20261117_6J72XBXQ55C4HPCXN4P7Q4RK3Q/",
+    "date": "Tue, 17 Nov 2026 17:27:20 +0000",
+    "summary": "La branche française de l’agence de l’ONU pour la protection de l’enfance suspend la mission du judoka, évoquant les «principes d’indépendance et de neutralité politique» liés à son action."
   },
   {
-    "id": "251c1877b8f2eb081bfff297ad26743a",
+    "id": "c420be34aaa5cea78e077c1fe4f7d9fb",
     "source": "Libération",
-    "title": "Nouvelle journée de mobilisation sociale, premier débat des candidats à la présidentielle, verdict attendu au procès de «la petite inconnue de l’A10»… L’actu de ce mardi 17 novembre au matin",
-    "link": "https://www.liberation.fr/international/europe/nouvelle-journee-de-mobilisation-sociale-premier-debat-des-candidats-a-la-presidentielle-verdict-attendu-au-proces-de-la-petite-inconnue-de-la10-lactu-de-ce-mardi-17-novembre-au-matin-20261117_DVHHKIE4OVDZPL3YHANJZG23EA/",
-    "date": "Tue, 17 Nov 2026 06:40:31 +0000",
-    "summary": "La rédaction de «Libération» compile les principales infos du jour."
+    "title": "A l’expo «Archives des invisibles», les revenants d’entre les rushs",
+    "link": "https://www.liberation.fr/culture/arts/a-lexpo-archives-des-invisibles-les-revenants-dentre-les-rushs-20261117_Z6PZL2GDNJGBNJTRIJ2KPB52PY/",
+    "date": "Tue, 17 Nov 2026 17:22:14 +0000",
+    "summary": "A la fondation Kadist à Paris, Joana Hadjithomas, Khalil Joreige et Taddeo Reinhardt ont collecté des fragments de films non retenus par des réalisateurs et artistes en leur demandant de contextualiser leurs choix."
   },
   {
-    "id": "300e2924288619263bedb6c8ea92e603",
+    "id": "92725da6b33d1605f5a3cddd6f7db24e",
     "source": "Libération",
-    "title": "L’Ukraine cible à nouveau le pont de Crimée et coupe l’accès à la Russie",
-    "link": "https://www.liberation.fr/international/europe/la-russie-frappe-deux-ponts-majeurs-a-kiev-lukraine-cible-a-nouveau-celui-de-crimee-20261117_6MXWAQM2PRHO7NNIMIAVS3FSHM/",
-    "date": "Tue, 17 Nov 2026 06:36:11 +0000",
-    "summary": "Kyiv a renouvellé son offensive dans la région annexée, deux jours avant la rencontre à Shenzhen des chefs d’Etat russe, américain et chinois. De son côté, la Russie a frappé en plein cœur de la capitale ukrainienne la nuit dernière."
+    "title": "Rugby : l’entraîneur sud-africain suspendu 6 matchs après ses critiques de l’arbitrage de la rencontre contre la France",
+    "link": "https://www.liberation.fr/sports/rugby/rugby-lentraineur-sud-africain-suspendu-6-matchs-apres-ses-critiques-de-larbitrage-de-la-rencontre-contre-la-franc-20261117_2GHYNQWTJJFTDGO5UF2FC6HNLU/",
+    "date": "Tue, 17 Nov 2026 17:06:23 +0000",
+    "summary": "Rassie Erasmus avait estimé que de nombreux plaquages irréguliers des Bleus n’avaient pas été sanctionnés et que le demi-mêlée Maxime Lucu n’était sorti du terrain que 7 minutes au lieu de 10 après son carton jaune."
   },
   {
-    "id": "779d5e63ef580000a877cea4ac1559c2",
+    "id": "26af9b0268216de2c5314cd4c7105ecb",
     "source": "Libération",
-    "title": "Sur le financement des associations, un front républicain bienvenu contre Marine Le Pen",
-    "link": "https://www.liberation.fr/politique/sur-le-financement-des-associations-un-front-republicain-bienvenu-contre-marine-le-pen-20261117_BYBIUKIKSRDW5I3MVV5PFGTPSY/",
-    "date": "Tue, 17 Nov 2026 06:25:13 +0000",
-    "summary": "Lors du débat sur LCI lundi soir organisé par les Restos du cœur, la candidate d’extrême droite a confirmé qu’elle supprimerait les subventions à certaines associations jugées «politisées» comme la Ligue des droits de l’homme."
+    "title": "En Asie, pour jouer à «GTA VI», il faut déjouer la censure",
+    "link": "https://www.liberation.fr/culture/jeux-video/en-asie-pour-jouer-a-gta-vi-il-faut-dejouer-la-censure-20261117_VBFXNHHGRBHAPBDFX5NYOL5AZY/",
+    "date": "Tue, 17 Nov 2026 17:06:03 +0000",
+    "summary": "Version édulcorée au Japon, pas vendu officiellement en Chine… Le blockbuster de Rockstar Games, très attendu pour sa sortie jeudi 19 novembre, a une histoire compliquée avec le continent."
   },
   {
-    "id": "ca59e9310d08611cf99247c798667553",
+    "id": "533af4623114ddfa29fcbfacc1ce2b03",
     "source": "Libération",
-    "title": "RN : le complotisme aux relents antisémites d’une membre du conseil national du parti",
-    "link": "https://www.liberation.fr/politique/rn-le-complotisme-aux-relents-antisemites-dune-membre-du-conseil-national-du-parti-20261117_6P5SPVRW6RDAFDDHHZKLU5EJLQ/",
-    "date": "Tue, 17 Nov 2026 06:20:00 +0000",
-    "summary": "La cadre RN des Alpes-Maritimes Nathalie Baron anime un compte Facebook aux obsessions violemment antisémites. Elle y relaie des thèses conspirationnistes, des contenus issus de la galaxie d’Alain Soral et de la propagande pro-Kremlin."
+    "title": "«Gabin», un documentaire qui a le sens du bétail",
+    "link": "https://www.liberation.fr/culture/gabin-un-documentaire-qui-a-le-sens-du-betail-20261117_OKJZCPGM6BE2LKFDDUEGQTA3VI/",
+    "date": "Tue, 17 Nov 2026 17:01:55 +0000",
+    "summary": "Pour son premier long métrage, Maxime Voiseux a planté sa caméra pendant dix ans dans le quotidien d’agriculteurs artésiens, à travers le regard du benjamin de la famille. Et réussit la prouesse de dresser un magnifique portrait tout en interrogeant intelligemment les mutations du monde agricole."
+  },
+  {
+    "id": "509af054e2da9a0a2acb0650d4850533",
+    "source": "Libération",
+    "title": "Fraude fiscale : expulsés de leur moulin à Giverny à la suite d’une décision de justice, les Balkany vont pouvoir rentrer chez eux",
+    "link": "https://www.liberation.fr/societe/police-justice/fraude-fiscale-expulses-de-leur-moulin-a-giverny-a-la-suite-dune-decision-de-justice-les-balkany-vont-pouvoir-rentrer-chez-eux-20261117_7HPOUPKEMRGKLDAINZCTICVWAQ/",
+    "date": "Tue, 17 Nov 2026 16:52:52 +0000",
+    "summary": "Les deux anciens élus de Levallois-Perret avaient été sommés de quitter la demeure, fin octobre, en raison d’une condamnation en justice en 2023. Un accord avec l’agence de l’Etat responsable de cette saisie va leur permettre de revenir, ce mardi 17 novembre."
+  },
+  {
+    "id": "a3113fa4c95ce39b8bc14e6b850ef87b",
+    "source": "Libération",
+    "title": "«J’avais 10 ans, j’avais l’image de trois garçons...» : après «60 ans de déni», Muriel Robin raconte avoir subi un viol collectif",
+    "link": "https://www.liberation.fr/societe/javais-10-ans-jai-limage-de-3-garcons-apres-60-ans-de-deni-muriel-robin-raconte-avoir-subi-un-viol-collectif-20261117_A6Y2VUMJEZCZPO7R6COKCOPSRI/",
+    "date": "Tue, 17 Nov 2026 16:51:50 +0000",
+    "summary": "Dans une interview accordée à France Inter lundi 16 novembre, l’humoriste s’est également livrée sur son addiction à l’alcool, «une façon de remettre sa vie à demain»."
+  },
+  {
+    "id": "a660f96a58cc21c4cf90ae4feb5ebc62",
+    "source": "Libération",
+    "title": "Inquiets pour le bac ou Parcoursup, les lycéens mobilisés à la croisée des chemins : «Il va falloir que j’aille en cours, j’ai trop de retard»",
+    "link": "https://www.liberation.fr/societe/education/inquiets-pour-le-bac-ou-parcoursup-les-lyceens-mobilises-a-la-croisee-des-chemins-il-va-falloir-que-jaille-en-cours-jai-trop-de-retard-20261117_W3A67IWHCVAQTI2IGC2ZXJTMQA/",
+    "date": "Tue, 17 Nov 2026 16:44:33 +0000",
+    "summary": "Après deux mois de mouvement social, plusieurs élèves racontent les pressions multiples auxquels ils font face. Celle des forces de l’ordre, de l’administration scolaire, voire des parents."
+  },
+  {
+    "id": "a59ebd5416ffd30907109ca2bda3c9dc",
+    "source": "Reporterre",
+    "title": "PFAS : le combat du député vert Nicolas Thierry récompensé par un prix international",
+    "link": "https://reporterre.net/PFAS-un-depute-ecologiste-remporte-un-prestigieux-prix-international",
+    "date": "2026-11-17T17:07:06Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"421\" src=\"https://reporterre.net/local/cache-vignettes/L700xH421/screenshot_2026-11-17_at_17.40_52-af0e7.png?1794935271\" width=\"700\" />\n<p>C'est l'une des plus prestigieuses récompenses environnementales. Mardi 17 novembre à Mumbai (Inde), le député de la Gironde Nicolas Thierry ainsi qu'une coalition d'associations (dont Générations Futures), d'élus, de scientifiques et de citoyens engagés (au premier rang desquels Camille Étienne) ont remporté le Earthshot Prize 2026 pour leur travail collectif contre les <span class=\"caps\">PFAS</span> (polluants éternels). <br class=\"autobr\" />\nSouvent considéré comme «<small class=\"fine d-inline\"> </small>le Nobel de l'environnement<small class=\"fine d-inline\"> </small>», ce prix international distingue (…)</p>\n\n            <a href=\"https://reporterre.net/PFAS-un-depute-ecologiste-remporte-un-prestigieux-prix-international?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Pollutions\" rel=\"tag\">Pollutions</a>"
+  },
+  {
+    "id": "f5f790e14135ae2361aa713b37eaa617",
+    "source": "Reporterre",
+    "title": "Top 40 des villes européennes polluées : Lyon, Paris et Marseille mal classées",
+    "link": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
+    "date": "2026-11-17T16:48:56Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141\" width=\"700\" />\n<p>Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l'air est le premier risque environnemental pour la santé humaine, révèle Clean Cities. Cette coalition de 150 <span class=\"caps\">ONG</span> a publié le 16 novembre un classement inédit des 40 grandes villes européennes où l'on respire le mieux. <br class=\"autobr\" />\nLes villes scandinaves se hissent en tête du classement : Copenhague (Danemark), suivi de Stockholm (Suède) et Helsinki (Finlande). La France (…)</p>\n\n            <a href=\"https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Pollutions\" rel=\"tag\">Pollutions</a>"
+  },
+  {
+    "id": "18dd4b6fdaf08cab9e2d878fea8989c8",
+    "source": "Reporterre",
+    "title": "« Ramassis de gauchistes » : Marine Le Pen veut couper les subventions de la Ligue des droits de l'Homme et d'autres associations",
+    "link": "https://reporterre.net/Ramassis-de-gauchistes-Marine-Le-Pen-veut-couper-les-subventions-de-la-Ligue-des-droits-de-l-Homme-et-d-autres-associations",
+    "date": "2026-11-17T14:37:16Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-11-17_at_15-26-04_quelle_societe_pour_demain_le_grand_debat_-_le_debat_de_la_presidentielle_2027_quelle_societe_pour_demain_tf1-647dd.png?1794926241\" width=\"700\" />\n<p>Un «<small class=\"fine d-inline\"> </small>ramassis de gauchistes<small class=\"fine d-inline\"> </small>» : voilà comment Marine Le Pen a qualifié la Ligue des droits de l'Homme lors d'un débat sur la pauvreté et la solidarité, dans un entrepôt des Restos du Cœur, diffusé par <span class=\"caps\">LCI</span>. «<small class=\"fine d-inline\"> </small>Ils sont d'une violence à l'égard de la police, ils sont d'une violence à l'égard des institutions, ce qui est une véritable honte pour une association subventionnée par l'argent public<small class=\"fine d-inline\"> </small>!<small class=\"fine d-inline\"> </small>», a-t-elle renchéri. <br class=\"autobr\" />\nLors de cette émission diffusée le lundi 16 novembre étaient aussi présents (…)</p>\n\n            <a href=\"https://reporterre.net/Ramassis-de-gauchistes-Marine-Le-Pen-veut-couper-les-subventions-de-la-Ligue-des-droits-de-l-Homme-et-d-autres-associations?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Libertes-46\" rel=\"tag\">Libertés</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>"
+  },
+  {
+    "id": "f3d6f8b2c00dbb7be989936162121ac7",
+    "source": "Reporterre",
+    "title": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
+    "link": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
+    "date": "2026-11-17T14:29:23Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/dsc09358-33d0c.jpg?1794925768\" width=\"700\" />\n<p>Premiers à se mobiliser fin août, les lycéens, professeurs et syndicats se mobilisent toujours contre leurs établissements vétustes et les coupures d'eau. «<small class=\"fine d-inline\"> </small>Mayotte est l'académie la moins bien dotée de toute la France, alors qu'elle compte certainement le plus de problèmes<small class=\"fine d-inline\"> </small>», insistent-ils. <br class=\"autobr\" />\nMamoudzou et Kahani (Mayotte), reportage <br class=\"autobr\" />\nDes élèves du lycée polyvalent de Kawéni dansent sur la place de la République à Mamoudzou, chef-lieu de Mayotte. Ce 17 novembre, sous 32 °C, ils sont venus (…)</p>\n\n            <a href=\"https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Eau-rivieres-oceans\" rel=\"tag\">Eau</a>"
+  },
+  {
+    "id": "2c50f7c4a5add0881f8ac77b0ac81f04",
+    "source": "Reporterre",
+    "title": "Un bout de forêt rasé pour agrandir un cimetière au Pays basque",
+    "link": "https://reporterre.net/Un-bout-de-foret-rase-pour-agrandir-un-cimetiere-au-Pays-basque",
+    "date": "2026-11-17T14:09:43Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/foret_pignada_-_anglet_1_-9fbca.jpg?1794924584\" width=\"700\" />\n<p>Défricher une forêt pour enterrer des morts. Depuis le 12 novembre, l'abattage des arbres d'une partie de la forêt de Pignada d'Anglet, dans le Pays basque, a commencé, rapporte France 3. <br class=\"autobr\" />\nLe but : détruire 6 000 m<sup class=\"typo_exposants\">2</sup> de forêt pour agrandir le cimetière de Blancpignon. Un projet contre lequel 500 personnes ont manifesté le 15 novembre. «<small class=\"fine d-inline\"> </small>Avec l'été qu'on vient de vivre, ça n'a vraiment pas de sens, c'est absurde, c'est détruire ce qui nous protège. Ça fait vraiment mal au cœur<small class=\"fine d-inline\"> </small>», explique (…)</p>\n\n            <a href=\"https://reporterre.net/Un-bout-de-foret-rase-pour-agrandir-un-cimetiere-au-Pays-basque?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Forets\" rel=\"tag\">Forêts</a>"
+  },
+  {
+    "id": "3b5b3e7a74c545410ac1bd19db3fdc4b",
+    "source": "Reporterre",
+    "title": "Des trous géants au milieu des champs : l'agriculture intensive fait des ravages en Turquie",
+    "link": "https://reporterre.net/Ma-maison-risque-d-etre-engloutie-en-Turquie-le-sol-s-effondre-a-cause-de-l-agriculture",
+    "date": "2026-11-17T13:22:15Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/img_0019_ld_pernot_261108-d7c77.jpg?1794921737\" width=\"700\" />\n<p>Plus d'une vingtaine de gouffres immenses se creusent chaque année dans la région de Konya, en Turquie. La faute à l'agriculture intensive et à la sécheresse, dénoncent des chercheurs, qui réclament des mesures fortes à la <span class=\"caps\">COP31</span>. <br class=\"autobr\" />\nKonya (Turquie), reportage <br class=\"autobr\" />\nLe froid est mordant en cette matinée de novembre à Karapınar, le ciel est clair et le vent siffle. À bord de sa vieille Renault 12 blanche des années 1990, Fatih Biltekin traverse des champs de blé et de maïs dans un paysage aride et (…)</p>\n\n            <a href=\"https://reporterre.net/Ma-maison-risque-d-etre-engloutie-en-Turquie-le-sol-s-effondre-a-cause-de-l-agriculture?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Agriculture\" rel=\"tag\">Agriculture</a>\n            , \n                <a href=\"https://reporterre.net/Eau-rivieres-oceans\" rel=\"tag\">Eau</a>\n            , \n                <a href=\"https://reporterre.net/COP31\" rel=\"tag\"><span class=\"caps\">COP31</span></a>"
+  },
+  {
+    "id": "c22d457f0c229206f27c09e4477c27f6",
+    "source": "Reporterre",
+    "title": "« Impasse financière » : la Cour des comptes préconise un moratoire sur les grands projets d'infrastructure",
+    "link": "https://reporterre.net/Impasse-financiere-la-Cour-des-comptes-preconise-un-moratoire-sur-les-grands-projets-d",
+    "date": "2026-11-17T11:40:09Z",
+    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/cour_des_comptes_paris_entree-2-5b006.jpg?1794915682\" width=\"700\" />\n<p>La folie des grands projets engage la France dans une «<small class=\"fine d-inline\"> </small>impasse financière<small class=\"fine d-inline\"> </small>», constate la Cour des comptes dans une note parue le 16 novembre. L'institution préconise de prioriser la régénération des réseaux de transport existants, au moins jusqu'en 2032. <br class=\"autobr\" />\nElle rejoint ainsi les nombreuses alertes financières, notamment de la conférence Ambition France transport, du Conseil d'orientation des infrastructures, du ministère des Finances, qui s'alarment tour à tour que, faute d'investissement (…)</p>\n\n            <a href=\"https://reporterre.net/Impasse-financiere-la-Cour-des-comptes-preconise-un-moratoire-sur-les-grands-projets-d?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Economie\" rel=\"tag\">Économie</a>"
   },
   {
     "id": "e0ee91ef7812775c2317abb4f12a177c",
     "source": "Reporterre",
-    "title": "Logement : « Le gouvernement choisit de favoriser les ultrariches »",
+    "title": "Les passoires thermiques bientôt remises en location ?",
     "link": "https://reporterre.net/Logement-Le-gouvernement-choisit-de-favoriser-les-ultrariches",
     "date": "2026-11-17T08:46:21Z",
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261116__hl_quentindegroeve_3391769__v1__highres__francepoliticsparliamenthous_resized-8a83c.jpg?1794905184\" width=\"700\" />\n<p>Avec la loi logement, le gouvernement compte remettre en location des passoires thermiques. Son texte, dont l'examen a démarré lundi 16 novembre, risque de pénaliser les plus pauvres, alertent plusieurs associations. <br class=\"autobr\" /> Alors que 1 ménage sur 10 se trouve en situation de précarité énergétique et que près de 9 000 décès ont été enregistrés pendant le pic de canicule cet été, le gouvernement entend remettre sur le marché de la location des bouilloires ou passoires thermiques. <br class=\"autobr\" />\nL'examen du (…)</p>\n\n            <a href=\"https://reporterre.net/Logement-Le-gouvernement-choisit-de-favoriser-les-ultrariches?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Habitat\" rel=\"tag\">Habitat et urbanisme</a>"
@@ -330,7 +386,7 @@
   {
     "id": "7f4364f40b5243c8977413fc44472b1f",
     "source": "Reporterre",
-    "title": "« On ne doit pas choisir entre être queer et aimer son territoire »",
+    "title": "« Le mépris, c'est de dire que quand on est queer, notre vie sera forcément meilleure en ville »",
     "link": "https://reporterre.net/On-ne-doit-pas-choisir-entre-etre-queer-et-aimer-son-territoire",
     "date": "2026-11-17T05:30:00Z",
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/dsc04446-fe32b.jpg?1794893401\" width=\"700\" />\n<p>Prides rurales, drag shows, cafés <span class=\"caps\">LGBT</span>... Dans «<small class=\"fine d-inline\"> </small>Fiertés des champs<small class=\"fine d-inline\"> </small>», la journaliste Élodie Potente raconte la richesse de la vie queer dans les campagnes, à rebours de l'idée selon laquelle la ville est l'ultime refuge. <br class=\"autobr\" /> Élodie Potente est journaliste — vous l'avez déjà croisée sur Reporterre — et créatrice du podcast Champs queers sur les vies <span class=\"caps\">LGBTQ</span>+ en milieu rural. Dans son livre Fiertés des champs — Habiter, résister et aimer loin des métropoles, paru le 2 octobre aux éditions Le (…)</p>\n\n            <a href=\"https://reporterre.net/On-ne-doit-pas-choisir-entre-etre-queer-et-aimer-son-territoire?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Entretien-19\" rel=\"directory\">Entretien</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Idees\" rel=\"tag\">Idées</a>"
@@ -338,7 +394,7 @@
   {
     "id": "40c46d0cbec74e81cd2dc9712de2ac67",
     "source": "Reporterre",
-    "title": "« C'est ça le progrès ? » : McDonald's et Burger King à l'assaut des campagnes",
+    "title": "McDonald's et Burger King à l'assaut des campagnes : « C'est ça le progrès ? »",
     "link": "https://reporterre.net/C-est-ca-le-progres-McDonald-s-et-Burger-King-a-l-assaut-des-campagnes",
     "date": "2026-11-17T05:00:00Z",
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/marc_kolb_faustine_foucher_julia_burrillon_et_remy_fischer_veulent_montrer_qu_il_existe_des_alternatives_plus_coherente_pour_le_territoire__credit_pauline_de_deus-3752f.jpg?1794891602\" width=\"700\" />\n<p>McDonald's et Burger King vont ouvrir des restaurants dans des communes rurales ardéchoises. Face à cette expansion des géants du fast-food, les oppositions locales tentent de trouver des outils pour les faire reculer. <br class=\"autobr\" />\nRosières (Ardèche) reportage <br class=\"autobr\" />\nSur la terre récemment compactée, les traces de roues des engins sont encore visibles. Planté au milieu du futur parking de Burger King, Rémy Fischer scrute le paysage, désabusé. «<small class=\"fine d-inline\"> </small>Et ça, c'est le progrès<small class=\"fine d-inline\"> </small>?<small class=\"fine d-inline\"> </small>» interroge l'apiculteur en pointant (…)</p>\n\n            <a href=\"https://reporterre.net/C-est-ca-le-progres-McDonald-s-et-Burger-King-a-l-assaut-des-campagnes?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Alimentation\" rel=\"tag\">Alimentation</a>"
@@ -384,179 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/_-9-79d28.jpg?1794816838\" width=\"700\" />\n<p>Le Collectif enfantiste a participé à la manifestation du 14 novembre. Une convergence avec les mouvements écologiste et lycéen, pour sensibiliser aux violences et au mépris que subissent les jeunes. <br class=\"autobr\" />\nParis, reportage <br class=\"autobr\" />\n«<small class=\"fine d-inline\"> </small>En ce moment, en manif, je n'ose pas venir avec mon enfant. C'est trop rare, les événements militants où l'on peut venir avec de jeunes enfants<small class=\"fine d-inline\"> </small>», s'enthousiasme une mère dans le bucolique square du Temple, à Paris. «<small class=\"fine d-inline\"> </small>Ce n'est pas toujours facile de faire garder nos (…)</p>\n\n            <a href=\"https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Pedagogie-Education\" rel=\"tag\">Pédagogie Éducation</a>"
   },
   {
-    "id": "c99cecb5e1771ba54f43f53affee8730",
-    "source": "Reporterre",
-    "title": "Enfin un vrai débat sur l'écologie pour 2027... et personne n'est d'accord",
-    "link": "https://reporterre.net/Faire-des-compromis-ou-bousculer-l-ordre-de-la-societe-Les-candidats-esquissent-leur-vision-de-l-ecologie-pour-2027",
-    "date": "2026-11-16T08:06:57Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260927__hl_ebroncard_3309921__v1__highres__franceclimateprotest_1_-aef4b.jpg?1794816421\" width=\"700\" />\n<p>Lors d'un débat politique sur le climat et la biodiversité organisé le 14 novembre, les représentants des principaux candidats à la présidentielle y ont déroulé leur vision, entre recherche du compromis et de l'apaisement (à droite), et bousculement des intérêts privés (à gauche). <br class=\"autobr\" /> Enfin un vrai débat sur l'écologie. Alors que le premier tour de l'élection présidentielle se tiendra dans cinq mois, et que les conséquences du changement climatique sur nos vies sont de plus en plus palpables (…)</p>\n\n            <a href=\"https://reporterre.net/Faire-des-compromis-ou-bousculer-l-ordre-de-la-societe-Les-candidats-esquissent-leur-vision-de-l-ecologie-pour-2027?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Presidentielle\" rel=\"tag\">Présidentielle</a>"
-  },
-  {
-    "id": "8620bdc5ab1cd16e42e5928f72960af6",
-    "source": "Reporterre",
-    "title": "« Que mon cancer soit comptabilisé comme causé par les pesticides » : le combat d'un agriculteur malade",
-    "link": "https://reporterre.net/Que-mon-cancer-soit-comptabilise-comme-cause-par-les-pesticides-le-combat-d-un-agriculteur-malade",
-    "date": "2026-11-16T06:00:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/lqgn_018-08ed0.jpg?1794808800\" width=\"700\" />\n<p>Galères pour constituer un dossier, longue attente... L'agriculteur Denis Roblin a mis des années pour que son cancer de la prostate soit reconnu comme une maladie professionnelle liée aux pesticides. Un parcours largement semé d'embûches. <br class=\"autobr\" />\nSourdeval (Manche), reportage <br class=\"autobr\" />\n«<small class=\"fine d-inline\"> </small>Vous avez vu les aigrettes<small class=\"fine d-inline\"> </small>?<small class=\"fine d-inline\"> </small>» Ses chaussures de montagne bien campées dans l'herbe humide, Denis Roblin observe l'autre bout du pré. «<small class=\"fine d-inline\"> </small>Et le héron<small class=\"fine d-inline\"> </small>! Ce sont les petites mouches qui l'intéressent<small class=\"fine d-inline\"> </small>», s'exclame Camille (…)</p>\n\n            <a href=\"https://reporterre.net/Que-mon-cancer-soit-comptabilise-comme-cause-par-les-pesticides-le-combat-d-un-agriculteur-malade?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Pesticides\" rel=\"tag\">Pesticides</a>\n            , \n                <a href=\"https://reporterre.net/Agriculture\" rel=\"tag\">Agriculture</a>\n            , \n                <a href=\"https://reporterre.net/Sante\" rel=\"tag\">Santé</a>"
-  },
-  {
-    "id": "af0b26087228285fd47d288eba9cc34a",
-    "source": "Reporterre",
-    "title": "Double vitrage, ardoises, liège... Comment transformer sa passoire thermique en maison confortable",
-    "link": "https://reporterre.net/Double-vitrage-ardoises-liege-Comment-transformer-sa-passoire-thermique-en-maison-confortable",
-    "date": "2026-11-15T06:05:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/une-3-afedf.jpg?1794722703\" width=\"700\" />\n<p>Avec l'aide d'une architecte et d'artisans locaux, Nicolas Guilliet a restauré une ancienne ferme, devenue une maison de ville. En misant sur les pierres d'origine et les matériaux biosourcés, il a sorti son habitat de la case passoire thermique. <br class=\"autobr\" /> Cet article est publié en partenariat avec le magazine indépendant La Maison écologique. <br class=\"autobr\" />\nÀ deux pas de la gare de Beaugency (Loiret) et des bords de Loire, la maison de Nicolas Guilliet se cache dans une petite ruelle, derrière des dépendances (…)</p>\n\n            <a href=\"https://reporterre.net/Double-vitrage-ardoises-liege-Comment-transformer-sa-passoire-thermique-en-maison-confortable?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Habitat\" rel=\"tag\">Habitat et urbanisme</a>"
-  },
-  {
-    "id": "437d58ab81388ac6cf24627349983534",
-    "source": "Reporterre",
-    "title": "L'ONF veut ouvrir 20 000 hectares de forêt primaire à l'exploitation, tollé en Guyane",
-    "link": "https://reporterre.net/L-ONF-veut-ouvrir-20-000-hectares-de-foret-primaire-a-l-exploitation-tolle-en-Guyane",
-    "date": "2026-11-15T06:00:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/p1204837-eee65.jpg?1794722401\" width=\"700\" />\n<p>La décision de l'Office national des forêts d'ouvrir une zone de forêt primaire à l'exploitation provoque un tollé en Guyane. Plus que le modèle, durable, ce sont les potentiels usages illégaux des nouvelles pistes forestières qui inquiètent. <br class=\"autobr\" />\nCayenne (Guyane), correspondance <br class=\"autobr\" />\nEn apparence, le projet, dans les cartons depuis plus de dix ans, avait tout de la formalité technique. Il a pourtant déchaîné les passions et remis au cœur du débat l'avenir de la filière forêt-bois guyanaise, (…)</p>\n\n            <a href=\"https://reporterre.net/L-ONF-veut-ouvrir-20-000-hectares-de-foret-primaire-a-l-exploitation-tolle-en-Guyane?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Forets-tropicales\" rel=\"tag\">Forêts tropicales</a>\n            , \n                <a href=\"https://reporterre.net/Forets\" rel=\"tag\">Forêts</a>"
-  },
-  {
-    "id": "4b975d5a514c596799bd15ab3d99fcde",
-    "source": "Reporterre",
-    "title": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
-    "link": "https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation",
-    "date": "2026-11-14T06:10:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/iaiaiaiaiaiaiaatdatadatadtatdatdatdta-7411e.jpg?1794636602\" width=\"700\" />\n<p>Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secteur et la potentielle victoire de la droite aux élections du 29 novembre pourraient cependant rendre son application impossible. <br class=\"autobr\" /> La tech contre-attaque. Depuis l'annonce d'une réglementation plus restrictive sur l'installation des centres de données, en Espagne, le gouvernement de gauche fait face à une offensive du secteur. Il a déjà revu ses ambitions à la (…)</p>\n\n            <a href=\"https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/International\" rel=\"tag\">Monde</a>\n            , \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Numerique\" rel=\"tag\">Numérique</a>"
-  },
-  {
-    "id": "5abc46f4f68f69447be7b720effaf4c0",
-    "source": "Reporterre",
-    "title": "« Aucun athlète ne prendra cette remontée mécanique » : à Courchevel, le téléphérique des JO vivement contesté",
-    "link": "https://reporterre.net/Aucun-athlete-ne-prendra-cette-remontee-mecanique-a-Courchevel-le-telepherique-des-JO-vivement-conteste",
-    "date": "2026-11-14T06:05:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/courchevel-jo-01-286b2.jpg?1794636303\" width=\"700\" />\n<p>Le projet d'ascenseur valléen entre Bozel et Courchevel, qui doit défricher bois et prairies remarquables, est contesté. Ses opposants dénoncent un projet totalement inadapté et un gaspillage d'argent public. <br class=\"autobr\" />\nBozel (Savoie), reportage <br class=\"autobr\" />\nUne centaine de chèvres se régalent de touffes d'herbes encore bien vertes dans les douces pentes de la commune de Bozel, en Savoie. Ces Alpines chamoisées se reposent après quelques kilomètres parcourus pour prendre leurs quartiers d'hiver au creux de la (…)</p>\n\n            <a href=\"https://reporterre.net/Aucun-athlete-ne-prendra-cette-remontee-mecanique-a-Courchevel-le-telepherique-des-JO-vivement-conteste?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Montagne\" rel=\"tag\">Montagne</a>\n            , \n                <a href=\"https://reporterre.net/JO-2030\" rel=\"tag\"><span class=\"caps\">JO</span> 2030</a>"
-  },
-  {
-    "id": "4c2880ffdd58ea79251e2eb2b078012b",
-    "source": "Reporterre",
-    "title": "« On a besoin de lieux de résistance » : les bases arrière du mouvement social ciblées par la police et l'extrême droite",
-    "link": "https://reporterre.net/Sans-espace-pour-s-organiser-on-ne-peut-pas-mener-la-lutte-les-cafes-associatifs-precieux-allies-du-mouvement-social",
-    "date": "2026-11-14T06:00:00Z",
-    "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/rid_261110-2_resized-02c1b.jpg?1794636002\" width=\"700\" />\n<p>Fabrique de pancartes, garderie militante, lieu de repli… Les cafés associatifs constituent d'incontournables bases arrière du mouvement social. Au risque d'être la cible de la police ou de l'extrême droite. <br class=\"autobr\" />\nMontpellier (Hérault), reportage <br class=\"autobr\" />\nSur la grande tablée, les pinceaux de peinture côtoient les cafés fumants. Feutre en main, Clémence finalise une pancarte — «<small class=\"fine d-inline\"> </small>On n'ouvre pas la porte du vivre-ensemble avec des clés d'étranglement<small class=\"fine d-inline\"> </small>» — avant de la passer dans la plastifieuse (pluie (…)</p>\n\n            <a href=\"https://reporterre.net/Sans-espace-pour-s-organiser-on-ne-peut-pas-mener-la-lutte-les-cafes-associatifs-precieux-allies-du-mouvement-social?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>"
-  },
-  {
-    "id": "7fab612442dab038ee3b452dbb89730e",
+    "id": "c9e443e75c400f3d5876dfa607e61d81",
     "source": "BFMTV",
-    "title": "Trop compliqué d'intégrer Face ID à son iPhone pliant: Apple adopte finalement une solution moins sécurisée, déjà utilisée sur Android",
-    "link": "https://www.bfmtv.com/tech/apple/trop-complique-d-integrer-face-id-a-son-i-phone-pliant-apple-adopte-finalement-une-solution-moins-securisee-deja-utilisee-sur-android_AV-202611170427.html",
-    "date": "Tue, 17 Nov 2026 09:51:58 GMT",
-    "summary": "Souvent citée dans ses principaux défauts, l'absence de FaceID sur l'iPhone Duo a trouvé une première solution, mais qui est tout de même assujettis à plusieurs limitations.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/b3VffWELviCKiTcuFn54S2xyn6U=/0x0:1920x1080/800x0/images/FaceID-d-Apple-2385346.jpg\" />"
+    "title": "Guerre au Moyen-Orient: un responsable local affirme que les États-Unis ont mené plusieurs frappes contre l'île iranienne de Qeshm,",
+    "link": "https://www.bfmtv.com/international/moyen-orient/iran/guerre-au-moyen-orient-un-responsable-local-affirme-que-les-etats-unis-ont-mene-plusieurs-frappes-contre-l-ile-iranienne-de-qeshm_AD-202611170864.html",
+    "date": "Tue, 17 Nov 2026 18:50:48 GMT",
+    "summary": "D'après Ahmad Nafisi, gouverneur adjoint de la province d'Hormozgan cité par l'agence Irna, \"l'attaque américaine contre des sites situés sur l'île de Qeshm n'a causé aucun dommage aux zones résidentielles, commerciales ou aux infrastructures\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BGvm7G715CSqWCs_tVnkrq1VcAk=/0x0:2048x1152/800x0/images/Petroliers-Ormuz-2297951.jpg\" />"
   },
   {
-    "id": "98bd7bf9500c44f6a16fa881b716ff12",
+    "id": "f6de0ec5d9354d1c943f0a349b608d67",
     "source": "BFMTV",
-    "title": "DIRECT. Procès de la \"petite martyre de l'A10\": l’avocate d’Ahmed Touloub demande à la cour d’”acquitter” son client",
-    "link": "https://www.bfmtv.com/police-justice/proces/direct-proces-de-la-petite-martyre-de-l-a10-plaidoiries-des-avocats-de-la-defense-avant-les-derniers-mots-des-accuses_LN-202611170350.html",
-    "date": "Tue, 17 Nov 2026 08:04:32 GMT",
-    "summary": "Le procès des parents d'Inass, la \"petite martyre de l'A10\", touche à sa fin à Blois (Loir-et-Cher). Ce mardi 17 novembre, les avocats de la défense plaident tour à tour, puis les accusés prononceront leurs derniers mots avant que la cour ne se retire pour délibérer.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/u1Iw4zfWhJIUZwzPRN2wVbtHt4I=/0x40:768x472/800x0/images/Accusee-et-mere-d-Inass-Touloub-Halima-El-Bakhti-g-dont-le-visage-est-dissimule-par-un-foulard-est-escortee-par-des-policiers-et-son-avocat-Camille-Radot-d-au-palais-de-justice-de-Blois-Loir-et-Cher-le-2-novembre-2026-2376654.jpg\" />"
-  },
-  {
-    "id": "f669ce6618bec841d518fe00fda3a67a",
-    "source": "BFMTV",
-    "title": "DIRECT. Âge de départ à 62 ou 60 ans, capitalisation... Le Rassemblement national dévoile son projet de réforme pour \"réparer le système de retraites\"",
-    "link": "https://www.bfmtv.com/economie/patrimoine/retraite/direct-age-de-depart-a-62-ou-60-ans-capitalisation-le-rassemblement-national-devoile-son-projet-de-reforme-pour-reparer-le-systeme-de-retraites_LN-202611170426.html",
-    "date": "Tue, 17 Nov 2026 09:48:55 GMT",
-    "summary": "Marine Le Pen présente ce mardi son projet de réforme des retraites. La favorite de l'élection présidentielle promet un retour de l'âge légal à 62 ans et 60 ans pour les carrières longues qu'elle entend financer par davantage de travail des actifs et l'introduction d'une dose de capitalisation. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sQRJySEmgXEfCFhO_82dlKhGmzk=/0x60:2048x1212/800x0/images/Jordan-Bardella-et-Marine-Le-Pen-lors-d-un-seminaire-du-RN-a-l-Assemblee-nationale-le-15-septembre-2024-1950782.jpg\" />"
-  },
-  {
-    "id": "70fb5a55a615c3c0325d8dd4c4015291",
-    "source": "BFMTV",
-    "title": "\"Un coup de pouce orange\": le géant américain Strategy achète 485 bitcoins à 33 millions de dollars, profitant de la chute de la reine des cryptomonnaies",
-    "link": "https://www.bfmtv.com/crypto/bitcoin/un-coup-de-pouce-orange-le-geant-americain-strategy-achete-485-bitcoins-a-33-millions-de-dollars-profitant-de-la-chute-de-la-reine-des-cryptomonnaies_AN-202611170424.html",
-    "date": "Tue, 17 Nov 2026 09:43:26 GMT",
-    "summary": "Cet achat porte la trésorerie de la société cotée au Nasdaq à 850.849 bitcoins d'une valeur de 55 milliards de dollars au cours actuel de la reine des cryptos.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/CxR4dT36PkR9GJkU9WGHoldEfMs=/0x106:2048x1258/800x0/images/Michael-Saylor-president-directeur-general-de-MicroStrategy-1937942.jpg\" />"
-  },
-  {
-    "id": "5daf14a8a89029128714fda37be6bbde",
-    "source": "BFMTV",
-    "title": "GTA VI: la France dans le top 10 des hausses de demandes de congés pour la sortie du jeu",
-    "link": "https://www.bfmtv.com/tech/video-gta-vi-la-france-dans-le-top-10-des-hausses-de-demandes-de-conges-pour-la-sortie-du-jeu_VN-202611170422.html",
-    "date": "Tue, 17 Nov 2026 09:40:16 GMT",
-    "summary": "Le lancement du jeu de Rockstar Games suscite une grande excitation. Les fans se préparent à veiller tard, certains prenant même un congé. En France, les demandes de congés explosent, tandis qu'aux États-Unis, 12 millions d'Américains prévoient de ne pas travailler.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/JiSYeOp9uNMy6L4GWlXNkHO_Wpw=/0x0:1280x720/800x0/images/GTA-VI-la-France-dans-le-top-10-des-hausses-de-demandes-de-conges-pour-la-sortie-du-jeu-2385355.jpg\" />"
-  },
-  {
-    "id": "324e17677559533887536e91cf04cb0a",
-    "source": "BFMTV",
-    "title": "Mobilisation du 17 novembre: le cortège prêt à s'élancer à Marseille",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-mobilisation-du-17-novembre-le-cortege-pret-a-s-elancer-a-marseille_VN-202611170419.html",
-    "date": "Tue, 17 Nov 2026 09:37:25 GMT",
-    "summary": "Selon une source sécuritaire, 220.000 à 300.000 manifestants sont attendus mardi 17 novembre en région et 30.000 à 60.000 à Paris.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/lEHd8uvUJGcHCIN5p6FcL7Fd2t0=/0x0:1280x720/800x0/images/Mobilisation-du-17-novembre-le-cortege-pret-a-s-elancer-a-Marseille-2385353.jpg\" />"
-  },
-  {
-    "id": "ee556961d0b38dc4a526077b97d5371f",
-    "source": "BFMTV",
-    "title": "Le Café Tech: comment tourneront les usines de demain ?",
-    "link": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-le-cafe-tech-comment-tourneront-les-usines-de-demain_VN-202611170416.html",
-    "date": "Tue, 17 Nov 2026 09:31:58 GMT",
-    "summary": "Comment tourneront les usines de demain avec les nouvelles technologies ? réponse au menu du café tech du mardi 17 novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cwFwigMSJT_-l4W01LCYGyZDDYI=/0x0:1280x720/800x0/images/Le-Cafe-Tech-comment-tourneront-les-usines-de-demain-2385349.jpg\" />"
-  },
-  {
-    "id": "547e1023de71fa5bd08455ee12f3f803",
-    "source": "BFMTV",
-    "title": "Les Experts : Présidentielle, la retraite au centre du débat - 17/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-presidentielle-la-retraite-au-centre-du-debat-17-11_VN-202611170420.html",
-    "date": "Tue, 17 Nov 2026 09:31:12 GMT",
-    "summary": "Ce mardi 17 novembre, le projet de réforme des retraites présenté par le RN, le grand débat autour de ce sujet dans la campagne présidentielle, ainsi que les tensions commerciales entre les États-Unis et la Chine, ont été abordés par Olivier Provost, directeur et associé de Rumeur Publique, Mike O'Sullivan, chef économiste de Moonfare, et Ronan Le Moal, fondateur d'Épopée Gestion, dans l'émission Les Experts, présentée par Laure Closier sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fgobsYQDAYfFbHDkKIwNB4EUYho=/0x0:1280x720/800x0/images/Les-Experts-Presidentielle-la-retraite-au-centre-du-debat-17-11-2385354.jpg\" />"
+    "title": "LFI dépose une proposition de loi pour interdire les gaz lacrymogènes en manifestation, pointant de \"vives inquiétudes\" sur leurs effets",
+    "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-lfi-depose-une-proposition-de-loi-pour-interdire-les-gaz-lacrymogenes-en-manifestation-pointant-de-vives-inquietudes-sur-leurs-effets_VN-202611170863.html",
+    "date": "Tue, 17 Nov 2026 18:46:50 GMT",
+    "summary": "Les députés insoumis dénoncent les conséquences sanitaires de l'utilisation de gaz lacrymogènes en manifestations, notamment sur le cycle menstruel.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/frAJ_zPM_Z-V-u-1gfV-D2hl9zk=/0x0:1280x720/800x0/images/LFI-depose-une-proposition-de-loi-pour-interdire-les-gaz-lacrymogenes-en-manifestation-pointant-de-vives-inquietudes-sur-leurs-effets-2385702.jpg\" />"
   },
   {
     "id": "3a172d65c9cf864c61ca0d9ff388d1d3",
     "source": "BFMTV",
-    "title": "DIRECT. Colère lycéenne: le proviseur du lycée René-Cassin au Raincy dépose plainte pour menaces de mort (info BFMTV)",
+    "title": "DIRECT. Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
     "link": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-entre-250-000-et-360-000-manifestants-attendus-partout-en-france-sophie-binet-apelle-a-un-maximum-de-greves_LN-202611170129.html",
     "date": "Tue, 17 Nov 2026 05:19:51 GMT",
-    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale est prévue à l'appel de l'intersyndicale. Pour ces manifestations, 220.000 à 300.000 manifestants sont attendus par les autorités dans les régions et jusqu'à 60.000 personnes à Paris. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mTjyJ7vfw4lXWfQAM10frnhAL9w=/0x0:1920x1080/800x0/images/L-hotel-de-police-de-Clermont-Ferrand-2128388.jpg\" />"
+    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wWMnwd65DZXhzhxlby7RZvD-IVI=/0x0:1920x1080/800x0/images/La-tete-de-cortege-de-la-manifestation-a-Paris-est-arrivee-place-d-Italie-ce-mardi-17-novembre-avec-28-000-manifestants-sur-place-selon-la-prefecture-de-police-de-Paris-2385569.jpg\" />"
   },
   {
-    "id": "95cfc904f9784ee6db676a5541371d35",
+    "id": "3892eb3154259645a400c17158466c2d",
     "source": "BFMTV",
-    "title": "\"Bienvenue au service secret de sa majesté, Mr Bond\", la famille royale accueille avec humour Robert Pattinson",
-    "link": "https://www.bfmtv.com/people/tetes-couronnees/bienvenue-au-service-secret-de-sa-majeste-mr-bond-la-famille-royale-accueille-avec-humour-robert-pattinson_AN-202611170411.html",
-    "date": "Tue, 17 Nov 2026 09:28:36 GMT",
-    "summary": "La famille royale a souhaité sur Instagram la bienvenue au nouvel interprète de James Bond, l'acteur Robert Pattinson. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/hd5ptXB8Ht8i-bg-tV9gG_4XHWQ=/0x82:672x460/800x0/images/James-Bond-2385335.jpg\" />"
+    "title": "La justice rejette la demande d'indemnisation de 270.000 euros de la ville de Lyon sur l'hébergement d'urgence",
+    "link": "https://www.bfmtv.com/lyon/la-justice-rejette-la-demande-d-indemnisation-de-270-000-euros-de-la-ville-de-lyon-sur-l-hebergement-d-urgence_AD-202611170858.html",
+    "date": "Tue, 17 Nov 2026 18:38:54 GMT",
+    "summary": "Ce mardi 17 novembre, le tribunal administratif de Lyon a rejeté la demande de la ville auprès de l'État d'une indemnisation de plus de 270.000 euros pour carence sur l'hébergement d'urgence.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-cfrrRjioV7Whpd-Myse5phDSag=/6x59:1014x626/800x0/images/Tribunal-administratif-de-Lyon-1971515.jpg\" />"
   },
   {
-    "id": "ab15b5bee8fd425f806dcb451e974bfa",
+    "id": "26d74f95bcf9a5b3eb686a15a27349b4",
     "source": "BFMTV",
-    "title": "Le leader nord-coréen Kim Jong Un aperçu dans une station de ski près de la frontière chinoise avec son épouse et sa fille",
-    "link": "https://www.bfmtv.com/international/asie/coree-nord/le-leader-nord-coreen-kim-jong-un-apercu-dans-une-station-de-ski-pres-de-la-frontiere-chinoise-avec-son-epouse-et-sa-fille_AN-202611170410.html",
-    "date": "Tue, 17 Nov 2026 09:26:34 GMT",
-    "summary": "Des photos ont été publiées ce mardi par l'agence d'Etat KCNA. Ces images surviennent alors que la rumeur circulent que le dirigeant nord-coréen pour rencontre Donald Trump en marge d'un sommet organisé à Shenzhen. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tYmhfM-IEGq8q7N1rdl-PopsM7E=/0x38:768x470/800x0/images/Le-dirigeant-nord-coreen-Kim-Jong-Un-s-exprime-lors-d-une-reunion-du-Parti-des-travailleurs-le-26-fevrier-2022-a-Pyongyang-1358014.jpg\" />"
+    "title": "L'Unicef France annonce suspendre \"la mission d'ambassadeur\" de Teddy Riner en raison de sa candidature à la présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/l-unicef-france-annonce-suspendre-la-mission-d-ambassadeur-de-teddy-riner-en-raison-de-sa-candidature-a-la-presidentielle_AD-202611170849.html",
+    "date": "Tue, 17 Nov 2026 18:31:50 GMT",
+    "summary": "La mission d'ambassadeur pour l'Unicef de Teddy Riner est suspendue. C'est ce qu'a annoncé l'agence ce mardi 17 novembre, évoquant ses \"principes d'indépendance et de neutralité politique\" en lien avec la candidature à la présidentielle du judoka. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RLahVGo7jgbjlK9UCPGbrtl4Jj4=/6x95:2038x1238/800x0/images/Teddy-Riner-lors-du-match-de-NFL-a-Paris-le-25-octobre-2026-2381291.jpg\" />"
   },
   {
-    "id": "ddaeaff209c7f949a35f0067e889c3eb",
+    "id": "96533e797cb423392381bf7c2d9fdb58",
     "source": "BFMTV",
-    "title": "L'IA détruit bien des emplois selon France Travail",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-ia-detruit-bien-des-emplois-selon-france-travail_VN-202611170409.html",
-    "date": "Tue, 17 Nov 2026 09:21:52 GMT",
-    "summary": "Si l'IA permet des gains de productivité, elle doit aussi servir à redonner de la valeur aux métiers. L'enjeu ? Permettre aux professionnels de se recentrer sur leur activité plutôt que de laisser la technologie prendre la place.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/I4v4OpYsc5damwfsisFc14AsSBw=/0x0:1280x720/800x0/images/L-IA-detruit-bien-des-emplois-selon-France-Travail-2385345.jpg\" />"
+    "title": "Pologne: il traverse sur les rails avec sa trottinette et manque de se faire percuter par un train",
+    "link": "https://www.bfmtv.com/international/video-pologne-il-traverse-sur-les-rails-avec-sa-trottinette-et-manque-de-se-faire-percuter-par-un-train_VN-202611170850.html",
+    "date": "Tue, 17 Nov 2026 18:30:11 GMT",
+    "summary": "Cette scène glaçante s'est déroulée en Pologne, sur la ligne Kołobrzeg-Szczecin. Ce conducteur de trottinette a frôlé la mort en ne s'arrêtant pas lors du passage à niveau, alors qu'un train arrivait à vive allure. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WuWuRKNOE6YatamwRr19EomE8zc=/0x0:1280x720/800x0/images/Pologne-il-traverse-sur-les-rails-avec-sa-trottinette-et-manque-de-se-faire-percuter-par-un-train-2385686.jpg\" />"
   },
   {
-    "id": "536c1ba911ff8746cf7a0929a36eeb1f",
+    "id": "06dc97f1bdba4d3f41c64b213cf395e3",
     "source": "BFMTV",
-    "title": "“Notre vie a volé en éclats”: un père de famille condamné à verser 150.000 euros et contraint de vendre sa maison après un contrôle SNCF contesté",
-    "link": "https://www.bfmtv.com/societe/notre-vie-a-vole-en-eclats-un-pere-de-famille-condamne-a-verser-150-000-euros-et-contraint-de-vendre-sa-maison-apres-un-controle-sncf-conteste_AN-202611170405.html",
-    "date": "Tue, 17 Nov 2026 09:17:12 GMT",
-    "summary": "Arnaud, 39 ans, a été condamné à verser 148.000 euros à un contrôleur et à la SNCF à la suite d'un contrôle qui a dégénéré sur un train reliant Aix-en-Provence et Paris en 2021. En instance de divorce et contraint de vendre sa maison, l'homme déplore une somme disproportionnée et dénonce une justice bancale. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zCKi3vlTzfTDcPPgFScN0F2b8VI=/4x3:1252x705/800x0/images/-95314.jpg\" />"
+    "title": "Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-greve-du-17-novembre-la-cgt-releve-plus-de-500-000-manifestants-en-france-146-000-selon-le-ministere-de-l-interieur_VN-202611170848.html",
+    "date": "Tue, 17 Nov 2026 18:28:13 GMT",
+    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/txxE3FvYaBNhnowY13xiqVtzLMc=/0x0:1280x720/800x0/images/Greve-du-17-novembre-la-CGT-releve-plus-de-500-000-manifestants-en-France-146-000-selon-le-ministere-de-l-Interieur-2385683.jpg\" />"
   },
   {
-    "id": "26608c8dccc73ab32b2786cd7af39da6",
+    "id": "527759b0c5581f2addad32b70aec8ccb",
     "source": "BFMTV",
-    "title": "Lille débloque 400 000 euros pour soutenir les commerçants.",
-    "link": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-lille-debloque-400-000-euros-pour-soutenir-les-commercants_VN-202611170406.html",
-    "date": "Tue, 17 Nov 2026 09:15:06 GMT",
-    "summary": "Lille débloque 400 000 euros pour soutenir les commerçants, à quelques semaines de Noël. Le stationnement sera notamment gratuit les samedis jusqu'au 26 décembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RR4DRUH9ea51ScewiNQAG6h5VpM=/0x0:1280x720/800x0/images/Lille-debloque-400-000-euros-pour-soutenir-les-commercants-2385343.jpg\" />"
+    "title": "Presque la moitié dans les entreprises individuelles, mais seulement 17% dans les sociétés de plus de 250 personnes: plus les entreprises sont grandes, plus les femmes dirigeantes se raréfient",
+    "link": "https://www.bfmtv.com/economie/presque-la-moitie-dans-les-entreprises-individuelles-mais-seulement-17-dans-les-societes-de-plus-de-250-personnes-plus-les-entreprises-sont-grandes-plus-les-femmes-dirigeantes-se-rarefient_AD-202611170846.html",
+    "date": "Tue, 17 Nov 2026 18:26:30 GMT",
+    "summary": "Globalement, les femmes représentent plus d'un tiers des dirigeants d'entreprises en France, relève l'Insee. Dans les entreprises de plus de 250 salariés, elles sont le mieux représentées dans la finance et l'immobilier.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BT7aIehMWwKrnKWss_S1wcHRCis=/1x18:337x207/800x0/images/1091041.jpg\" />"
   },
   {
-    "id": "e534aed861a64c815e47bb5f0e0e9288",
+    "id": "eb441f32fae30fdb83adb9d3c12c150d",
     "source": "BFMTV",
-    "title": "Menacé, le proviseur du lycée Paul-Eluard de Saint-Denis placé en \"autorisation spéciale d'absence\"",
-    "link": "https://www.bfmtv.com/societe/video-menace-le-proviseur-du-lycee-paul-eluard-de-saint-denis-place-en-autorisation-speciale-d-absence_VN-202611170407.html",
-    "date": "Tue, 17 Nov 2026 09:14:32 GMT",
-    "summary": "Le proviseur du lycée Paul-Éluard, à Saint-Denis, a été placé en \"autorisation spéciale d’absence afin d’assurer sa protection\", a annoncé ce lundi 16 novembre l'académie de Créteil dans un communiqué.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_spSz6eBl7D6kahwZ8D1fYuc1sc=/0x0:1280x720/800x0/images/Menace-le-proviseur-du-lycee-Paul-Eluard-de-Saint-Denis-place-en-autorisation-speciale-d-absence-2385344.jpg\" />"
+    "title": "Soutien à l'Ukraine: \"Ce que nous voyons c'est une Europe plus unie et plus renforcée que jamais\", affirme Wes Streeting",
+    "link": "https://www.bfmtv.com/international/europe/ukraine/video-soutien-a-l-ukraine-ce-que-nous-voyons-c-est-une-europe-plus-unie-et-plus-renforcee-que-jamais-affirme-wes-streeting_VN-202611170847.html",
+    "date": "Tue, 17 Nov 2026 18:26:24 GMT",
+    "summary": "Wes Streeting, Secrétaire d'État à la Défense du Royaume-Uni, s'est exprimé lors du point presse qui s'est tenu après la réunion du groupe de contact pour la Défense de l'Ukraine, ce mardi 17 novembre, à Bruxelles.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yuUUvuPd-YouL_SZvASfpyYDHsQ=/0x0:1280x720/800x0/images/Soutien-a-l-Ukraine-Ce-que-nous-voyons-c-est-une-Europe-plus-unie-et-plus-renforcee-que-jamais-affirme-Wes-Streeting-2385682.jpg\" />"
+  },
+  {
+    "id": "1bfc46ed3c6d82d71f041ff7ba30da7a",
+    "source": "BFMTV",
+    "title": "Défense de l'Ukraine: \"Les alliés européens vont devoir partager les charges de manière plus équitable\", déclare Mark Rutte",
+    "link": "https://www.bfmtv.com/international/europe/ukraine/video-defense-de-l-ukraine-les-allies-europeens-vont-devoir-partager-les-charges-de-maniere-plus-equitable-declare-mark-rutte_VN-202611170844.html",
+    "date": "Tue, 17 Nov 2026 18:22:18 GMT",
+    "summary": "Mark Rutte, Secrétaire général de l'Otan, a pris la parole lors du point presse qui s'est tenu après la réunion du groupe de contact pour la Défense de l'Ukraine, ce mardi 17 novembre, à Bruxelles.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fhcU68acTbyCb1fL_FhJOxcndc0=/0x0:1280x720/800x0/images/Defense-de-l-Ukraine-Les-allies-europeens-vont-devoir-partager-les-charges-de-maniere-plus-equitable-declare-Mark-Rutte-2385680.jpg\" />"
+  },
+  {
+    "id": "3d36840556bfedb3974d20ddc5ce5a51",
+    "source": "BFMTV",
+    "title": "SIGNÉ CONSIGNY - Colère sociale : faut-il arrêter de manifester ? - 17/11",
+    "link": "https://www.bfmtv.com/replay-emissions/signe-consigny/video-signe-consigny-colere-sociale-faut-il-arreter-de-manifester-17-11_VN-202611170838.html",
+    "date": "Tue, 17 Nov 2026 17:59:11 GMT",
+    "summary": "Retrouvez le replay de Signé Consigny sur BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Npm232zTn1ov57sQL8H-bDBwYxg=/0x0:1280x720/800x0/images/SIGNE-CONSIGNY-Colere-sociale-faut-il-arreter-de-manifester-17-11-2385673.jpg\" />"
+  },
+  {
+    "id": "3c3a8f1435816409a5bc65795ca56f53",
+    "source": "BFMTV",
+    "title": "La Deutsche bank dans la tourmente",
+    "link": "https://www.bfmtv.com/economie/video-la-deutsche-bank-dans-la-tourmente_VN-202611170833.html",
+    "date": "Tue, 17 Nov 2026 17:58:46 GMT",
+    "summary": "Jeffrey Epstein, oligarques russes, financement d'armement en zone de conflit, blanchiment d'argent ... la célèbre banque allemande fait face à de gros dysfonctionnements internes qui ont été révélés par des lanceurs d'alerte.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DOp8poGCDs2T0jS3ylZdZTBri1Y=/0x0:1280x720/800x0/images/La-Deutsche-bank-dans-la-tourmente-2385667.jpg\" />"
+  },
+  {
+    "id": "d7cc13c12589203b55b64099683cdea7",
+    "source": "BFMTV",
+    "title": "Colère sociale: la justice fait annuler trois décisions du ministère de l'Intérieur empêchant des manifestants de se mobiliser",
+    "link": "https://www.bfmtv.com/police-justice/colere-sociale-la-justice-fait-annuler-trois-decisions-du-ministere-de-l-interieur-empechant-des-manifestants-de-se-mobiliser_AN-202611170830.html",
+    "date": "Tue, 17 Nov 2026 17:56:24 GMT",
+    "summary": "Le tribunal administratif de Paris a fait annuler trois mesures de contrôle et de surveillance (Micas) imposées par le ministère de l'Intérieur à trois manifestants. Elles les empêchaient de participer aux mobilisations d'octobre et de novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PfnXbSMVBT8wJEcM0N0xBAAkcak=/0x106:2048x1258/800x0/images/L-entree-du-tribunal-administratif-de-Paris-le-24-juillet-2024-2264540.jpg\" />"
+  },
+  {
+    "id": "9bf3726a42fbb23b648abdac76d1186f",
+    "source": "BFMTV",
+    "title": "Heudebert, Pelletier, Cracotte et Grany: Mondelez veut céder ses marques et usines de biscottes et barres de céréales à un groupe basé au Royaume-Uni",
+    "link": "https://www.bfmtv.com/economie/heudebert-pelletier-cracotte-et-grany-mondelez-veut-ceder-ses-marques-et-usines-de-biscottes-et-barres-de-cereales-a-un-groupe-base-au-royaume-uni_AN-202611170826.html",
+    "date": "Tue, 17 Nov 2026 17:50:43 GMT",
+    "summary": "La multinationale américaine a annoncé être entrée en négociations exclusives avec Princes Group. Ce gros agro-industriel britannique appartient à une société italienne qui a racheté les activités de Carrefour en Italie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WMmOW2uerXJnauj-YR91avBnCX4=/3x565:1635x1483/800x0/images/Une-enquete-de-la-CLCV-sur-les-produits-de-panification-1866687.jpg\" />"
+  },
+  {
+    "id": "ef59292f1c2302c3b78e231768ebc9a0",
+    "source": "BFMTV",
+    "title": "Avec 1.800 euros par mois, \"tout est une contrainte\" pour cet éducateur qui manifestait à Paris ce 17 novembre",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-avec-1-800-euros-par-mois-tout-est-une-contrainte-pour-cet-educateur-qui-manifestait-a-paris-ce-17-novembre_VN-202611170817.html",
+    "date": "Tue, 17 Nov 2026 17:38:56 GMT",
+    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tpoItcHrgKVrYxk_eMkKevs-phI=/0x0:1280x720/800x0/images/Avec-1-800-euros-par-mois-tout-est-une-contrainte-pour-cet-educateur-qui-manifestait-a-Paris-ce-17-novembre-2385653.jpg\" />"
   }
 ]
