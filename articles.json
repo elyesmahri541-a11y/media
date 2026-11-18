@@ -1,5 +1,13 @@
 [
   {
+    "id": "86ed9ddc3a02099de62ad5e990f438c5",
+    "source": "Mediapart",
+    "title": "«Ce qui l’excitait, c’était de me louer»: de nouveaux éléments accablent Philippe Caubère",
+    "link": "https://www.mediapart.fr/journal/france/171126/ce-qui-l-excitait-c-etait-de-me-louer-de-nouveaux-elements-accablent-philippe-caubere",
+    "date": "Tue, 17 Nov 2026 20:06:24 +0100",
+    "summary": "«Mediapart» a recueilli le témoignage d’une deuxième femme qui accuse le comédien, déjà mis en examen pour viols et proxénétisme, de l’avoir prostituée. Dans un carnet intime de 1997, versé à l’enquête judiciaire qui vient d’être close, Philippe Caubère relate lui-même ses recherches de clients."
+  },
+  {
     "id": "8616c07eb90bd07414ea990bb32fc24c",
     "source": "Mediapart",
     "title": "«Les data centers vont nous pourrir la vie»",
@@ -56,10 +64,10 @@
     "summary": "«Mediapart» s’est procuré le rapport commandé par la ville de Carcassonne après la découverte de propos tenus par ses agents. Loin de prendre la mesure de l’affaire qui allait scandaliser le pays, le document n’établissait aucune responsabilité, permettant ainsi au maire d’enterrer l’histoire."
   },
   {
-    "id": "67c686e5fab1885e80ce66d0269043fe",
+    "id": "6786f7febc8a06250fd3b43a1cb245ff",
     "source": "Mediapart",
-    "title": "«C’est incroyable de devoir se justifier des années après»: à son procès, Pierre Ménès se pose en «tête de Turc» de #MeToo",
-    "link": "https://www.mediapart.fr/journal/france/171126/c-est-incroyable-de-devoir-se-justifier-des-annees-apres-son-proces-pierre-menes-se-pose-en-tete-de-turc-d",
+    "title": "«C’est incroyable de devoir se justifier des années après»: à son procès, Pierre Ménès se pose en bouc émissaire de #MeToo",
+    "link": "https://www.mediapart.fr/journal/france/171126/c-est-incroyable-de-devoir-se-justifier-des-annees-apres-son-proces-pierre-menes-se-pose-en-bouc-emissaire",
     "date": "Tue, 17 Nov 2026 10:22:29 +0100",
     "summary": "Jugé lundi pour violences sexuelles et harcèlement moral à l’égard d’une habilleuse et de deux journalistes, l’ancien consultant sportif de Canal+ s’est enfoncé dans une défense agressive. Deux ans de prison, dont un ferme, et 20 000 euros d’amende ont été requis."
   },
@@ -72,28 +80,20 @@
     "summary": "De nombreux syndicats, de la fonction publique aux organisations de jeunesse, appellaient de nouveau à la mobilisation massive mardi 17 novembre. Retrouvez notre live de la journée dans plusieurs villes de France."
   },
   {
-    "id": "3f499ca6131463b42e045800ecd68493",
-    "source": "Mediapart",
-    "title": "Présidentielle: aux Restos du cœur, les candidats confrontés à leurs engagements contre la pauvreté",
-    "link": "https://www.mediapart.fr/journal/france/171126/presidentielle-aux-restos-du-coeur-les-candidats-confrontes-leurs-engagements-contre-la-pauvrete",
-    "date": "Tue, 17 Nov 2026 09:40:08 +0100",
-    "summary": "À l’occasion d’un débat organisé dans un entrepôt des Restos du cœur, Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont confronté leurs visions antagonistes de la solidarité. La candidate du RN s’en est prise violemment à la Ligue des droits humains."
-  },
-  {
-    "id": "f299d9475988021a8525d9ab9563e1cb",
-    "source": "Le Monde",
-    "title": "EN DIRECT, manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France contre la vie chère",
-    "link": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html",
-    "date": "Tue, 17 Nov 2026 17:28:59 +0100",
-    "summary": "A Paris, le cortège qui a relié la place de la Nation à la place d’Italie a réuni 28 000 personnes, mardi, selon la Préfecture de police, et 175 000, selon la CGT."
-  },
-  {
     "id": "45666e85800e5faa8652133bf8d9ae4d",
     "source": "Le Monde",
     "title": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
     "link": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
     "date": "Tue, 17 Nov 2026 19:00:02 +0100",
-    "summary": "Des drones et des missiles ont ciblé le 17 novembre l’une des deux arches de cette mégastructure de 19 kilomètres, qui s’est effondrée dans les eaux du détroit de Kertch. Vital pour la péninsule ukrainienne, cet ouvrage inauguré en 2018 se veut aussi un symbole politique fort pour le Kremlin."
+    "summary": "Des drones et des missiles ont ciblé, le 17 novembre, l’une des deux arches de cette mégastructure de 19 kilomètres, qui s’est effondrée dans les eaux du détroit de Kertch. Vital pour la péninsule ukrainienne, cet ouvrage inauguré en 2018 se veut aussi un symbole politique fort pour le Kremlin."
+  },
+  {
+    "id": "f36b745848e73fc00ba49dd05858e3f4",
+    "source": "Le Monde",
+    "title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html",
+    "date": "Tue, 17 Nov 2026 21:29:39 +0100",
+    "summary": "Mardi, les cortèges ont rassemblé 146 000 personnes dans différentes villes de France, selon le ministère de l’intérieur, plus de 500 000 selon la CGT. Alors que la mobilisation semble s’essouffler, les regards se tournent peu à peu vers le scrutin présidentiel d’avril 2027."
   },
   {
     "id": "6574ca4234c658f9ccd61d9e9ea68ae3",
@@ -104,36 +104,92 @@
     "summary": "Pour la première fois, les révélations d’une enquête internationale permettent d’établir un lien formel et direct entre le président américain et l’argent sale azerbaïdjanais."
   },
   {
+    "id": "d7183cc739cae58502bb46d52ed982c7",
+    "source": "Le Monde",
+    "title": "Procès des parents de « la petite inconnue de l’A10 » : la mère condamnée à vingt ans de réclusion, le père à quinze ans",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html",
+    "date": "Tue, 17 Nov 2026 22:40:44 +0100",
+    "summary": "Les deux accusés sont incarcérés immédiatement avec cette décision, qui marque l’aboutissement, trente-neuf ans après les faits, d’un des plus anciens « cold cases » français, objet de plusieurs livres et documentaires."
+  },
+  {
     "id": "fdf5b40c4f63d5bf76f195284207494f",
     "source": "Le Monde",
     "title": "En Israël, la police et le renseignement intérieur accusés d’avoir servi le clan Nétanyahou pour contester les résultats des législatives",
     "link": "https://www.lemonde.fr/international/article/2026/11/17/en-israel-la-police-et-le-renseignement-interieur-accuses-d-avoir-servi-le-clan-netanyahou-pour-contester-les-resultats-des-legislatives_6813031_3210.html",
-    "date": "Tue, 17 Nov 2026 19:30:04 +0100",
-    "summary": "Trois semaines après les législatives, aucun élément concret ne vient étayer les accusations de « fraude massive » portées par le premier ministre, Benyamin Nétanyahou, et relayées par la police et le Shin Bet à l’encontre des listes arabes. Ces allégations avaient conduit à des perquisitions et des placements en garde à vue."
+    "date": "Tue, 17 Nov 2026 19:30:02 +0100",
+    "summary": "Trois semaines après les élections, aucun élément concret ne vient étayer les accusations de « fraude massive » portées par le premier ministre, Benyamin Nétanyahou, et relayées par la police et le Shin Bet à l’encontre des listes arabes. Ces allégations avaient conduit à des perquisitions et des placements en garde à vue."
   },
   {
-    "id": "059b316d25661b139df2d8d074f42cf9",
+    "id": "8297dfcde50330ff68321680109642cb",
     "source": "Le Monde",
-    "title": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html",
-    "date": "Tue, 17 Nov 2026 17:58:45 +0100",
-    "summary": "Un « catalogue de contradictions », selon Bruno Retailleau (LR), une réforme « mensongère, coûteuse et antisociale », selon Edouard Philippe (Horizons)… le projet de réforme des retraites présenté par Marine Le Pen, mardi, a immédiatement fait réagir sur tout le spectre politique."
+    "title": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
+    "date": "Tue, 17 Nov 2026 19:00:09 +0100",
+    "summary": "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie."
   },
   {
-    "id": "08c74f715fe12303053733edec2a315f",
+    "id": "c82a130a7ae92fdf5ff41ad0af86dc06",
     "source": "Le Monde",
-    "title": "« Les Empêchés » fait le récit intime et politique d’un couple face au handicap",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/17/les-empeches-fait-le-recit-intime-et-politique-d-un-couple-face-au-handicap_6813032_3232.html",
-    "date": "Tue, 17 Nov 2026 19:30:06 +0100",
-    "summary": "Lamia El Aaraje, première adjointe à la Mairie de Paris, et son mari, Julien Parelon, racontent dans un récit à deux voies l’irruption de la maladie de Charcot dans leurs vies, et les nombreux obstacles médicaux, matériels ou administratifs érigés par la société, que même une responsable politique peine à franchir."
+    "title": "Au procès de l’explosion de la rue de Trévise, le « combat acharné » des associations de victimes face à la « maltraitance institutionnelle »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-explosion-de-la-rue-de-trevise-le-combat-acharne-des-associations-de-victimes-face-a-la-maltraitance-institutionnelle_6813052_3224.html",
+    "date": "Tue, 17 Nov 2026 23:51:39 +0100",
+    "summary": "Linda Zaourar, présidente de l’association des Victimes et rescapés de l’explosion de la rue de Trévise, et Dominique Paris, de Trévise Ensemble, ont exposé à la barre, mardi 17 novembre, leur lutte pour une juste indemnisation des victimes."
   },
   {
-    "id": "c5c18266bbc73ec8a09bf115b76213a7",
+    "id": "be7fdd2f310baf6130ce5648ea1ac5dd",
     "source": "Le Monde",
-    "title": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html",
-    "date": "Tue, 17 Nov 2026 19:02:40 +0100",
-    "summary": "Cinq écoles du 14ᵉ arrondissement pourraient être fermées à cause de la baisse démographique et des finances exsangues de la Ville de Paris face aux besoins de rénovation du bâti. Une méthode bientôt étendue à toute la capitale."
+    "title": "L’évocation de la vie privée de la militante Anne-Cécile Mailfert en direct sur Franceinfo vire au débat politique ; la chaîne présente des excuses et plaide la transparence",
+    "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/17/l-evocation-de-la-vie-privee-de-la-militante-anne-cecile-mailfert-en-direct-sur-franceinfo-vire-au-debat-politique-la-chaine-presente-des-excuses-et-plaide-la-transparence_6813039_3236.html",
+    "date": "Tue, 17 Nov 2026 20:53:35 +0100",
+    "summary": "Lundi, à la fin d’un débat consacré à Gérard Depardieu et à la question des violences sexuelles, une journaliste a invoqué la charte déontologique de la chaîne publique pour rappeler qu’Anne-Cécile Mailfert est la compagne d’un dirigeant de France Télévisions."
+  },
+  {
+    "id": "62e21f1a7b680e1d76618ed6b23c14d1",
+    "source": "Le Monde",
+    "title": "Royaume-Uni : une réforme « radicale » pour remettre dans l’emploi « une génération perdue »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/17/royaume-uni-une-reforme-radicale-pour-remettre-dans-l-emploi-une-generation-perdue_6813035_3210.html",
+    "date": "Tue, 17 Nov 2026 19:48:40 +0100",
+    "summary": "Un rapport a été publié, mardi, qui propose des mesures pour les près d’un million de jeunes Britanniques âgés de 16 à 24 ans qui ne sont ni en emploi, ni en études, ni en formation. Le gouvernement s’en inspirera pour présenter ses propositions en 2027."
+  },
+  {
+    "id": "b7af6ece6fa3014506c4764632375210",
+    "source": "Le Monde",
+    "title": "Cancer du pancréas : la Commission européenne donne son feu vert à un nouveau traitement",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/17/cancer-du-pancreas-la-commission-europeenne-donne-son-feu-vert-a-un-nouveau-traitement_6813042_3234.html",
+    "date": "Tue, 17 Nov 2026 21:21:40 +0100",
+    "summary": "L’essai clinique mené par Revolution Medicines, la biotech américaine à l’origine du daraxonrasib, montre un doublement de la survie médiane chez les patients l’ayant reçu."
+  },
+  {
+    "id": "0fd84664ad8277dea5f70497ac073d10",
+    "source": "Le Monde",
+    "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
+    "date": "Tue, 17 Nov 2026 21:46:06 +0100",
+    "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique."
+  },
+  {
+    "id": "371b8382f6a050d6c312392beeab6ded",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : Gérald Darmanin appelle Bruno Retailleau et Gabriel Attal à s’effacer derrière Edouard Philippe, pour barrer la route à Jean-Luc Mélenchon",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-gerald-darmanin-appelle-bruno-retailleau-et-gabriel-attal-a-s-effacer-derriere-edouard-philippe-pour-barrer-la-route-a-jean-luc-melenchon_6813056_823448.html",
+    "date": "Wed, 18 Nov 2026 02:08:53 +0100",
+    "summary": "« Si M. Mélenchon est au second tour face à Mme Le Pen, je pense que ce sera un choc immense dans notre pays », a déclaré mardi le ministre de la justice, estimant que le candidat « insoumis » l’emporterait dans une telle configuration."
+  },
+  {
+    "id": "c5ee9143fee01ed1539ab8ff06842476",
+    "source": "Le Monde",
+    "title": "« Un abandon flagrant de responsabilité et d’humanité » : HRW dénonce le projet de cinq pays européens d’expulser des migrants vers le Rwanda",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/un-abandon-flagrant-de-responsabilite-et-d-humanite-hrw-denonce-le-projet-de-cinq-pays-europeens-d-expulser-des-migrants-vers-le-rwanda_6813055_3210.html",
+    "date": "Wed, 18 Nov 2026 02:06:57 +0100",
+    "summary": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont présenté un projet inédit visant à transférer vers le Rwanda des demandeurs d’asile dont les recours ont été définitivement rejetés."
+  },
+  {
+    "id": "4f0dfe7f79593c00aa423a91e4783d6c",
+    "source": "Le Monde",
+    "title": "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
+    "date": "Wed, 18 Nov 2026 01:05:56 +0100",
+    "summary": "Raha Bahreini, chercheuse principale de l’ONG pour l’Iran, rapporte que le nombre d’exécutions pour des motifs politiques a augmenté « à un niveau jamais vu ces dernières décennies » dans le pays, avec au moins 39 personnes exécutées en lien avec les manifestations antigouvernementales de janvier."
   },
   {
     "id": "6163044d42e0dcdadb5b5eb85e36fa6a",
@@ -144,60 +200,108 @@
     "summary": "Plusieurs liaisons ferroviaires sont interrompues dans les Hauts-de-France depuis mardi matin et jusqu’à mercredi midi en raison de vents violents."
   },
   {
-    "id": "6cfc2b89650fbd4aa337d117b80fa836",
-    "source": "Le Monde",
-    "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
-    "date": "Tue, 17 Nov 2026 17:58:59 +0100",
-    "summary": "Le Mexique et la Bolivie ont subi le même sort, un an après que le Canada a déjà perdu ce statut en raison d’une épidémie persistante de rougeole."
+    "id": "65a4ad5a2a4f8abe3a216464dc89258f",
+    "source": "Libération",
+    "title": "«Malika» de Mounia Meddour, bas de gamme",
+    "link": "https://www.liberation.fr/culture/cinema/malika-de-mounia-meddour-bas-de-gamme-20261117_IXIJ2CH7KRH2VB6VF6H3UBPJDE/",
+    "date": "Tue, 17 Nov 2026 21:46:00 +0000",
+    "summary": "La cinéaste met en scène la jeunesse de la cantatrice d’opéra d’origine algérienne Malika Bellaribi, sans dévier d’une formule lourde de scénario où le racisme ne semble qu’une embûche sur le chemin des bonnes volontés."
   },
   {
-    "id": "9231b9e6375cc3ee6351f1043c6a5db1",
-    "source": "Le Monde",
-    "title": "En Belgique, une œuvre représentant un cochon au volant d’une fourgonnette de police fait polémique",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/en-belgique-une-uvre-representant-un-cochon-au-volant-d-une-fourgonnette-de-police-fait-polemique_6813022_3210.html",
-    "date": "Tue, 17 Nov 2026 18:45:07 +0100",
-    "summary": "Alors qu’à Bruxelles les étudiants manifestent à nouveau le mardi 17 novembre, une pièce exposée au musée municipal de Gand représentant un porc aux manettes d’un véhicule de patrouille déclenche une bataille politique."
+    "id": "7b72dc62d9f8e83a76d7dda1af506a7e",
+    "source": "Libération",
+    "title": "«Vorace» de Malgorzata Lebda : la faune et la mort",
+    "link": "https://www.liberation.fr/culture/livres/vorace-de-malgorzata-lebda-la-faune-et-la-mort-20261117_XPOEBNJ3WZCUFILXAGSO6Z7FC4/",
+    "date": "Tue, 17 Nov 2026 21:38:00 +0000",
+    "summary": "Dans ce premier roman, où la narratrice accompagne sa grand-mère mourante, l’écrivaine polonaise raconte la nature avec poésie."
   },
   {
-    "id": "fc363b75deb093f823355beed811d54b",
-    "source": "Le Monde",
-    "title": "Nicolas Thierry récompensé par le prix Earthshot pour son combat contre les PFAS en France",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/17/nicolas-thierry-recompense-par-le-prix-earthshot-pour-son-combat-contre-les-pfas-en-france_6813033_3244.html",
-    "date": "Tue, 17 Nov 2026 19:45:26 +0100",
-    "summary": "Fils et petit-fils de viticulteurs, l’élu de Gironde a fait de la lutte contre la pollution chimique le fil conducteur de son engagement. Sa campagne contre les PFAS a abouti en 2025 à une loi restreignant leur utilisation."
+    "id": "30d4f829362f50191c3decbe123094e0",
+    "source": "Libération",
+    "title": "Affaire de «la petite inconnue de l’A10» : la mère et le père condamnés à 20 ans et 15 ans de réclusion criminelle",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-de-la-petite-inconnue-de-la10-la-mere-et-le-pere-condamnes-a-20-ans-et-15-ans-de-reclusion-criminelle-20261117_FLR7DAUR6NCA5DKMHSTC24FLKQ/",
+    "date": "Tue, 17 Nov 2026 21:34:27 +0000",
+    "summary": "La cour d’assises du Loir-et-Cher a rendu son verdict à l’encontre des parents d’Inass Touloub, 4 ans, dont le corps avait été retrouvé le 11 août 1987."
   },
   {
-    "id": "317af58974f2fd43644b94019af8bebb",
-    "source": "Le Monde",
-    "title": "Le directeur de la prison d’Aix-Luynes en garde à vue pour détention d’images pédocriminelles",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/17/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedocriminelles_6812999_3224.html",
-    "date": "Tue, 17 Nov 2026 16:50:41 +0100",
-    "summary": "Le ministère de la justice a suspendu le fonctionnaire « à titre conservatoire » et annonce une procédure de révocation « si les faits sont avérés »."
+    "id": "2247e5cdaf9791d951a799a6a849b0f3",
+    "source": "Libération",
+    "title": "Au procès de l’agression de Michel Zecler, trois policiers, quelques excuses, mais surtout pas de racisme",
+    "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-trois-policiers-quelques-excuses-mais-surtout-pas-de-racisme-20261117_NNQFLBRESBHF5LDTSVQRMQQPKM/",
+    "date": "Tue, 17 Nov 2026 21:08:22 +0000",
+    "summary": "Entre mea culpa et justification, les accusés ont été interrogés ce mardi 17 novembre par la cour criminelle départementale de Paris sur l’interpellation violente du producteur de musique. Ils répondront mercredi aux questions sur les faux procès-verbaux."
   },
   {
-    "id": "b82235d7f7529feba16dd9902ea24958",
-    "source": "Le Monde",
-    "title": "Masculinisme : 34 membres d’une chaîne Telegram baptisée « Femmeblancherie » devant la justice pour leurs propos haineux",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/17/masculinisme-34-membres-d-une-chaine-telegram-baptisee-femmeblancherie-devant-la-justice-pour-leurs-propos-haineux_6813009_3224.html",
-    "date": "Tue, 17 Nov 2026 17:30:12 +0100",
-    "summary": "Prévus en plusieurs sessions, les procès de ces hommes s’ouvrent mercredi 18 novembre au tribunal correctionnel de Paris. Ils comparaissent pour une multiplicité de délits : injures contre les femmes, appels au meurtre et au viol, mais aussi diatribes racistes et antisémites."
+    "id": "e2970a6546b76cd4318758cefeaec7bb",
+    "source": "Libération",
+    "title": "Une proposition de loi bientôt déposée pour interdire l’usage des gaz lacrymogènes contre les manifestants",
+    "link": "https://www.liberation.fr/societe/sante/une-proposition-de-loi-bientot-deposee-pour-interdire-lusage-des-gaz-lacrymogenes-contre-les-manifestants-20261117_GOLYCDTSQJA2PG7CGPZ27ECB5A/",
+    "date": "Tue, 17 Nov 2026 20:59:04 +0000",
+    "summary": "Face aux incertitudes quant aux effets néfastes des gaz irritants sur la santé des femmes, les députés de La France insoumise vont déposer un texte pour ne plus qu’ils soient employés lors des rassemblements."
   },
   {
-    "id": "d20c515c7c093d41c7bb055a17bef4ca",
-    "source": "Le Monde",
-    "title": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
-    "date": "Tue, 17 Nov 2026 18:42:16 +0100",
-    "summary": "Le cofondateur de la multinationale américaine des semi-conducteurs a aussi déclaré, sur X, se tenir prêt à revenir à la tête de l’entreprise si son conseil d’administration le décidait. Il a démissionné le 12 novembre après la révélation de sa liaison avec Alice Huang, une femme d’affaires chinoise."
+    "id": "b5c39cbc08d2d8f32513795f3b347f7c",
+    "source": "Libération",
+    "title": "Mobilisation sociale : 146 000 personnes ont manifesté en France ce mardi selon l’Intérieur, plus de 500 000 selon les syndicats",
+    "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
+    "date": "Tue, 17 Nov 2026 20:56:31 +0000",
+    "summary": "En cette nouvelle journée de grève, des manifestations ont eu lieu à travers le pays, comme à Marseille, Lyon, Nantes ou Toulouse."
   },
   {
-    "id": "c6c6217350099749ba42907a6198fe1d",
-    "source": "Le Monde",
-    "title": "L’arrêt très attendu de la Cour internationale de justice sur la question du génocide des Rohingya",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
-    "date": "Tue, 17 Nov 2026 18:15:07 +0100",
-    "summary": "La CIJ dira, jeudi 19 novembre, si la Birmanie a commis un génocide contre la minorité musulmane. Alors que la décision devrait préciser les contours de la définition juridique du génocide, les tentatives américaines d’intimidation contre ses juges se multiplient."
+    "id": "49b947ad5154e6c95264ddeaafb3e270",
+    "source": "Libération",
+    "title": "Allemagne : l’armée, le petit canard en plastique et les grosses critiques",
+    "link": "https://www.liberation.fr/international/europe/allemagne-larmee-le-petit-canard-en-plastique-et-la-grosse-polemique-20261117_BJNPQXBALBBJ3IJSZHP3RMZGCA/",
+    "date": "Tue, 17 Nov 2026 20:43:57 +0000",
+    "summary": "La Bundeswehr, qui cherche à tout prix à renforcer ses effectifs, subit des vifs reproches pour la mise en vente d’un jouet représentant un palmipède en tenue militaire, accusé de banaliser la guerre."
+  },
+  {
+    "id": "fc4b3fb5996d061eb6d092f27539121e",
+    "source": "Libération",
+    "title": "«Les Braves» de Lukas Dhont, à l’amour comme à la guerre",
+    "link": "https://www.liberation.fr/culture/les-braves-de-lukas-dhont-a-lamour-comme-a-la-guerre-20261117_I3NNWJGCTJDSJNLSI2I2VJRUUY/",
+    "date": "Tue, 17 Nov 2026 20:05:00 +0000",
+    "summary": "Sur fond de Première Guerre mondiale, le troisième long métrage de Lucas Dhont, qui raconte l’idylle entre deux soldats sur le front belge, séduit par un casting réussi – le duo Macchia-Campagne a reçu le prix d’interprétation à Cannes – mais se perd dans une niaiserie à double tranchant."
+  },
+  {
+    "id": "9a19d8f7dcb0419229f1beb8e5de5f43",
+    "source": "Libération",
+    "title": "En treize ans, le monde a changé et «GTA VI» roule dessus",
+    "link": "https://www.liberation.fr/culture/jeux-video/en-treize-ans-le-monde-a-change-et-gta-vi-roule-dessus-20261117_Z2A7N23I4BD27JXBTAVCUGTSY4/",
+    "date": "Tue, 17 Nov 2026 19:46:08 +0000",
+    "summary": "Si plus personne n’ose attaquer le produit culturel le plus rentable de l’histoire, reste à savoir s’il est encore possible pour Rockstar Games de conserver la satire sociale qui a fait le succès du jeu."
+  },
+  {
+    "id": "6084b1d5c606e965430a8a756266fd47",
+    "source": "Libération",
+    "title": "«Au point où en est ma paie, je peux bien me mobiliser quelques heures» : des cortèges moins fournis mais toujours revendicatifs",
+    "link": "https://www.liberation.fr/economie/au-point-ou-en-est-ma-paie-je-peux-bien-me-mobiliser-quelques-heures-des-corteges-moins-fournis-mais-toujours-revendicatifs-20261117_QVLZZR3KJBGELPTNS6PIOJWQXY/",
+    "date": "Tue, 17 Nov 2026 19:40:37 +0000",
+    "summary": "Plus de 500 000 personnes selon la CGT, et 146 000 selon le ministère de l’Intérieur, se sont mobilisées ce mardi 16 novembre à l’appel des syndicats de la fonction publique. Au-delà de la question de la rémunération des fonctionnaires, les manifestations à travers la France ont rassemblé agents publics, lycéens, étudiants et retraités."
+  },
+  {
+    "id": "bca8ba69740de80c993d4bf14b8ac01e",
+    "source": "Libération",
+    "title": "Anne-Cécile Mailfert renvoyée à son compagnon : oui à la transparence, si elle est transparente",
+    "link": "https://www.liberation.fr/idees-et-debats/anne-cecile-mailfert-renvoyee-a-son-compagnon-oui-a-la-transparence-si-elle-est-transparente-20261117_ODDBBK2VVRD5BHEC75ZCNANQBM/",
+    "date": "Tue, 17 Nov 2026 19:22:27 +0000",
+    "summary": "A la fin d’une interview portant sur Gérard Depardieu, sur Franceinfo, la présentatrice a rappelé que la présidente de la Fondation des femmes est en couple avec Stéphane Sitbon-Gomez, le numéro 2 de France Télévisions. L’objectif est déontologique, mais la forme pose question."
+  },
+  {
+    "id": "41dbf404abbee85a67da6e6d4fc26a47",
+    "source": "Libération",
+    "title": "Sur quels éléments s’appuie le Premier ministre pour accuser des agents publics d’avoir fourni des mortiers d’artifice à des lycéens ?",
+    "link": "https://www.liberation.fr/checknews/sur-quels-elements-sappuie-le-premier-ministre-pour-accuser-des-agents-publics-davoir-fourni-des-mortiers-dartifice-a-des-lyceens-20261117_VTEPJFH6ANAGTGYCRJKX3CI4WQ/",
+    "date": "Tue, 17 Nov 2026 19:05:43 +0000",
+    "summary": "Depuis quelques jours, Sébastien Lecornu et plusieurs ministres affirment que des personnels de l’Education nationale auraient aidé des lycéens à se procurer des feux d’artifice. L’exécutif évoque «des dizaines de cas» et des enquêtes en cours, mais sans pouvoir donner de détails précis."
+  },
+  {
+    "id": "3e4b2b8ef59bb32c4cd72e52236edbfc",
+    "source": "Libération",
+    "title": "Dans le bassin minier, un bus gratuit pour tous",
+    "link": "https://www.liberation.fr/forums/dans-le-bassin-minier-un-bus-gratuit-pour-tous-20261117_FRBU2QFDCFAZHANQ656AL2YDMI/",
+    "date": "Tue, 17 Nov 2026 19:05:00 +0000",
+    "summary": "Depuis le 1er janvier, le réseau de transports en commun Tadao est gratuit pour les habitants et les visiteurs. Un soulagement une population touchée par la précarité."
   },
   {
     "id": "ec15339f4d18301adce651b389e1226a",
@@ -208,116 +312,12 @@
     "summary": "En raison d’une couverture vaccinale en baisse et de la défiance de l’administration Trump envers les injections, le pays fait aujourd’hui face à sa pire épidémie en trois décennies. Depuis le début de l’année, 12 personnes sont mortes, dont de très jeunes enfants."
   },
   {
-    "id": "b5c39cbc08d2d8f32513795f3b347f7c",
-    "source": "Libération",
-    "title": "EN DIRECT – Mobilisation sociale : 146 000 personnes ont manifesté en France selon l’Intérieur, plus de 500 000 selon les syndicats",
-    "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
-    "date": "Tue, 17 Nov 2026 18:31:04 +0000",
-    "summary": "En cette nouvelle journée de grève, des manifestations ont eu lieu ce mardi 17 novembre dans la matinée à travers le pays, comme à Marseille, Lyon, Nantes ou Toulouse. A Paris, le cortège est parti peu après 14 heures."
-  },
-  {
     "id": "6ac8e4f72f861c96e42e9b2e3849d68a",
     "source": "Libération",
     "title": "«On reste scotché au téléphone» : le BHV fermé, ses salariés déprimés attendent une hypothétique réouverture",
     "link": "https://www.liberation.fr/economie/social/on-reste-scotche-au-telephone-le-bhv-ferme-ses-salaries-deprimes-attendent-une-hypothetique-reouverture-20261117_TQNSJBBQIFHZFI67UGGBA22Y5U/",
     "date": "Tue, 17 Nov 2026 18:26:21 +0000",
     "summary": "Les employés de la célèbre enseigne sont dans l’incertitude depuis la soudaine fermeture administrative des deux grands magasins franciliens, le 9 novembre, faute d’assurance en règle. Désabusés, ils peinent à croire en une reprise certaine de l’activité."
-  },
-  {
-    "id": "f54f8513bfa615c6333526d6539e87bc",
-    "source": "Libération",
-    "title": "Mobilisation sociale, soldats français en Ukraine, pont de Crimée… L’actu de ce mardi 17 novembre",
-    "link": "https://www.liberation.fr/international/europe/mobilisation-sociale-soldats-francais-en-ukraine-pont-de-crimee-lactu-de-ce-mardi-17-novembre-20261117_COFKJTGAEBA5ZONZCCWP345L5I/",
-    "date": "Tue, 17 Nov 2026 17:57:03 +0000",
-    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 17 novembre."
-  },
-  {
-    "id": "cdf51c08aca02ca93fb2578b1c38894a",
-    "source": "Libération",
-    "title": "Après sa tournée triomphale en Amérique du Sud, Léon XIV creuse son sillon en antipopuliste social",
-    "link": "https://www.liberation.fr/societe/apres-sa-tournee-triomphale-en-amerique-du-sud-leon-xiv-creuse-son-sillon-en-antipopuliste-social-20261117_UVCQVXQW4JBC5EXGFJLGC3GXA4/",
-    "date": "Tue, 17 Nov 2026 17:38:04 +0000",
-    "summary": "Au fil de ses voyages, le pontife américain assoit son leadership mondial et réveille, en Amérique latine, une Eglise catholique toujours confrontée à la progression des évangéliques."
-  },
-  {
-    "id": "dcc8a34b38546bc6416130ee678b1bf6",
-    "source": "Libération",
-    "title": "La mise aux enchères d’un Van Gogh à New York bousculée par la contestation d’héritiers",
-    "link": "https://www.liberation.fr/culture/arts/new-york-la-mise-aux-encheres-dun-van-gogh-confirmee-malgre-la-contestation-dheritiers-20261117_LGJRE4RRNZCMZH6CDRQ4EBJIOM/",
-    "date": "Tue, 17 Nov 2026 17:37:44 +0000",
-    "summary": "La famille de l’ancien propriétaire du tableau «Châtaigniers en fleurs», estimé à 180 millions de dollars, affirme qu’il aurait été vendu en 1936 sous la pression des nazis. Un accord a été trouvé avec Sotheby’s."
-  },
-  {
-    "id": "2aaa92adfcdc4de8bbcc54752647144d",
-    "source": "Libération",
-    "title": "Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe»",
-    "link": "https://www.liberation.fr/politique/elections/le-rn-presente-enfin-sa-reforme-des-retraites-un-projet-tout-en-tours-de-passe-passe-20261117_MA72YG6BJBHVBI3DQSQZFEHSFE/",
-    "date": "Tue, 17 Nov 2026 17:29:24 +0000",
-    "summary": "Si le plan de Marine Le Pen continue de faire miroiter des départs dès 60 ans pour les plus jeunes travailleurs, il crée une nouvelle obligation : un nombre plancher de trimestres à valider, qui allongerait de nombreuses carrières."
-  },
-  {
-    "id": "3f9b63d0fec2a71dfd7e8c700ec89b03",
-    "source": "Libération",
-    "title": "Candidat à la présidentielle, Teddy Riner ne peut plus être ambassadeur de l’Unicef",
-    "link": "https://www.liberation.fr/politique/elections/candidat-a-la-presidentielle-teddy-riner-ne-peut-plus-etre-ambassadeur-de-lunicef-20261117_6J72XBXQ55C4HPCXN4P7Q4RK3Q/",
-    "date": "Tue, 17 Nov 2026 17:27:20 +0000",
-    "summary": "La branche française de l’agence de l’ONU pour la protection de l’enfance suspend la mission du judoka, évoquant les «principes d’indépendance et de neutralité politique» liés à son action."
-  },
-  {
-    "id": "c420be34aaa5cea78e077c1fe4f7d9fb",
-    "source": "Libération",
-    "title": "A l’expo «Archives des invisibles», les revenants d’entre les rushs",
-    "link": "https://www.liberation.fr/culture/arts/a-lexpo-archives-des-invisibles-les-revenants-dentre-les-rushs-20261117_Z6PZL2GDNJGBNJTRIJ2KPB52PY/",
-    "date": "Tue, 17 Nov 2026 17:22:14 +0000",
-    "summary": "A la fondation Kadist à Paris, Joana Hadjithomas, Khalil Joreige et Taddeo Reinhardt ont collecté des fragments de films non retenus par des réalisateurs et artistes en leur demandant de contextualiser leurs choix."
-  },
-  {
-    "id": "92725da6b33d1605f5a3cddd6f7db24e",
-    "source": "Libération",
-    "title": "Rugby : l’entraîneur sud-africain suspendu 6 matchs après ses critiques de l’arbitrage de la rencontre contre la France",
-    "link": "https://www.liberation.fr/sports/rugby/rugby-lentraineur-sud-africain-suspendu-6-matchs-apres-ses-critiques-de-larbitrage-de-la-rencontre-contre-la-franc-20261117_2GHYNQWTJJFTDGO5UF2FC6HNLU/",
-    "date": "Tue, 17 Nov 2026 17:06:23 +0000",
-    "summary": "Rassie Erasmus avait estimé que de nombreux plaquages irréguliers des Bleus n’avaient pas été sanctionnés et que le demi-mêlée Maxime Lucu n’était sorti du terrain que 7 minutes au lieu de 10 après son carton jaune."
-  },
-  {
-    "id": "26af9b0268216de2c5314cd4c7105ecb",
-    "source": "Libération",
-    "title": "En Asie, pour jouer à «GTA VI», il faut déjouer la censure",
-    "link": "https://www.liberation.fr/culture/jeux-video/en-asie-pour-jouer-a-gta-vi-il-faut-dejouer-la-censure-20261117_VBFXNHHGRBHAPBDFX5NYOL5AZY/",
-    "date": "Tue, 17 Nov 2026 17:06:03 +0000",
-    "summary": "Version édulcorée au Japon, pas vendu officiellement en Chine… Le blockbuster de Rockstar Games, très attendu pour sa sortie jeudi 19 novembre, a une histoire compliquée avec le continent."
-  },
-  {
-    "id": "533af4623114ddfa29fcbfacc1ce2b03",
-    "source": "Libération",
-    "title": "«Gabin», un documentaire qui a le sens du bétail",
-    "link": "https://www.liberation.fr/culture/gabin-un-documentaire-qui-a-le-sens-du-betail-20261117_OKJZCPGM6BE2LKFDDUEGQTA3VI/",
-    "date": "Tue, 17 Nov 2026 17:01:55 +0000",
-    "summary": "Pour son premier long métrage, Maxime Voiseux a planté sa caméra pendant dix ans dans le quotidien d’agriculteurs artésiens, à travers le regard du benjamin de la famille. Et réussit la prouesse de dresser un magnifique portrait tout en interrogeant intelligemment les mutations du monde agricole."
-  },
-  {
-    "id": "509af054e2da9a0a2acb0650d4850533",
-    "source": "Libération",
-    "title": "Fraude fiscale : expulsés de leur moulin à Giverny à la suite d’une décision de justice, les Balkany vont pouvoir rentrer chez eux",
-    "link": "https://www.liberation.fr/societe/police-justice/fraude-fiscale-expulses-de-leur-moulin-a-giverny-a-la-suite-dune-decision-de-justice-les-balkany-vont-pouvoir-rentrer-chez-eux-20261117_7HPOUPKEMRGKLDAINZCTICVWAQ/",
-    "date": "Tue, 17 Nov 2026 16:52:52 +0000",
-    "summary": "Les deux anciens élus de Levallois-Perret avaient été sommés de quitter la demeure, fin octobre, en raison d’une condamnation en justice en 2023. Un accord avec l’agence de l’Etat responsable de cette saisie va leur permettre de revenir, ce mardi 17 novembre."
-  },
-  {
-    "id": "a3113fa4c95ce39b8bc14e6b850ef87b",
-    "source": "Libération",
-    "title": "«J’avais 10 ans, j’avais l’image de trois garçons...» : après «60 ans de déni», Muriel Robin raconte avoir subi un viol collectif",
-    "link": "https://www.liberation.fr/societe/javais-10-ans-jai-limage-de-3-garcons-apres-60-ans-de-deni-muriel-robin-raconte-avoir-subi-un-viol-collectif-20261117_A6Y2VUMJEZCZPO7R6COKCOPSRI/",
-    "date": "Tue, 17 Nov 2026 16:51:50 +0000",
-    "summary": "Dans une interview accordée à France Inter lundi 16 novembre, l’humoriste s’est également livrée sur son addiction à l’alcool, «une façon de remettre sa vie à demain»."
-  },
-  {
-    "id": "a660f96a58cc21c4cf90ae4feb5ebc62",
-    "source": "Libération",
-    "title": "Inquiets pour le bac ou Parcoursup, les lycéens mobilisés à la croisée des chemins : «Il va falloir que j’aille en cours, j’ai trop de retard»",
-    "link": "https://www.liberation.fr/societe/education/inquiets-pour-le-bac-ou-parcoursup-les-lyceens-mobilises-a-la-croisee-des-chemins-il-va-falloir-que-jaille-en-cours-jai-trop-de-retard-20261117_W3A67IWHCVAQTI2IGC2ZXJTMQA/",
-    "date": "Tue, 17 Nov 2026 16:44:33 +0000",
-    "summary": "Après deux mois de mouvement social, plusieurs élèves racontent les pressions multiples auxquels ils font face. Celle des forces de l’ordre, de l’administration scolaire, voire des parents."
   },
   {
     "id": "a59ebd5416ffd30907109ca2bda3c9dc",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/_-9-79d28.jpg?1794816838\" width=\"700\" />\n<p>Le Collectif enfantiste a participé à la manifestation du 14 novembre. Une convergence avec les mouvements écologiste et lycéen, pour sensibiliser aux violences et au mépris que subissent les jeunes. <br class=\"autobr\" />\nParis, reportage <br class=\"autobr\" />\n«<small class=\"fine d-inline\"> </small>En ce moment, en manif, je n'ose pas venir avec mon enfant. C'est trop rare, les événements militants où l'on peut venir avec de jeunes enfants<small class=\"fine d-inline\"> </small>», s'enthousiasme une mère dans le bucolique square du Temple, à Paris. «<small class=\"fine d-inline\"> </small>Ce n'est pas toujours facile de faire garder nos (…)</p>\n\n            <a href=\"https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Reportage\" rel=\"directory\">Reportage</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Luttes\" rel=\"tag\">Luttes</a>\n            , \n                <a href=\"https://reporterre.net/Pedagogie-Education\" rel=\"tag\">Pédagogie Éducation</a>"
   },
   {
-    "id": "c9e443e75c400f3d5876dfa607e61d81",
+    "id": "e22bbaee194b79a5b441d3b99e23e764",
     "source": "BFMTV",
-    "title": "Guerre au Moyen-Orient: un responsable local affirme que les États-Unis ont mené plusieurs frappes contre l'île iranienne de Qeshm,",
-    "link": "https://www.bfmtv.com/international/moyen-orient/iran/guerre-au-moyen-orient-un-responsable-local-affirme-que-les-etats-unis-ont-mene-plusieurs-frappes-contre-l-ile-iranienne-de-qeshm_AD-202611170864.html",
-    "date": "Tue, 17 Nov 2026 18:50:48 GMT",
-    "summary": "D'après Ahmad Nafisi, gouverneur adjoint de la province d'Hormozgan cité par l'agence Irna, \"l'attaque américaine contre des sites situés sur l'île de Qeshm n'a causé aucun dommage aux zones résidentielles, commerciales ou aux infrastructures\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BGvm7G715CSqWCs_tVnkrq1VcAk=/0x0:2048x1152/800x0/images/Petroliers-Ormuz-2297951.jpg\" />"
+    "title": "FORUM BFMTV - Colères, vie chère: la grande fracture",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-coleres-vie-chere-la-grande-fracture_VN-202611171020.html",
+    "date": "Tue, 17 Nov 2026 23:07:42 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0uXakG78HAN8ysAEXN6ayvzMPK8=/0x0:1280x720/800x0/images/FORUM-BFMTV-Coleres-vie-chere-la-grande-fracture-2385818.jpg\" />"
   },
   {
-    "id": "f6de0ec5d9354d1c943f0a349b608d67",
+    "id": "611adb513841e8587617401c5f8bcd16",
     "source": "BFMTV",
-    "title": "LFI dépose une proposition de loi pour interdire les gaz lacrymogènes en manifestation, pointant de \"vives inquiétudes\" sur leurs effets",
-    "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-lfi-depose-une-proposition-de-loi-pour-interdire-les-gaz-lacrymogenes-en-manifestation-pointant-de-vives-inquietudes-sur-leurs-effets_VN-202611170863.html",
-    "date": "Tue, 17 Nov 2026 18:46:50 GMT",
-    "summary": "Les députés insoumis dénoncent les conséquences sanitaires de l'utilisation de gaz lacrymogènes en manifestations, notamment sur le cycle menstruel.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/frAJ_zPM_Z-V-u-1gfV-D2hl9zk=/0x0:1280x720/800x0/images/LFI-depose-une-proposition-de-loi-pour-interdire-les-gaz-lacrymogenes-en-manifestation-pointant-de-vives-inquietudes-sur-leurs-effets-2385702.jpg\" />"
+    "title": "FORUM BFMTV - \"La retraite est finançable, il y a des choix qui peuvent être faits\", explique Julien Troccaz, secrétaire fédéral SUD-Rail",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-la-retraite-est-financable-il-y-a-des-choix-qui-peuvent-etre-faits-explique-julien-troccaz-secretaire-federal-sud-rail_VN-202611171009.html",
+    "date": "Tue, 17 Nov 2026 22:59:29 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yQ6OY7tln3NaijxpIzap1Uuz_cU=/0x0:1280x720/800x0/images/FORUM-BFMTV-La-retraite-est-financable-il-y-a-des-choix-qui-peuvent-etre-faits-explique-Julien-Troccaz-secretaire-federal-SUD-Rail-2385816.jpg\" />"
   },
   {
-    "id": "3a172d65c9cf864c61ca0d9ff388d1d3",
+    "id": "a3819a8dcc78270cd5f05f982dcc0302",
     "source": "BFMTV",
-    "title": "DIRECT. Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
-    "link": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-entre-250-000-et-360-000-manifestants-attendus-partout-en-france-sophie-binet-apelle-a-un-maximum-de-greves_LN-202611170129.html",
-    "date": "Tue, 17 Nov 2026 05:19:51 GMT",
-    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wWMnwd65DZXhzhxlby7RZvD-IVI=/0x0:1920x1080/800x0/images/La-tete-de-cortege-de-la-manifestation-a-Paris-est-arrivee-place-d-Italie-ce-mardi-17-novembre-avec-28-000-manifestants-sur-place-selon-la-prefecture-de-police-de-Paris-2385569.jpg\" />"
+    "title": "Coup dur pour Benjamin Netanyahu: Matan Kahana, un proche de Gadi Eisenkot, élu à la présidence du Parlement israélien",
+    "link": "https://www.bfmtv.com/international/moyen-orient/israel/coup-dur-pour-benjamin-netanyahu-matan-kahana-un-proche-de-gadi-eisenkot-elu-a-la-presidence-du-parlement-israelien_AD-202611171008.html",
+    "date": "Tue, 17 Nov 2026 22:57:55 GMT",
+    "summary": "Matan Kahana, un proche du centriste Gadi Eisenkot, a été élu à la tête du Parlement israélien ce mardi 16 novembre. Un revers conséquent pour le clan de Benjamin Netanyahu.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aa-R2HdzClnRKg6oGVq_Is_sNWs=/0x40:1200x715/800x0/images/Matan-Kahana-ancien-membre-des-forces-speciales-israeliennes-a-ete-elu-president-du-Parlement-israelien-ce-mardi-17-novembre-2026-2385806.jpg\" />"
   },
   {
-    "id": "3892eb3154259645a400c17158466c2d",
+    "id": "2723718b8ec0da65a6081629fea79d30",
     "source": "BFMTV",
-    "title": "La justice rejette la demande d'indemnisation de 270.000 euros de la ville de Lyon sur l'hébergement d'urgence",
-    "link": "https://www.bfmtv.com/lyon/la-justice-rejette-la-demande-d-indemnisation-de-270-000-euros-de-la-ville-de-lyon-sur-l-hebergement-d-urgence_AD-202611170858.html",
-    "date": "Tue, 17 Nov 2026 18:38:54 GMT",
-    "summary": "Ce mardi 17 novembre, le tribunal administratif de Lyon a rejeté la demande de la ville auprès de l'État d'une indemnisation de plus de 270.000 euros pour carence sur l'hébergement d'urgence.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-cfrrRjioV7Whpd-Myse5phDSag=/6x59:1014x626/800x0/images/Tribunal-administratif-de-Lyon-1971515.jpg\" />"
+    "title": "Colère sociale: 7.184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre",
+    "link": "https://www.bfmtv.com/societe/manifestations/colere-sociale-7-184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre_AD-202611171006.html",
+    "date": "Tue, 17 Nov 2026 22:45:21 GMT",
+    "summary": "Les journées de mobilisation contre la vie chère ont donné lieu à des violences, notamment des blessés du côté des manifestants et des forces de l'ordre. Le ministre de la Justice, Gérald Darmanin, a encore recensé 466 peines d'emprisonnement, dont 195 fermes et 111 avec mandat de dépôt.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fFkx3Ndj3SfRVmIC10OQWD3Df8o=/0x40:768x472/800x0/images/Manifestation-contre-la-vie-chere-a-Montpellier-le-17-octobre-2026-2369970.jpg\" />"
   },
   {
-    "id": "26d74f95bcf9a5b3eb686a15a27349b4",
+    "id": "9a277ef329080bfc5a32d66a337e5245",
     "source": "BFMTV",
-    "title": "L'Unicef France annonce suspendre \"la mission d'ambassadeur\" de Teddy Riner en raison de sa candidature à la présidentielle",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/l-unicef-france-annonce-suspendre-la-mission-d-ambassadeur-de-teddy-riner-en-raison-de-sa-candidature-a-la-presidentielle_AD-202611170849.html",
-    "date": "Tue, 17 Nov 2026 18:31:50 GMT",
-    "summary": "La mission d'ambassadeur pour l'Unicef de Teddy Riner est suspendue. C'est ce qu'a annoncé l'agence ce mardi 17 novembre, évoquant ses \"principes d'indépendance et de neutralité politique\" en lien avec la candidature à la présidentielle du judoka. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/RLahVGo7jgbjlK9UCPGbrtl4Jj4=/6x95:2038x1238/800x0/images/Teddy-Riner-lors-du-match-de-NFL-a-Paris-le-25-octobre-2026-2381291.jpg\" />"
+    "title": "\"Koh-Lanta: All Stars\": Qui de Lola, Christina ou Freddy a remporté la finale de cette saison?",
+    "link": "https://www.bfmtv.com/people/medias-tv/koh-lanta-all-stars-qui-de-lola-christina-ou-freddy-a-remporte-la-finale-de-cette-saison_AN-202611171005.html",
+    "date": "Tue, 17 Nov 2026 22:40:17 GMT",
+    "summary": "Après plus de 30 jours d'aventures, Denis Brogniart a annoncé ce mardi 17 novembre le nom la personne qui remporte cette saison inédite de \"Koh-Lanta\", qui réunissait plusieurs anciennes figures emblématiques du jeu.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/cYkgB0DR6dFjiLZPyzjs_6X5E6k=/6x3:918x516/800x0/images/Koh-lanta-2385720.jpg\" />"
   },
   {
-    "id": "96533e797cb423392381bf7c2d9fdb58",
+    "id": "3e67927b7917c6ad2aac7de19c724d92",
     "source": "BFMTV",
-    "title": "Pologne: il traverse sur les rails avec sa trottinette et manque de se faire percuter par un train",
-    "link": "https://www.bfmtv.com/international/video-pologne-il-traverse-sur-les-rails-avec-sa-trottinette-et-manque-de-se-faire-percuter-par-un-train_VN-202611170850.html",
-    "date": "Tue, 17 Nov 2026 18:30:11 GMT",
-    "summary": "Cette scène glaçante s'est déroulée en Pologne, sur la ligne Kołobrzeg-Szczecin. Ce conducteur de trottinette a frôlé la mort en ne s'arrêtant pas lors du passage à niveau, alors qu'un train arrivait à vive allure. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WuWuRKNOE6YatamwRr19EomE8zc=/0x0:1280x720/800x0/images/Pologne-il-traverse-sur-les-rails-avec-sa-trottinette-et-manque-de-se-faire-percuter-par-un-train-2385686.jpg\" />"
+    "title": "FORUM BFMTV - Manifestations en France: \"Il faut condamner toutes les violences\", rappelle Yannis, employé polyvalent",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-en-france-il-faut-condamner-toutes-les-violences-rappelle-yannis-employe-polyvalent_VN-202611171000.html",
+    "date": "Tue, 17 Nov 2026 22:28:27 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Srb78D43e35J1mdsq_Lk8V9JQwQ=/0x0:1280x720/800x0/images/FORUM-BFMTV-Manifestations-en-France-Il-faut-condamner-toutes-les-violences-rappelle-Yannis-employe-polyvalent-2385811.jpg\" />"
   },
   {
-    "id": "06dc97f1bdba4d3f41c64b213cf395e3",
+    "id": "a31e249ff01e8dd78dbc729dbb3ee7c9",
     "source": "BFMTV",
-    "title": "Grève du 17 novembre: la CGT relève plus de 500.000 manifestants en France, 146.000 selon le ministère de l’Intérieur",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-greve-du-17-novembre-la-cgt-releve-plus-de-500-000-manifestants-en-france-146-000-selon-le-ministere-de-l-interieur_VN-202611170848.html",
-    "date": "Tue, 17 Nov 2026 18:28:13 GMT",
-    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/txxE3FvYaBNhnowY13xiqVtzLMc=/0x0:1280x720/800x0/images/Greve-du-17-novembre-la-CGT-releve-plus-de-500-000-manifestants-en-France-146-000-selon-le-ministere-de-l-Interieur-2385683.jpg\" />"
+    "title": "FORUM BFMTV - Manifestations: \"Je reste dans mon commerce, avec mon chien et mon flashball\", témoigne Didier, buraliste",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-je-reste-dans-mon-commerce-avec-mon-chien-et-mon-flashball-temoigne-didier-buraliste_VN-202611171001.html",
+    "date": "Tue, 17 Nov 2026 22:28:09 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fuPjE5v3izsszrBl3s-pf93WOCc=/0x0:1280x720/800x0/images/FORUM-BFMTV-Manifestations-Je-reste-dans-mon-commerce-avec-mon-chien-et-mon-flashball-temoigne-Didier-buraliste-2385812.jpg\" />"
   },
   {
-    "id": "527759b0c5581f2addad32b70aec8ccb",
+    "id": "74aa9151a6c12dfcefdf94285187d9e0",
     "source": "BFMTV",
-    "title": "Presque la moitié dans les entreprises individuelles, mais seulement 17% dans les sociétés de plus de 250 personnes: plus les entreprises sont grandes, plus les femmes dirigeantes se raréfient",
-    "link": "https://www.bfmtv.com/economie/presque-la-moitie-dans-les-entreprises-individuelles-mais-seulement-17-dans-les-societes-de-plus-de-250-personnes-plus-les-entreprises-sont-grandes-plus-les-femmes-dirigeantes-se-rarefient_AD-202611170846.html",
-    "date": "Tue, 17 Nov 2026 18:26:30 GMT",
-    "summary": "Globalement, les femmes représentent plus d'un tiers des dirigeants d'entreprises en France, relève l'Insee. Dans les entreprises de plus de 250 salariés, elles sont le mieux représentées dans la finance et l'immobilier.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BT7aIehMWwKrnKWss_S1wcHRCis=/1x18:337x207/800x0/images/1091041.jpg\" />"
+    "title": "FORUM BFMTV - Police en manifestation: \"Il y a un ras-le-bol complet et en face de nous, il y a un gouvernement qui ferme les yeux\", note Jean-Christophe Couvy, secrétaire national du syndicat de police UN1TÉ",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-police-en-manifestation-il-y-a-un-ras-le-bol-complet-et-en-face-de-nous-il-y-a-un-gouvernement-qui-ferme-les-yeux-note-jean-christophe-couvy-secretaire-national-du-syndicat-de-police-un1te_VN-202611170999.html",
+    "date": "Tue, 17 Nov 2026 22:24:40 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/sS-j00aKCE2BiiqUrjw2FZ0iBRo=/0x0:1280x720/800x0/images/FORUM-BFMTV-Police-en-manifestation-Il-y-a-un-ras-le-bol-complet-et-en-face-de-nous-il-y-a-un-gouvernement-qui-ferme-les-yeux-note-Jean-Christophe-Couvy-secretaire-national-du-syndicat-de-police-UN1TE-2385810.jpg\" />"
   },
   {
-    "id": "eb441f32fae30fdb83adb9d3c12c150d",
+    "id": "be46234e0f363a3e97662907ec5e2772",
     "source": "BFMTV",
-    "title": "Soutien à l'Ukraine: \"Ce que nous voyons c'est une Europe plus unie et plus renforcée que jamais\", affirme Wes Streeting",
-    "link": "https://www.bfmtv.com/international/europe/ukraine/video-soutien-a-l-ukraine-ce-que-nous-voyons-c-est-une-europe-plus-unie-et-plus-renforcee-que-jamais-affirme-wes-streeting_VN-202611170847.html",
-    "date": "Tue, 17 Nov 2026 18:26:24 GMT",
-    "summary": "Wes Streeting, Secrétaire d'État à la Défense du Royaume-Uni, s'est exprimé lors du point presse qui s'est tenu après la réunion du groupe de contact pour la Défense de l'Ukraine, ce mardi 17 novembre, à Bruxelles.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/yuUUvuPd-YouL_SZvASfpyYDHsQ=/0x0:1280x720/800x0/images/Soutien-a-l-Ukraine-Ce-que-nous-voyons-c-est-une-Europe-plus-unie-et-plus-renforcee-que-jamais-affirme-Wes-Streeting-2385682.jpg\" />"
+    "title": "\"Un défilé de perturbations\": la pluie va continuer de tomber partout en France jusqu'à la fin de la semaine",
+    "link": "https://www.bfmtv.com/meteo/un-defile-de-perturbations-la-pluie-va-continuer-de-tomber-partout-en-france-jusqu-a-la-fin-de-la-semaine_AN-202611170997.html",
+    "date": "Tue, 17 Nov 2026 22:21:04 GMT",
+    "summary": "La pluie va tomber toute la semaine avec seulement une accalmie samedi, selon un bulletin publié par Météo-France mardi 17 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/XULBGzkeW84NSDSwuDPgRbSCuR4=/0x48:1024x624/800x0/images/Face-a-l-arrivee-de-la-depression-Kirk-34-departements-ont-ete-places-en-vigilance-orange-par-Meteo-France-ce-mercredi-9-octobre-2024-1953046.jpg\" />"
   },
   {
-    "id": "1bfc46ed3c6d82d71f041ff7ba30da7a",
+    "id": "5d3db19b5b6939440ce978dc8029212e",
     "source": "BFMTV",
-    "title": "Défense de l'Ukraine: \"Les alliés européens vont devoir partager les charges de manière plus équitable\", déclare Mark Rutte",
-    "link": "https://www.bfmtv.com/international/europe/ukraine/video-defense-de-l-ukraine-les-allies-europeens-vont-devoir-partager-les-charges-de-maniere-plus-equitable-declare-mark-rutte_VN-202611170844.html",
-    "date": "Tue, 17 Nov 2026 18:22:18 GMT",
-    "summary": "Mark Rutte, Secrétaire général de l'Otan, a pris la parole lors du point presse qui s'est tenu après la réunion du groupe de contact pour la Défense de l'Ukraine, ce mardi 17 novembre, à Bruxelles.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fhcU68acTbyCb1fL_FhJOxcndc0=/0x0:1280x720/800x0/images/Defense-de-l-Ukraine-Les-allies-europeens-vont-devoir-partager-les-charges-de-maniere-plus-equitable-declare-Mark-Rutte-2385680.jpg\" />"
+    "title": "Résultats EuroMillions: le tirage du mardi 17 novembre 2026",
+    "link": "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-mardi-17-novembre-2026_AN-202611170064.html",
+    "date": "Tue, 17 Nov 2026 22:20:00 GMT",
+    "summary": "Ce mardi 17 novembre 2026 a eu lieu le premier tirage de l'EuroMillions de la semaine. Les joueurs peuvent consulter les 5 numéros et les 2 étoiles tirés au sort sur cette page. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mIlIWXHPXFccjH5ihrcHs1PcN0g=/6x69:1254x771/800x0/images/Resultats-EuroMillions-du-mardi-1655917.jpg\" />"
   },
   {
-    "id": "3d36840556bfedb3974d20ddc5ce5a51",
+    "id": "6829971f695f67266f8294c083cb6f8d",
     "source": "BFMTV",
-    "title": "SIGNÉ CONSIGNY - Colère sociale : faut-il arrêter de manifester ? - 17/11",
-    "link": "https://www.bfmtv.com/replay-emissions/signe-consigny/video-signe-consigny-colere-sociale-faut-il-arreter-de-manifester-17-11_VN-202611170838.html",
-    "date": "Tue, 17 Nov 2026 17:59:11 GMT",
-    "summary": "Retrouvez le replay de Signé Consigny sur BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Npm232zTn1ov57sQL8H-bDBwYxg=/0x0:1280x720/800x0/images/SIGNE-CONSIGNY-Colere-sociale-faut-il-arreter-de-manifester-17-11-2385673.jpg\" />"
+    "title": "INFO BFMTV. \"Une balle pour te finir\": le député LFI Sébastien Delogu dépose plainte contre X pour menaces de mort et actes d'intimidation",
+    "link": "https://www.bfmtv.com/police-justice/info-bfmtv-une-balle-pour-te-finir-le-depute-lfi-sebastien-delogu-depose-plainte-contre-x-pour-menaces-de-mort-et-actes-d-intimidation_AN-202611170990.html",
+    "date": "Tue, 17 Nov 2026 22:07:14 GMT",
+    "summary": "Dans cette plainte, que BFMTV a pu consulter, l’élu marseillais vise plusieurs centaines de messages reçus par SMS, WhatsApp, courriers et appels \"comportant des menaces, des intimidations mais aussi des propos injurieux\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/NWT47etIdxMcJNf_2ITNbEPSTgM=/0x212:2048x1364/800x0/images/Sebastien-Delogu-a-Marseile-le-14-janvier-2026-2231581.jpg\" />"
   },
   {
-    "id": "3c3a8f1435816409a5bc65795ca56f53",
+    "id": "98bd7bf9500c44f6a16fa881b716ff12",
     "source": "BFMTV",
-    "title": "La Deutsche bank dans la tourmente",
-    "link": "https://www.bfmtv.com/economie/video-la-deutsche-bank-dans-la-tourmente_VN-202611170833.html",
-    "date": "Tue, 17 Nov 2026 17:58:46 GMT",
-    "summary": "Jeffrey Epstein, oligarques russes, financement d'armement en zone de conflit, blanchiment d'argent ... la célèbre banque allemande fait face à de gros dysfonctionnements internes qui ont été révélés par des lanceurs d'alerte.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/DOp8poGCDs2T0jS3ylZdZTBri1Y=/0x0:1280x720/800x0/images/La-Deutsche-bank-dans-la-tourmente-2385667.jpg\" />"
+    "title": "Procès de la \"petite martyre de l'A10\": la mère et le père d'Inass condamnés à 20 et 15 ans de réclusion criminelle après la mort de leur fillette en 1987",
+    "link": "https://www.bfmtv.com/police-justice/proces/direct-proces-de-la-petite-martyre-de-l-a10-plaidoiries-des-avocats-de-la-defense-avant-les-derniers-mots-des-accuses_LN-202611170350.html",
+    "date": "Tue, 17 Nov 2026 08:04:32 GMT",
+    "summary": "Le procès des parents d'Inass, la \"petite martyre de l'A10\", touche à sa fin à Blois (Loir-et-Cher). Ce mardi 17 novembre, les avocats de la défense plaident tour à tour, puis les accusés prononceront leurs derniers mots avant que la cour ne se retire pour délibérer.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/u1Iw4zfWhJIUZwzPRN2wVbtHt4I=/0x40:768x472/800x0/images/Accusee-et-mere-d-Inass-Touloub-Halima-El-Bakhti-g-dont-le-visage-est-dissimule-par-un-foulard-est-escortee-par-des-policiers-et-son-avocat-Camille-Radot-d-au-palais-de-justice-de-Blois-Loir-et-Cher-le-2-novembre-2026-2376654.jpg\" />"
   },
   {
-    "id": "d7cc13c12589203b55b64099683cdea7",
+    "id": "0c3db6a80c942b1571e400f9b5999577",
     "source": "BFMTV",
-    "title": "Colère sociale: la justice fait annuler trois décisions du ministère de l'Intérieur empêchant des manifestants de se mobiliser",
-    "link": "https://www.bfmtv.com/police-justice/colere-sociale-la-justice-fait-annuler-trois-decisions-du-ministere-de-l-interieur-empechant-des-manifestants-de-se-mobiliser_AN-202611170830.html",
-    "date": "Tue, 17 Nov 2026 17:56:24 GMT",
-    "summary": "Le tribunal administratif de Paris a fait annuler trois mesures de contrôle et de surveillance (Micas) imposées par le ministère de l'Intérieur à trois manifestants. Elles les empêchaient de participer aux mobilisations d'octobre et de novembre.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PfnXbSMVBT8wJEcM0N0xBAAkcak=/0x106:2048x1258/800x0/images/L-entree-du-tribunal-administratif-de-Paris-le-24-juillet-2024-2264540.jpg\" />"
+    "title": "\"C'est scandaleux\": le député Aymeric Caron rappelé à l'ordre après avoir quitté l'hémicyle, furieux d'avoir vu son micro coupé",
+    "link": "https://www.bfmtv.com/politique/la-france-insoumise/c-est-scandaleux-le-depute-aymeric-caron-rappele-a-l-ordre-apres-avoir-quitte-l-hemicyle-furieux-d-avoir-vu-son-micro-coupe_AV-202611170989.html",
+    "date": "Tue, 17 Nov 2026 22:03:52 GMT",
+    "summary": "Le député apparenté LFI de Paris a vu son micro être coupé alors qu'il n'avait pas fini de poser sa question adressée ce mardi au ministre de l'Intérieur Laurent Nuñez. Sorti de l'hémicycle en furie, il a dénoncé un \"épisode absolument lamentable de la part de la macronie\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wCt6cAcn-hfiE3cK-M7ZlIMojmA=/0x53:1024x629/800x0/images/Aymeric-Caron-a-l-Assemblee-nationale-ce-mardi-17-novembre-2026-2385731.jpg\" />"
   },
   {
-    "id": "9bf3726a42fbb23b648abdac76d1186f",
+    "id": "4f4446367b338fda64a3c700b91cd36d",
     "source": "BFMTV",
-    "title": "Heudebert, Pelletier, Cracotte et Grany: Mondelez veut céder ses marques et usines de biscottes et barres de céréales à un groupe basé au Royaume-Uni",
-    "link": "https://www.bfmtv.com/economie/heudebert-pelletier-cracotte-et-grany-mondelez-veut-ceder-ses-marques-et-usines-de-biscottes-et-barres-de-cereales-a-un-groupe-base-au-royaume-uni_AN-202611170826.html",
-    "date": "Tue, 17 Nov 2026 17:50:43 GMT",
-    "summary": "La multinationale américaine a annoncé être entrée en négociations exclusives avec Princes Group. Ce gros agro-industriel britannique appartient à une société italienne qui a racheté les activités de Carrefour en Italie.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/WMmOW2uerXJnauj-YR91avBnCX4=/3x565:1635x1483/800x0/images/Une-enquete-de-la-CLCV-sur-les-produits-de-panification-1866687.jpg\" />"
+    "title": "FORUM BFMTV - \"Vous êtes des voleurs\": échange tendu entre Cherrine, juriste et Aleksandar Nikolic, porte-parole du RN",
+    "link": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-vous-etes-des-voleurs-echange-tendu-entre-cherrine-juriste-et-aleksandar-nikolic-porte-parole-du-rn_VN-202611170988.html",
+    "date": "Tue, 17 Nov 2026 22:00:03 GMT",
+    "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/K30KxABZLMx1CPsR7WqdDGY7-j4=/0x0:1280x720/800x0/images/FORUM-BFMTV-Vous-etes-des-voleurs-echange-tendu-entre-Cherrine-juriste-et-Aleksandar-Nikolic-porte-parole-du-RN-2385807.jpg\" />"
   },
   {
-    "id": "ef59292f1c2302c3b78e231768ebc9a0",
+    "id": "f21680560033a82083edecc67e2c6e1e",
     "source": "BFMTV",
-    "title": "Avec 1.800 euros par mois, \"tout est une contrainte\" pour cet éducateur qui manifestait à Paris ce 17 novembre",
-    "link": "https://www.bfmtv.com/societe/manifestations/video-avec-1-800-euros-par-mois-tout-est-une-contrainte-pour-cet-educateur-qui-manifestait-a-paris-ce-17-novembre_VN-202611170817.html",
-    "date": "Tue, 17 Nov 2026 17:38:56 GMT",
-    "summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale. Partout en France, la CGT a relevé plus de 500.000 manifestants et le ministère de l'Intérieur en a pour sa part décompté 146.000. Le cortège à Paris a par ailleurs pris fin à place d'Italie.\n\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tpoItcHrgKVrYxk_eMkKevs-phI=/0x0:1280x720/800x0/images/Avec-1-800-euros-par-mois-tout-est-une-contrainte-pour-cet-educateur-qui-manifestait-a-Paris-ce-17-novembre-2385653.jpg\" />"
+    "title": "Un avion de transport militaire s'écrase en Sibérie causant la mort des 19 personnes",
+    "link": "https://www.bfmtv.com/international/asie/russie/un-avion-de-transport-militaire-s-ecrase-en-siberie-causant-la-mort-des-19-personnes_AD-202611170986.html",
+    "date": "Tue, 17 Nov 2026 21:58:34 GMT",
+    "summary": "Le crash d'un avion de transport militaire An-12 a entraîné la mort des 19 personnes à son bord dans la région de Kemerovo, en Sibérie. Une défaillance technique pourrait avoir été à l'origine de cet accident. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/stB-sBG3EIkTzB94A0BBHKXW29g=/0x106:2048x1258/800x0/images/Photo-prise-le-28-septembre-2021-dans-la-region-de-Zabaikalsky-en-Siberie-orientale-1557852.jpg\" />"
   }
 ]
