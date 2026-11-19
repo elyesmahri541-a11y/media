@@ -1,5 +1,21 @@
 [
   {
+    "id": "829a3b8a5c0b73877d18b2cd7b2e86da",
+    "source": "Mediapart",
+    "title": "Mouvement de la jeunesse: le gouvernement joue le pourrissement, la colère s’enkyste",
+    "link": "https://www.mediapart.fr/journal/france/181126/mouvement-de-la-jeunesse-le-gouvernement-joue-le-pourrissement-la-colere-s-enkyste",
+    "date": "Wed, 18 Nov 2026 20:53:13 +0100",
+    "summary": "Les chiffres des dernières manifestations dessinent une décrue dans la rue. Dans les lycées, l’invisibilisation des blocages par le gouvernement pousse à encore davantage de radicalité. Si les universités restent mobilisées, la tension croît partout."
+  },
+  {
+    "id": "8e54ed32017ba5a792f6e89c86eb5f59",
+    "source": "Mediapart",
+    "title": "Le parquet demande un procès pour le comédien Philippe Caubère et son ancienne avocate Marie Dosé",
+    "link": "https://www.mediapart.fr/journal/france/181126/le-parquet-demande-un-proces-pour-le-comedien-philippe-caubere-et-son-ancienne-avocate-marie-dose",
+    "date": "Wed, 18 Nov 2026 19:52:03 +0100",
+    "summary": "Le parquet de Créteil a demandé le renvoi devant une cour criminelle de Philippe Caubère pour viols aggravés et proxénétisme notamment, et de son ancienne avocate, Marie Dosé, pour complicité d’altération ou dissimulation de preuves, dans une des affaires les plus glaçantes de l’ère #MeToo en France."
+  },
+  {
     "id": "7da199a5149876aa8b897ff1690c372c",
     "source": "Mediapart",
     "title": "Des militants en «convois» là où LFI perce sans exister: la nouvelle idée de la campagne Mélenchon",
@@ -64,60 +80,44 @@
     "summary": "Auteur d’un livre sur «Grand Theft Auto», Angelo Careri analyse pour «Mediapart» le discours mordant de cette saga de jeux vidéo prolifique, dont le prochain opus, très attendu, sort jeudi 19 novembre."
   },
   {
-    "id": "86c1f045cc5f23d633dc9518ae4f38c0",
-    "source": "Mediapart",
-    "title": "Les houthistes menacent Aden, capitale du gouvernement yéménite",
-    "link": "https://www.mediapart.fr/journal/international/181126/les-houthistes-menacent-aden-capitale-du-gouvernement-yemenite",
-    "date": "Wed, 18 Nov 2026 14:18:08 +0100",
-    "summary": "Faute de cohésion, les forces gouvernementales, soutenues par l’Arabie saoudite, sont incapables d’enrayer l’avancée des houthistes. Elles ont dû abandonner les positions récemment reconquises vers la mer Rouge pour protéger Aden, leur capitale provisoire."
-  },
-  {
-    "id": "919a9910e4015ea9c82491fa6d0f2479",
-    "source": "Mediapart",
-    "title": "Libertés associatives: Marine Le Pen dans les pas d’Emmanuel Macron",
-    "link": "https://www.mediapart.fr/journal/france/181126/libertes-associatives-marine-le-pen-dans-les-pas-d-emmanuel-macron",
-    "date": "Wed, 18 Nov 2026 12:23:36 +0100",
-    "summary": "En attaquant la Ligue des droits humains et en proposant de ne plus subventionner les associations «politisées», la candidate d’extrême droite s’inscrit dans la même politique répressive amorcée sous le mandat de l’actuel président et déjà dénoncée par le monde associatif."
-  },
-  {
     "id": "c0d521dae2aba94e76fe5fe022762372",
     "source": "Le Monde",
     "title": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
     "link": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
-    "date": "Wed, 18 Nov 2026 18:00:19 +0100",
+    "date": "Wed, 18 Nov 2026 18:00:08 +0100",
     "summary": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un mandat d’arrêt de la Cour pénale internationale, ce sommet fait craindre que l’avenir de l’Ukraine soit discuté entre les trois hommes, sans considération pour les intérêts des Européens."
   },
   {
-    "id": "a35dcf3454cc27447eef14d209e060f7",
+    "id": "048ef26922ab559842cf6bdea94eb913",
     "source": "Le Monde",
-    "title": "A Nantes, après la visite perturbée du ministre au lycée Nelson-Mandela, élèves et enseignants ne pourront « pas oublier ce qui s’est passé »",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/18/a-nantes-apres-la-visite-perturbee-du-ministre-au-lycee-nelson-mandela-eleves-et-enseignants-ne-pourront-pas-oublier-ce-qui-s-est-passe_6813165_3224.html",
-    "date": "Wed, 18 Nov 2026 17:18:54 +0100",
-    "summary": "Les élèves du lycée Nelson-Mandela retournent en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre. Les événements survenus lors de la visite du ministre de l’éducation nationale, lundi 16 novembre, ont contraint à repousser cette rentrée de deux jours."
+    "title": "Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html",
+    "date": "Wed, 18 Nov 2026 20:21:15 +0100",
+    "summary": "L’ancien premier ministre, à la peine dans les sondages, rêve toujours d’imposer son agenda. Sans dévoiler de nouvelles mesures, il a mis en scène la première partie de son projet tout en refusant à nouveau l’idée d’une primaire."
   },
   {
-    "id": "c24c0efff6b61884519e413d1a9363ce",
+    "id": "59b99cca7ed117ecba630ae0dfc31810",
     "source": "Le Monde",
-    "title": "Affaire Philippe Caubère : le ministère public demande le renvoi en cour criminelle du comédien et de l’avocate Marie Dosé",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/18/affaire-philippe-caubere-le-ministere-public-demande-le-renvoi-en-cour-criminelle-du-comedien-et-de-l-avocate-marie-dose_6813169_3224.html",
-    "date": "Wed, 18 Nov 2026 17:41:02 +0100",
-    "summary": "Trois plaignantes, mineures au moment de leur rencontre avec lui, accusent l’artiste de viols, d’agressions sexuelles ou encore de proxénétisme. La pénaliste est pour sa part soupçonnée d’avoir aidé à la dissimulation d’un ordinateur compromettant pour sa défense. Les deux mis en cause contestent les faits."
+    "title": "Suppression de l’interdiction de louer les passoires thermiques : à l’Assemblée, fortes tensions sur la crise du logement",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/18/suppression-de-l-interdiction-de-louer-les-passoires-thermiques-a-l-assemblee-fortes-tensions-sur-la-crise-du-logement_6813194_3224.html",
+    "date": "Wed, 18 Nov 2026 19:37:37 +0100",
+    "summary": "Des députés de droite ont ajouté leurs voix à celles du RN et permis l’adoption d’un amendement au projet de loi logement qui vise à mettre fin aux obligations de rénover les logements locatifs les plus énergivores. Un recul très contesté, qui met en péril l’adoption du texte gouvernemental."
   },
   {
-    "id": "2fca53f42d8ad60bc9bf25c703f9763b",
+    "id": "f2f0c519b3b99c62601d53fea07a5639",
     "source": "Le Monde",
-    "title": "Danemark : pour la première fois, la cheffe du gouvernement, Mette Frederiksen, parle du « grand remplacement »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
-    "date": "Wed, 18 Nov 2026 19:00:06 +0100",
-    "summary": "Dans un podcast, mardi 17 novembre, la responsable sociale-démocrate a évoqué la théorie complotiste, se livrant à une nouvelle surenchère dans le domaine de l’immigration. Ses propos ont été salués par l’extrême droite européenne."
+    "title": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
+    "date": "Wed, 18 Nov 2026 21:24:02 +0100",
+    "summary": "Le leader de La France insoumise a débattu deux heures durant, mardi 17 novembre, avec une douzaine de ténors du CAC 40. L’occasion de mettre en avant son projet d’économie collectiviste et son patriotisme."
   },
   {
-    "id": "ed8aa4061fceacbe014a5cd84dc0ce7e",
+    "id": "b370f0a7644ff1995c573cc26104c871",
     "source": "Le Monde",
-    "title": "Budget de la « Sécu » 2027 : le projet de texte adopté au Sénat en première lecture",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/18/budget-de-la-secu-2027-le-projet-de-texte-adopte-au-senat-en-premiere-lecture_6813180_823448.html",
-    "date": "Wed, 18 Nov 2026 18:31:41 +0100",
-    "summary": "La commission mixte paritaire devra désormais tenter, la semaine prochaine, de rapprocher les positions de l’Assemblée nationale et du Sénat sur le texte."
+    "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
+    "date": "Wed, 18 Nov 2026 21:12:20 +0100",
+    "summary": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain."
   },
   {
     "id": "73282706e47195dd36327d06a9bd5e4c",
@@ -128,76 +128,188 @@
     "summary": "Les premières critiques du jeu de Rockstar Games ont été publiées par des influenceurs et la presse internationale, tandis que les images et vidéos de « Grand Theft Auto VI », accessible depuis minuit à l’heure néo-zélandaise, inondent les réseaux sociaux."
   },
   {
-    "id": "782e34b63ea44ea0d9870f44b9f533ad",
+    "id": "0a2d8c6922f69eeef39b3e26bca21774",
     "source": "Le Monde",
-    "title": "« Faites payer les pollueurs » : à la COP31, les appels à taxer les énergies fossiles pour financer l’action climatique se multiplient",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/18/faites-payer-les-pollueurs-a-la-cop31-les-appels-a-taxer-les-energies-fossiles-pour-financer-l-action-climatique-se-multiplient_6813147_3244.html",
-    "date": "Wed, 18 Nov 2026 15:47:47 +0100",
-    "summary": "Tandis que les ressources financières font cruellement défaut pour lutter contre le réchauffement et s’y adapter, les entreprises pétrogazières engrangent des profits exceptionnels. La création d’une « COP de la fiscalité » pourrait contribuer à changer le mode de taxation des multinationales."
+    "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
+    "date": "Thu, 19 Nov 2026 01:20:25 +0100",
+    "summary": "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir. La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données."
   },
   {
-    "id": "9e030efecab0039f0d926fd284f3a812",
+    "id": "a35dcf3454cc27447eef14d209e060f7",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : des ONG dénoncent les positions russes et américaines au sujet des armes autonomes, qui fonctionnent sans intervention humaine",
-    "link": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html",
-    "date": "Wed, 18 Nov 2026 18:33:49 +0100",
-    "summary": "Des organisations non-gouvernementales ont déploré, mercredi, que Washington et Moscou fassent obstacle à l’ouverture de négociations à l’ONU pour élaborer un accord contraignant sur les armes autonomes, malgré le soutien de la majorité des pays."
+    "title": "A Nantes, après la visite perturbée du ministre au lycée Nelson-Mandela, élèves et enseignants ne pourront « pas oublier ce qui s’est passé »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/18/a-nantes-apres-la-visite-perturbee-du-ministre-au-lycee-nelson-mandela-eleves-et-enseignants-ne-pourront-pas-oublier-ce-qui-s-est-passe_6813165_3224.html",
+    "date": "Wed, 18 Nov 2026 17:18:54 +0100",
+    "summary": "Les élèves du lycée Nelson-Mandela retournent en classe pour la première fois depuis l’incendie de leur établissement, le 1ᵉʳ octobre. Les événements survenus lors de la visite du ministre de l’éducation nationale, lundi 16 novembre, ont contraint à repousser cette rentrée de deux jours."
   },
   {
-    "id": "20a2ece4c1abab35472b864b6e8edbf9",
+    "id": "6ea1045b06bc8cbc03f68529039a5f3f",
     "source": "Le Monde",
-    "title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
-    "date": "Wed, 18 Nov 2026 16:05:29 +0100",
-    "summary": "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars. Les organisateurs entendent encadrer ces visites."
+    "title": "Un policier condamné en appel à huit ans de prison pour le meurtre d’Olivio Gomes en 2020",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/18/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_6813196_3224.html",
+    "date": "Wed, 18 Nov 2026 19:47:33 +0100",
+    "summary": "Trois coups de feu avaient été tirés en direction de la victime, prise en filature par trois policiers de la BAC. En appel, Gilles Guilbert, le policier condamné, a concédé des tirs qui n’étaient pas « nécessaires »."
   },
   {
-    "id": "00ead3ebf23087ee9ab45e46d6585e68",
+    "id": "2fca53f42d8ad60bc9bf25c703f9763b",
     "source": "Le Monde",
-    "title": "En Italie, la nouvelle loi contre l’antisémitisme fait polémique",
-    "link": "https://www.lemonde.fr/international/article/2026/11/18/en-italie-la-nouvelle-loi-contre-l-antisemitisme-fait-polemique_6813182_3210.html",
-    "date": "Wed, 18 Nov 2026 18:38:26 +0100",
-    "summary": "Adopté mardi 17 novembre, le texte arrête une définition de l’antisémitisme qui, aux yeux de ses détracteurs, entretient la confusion entre discours de haine contre les juifs et critiques de la politique israélienne."
+    "title": "Au Danemark, la première ministre sociale-démocrate Mette Frederiksen franchit un nouveau pas vers l’extrême droite en parlant de « grand remplacement »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
+    "date": "Wed, 18 Nov 2026 19:00:06 +0100",
+    "summary": "Dans un podcast, mardi 17 novembre, la cheffe du gouvernement danois a évoqué cette théorie complotiste, se livrant à une surenchère supplémentaire dans le domaine de l’immigration. Ses propos ont été salués par l’extrême droite européenne."
   },
   {
-    "id": "795e1f08aa9570f95c2ce4009ed047bd",
+    "id": "c24c0efff6b61884519e413d1a9363ce",
     "source": "Le Monde",
-    "title": "PFAS : la Cour des comptes européenne exhorte les Vingt-Sept à « agir vite pour désamorcer cette bombe à retardement »",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/18/pfas-la-cour-des-comptes-europeenne-exhorte-les-vingt-sept-a-agir-vite-pour-desamorcer-cette-bombe-a-retardement_6813164_3244.html",
-    "date": "Wed, 18 Nov 2026 17:00:17 +0100",
-    "summary": "Dans un rapport publié mercredi, l’institution invite l’Union européenne à réviser les teneurs maximales en polluants éternels dans l’eau et les aliments, ainsi que le cadre juridique qu’elle juge « insuffisants » et « inadaptés » pour protéger la population."
+    "title": "Affaire Philippe Caubère : le parquet demande le renvoi du comédien en cour criminelle pour viols aggravés et proxénétisme, ainsi que celui de son ex-avocate, Marie Dosé",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/18/affaire-philippe-caubere-le-ministere-public-demande-le-renvoi-en-cour-criminelle-du-comedien-et-de-l-avocate-marie-dose_6813169_3224.html",
+    "date": "Wed, 18 Nov 2026 17:40:59 +0100",
+    "summary": "Trois plaignantes, mineures au moment de leur rencontre avec lui, accusent l’artiste de viols, d’agressions sexuelles, ou encore de proxénétisme. La pénaliste est pour sa part soupçonnée d’avoir aidé à la dissimulation d’un ordinateur compromettant pour la défense. Les deux mis en cause contestent les faits."
   },
   {
-    "id": "719254056e631ef4aa7c527f1ce86f8f",
+    "id": "9bd904cb5f09c2e90620f23c35125aaf",
     "source": "Le Monde",
-    "title": "Après l’implantation inédite de colons israéliens à Jéricho, en Cisjordanie, la crainte gagne les habitants des villes : « Jusqu’ici, on se sentait préservés »",
-    "link": "https://www.lemonde.fr/international/article/2026/11/18/apres-l-implantation-inedite-de-colons-israeliens-a-jericho-en-cisjordanie-la-crainte-gagne-les-habitants-des-villes-jusqu-ici-on-se-sentait-preserves_6813153_3210.html",
-    "date": "Wed, 18 Nov 2026 16:30:00 +0100",
-    "summary": "Pour la première fois depuis les accords d’Olso, en 1993, des Israéliens se sont installés à la lisière de la ville de Jéricho, marquant une inflexion dans l’entreprise coloniale en Cisjordanie occupée. Fadda Fheidat, 72 ans, a été tuée par balle quelques jours après leur arrivée."
+    "title": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
+    "date": "Thu, 19 Nov 2026 01:09:23 +0100",
+    "summary": "La maison de vente aux enchères Sotheby’s avait annoncé, mardi, qu’un accord avait été trouvé avec une famille qui contestait la mise en vente de l’œuvre, mettant en avant les conditions de son acquisition sous le régime nazi."
+  },
+  {
+    "id": "1f7c7c289b3ea35c7c204462a98a82a8",
+    "source": "Le Monde",
+    "title": "Mayotte frappée par une panne d’électricité généralisée à la suite d’un épisode de fortes pluies",
+    "link": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html",
+    "date": "Thu, 19 Nov 2026 00:19:28 +0100",
+    "summary": "L’opérateur Electricité de Mayotte assure que 98 % des foyers sont réalimentés, et que ses équipes « poursuivent les manœuvres de rétablissement »."
+  },
+  {
+    "id": "bafd9bfde99e49f10e70b8bda8c1f50f",
+    "source": "Le Monde",
+    "title": "Le Bénin réclame de nouvelles restitutions d’œuvres pillées par la France, dont une sculpture emblématique du dieu Gou",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/18/le-benin-reclame-de-nouvelles-restitutions-d-uvres-pillees-par-la-france-dont-une-sculpture-emblematique-du-dieu-gou_6813159_3212.html",
+    "date": "Wed, 18 Nov 2026 17:00:05 +0100",
+    "summary": "Le pays, qui a récupéré, en 2021, 26 biens culturels spoliés pendant la colonisation, demande le retour de 35 autres objets figurant dans les collections du Musée du quai Branly. La loi-cadre adoptée en mai par le Parlement français pourrait lui permettre de les obtenir d’ici à deux ans."
   },
   {
     "id": "c3b8d6184a9a2e417662118ebe23d910",
     "source": "Le Monde",
     "title": "Vif échange à l’Assemblée entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen : « La chienlit que vous organisez, les Français ne vous la pardonneront jamais »",
     "link": "https://www.lemonde.fr/politique/article/2026/11/18/vif-echange-a-l-assemblee-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-la-chienlit-que-vous-organisez-les-francais-ne-vous-la-pardonneront-jamais_6813168_823448.html",
-    "date": "Wed, 18 Nov 2026 17:33:52 +0100",
+    "date": "Wed, 18 Nov 2026 17:33:50 +0100",
     "summary": "Le terme « chienlit » avait été utilisé par Charles de Gaulle pour qualifier les mouvements étudiants de Mai 68. « Vous passez votre temps à inventer un ennemi venu de l’intérieur pour masquer votre incompétence », avait lancé Pierre-Yves Cadalen, lors de la séance de questions au gouvernement."
   },
   {
-    "id": "276faf401bbf2d6f4a7f35db2a31be19",
-    "source": "Le Monde",
-    "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
-    "date": "Wed, 18 Nov 2026 19:09:25 +0100",
-    "summary": "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte. L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite."
+    "id": "b4791fed198706b451136f07fa709947",
+    "source": "Libération",
+    "title": "«On a pu discuter de tout ce qui n’allait pas et l’améliorer» : dans le Pas-de-Calais, un documentaire fait évoluer les mentalités",
+    "link": "https://www.liberation.fr/forums/on-a-pu-discuter-de-tout-ce-qui-nallait-pas-et-lameliorer-dans-le-pas-de-calais-un-documentaire-fait-evoluer-les-mentalites-20261118_BFZZN6VL7VBPVPQ4M2BIKWUQAU/",
+    "date": "Wed, 18 Nov 2026 22:56:00 +0000",
+    "summary": "Tourné en 2024, un documentaire expérimentait les alternatives à la voiture dans le Pas-de-Calais. Depuis, plusieurs initiatives individuelles et collectives ont vu le jour."
   },
   {
-    "id": "1c316e30069f82d524f74892f166a4e1",
-    "source": "Le Monde",
-    "title": "Hakeem Jeffries en passe de devenir le premier président noir de la Chambre des représentants, selon plusieurs médias américains",
-    "link": "https://www.lemonde.fr/international/article/2026/11/18/hakeem-jeffries-en-passe-de-devenir-le-premier-president-noir-de-la-chambre-des-representants-selon-plusieurs-medias-americains_6813166_3210.html",
-    "date": "Wed, 18 Nov 2026 17:28:35 +0100",
-    "summary": "A 56 ans, l’élu new-yorkais s’impose malgré les critiques internes, qui dénoncent un manque de vigueur dans son opposition à Donald Trump, mais aussi ses positions pro-israéliennes."
+    "id": "92f7b7f94d78c53339ef5f9b10076ad5",
+    "source": "Libération",
+    "title": "«Kôgun, Histoire de l’armée japonaise, 1853-1948» de Franck Michelin : quand les militaires dictaient leur loi",
+    "link": "https://www.liberation.fr/culture/livres/kogun-histoire-de-larmee-japonaise-1853-1948-de-franck-michelin-quand-les-militaires-dictaient-leur-loi-20261118_5TPDMHE7URD7LJGI3NFVCHWOTU/",
+    "date": "Wed, 18 Nov 2026 21:27:00 +0000",
+    "summary": "A travers un siècle d’histoire de l’armée nippone, l’historien montre combien celle-ci s’est avérée belliciste envers la Chine et l’Amérique, jusqu’à sa défaite accablante en 1945."
+  },
+  {
+    "id": "6d82446b212319128150bb9c3ca98e5a",
+    "source": "Libération",
+    "title": "La banque hongroise qui avait prêté à Marine Le Pen en 2022 mise en cause pour blanchiment d’argent russe",
+    "link": "https://www.liberation.fr/international/europe/la-banque-hongroise-qui-avait-prete-a-marine-le-pen-en-2022-mise-en-cause-pour-blanchiment-dargent-russe-20261118_56NXO6CTCFGSFGH7SXP27QPUCQ/",
+    "date": "Wed, 18 Nov 2026 21:15:22 +0000",
+    "summary": "D’après la fuite de données chez Deutsche Bank révélée mardi, un réseau proche d’un oligarque a fait transiter par le passé des fonds par la banque MKB. L’établissement a par la suite prêté 10 millions d’euros à la candidate du RN pour la précédente campagne présidentielle."
+  },
+  {
+    "id": "92a8d65209df365945db966aae18c5bb",
+    "source": "Libération",
+    "title": "Alexander Zverev visé par une nouvelle plainte de son ex-compagne",
+    "link": "https://www.liberation.fr/sports/tennis/alexander-zverev-vise-par-une-nouvelle-plainte-de-son-ex-compagne-20261118_SD4WV7QDWNFWXF7LV5NAWPFJWE/",
+    "date": "Wed, 18 Nov 2026 21:00:29 +0000",
+    "summary": "Brenda Patea accuse le numéro mondial de tennis d’avoir présenté de manière «inexacte» l’accord amiable qu’ils ont trouvé pour solder une procédure pour coups et blessures le visant. Lui dit avoir été «innocenté»."
+  },
+  {
+    "id": "0053c26fa316d178000e477a04359bef",
+    "source": "Libération",
+    "title": "«Un petit de 3 mois aurait pu s’étouffer» : 7 et 9 mois de prison requis contre les assistantes maternelles ayant caché des enfants dans une voiture",
+    "link": "https://www.liberation.fr/societe/police-justice/un-petit-de-3-mois-aurait-pu-setouffer-7-et-9-mois-de-prison-requis-contre-les-assistantes-maternelles-ayant-cache-des-enfants-dans-une-voiture-20261118_ODLILCFTIZA2LGWKN6FN4HF2VI/",
+    "date": "Wed, 18 Nov 2026 20:25:12 +0000",
+    "summary": "Siham E. et Christine R. comparaissaient ce mercredi pour avoir entassé 12 enfants dans un véhicule au sous-sol de leur maison d’assistantes maternelles, afin d’éviter un contrôle de la PMI, en juillet à Yerres (Essonne)."
+  },
+  {
+    "id": "b16d711dbb386b201f4b781180b2a14b",
+    "source": "Libération",
+    "title": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+    "link": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/",
+    "date": "Wed, 18 Nov 2026 20:24:07 +0000",
+    "summary": "En difficulté dans les sondages, la candidate des Ecologistes a ouvert la voie ce mercredi 18 novembre à un soutien au chef de file de LFI, estimant que sa «dynamique de campagne» est «indéniable»."
+  },
+  {
+    "id": "34fb21b1fd8162698d43e13b221082cc",
+    "source": "Libération",
+    "title": "Rencontre Trump-Xi-Poutine : les Européens, grands absents du sommet de Shenzhen",
+    "link": "https://www.liberation.fr/international/europe/rencontre-trump-xi-poutine-les-europeens-grands-absents-du-sommet-de-shenzhen-20261118_4RVJ5AADHBB6LGJUC7SWIEAUKI/",
+    "date": "Wed, 18 Nov 2026 19:45:55 +0000",
+    "summary": "Alors que les dirigeants chinois, américain et russe se retrouvent ce jeudi 19 novembre en Chine, les pays de l’UE redoutent que leur avenir et celui de l’Ukraine se négocient dans leur dos."
+  },
+  {
+    "id": "01d47c6c85f06b55c7644a963016870c",
+    "source": "Libération",
+    "title": "«Face à l’oligarchie mondiale, les forces démocratiques devront abattre les frontières» : emmenés par Gabriel Zucman, une centaine d’intellectuels alertent",
+    "link": "https://www.liberation.fr/economie/face-a-loligarchie-mondiale-les-forces-democratiques-devront-abattre-les-frontieres-emmenes-par-gabriel-zucman-une-centaine-dintellectuels-alertent-20261118_V4ZGVUTHTRH4HKCTPOFADMUCUI/",
+    "date": "Wed, 18 Nov 2026 19:29:16 +0000",
+    "summary": "Impôt plancher, indépendance des médias, entreprises face à l’IA… A la veille du premier grand sommet à Paris sur le sujet, l’économiste Gabriel Zucman et une centaine de signataires publient vendredi un texte que trois chercheurs commentent pour «Libé»."
+  },
+  {
+    "id": "d214570114bd4e99ff7816112c9ffcd8",
+    "source": "Libération",
+    "title": "Israël lance une opération militaire terrestre à Gaza dans une zone contrôlée par le Hamas, en dépit du cessez-le-feu",
+    "link": "https://www.liberation.fr/international/moyen-orient/israel-lance-une-operation-militaire-terrestre-a-gaza-dans-une-zone-controlee-par-le-hamas-en-depit-du-cessez-le-feu-20261118_PAZCJLTBJNFMHJL7M4KCGEUPBU/",
+    "date": "Wed, 18 Nov 2026 19:01:14 +0000",
+    "summary": "L’armée israélienne a déployé des troupes au sol ce mercredi dans le centre de l’enclave, disant agir en réponse à des violations de la trêve par le Hamas. Des familles de Palestiniens ont de nouveau été forcées de se déplacer."
+  },
+  {
+    "id": "2f822c22d8b7126da228fbf61a51a4d4",
+    "source": "Libération",
+    "title": "Présidentielle : sous pression, Philippe présente sa sévère «révolution»",
+    "link": "https://www.liberation.fr/politique/elections/presidentielle-sous-pression-philippe-presente-sa-severe-revolution-20261118_YU2WM3Y3DRARDH6KKUGCFOOMJY/",
+    "date": "Wed, 18 Nov 2026 19:00:21 +0000",
+    "summary": "Passé de favori à challenger du «bloc central», le candidat Horizons a présenté mercredi 18 novembre un projet très marqué à droite. Et continué de snober les appels à une primaire."
+  },
+  {
+    "id": "7f9e6da3e47f60764e50a9a689301a1f",
+    "source": "Libération",
+    "title": "Trump, Xi et Poutine : une rencontre au sommet et en faux-semblants",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/trump-xi-et-poutine-une-rencontre-au-sommet-et-en-faux-semblants-20261118_SSDSREFAMJFK3ENOD2AZHBLYZA/",
+    "date": "Wed, 18 Nov 2026 18:49:08 +0000",
+    "summary": "Vendue comme un deuxième Yalta, la rencontre tripartite de ce jeudi 19 novembre à Shenzhen est certes un symbole considérable, mais derrière la débauche d’honneurs, chaque dirigeant a ses difficultés et ses coups à jouer."
+  },
+  {
+    "id": "557437fd4557f820b8a87a04f12b1710",
+    "source": "Libération",
+    "title": "Un professeur d’un lycée à Paris menacé de mort «à la Samuel Paty», le suspect s’est rendu",
+    "link": "https://www.liberation.fr/societe/police-justice/un-professeur-dun-lycee-a-paris-menace-de-mort-a-la-samuel-paty-le-suspect-sest-rendu-20261118_I6RBCGZ455H5FBM7PVSXAYHHB4/",
+    "date": "Wed, 18 Nov 2026 18:39:29 +0000",
+    "summary": "Un homme habitant dans l’Ain a menacé d’égorger un enseignant du lycée Edgar-Quinet à Paris, lors d’un cours en distanciel vendredi. Le parquet n’a pas encore communiqué sur ses motivations."
+  },
+  {
+    "id": "fdb98db32fe4380de6a72fc75e089b2c",
+    "source": "Libération",
+    "title": "Perpignan : des CRS avaient-ils le droit d’obliger une militante communiste à retirer sa chasuble pour quitter une manifestation ?",
+    "link": "https://www.liberation.fr/checknews/perpignan-des-crs-avaient-ils-le-droit-dobliger-une-militante-communiste-a-retirer-sa-chasuble-pour-quitter-une-manifestation-20261118_6NDFKVTLEJER5MZYGNYKDSQ5RQ/",
+    "date": "Wed, 18 Nov 2026 18:36:56 +0000",
+    "summary": "Des policiers ont tenté d’imposer à une militante communiste d’enlever son vêtement aux couleurs du PCF. Une pratique contestée, néanmoins courante dans le maintien de l’ordre."
+  },
+  {
+    "id": "89ac18c0b23eacb016fc907d10cd1479",
+    "source": "Libération",
+    "title": "Procès en appel de la mort d’Olivio Gomes : l’ex-policier Gilles Guilbert condamné à huit ans de prison",
+    "link": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-la-mort-dolivio-gomes-lex-policier-gilles-guilbert-condamne-a-huit-ans-de-prison-20261118_4JW7NPC2FZCY7DKTY5FMWJHYCQ/",
+    "date": "Wed, 18 Nov 2026 18:28:14 +0000",
+    "summary": "La cour d’assises d’appel des Hauts-de-Seine a prononcé ce mercredi une peine plus légère qu’en première instance à l’encontre de l’ex-agent de la brigade anticriminalité, qui avait abattu l’automobiliste dans les Yvelines en 2020."
   },
   {
     "id": "08d529b625a3245de30c1d413938927a",
@@ -206,118 +318,6 @@
     "link": "https://www.liberation.fr/societe/immigration/regularisation-des-travailleurs-sans-papiers-je-reve-de-devenir-un-citoyen-normal-20261118_3H6RQDROFNCLVAZMAKU4DS2GR4/",
     "date": "Wed, 18 Nov 2026 18:23:21 +0000",
     "summary": "Une proposition de loi socialiste, soutenue par l’ensemble de la gauche et qui vise à accorder des titres de séjour aux travailleurs étrangers, est examinée ce jeudi 19 novembre à l’Assemblée nationale. De la Drôme à Paris, les premiers concernés – travailleurs comme employeurs – racontent ce que le texte changerait à leur vie."
-  },
-  {
-    "id": "29b6ee552215064fe543953c14b0beef",
-    "source": "Libération",
-    "title": "Le loup de la pub d’Intermarché ne sera finalement pas en vente à temps pour Noël",
-    "link": "https://www.liberation.fr/economie/conso/le-loup-de-la-pub-dintermarche-ne-sera-finalement-pas-en-vente-a-temps-pour-noel-20261118_DSPDWYWWB5AEBCPC3EMJOWJYTM/",
-    "date": "Wed, 18 Nov 2026 18:14:21 +0000",
-    "summary": "Thierry Cotillard, le patron du groupe de grande distribution, a annoncé ce mercredi que la peluche avait suscité des alertes lors des contrôles qualité. Sa production a été relancée."
-  },
-  {
-    "id": "1bd1c19abe76614f5575b8a9aa8078c1",
-    "source": "Libération",
-    "title": "Non à la loi qui donne un «permis de tuer» aux forces de l’ordre",
-    "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-la-loi-qui-donne-un-permis-de-tuer-aux-forces-de-lordre-20261118_LYB6775ZLNDVJMBQUDESCI7JOY/",
-    "date": "Wed, 18 Nov 2026 18:09:57 +0000",
-    "summary": "Pour la sénatrice Mélanie Vogel et la députée Cyrielle Chatelain du groupe Ecologiste, la proposition de loi qui consiste à reconnaître une présomption de légitime défense aux policiers quand ils tirent se situe non seulement en dehors du pacte républicain, mais engendrerait inévitablement plus de morts."
-  },
-  {
-    "id": "f226f06d34e56df4f77684d6aacba154",
-    "source": "Libération",
-    "title": "«C’était courtois, ils se sont bien marrés et c’était intéressant» : récit du dîner entre Jean-Luc Mélenchon et les grands patrons",
-    "link": "https://www.liberation.fr/politique/cetait-courtois-ils-se-sont-bien-marres-et-cetait-interessant-recit-du-diner-entre-jean-luc-melenchon-et-les-grands-patrons-20261118_DV4MCKQXPFB3ZLNZGPC4MJ3QUU/",
-    "date": "Wed, 18 Nov 2026 17:51:48 +0000",
-    "summary": "Initialement prévue au prestigieux restaurant Drouant, la rencontre entre le candidat insoumis et 13 hauts dirigeants comme Bernard Arnault ou Patrick Pouyanné, s’est finalement tenue mardi 17 novembre dans un lieu discret du VIIIe arrondissement de Paris."
-  },
-  {
-    "id": "f4191a8825d952e5a6f50153488c659f",
-    "source": "Libération",
-    "title": "L’autre vie ambivalente donnée par les «Incandescences bourgeoises»",
-    "link": "https://www.liberation.fr/culture/livres/lautre-vie-ambivalente-donnee-par-les-incandescences-bourgeoises-20261118_NVTAXFEAV5FBVAJV75Q3MITHLQ/",
-    "date": "Wed, 18 Nov 2026 17:39:00 +0000",
-    "summary": "Le dernier essai de la philosophe Estelle Ferrarese montre combien la sensation d’intensité qui libère le corps asservit aussi à l’époque des écrans."
-  },
-  {
-    "id": "fc013f70951b06e0483afe2e05dfc6a6",
-    "source": "Libération",
-    "title": "Trump-Poutine-Xi : puissance et gêne à Shenzhen",
-    "link": "https://www.liberation.fr/international/rencontre-trump-poutine-xi-faut-il-craindre-un-nouveau-yalta-20261117_FVOKUEBYYJCNRM4AKWM3MJ64SI/",
-    "date": "Wed, 18 Nov 2026 17:31:25 +0000",
-    "summary": "La discussion prévue jeudi 19 novembre entre les présidents américain, russe et chinois a été comparée à la conférence de Yalta, qui avait redéfini l’ordre mondial en 1945. Au-delà du symbole, le trio est arrivé au sommet de l’Apec avec des objectifs largement divergents."
-  },
-  {
-    "id": "df011fc594286478ee299d954770b84d",
-    "source": "Libération",
-    "title": "Le projet de budget de la Sécurité sociale adopté au Sénat en première lecture, après son rejet par l’Assemblée",
-    "link": "https://www.liberation.fr/economie/le-projet-de-budget-de-la-securite-sociale-adopte-au-senat-en-premiere-lecture-apres-son-rejet-par-lassemblee-20261118_MKVIZRWYSZDHHJLPXQB44B6TBU/",
-    "date": "Wed, 18 Nov 2026 17:22:21 +0000",
-    "summary": "La chambre haute a notamment voté le rétablissement de la réforme des retraites de 2023, suspendue l’année dernière. Une commission mixte paritaire (CMP) va se réunir la semaine prochaine, pour que députés et sénateurs tentent de s’accorder sur le texte."
-  },
-  {
-    "id": "a9d18c5723bb8a85723070938d51521f",
-    "source": "Libération",
-    "title": "Un chef de service de l’hôpital Bichat à Paris placé en détention provisoire pour le viol d’une interne en pharmacie",
-    "link": "https://www.liberation.fr/societe/police-justice/un-chef-de-service-de-lhopital-bichat-a-paris-place-en-detention-provisoire-pour-le-viol-dune-interne-en-pharmacie-20261118_I73SXNVJVJGMHKRUGZC7SXSZTA/",
-    "date": "Wed, 18 Nov 2026 17:11:02 +0000",
-    "summary": "Le spécialiste de chirurgie digestive est soupçonné d’avoir commis dans la nuit du 24 au 25 juillet un viol sur une pharmacienne de l’Assistance Publique-Hôpitaux de Paris (AP-HP) lors d’une soirée entre internes. Il a été mis en examen et écroué à Paris le 13 novembre 2026."
-  },
-  {
-    "id": "3fb1e296747f1d51539ab0a55f419040",
-    "source": "Libération",
-    "title": "Boris Vallaud : «Raphaël Glucksmann est le troisième homme de cette présidentielle»",
-    "link": "https://www.liberation.fr/politique/elections/boris-vallaud-raphael-glucksmann-est-le-troisieme-homme-de-cette-presidentielle-20261118_LTHCSKKZYNEY5NCUX6CVRSCL54/",
-    "date": "Wed, 18 Nov 2026 17:09:59 +0000",
-    "summary": "Le président du groupe PS à l’Assemblée nationale défend auprès de «Libé» le début de campagne du candidat choisi par les socialistes et détaille la «nouvelle doctrine» de son parti sur l’immigration."
-  },
-  {
-    "id": "97876edce11fb9ed9c9c13b485b8905d",
-    "source": "Libération",
-    "title": "Hégémonie de Gallimard, opacité des votes, dépendance économique… Faut-il réformer le Goncourt ?",
-    "link": "https://www.liberation.fr/idees-et-debats/hegemonie-de-gallimard-opacite-des-votes-dependance-economique-faut-il-reformer-le-goncourt-20261118_X7ML2MTSTBBP5HLGGGYPWF4IOY/",
-    "date": "Wed, 18 Nov 2026 17:06:35 +0000",
-    "summary": "Les quatre finalistes de la prestigieuse récompense étaient cette année édités par le même groupe, Madrigall. Face à cette situation de quasi-monopole, des voix de l’édition mettent en cause la neutralité des jurés sur fond de crise sévère du secteur et de recul de la lecture."
-  },
-  {
-    "id": "7ef01da2b5bb723979959b2fda613d40",
-    "source": "Libération",
-    "title": "Sortie des énergies fossiles : «L’élan qu’on observe depuis un an est sans précédent et porteur d’espoir»",
-    "link": "https://www.liberation.fr/environnement/climat/sortie-des-energies-fossiles-lelan-quon-observe-depuis-un-an-est-sans-precedent-et-porteur-despoir-20261118_T5ZGKDVJRRAHDLK4Q7AZVCWMXA/",
-    "date": "Wed, 18 Nov 2026 17:05:26 +0000",
-    "summary": "A la COP31, en Turquie, plusieurs pays comme le Danemark, l’Irlande et l’Espagne ont annoncé leur feuille de route nationale pour sortir de leur dépendance au charbon, au pétrole et au gaz. Dépassant ainsi les blocages onusiens sur la fin des combustibles nuisibles à la planète."
-  },
-  {
-    "id": "d1fa519e41eaaa64747fd19cff669ac0",
-    "source": "Libération",
-    "title": "«Il faut inverser la logique fiscale sur les zones naturelles»",
-    "link": "https://www.liberation.fr/forums/il-faut-inverser-la-logique-fiscale-sur-les-zones-naturelles-20261118_NIIL4MMHWJCXXGAECG7KHYQL54/",
-    "date": "Wed, 18 Nov 2026 16:54:00 +0000",
-    "summary": "Directrice de la Fondation pour la recherche sur la biodiversité, Hélène Soubelet appelle à transformer notre système financier pour préserver la biodiversité"
-  },
-  {
-    "id": "aed0f8a4d143b27401639fc1a90e41a3",
-    "source": "Libération",
-    "title": "Rencontre Trump-Xi-Poutine, affaire Philippe Caubère, sortie de GTA VI… L’actu de ce mercredi 18 novembre",
-    "link": "https://www.liberation.fr/international/europe/rencontre-trump-xi-poutine-affaire-philippe-caubere-gta-vi-lactu-de-ce-mercredi-18-novembre-20261118_XILBQ76ANVH3VL5PUXEAPNP57U/",
-    "date": "Wed, 18 Nov 2026 16:49:27 +0000",
-    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 18 novembre."
-  },
-  {
-    "id": "8644b455c1f956907e1079a32a39a543",
-    "source": "Libération",
-    "title": "Présidentielle 2027 : Manon Aubry et Agnès Pannier-Runacher débattent dans «Chez Pol l’émission»",
-    "link": "https://www.liberation.fr/politique/presidentielle-2027-manon-aubry-et-agnes-pannier-runacher-debattent-dans-chez-pol-lemission-20261118_JKLP27J4OZBK5C3QMAE5USQJ4A/",
-    "date": "Wed, 18 Nov 2026 16:46:20 +0000",
-    "summary": "La coresponsable du programme de Gabriel Attal et la députée européenne insoumise débattent de l’actualité de la campagne présidentielle et répondent à vos questions, ce jeudi 19 novembre à partir de 10 heures en direct vidéo."
-  },
-  {
-    "id": "dffe6ca3a10cd4edc5a4f9d1846a209f",
-    "source": "Libération",
-    "title": "Répression en Iran : «Non seulement les auteurs de massacres échappent à la justice mais ils restent au pouvoir»",
-    "link": "https://www.liberation.fr/international/moyen-orient/repression-en-iran-non-seulement-les-auteurs-de-massacres-echappent-a-la-justice-mais-ils-restent-au-pouvoir-20261118_6M3MDUKIJJEI3MDX4EQ7DOW2AU/",
-    "date": "Wed, 18 Nov 2026 16:44:46 +0000",
-    "summary": "Spécialiste de l’Iran à Amnesty International, Raha Bahreini constate la paralysie du Conseil de sécurité face aux crimes commis par le pouvoir iranien contre sa population."
   },
   {
     "id": "712f76c7334684332d07eb065bcdcdf7",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/cour_des_comptes_paris_entree-2-5b006.jpg?1794915682\" width=\"700\" />\n<p>La folie des grands projets engage la France dans une «<small class=\"fine d-inline\"> </small>impasse financière<small class=\"fine d-inline\"> </small>», constate la Cour des comptes dans une note parue le 16 novembre. L'institution préconise de prioriser la régénération des réseaux de transport existants, au moins jusqu'en 2032. <br class=\"autobr\" />\nElle rejoint ainsi les nombreuses alertes financières, notamment de la conférence Ambition France transport, du Conseil d'orientation des infrastructures, du ministère des Finances, qui s'alarment tour à tour que, faute d'investissement (…)</p>\n\n            <a href=\"https://reporterre.net/Impasse-financiere-la-Cour-des-comptes-preconise-un-moratoire-sur-les-grands-projets-d?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Economie\" rel=\"tag\">Économie</a>"
   },
   {
+    "id": "912c816b057eae9d7c78d64b8ed54d4b",
+    "source": "BFMTV",
+    "title": "Guerre en Ukraine: le pont de Crimée à nouveau attaqué selon la Russie",
+    "link": "https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-le-pont-de-crimee-a-nouveau-attaque-selon-la-russie_AD-202611181047.html",
+    "date": "Wed, 18 Nov 2026 23:21:36 GMT",
+    "summary": "Sergueï Aksionov, le responsable de la Crimée, a indiqué que le pont de Crimée a de nouveau été attaqué cette nuit par des frappes ukrainiennes, deux jours après d'autres frappes et juste avant le sommet trilatéral inédit entre Xi Jinping, Donald Trump et Vladimir Poutine.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZjUbL86sXS-w1CTwNCn_rSBwGUo=/8x3:2024x1137/800x0/images/Cette-image-extraite-d-une-video-publiee-le-17-novembre-2026-par-le-Service-de-securite-ukrainien-montre-des-dommages-sur-le-pont-de-Crimee-pont-de-Kertch-qui-relie-la-Crimee-a-la-Russie-pres-de-Kertch-2385419.jpg\" />"
+  },
+  {
+    "id": "fff459dcebd562be87effb8337489b64",
+    "source": "BFMTV",
+    "title": "Xi-Poutine-Trump: le sommet historique",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-xi-poutine-trump-le-sommet-historique_VN-202611181051.html",
+    "date": "Wed, 18 Nov 2026 23:14:24 GMT",
+    "summary": "Xi Jinping, Donald Trump et Vladimir Poutine sont réunis ce mercredi 18 novembre à Shenzhen, dans le sud de la Chine, lors d’une réception réunissant les dirigeants de l’Apec. Une première rencontre commune à la veille d’un sommet trilatéral inédit, qui doit notamment porter sur les guerres en Iran et en Ukraine, le commerce et les armes nucléaires.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5sXsRazwYQyrUD_I1TyWKD9cZNo=/0x0:1280x720/800x0/images/Xi-Poutine-Trump-le-sommet-historique-2386501.jpg\" />"
+  },
+  {
+    "id": "e9f36a3dbdb15efbf09cf1ec7021aeb3",
+    "source": "BFMTV",
+    "title": "Violences, désordre: menace sur la République",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-violences-desordre-menace-sur-la-republique_VN-202611181050.html",
+    "date": "Wed, 18 Nov 2026 23:05:35 GMT",
+    "summary": "Un rassemblement de policiers a lieu ce mercredi matin, place Beauvau à Paris après des semaines d'intenses mobilisations dans la capitale émaillées par des violences.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/jBAWTChv233VzSmC9tQMkXCAo_I=/0x0:1280x720/800x0/images/Violences-desordre-menace-sur-la-Republique-2386500.jpg\" />"
+  },
+  {
+    "id": "756146dd31ac2edc1762c58c166cdd08",
+    "source": "BFMTV",
+    "title": "Emmanuel Grégoire promet une \"réévaluation\" du projet d'incinérateur à Vitry-sur-Seine organisée en décembre au regard des enjeux sanitaires",
+    "link": "https://www.bfmtv.com/paris/val-de-marne/emmanuel-gregoire-promet-une-reevaluation-du-projet-d-incinerateur-a-vitry-sur-seine-organisee-en-decembre-au-regard-des-enjeux-sanitaires_AD-202611181035.html",
+    "date": "Wed, 18 Nov 2026 23:00:07 GMT",
+    "summary": "La future usine d'incinération à Vitry-sur-Seine doit permettre de produire de la chaleur en brûlant du bois et des combustibles solides de récupération (CSR), des déchets non recyclables, suscitant les craintes de riverains et des élus locaux quant à la pollution de l'air générée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KBfbA0Yne4IR_p9ZOnEwR8ZeMQY=/0x36:768x468/800x0/images/Le-maire-de-Paris-Emmanuel-Gregoire-a-Paris-le-18-mai-2026-2349076.jpg\" />"
+  },
+  {
+    "id": "150208d01a5f5124145912c51dd61a1a",
+    "source": "BFMTV",
+    "title": "Des attaques sont en cours sur le pont de Kertch reliant la Russie à la Crimée",
+    "link": "https://www.bfmtv.com/international/asie/russie/video-des-attaques-sont-en-cours-sur-le-pont-de-kertch-reliant-la-russie-a-la-crimee_VN-202611181036.html",
+    "date": "Wed, 18 Nov 2026 22:59:18 GMT",
+    "summary": "Xi Jinping, Donald Trump et Vladimir Poutine sont réunis ce mercredi 18 novembre à Shenzhen, dans le sud de la Chine, lors d’une réception réunissant les dirigeants de l’Apec. Une première rencontre commune à la veille d’un sommet trilatéral inédit, qui doit notamment porter sur les guerres en Iran et en Ukraine, le commerce et les armes nucléaires.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l2UMLFyZqxkoiBlJYkFPuG_JZB8=/0x0:1280x720/800x0/images/Des-attaques-sont-en-cours-sur-le-pont-de-Kertch-reliant-la-Russie-a-la-Crimee-2386496.jpg\" />"
+  },
+  {
+    "id": "da0ead24bfd64f5470e8c357ddde56d4",
+    "source": "BFMTV",
+    "title": "Russie, Chine, États-Unis: qui a la plus forte puissance nucléaire?",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-russie-chine-etats-unis-qui-a-la-plus-forte-puissance-nucleaire_VN-202611181034.html",
+    "date": "Wed, 18 Nov 2026 22:52:21 GMT",
+    "summary": "Xi Jinping, Donald Trump et Vladimir Poutine sont réunis ce mercredi 18 novembre à Shenzhen, dans le sud de la Chine, lors d’une réception réunissant les dirigeants de l’Apec. Une première rencontre commune à la veille d’un sommet trilatéral inédit, qui doit notamment porter sur les guerres en Iran et en Ukraine, le commerce et les armes nucléaires.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-bNP_ybDjfHCL9hMV6eeENKiR5U=/0x0:1280x720/800x0/images/Russie-Chine-Etats-Unis-qui-a-la-plus-forte-puissance-nucleaire-2386495.jpg\" />"
+  },
+  {
+    "id": "473ae2de728d1029df05ea682266019b",
+    "source": "BFMTV",
+    "title": "Sommet historique en Chine: quels sont les objectifs de Vladimir Poutine ? L'analyse de Didier François, éditorialiste défense BFMTV",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-sommet-historique-en-chine-quels-sont-les-objectifs-de-vladimir-poutine-l-analyse-de-didier-francois-editorialiste-defense-bfmtv_VN-202611181033.html",
+    "date": "Wed, 18 Nov 2026 22:52:18 GMT",
+    "summary": "Les trois dirigeants américain, chinois et russe se retrouvent pour un sommet commun inédit mais aux perspectives incertaines à Shenzhen (Chine).<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/i6CQbWHuW_3C7-XNP0jkdz4Royk=/0x0:1280x720/800x0/images/Sommet-historique-en-Chine-quels-sont-les-objectifs-de-Vladimir-Poutine-L-analyse-de-Didier-Francois-editorialiste-defense-BFMTV-2386494.jpg\" />"
+  },
+  {
+    "id": "5aeed0e61b6f20d346e1d2e0f5d92597",
+    "source": "BFMTV",
+    "title": "Prix, salaires : comment sortir de l'impasse?",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-prix-salaires-comment-sortir-de-l-impasse_VN-202611181045.html",
+    "date": "Wed, 18 Nov 2026 22:49:09 GMT",
+    "summary": "Un sujet nettement prioritaire. Alors que la course à l'Élysée s'intensifie, un sondage Elabe pour BFMTV publié ce mercredi 18 novembre place le pouvoir d'achat en priorité d'action n°1 adressée au prochain président de la République. Parmi les personnes interrogées, 58% placent ce domaine parmi les trois priorités d'action du prochain président de la République, devant la santé, la sécurité et la dette publique.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/C7-DdFfbYopzOGElW-2PlrRYtCg=/0x0:1280x720/800x0/images/Prix-salaires-comment-sortir-de-l-impasse-2386499.jpg\" />"
+  },
+  {
+    "id": "ca7baa3b22037032771424f189ba70fc",
+    "source": "BFMTV",
+    "title": "Mortiers d'artifice : quinze lycéens blessés aujourd'hui - 18/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-mortiers-d-artifice-quinze-lyceens-blesses-aujourd-hui-18-11_VN-202611181030.html",
+    "date": "Wed, 18 Nov 2026 22:23:41 GMT",
+    "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/xnrwmZ1Kjqduzn2U0abOjusg3mI=/0x0:1280x720/800x0/images/Mortiers-d-artifice-quinze-lyceens-blesses-aujourd-hui-18-11-2386492.jpg\" />"
+  },
+  {
+    "id": "13ab7340a41ed32b3a37dd46a5d21e0c",
+    "source": "BFMTV",
+    "title": "Maintien de l'ordre: \"La police et la justice sont deux services publics en crise aujourd'hui\", souligne Jérôme Guedj, député \"Parti Socialiste\" de l'Essonne et porte-parole de Raphaël Glucksmann",
+    "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-maintien-de-l-ordre-la-police-et-la-justice-sont-deux-services-publics-en-crise-aujourd-hui-souligne-jerome-guedj-depute-parti-socialiste-de-l-essonne-et-porte-parole-de-raphael-glucksmann_VN-202611181027.html",
+    "date": "Wed, 18 Nov 2026 22:22:56 GMT",
+    "summary": "Un rassemblement de policiers a lieu ce mercredi matin, place Beauvau à Paris après des semaines d'intenses mobilisations dans la capitale émaillées par des violences.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/n5EuHzmlOBgbLk4KsmQsDFRT3NY=/0x0:1280x720/800x0/images/Maintien-de-l-ordre-La-police-et-la-justice-sont-deux-services-publics-en-crise-aujourd-hui-souligne-Jerome-Guedj-depute-Parti-Socialiste-de-l-Essonne-et-porte-parole-de-Raphael-Glucksmann-2386488.jpg\" />"
+  },
+  {
+    "id": "8f727becd5dc00b6078b3606808706e7",
+    "source": "BFMTV",
+    "title": "Violences à l'encontre des forces de l'ordre: \"Il faut régler le vrai problème, celui de la justice\", lance Thomas Ménagé, député \"Rassemblement national\" du Loiret",
+    "link": "https://www.bfmtv.com/politique/video-violences-a-l-encontre-des-forces-de-l-ordre-il-faut-regler-le-vrai-probleme-celui-de-la-justice-lance-thomas-menage-depute-rassemblement-national-du-loiret_VN-202611181026.html",
+    "date": "Wed, 18 Nov 2026 22:22:56 GMT",
+    "summary": "Un rassemblement de policiers a lieu ce mercredi matin, place Beauvau à Paris après des semaines d'intenses mobilisations dans la capitale émaillées par des violences.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Mtd4MkqSiLsoZAKF_vhSYRBvkNA=/0x0:1280x720/800x0/images/Violences-a-l-encontre-des-forces-de-l-ordre-Il-faut-regler-le-vrai-probleme-celui-de-la-justice-lance-Thomas-Menage-depute-Rassemblement-national-du-Loiret-2386489.jpg\" />"
+  },
+  {
+    "id": "7bee2a4fdb08b6a44f085ec093651622",
+    "source": "BFMTV",
+    "title": "Sommet historique en Chine: quels seront les sujets évoqués entre Donald Trump et Xi Jinping? L'éclairage du Général Serge Cholley, ancien attaché de défense en Chine",
+    "link": "https://www.bfmtv.com/international/moyen-orient/iran/video-sommet-historique-en-chine-quels-seront-les-sujets-evoques-entre-donald-trump-et-xi-jinping-l-eclairage-du-general-serge-cholley-ancien-attache-de-defense-en-chine_VN-202611181028.html",
+    "date": "Wed, 18 Nov 2026 22:22:43 GMT",
+    "summary": "Xi Jinping, Donald Trump et Vladimir Poutine sont réunis ce mercredi 18 novembre à Shenzhen, dans le sud de la Chine, lors d’une réception réunissant les dirigeants de l’Apec. Une première rencontre commune à la veille d’un sommet trilatéral inédit, qui doit notamment porter sur les guerres en Iran et en Ukraine, le commerce et les armes nucléaires.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/h5qt6Rh1cDzhcJ0oCMlFfi6rQDA=/0x0:1280x720/800x0/images/Sommet-historique-en-Chine-quels-seront-les-sujets-evoques-entre-Donald-Trump-et-Xi-Jinping-L-eclairage-du-General-Serge-Cholley-ancien-attache-de-defense-en-Chine-2386490.jpg\" />"
+  },
+  {
     "id": "ee2cfb9536e4f0ee86f819a0ecadec66",
     "source": "BFMTV",
-    "title": "DIRECT. Budget: le gouvernement listera \"dans les prochains jours\" les sujets sur lesquels il souhaite aboutir à des compromis",
+    "title": "Présidentielle 2027: Marine Tondelier se dit \"prête à une coalition autour de la candidature de Jean-Luc Mélenchon\"",
     "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-michel-barnier-annonce-un-accord-pour-une-primaire-de-la-droite-et-du-centre-fin-janvier-le-maire-de-cannes-refute_LN-202611180177.html",
     "date": "Wed, 18 Nov 2026 05:55:51 GMT",
-    "summary": "Vers une primaire de la droite et du centre? Bruno Retailleau a assuré que sa délégation a trouvé un \"consensus\" avec celles de Gabriel Attal et de David Lisnard, bien que le dernier ait assuré ne pas être certain que la primaire se tiendra. Édouard Philippe, qui refuse toujours l'exercice, a présenté quant à lui ce mercredi 18 novembre son programme.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0P0S8qlACJ9f2fJR6JidMFb8NP0=/0x40:768x472/800x0/images/Le-Premier-ministre-Sebastien-Lecornu-a-la-sortie-de-l-Elysee-a-Paris-le-10-septembre-2026-2348543.jpg\" />"
+    "summary": "Vers une primaire de la droite et du centre? Bruno Retailleau a assuré que sa délégation a trouvé un \"consensus\" avec celles de Gabriel Attal et de David Lisnard, bien que le dernier ait assuré ne pas être certain que la primaire se tiendra. Édouard Philippe, qui refuse toujours l'exercice, a présenté quant à lui ce mercredi 18 novembre son programme.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5Jb2a3jSHmCUQQZcFGPrl-3w_Y0=/0x0:2048x1152/800x0/images/Marine-Tondelier-le-7-septembre-2026-a-Paris-2346913.jpg\" />"
   },
   {
-    "id": "3bc275c24fb466f315b34b2fc2ded4c7",
+    "id": "23da836f074f21ba143161ad3c3acb92",
     "source": "BFMTV",
-    "title": "INFO BFM MARSEILLE PROVENCE. Un homme interpellé à Marseille après la découverte d’armes longues et d’une croix gammée à son domicile",
-    "link": "https://www.bfmtv.com/marseille/info-bfm-marseille-provence-un-homme-interpelle-a-marseille-apres-la-decouverte-d-armes-longues-et-d-une-croix-gammee-a-son-domicile_AN-202611180874.html",
-    "date": "Wed, 18 Nov 2026 18:25:00 GMT",
-    "summary": "Ce mercredi 18 novembre, un homme a été interpellé à Marseille après la découverte de neuf armes longues et une croix gammée chez lui.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/T-8A9htMV2ZlJI-a6NWWBE3LcMA=/0x106:2048x1258/800x0/images/Police-2386070.jpg\" />"
+    "title": "\"On a une très belle police républicaine qui fait régner l'ordre républicain\", estime Maël de Calan, porte-parole d'Édouard Philippe",
+    "link": "https://www.bfmtv.com/politique/video-on-a-une-tres-belle-police-republicaine-qui-fait-regner-l-ordre-republicain-estime-mael-de-calan-porte-parole-d-edouard-philippe_VN-202611181024.html",
+    "date": "Wed, 18 Nov 2026 22:12:12 GMT",
+    "summary": "Maël de Calan, président Horizons du département du Finistère et porte-parole d'Édouard Philippe, était invité sur le plateau de BFMTV, ce mercredi 18 novembre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/-XP8G-FqaGPb60LRL2YAlffBqxA=/0x0:1280x720/800x0/images/On-a-une-tres-belle-police-republicaine-qui-fait-regner-l-ordre-republicain-estime-Mael-de-Calan-porte-parole-d-Edouard-Philippe-2386487.jpg\" />"
   },
   {
-    "id": "ccce0884d3449a42090d836c7c8a7077",
+    "id": "c137142559f8a0a5d7786004c4820830",
     "source": "BFMTV",
-    "title": "Le prix Interallié attribué à Jessica L. Nelson pour \"Les Amants du Vercors\"",
-    "link": "https://www.bfmtv.com/culture/livres-bd/le-prix-interallie-attribue-a-jessica-l-nelson-pour-les-amants-du-vercors_AD-202611180871.html",
-    "date": "Wed, 18 Nov 2026 18:23:32 GMT",
-    "summary": "Grâce à son ouvrage qui évoque un trio amoureux pendant la Deuxième Guerre mondiale, la romancière de 46 ans s'est imposée face aux trois autres finalistes, Jean-Luc Coatalem pour \"Tête brûlée\", Sonia Devillers pour \"Le fabuleux piano\" et Pierre Adrian pour \"Le pays des étés\".<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/q8TTMe_P5_UFmYpGIWcWfdaatCk=/4x397:1364x1162/800x0/images/Jessica-L-Nelson-2386389.jpg\" />"
-  },
-  {
-    "id": "55314bc167da2e62b94c365013257f3e",
-    "source": "BFMTV",
-    "title": "Le suspect du tir de mortier contre la députée LFI Farida Amrani à Évry interpellé ce mercredi",
-    "link": "https://www.bfmtv.com/police-justice/le-suspect-du-tir-de-mortier-contre-la-deputee-lfi-farida-amrani-a-evry-interpelle-ce-mercredi_AN-202611180869.html",
-    "date": "Wed, 18 Nov 2026 18:22:37 GMT",
-    "summary": "La députée LFI de l'Essonne Farida Amrani avait été légèrement blessée par un tir de mortier dans un salon de coiffure d'Evry-Courcouronnes. L'homme soupçonné d'être l'auteur de ce geste s'est rendu à la police cet après-midi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Tg2iwx_N1exio4Ex05a4zMslbmM=/0x106:1024x682/800x0/images/La-deputee-LFI-Farida-Amrani-lors-d-une-conference-de-presse-a-l-Assemblee-nationale-le-26-septembre-2023-1800686.jpg\" />"
-  },
-  {
-    "id": "2e7fa7a625488d04f68e43c49407d137",
-    "source": "BFMTV",
-    "title": "Grippe: l'Ile-de-France et les Hauts-de-France désormais en phase de pré-épidémie",
-    "link": "https://www.bfmtv.com/sante/grippe-l-ile-de-france-et-les-hauts-de-france-desormais-en-phase-de-pre-epidemie_AN-202611180860.html",
-    "date": "Wed, 18 Nov 2026 18:15:40 GMT",
-    "summary": "Santé publique France signale une circulation accrue de la grippe, notamment en Ile-de-France et dans les Hauts-de-France, qui sont en pré-épidémie. L'agence indique également une \"nette\" augmentation des indicateurs du Covid-19.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_RRAbhqoxoNcI3yT3b97MrsBhvI=/7x113:2039x1256/800x0/images/Illustration-d-une-personne-malade-2157209.jpg\" />"
-  },
-  {
-    "id": "0f7f6e971feae00ace8c9a3349783a07",
-    "source": "BFMTV",
-    "title": "SIGNÉ CONSIGNY - Le Teddy Riner de la gauche, c'est François Hollande ? - 18/11",
-    "link": "https://www.bfmtv.com/replay-emissions/signe-consigny/video-signe-consigny-le-teddy-riner-de-la-gauche-c-est-francois-hollande-18-11_VN-202611180873.html",
-    "date": "Wed, 18 Nov 2026 18:13:53 GMT",
-    "summary": "Retrouvez le replay de Signé Consigny sur BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/c_8SatEn09I60kjPXutHAsmu1n4=/0x0:1280x720/800x0/images/SIGNE-CONSIGNY-Le-Teddy-Riner-de-la-gauche-c-est-Francois-Hollande-18-11-2386393.jpg\" />"
-  },
-  {
-    "id": "ae77e912abf2c561f9e325a13e72deb9",
-    "source": "BFMTV",
-    "title": "OM: Hojbjerg, Paixao... pourquoi les dossiers de l'été pourraient aussi agiter le mercato de janvier",
-    "link": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-hojbjerg-paixao-pourquoi-les-dossiers-de-l-ete-pourraient-aussi-agiter-le-mercato-de-janvier_AV-202611180854.html",
-    "date": "Wed, 18 Nov 2026 18:10:23 GMT",
-    "summary": "La vente d'un joueur pourrait être un élément clé du redressement financier de l'OM, à la fois pour passer l'obstacle DNCG et pouvoir recruter en janvier. Les cas emblématiques de Hojbjerg et Paixao ont évolué depuis cet été, et seront à surveiller.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/_EtpS1E8xJkNZC2iGfgWxYrzjXI=/0x0:2048x1152/800x0/images/OM-Pierre-Emile-Hojbjerg-et-Igor-Paixao-face-a-Leverkusen-en-Ligue-Europa-le-5-novembre-2026-2386376.jpg\" />"
-  },
-  {
-    "id": "79abc9a37bac9539075e38d0fec8da34",
-    "source": "BFMTV",
-    "title": "Beyoncé, Alicia Keys, John Legend... Qui accompagnera Jay-Z lors du show de la mi-temps du Super Bowl?",
-    "link": "https://www.bfmtv.com/culture/musique/beyonce-alicia-keys-john-legend-qui-accompagnera-jay-z-lors-du-show-de-la-mi-temps-du-super-bowl_AN-202611180850.html",
-    "date": "Wed, 18 Nov 2026 18:02:33 GMT",
-    "summary": "À trois mois du Super Bowl 2027, la presse américaine met en avant plusieurs artistes susceptibles d'accompagner le rappeur Jay-Z lors du show de la mi-temps, événement regardé chaque année par des centaines de millions de spectateurs à travers le monde.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YNSKiXMUyWirhgtGG6QS8CeFSeQ=/0x30:2048x1182/800x0/images/Jay-Z-2300568.jpg\" />"
-  },
-  {
-    "id": "03159a23b69638db68f30aaac2ba25d8",
-    "source": "BFMTV",
-    "title": "La production mondiale de vin sera de nouveau en baisse en 2026 en raison des fortes intempéries et des canicules",
-    "link": "https://www.bfmtv.com/economie/la-production-mondiale-de-vin-sera-de-nouveau-en-baisse-en-2026-en-raison-des-fortes-intemperies-et-des-canicules_AD-202611180849.html",
-    "date": "Wed, 18 Nov 2026 18:01:33 GMT",
-    "summary": "La production mondiale de vin est en recul depuis plusieurs années, et la tendance devrait se confirmer en 2026 selon les chiffres de l'Organisation internationale de la vigne et du vin. La majorité des pays producteurs est touchée par cette baisse, expliquée en grande partie par la multiplication des aléas climatiques. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zWBt8QgYJD7yySl5QaDPgou8KO0=/0x0:1920x1080/800x0/images/Des-vignes-brulees-par-la-chaleur-degagee-par-l-incendie-dans-le-Var-2328471.jpg\" />"
-  },
-  {
-    "id": "eb7ac6ebc7ca957af91fbf5e8a2177a7",
-    "source": "BFMTV",
-    "title": "Marschall Truchot : Macron, un président qui a toujours fait de son mieux ? - 18/11",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-story/video-marschall-truchot-macron-un-president-qui-a-toujours-fait-de-son-mieux-18-11_VN-202611180845.html",
-    "date": "Wed, 18 Nov 2026 17:57:21 GMT",
-    "summary": "Marschall Truchot, du lundi au jeudi de 17h à 18h45 avec Olivier Truchot & Alain Marschall. Deux heures pour faire un tour complet de l’actualité en présence d’invités pour expliquer et débattre sur les grands sujets qui ont marqué la journée.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dF-ElSzwwYZtzMBm0EIiBZlRetc=/0x0:1280x720/800x0/images/Marschall-Truchot-Macron-un-president-qui-a-toujours-fait-de-son-mieux-18-11-2386373.jpg\" />"
-  },
-  {
-    "id": "fe1c20daffef37aeded3e1fbba63bf8c",
-    "source": "BFMTV",
-    "title": "Football : RMC Sport dans la peau d'un arbitre VAR",
-    "link": "https://rmcsport.bfmtv.com/football/ligue-1/video-football-j-ai-teste-pour-vous-la-var-notre-journaliste-francois-pinet-au-c-ur-du-centre-var_VN-202611180848.html",
-    "date": "Wed, 18 Nov 2026 17:56:26 GMT",
-    "summary": "Notre journaliste François Pinet est entré dans les coulisses de la VAR ! Dans un centre tenu secret, il a découvert puis testé le dispositif d’assistance vidéo utilisé par les arbitres du football français.\n\nPour cette immersion exceptionnelle, François Pinet a été accompagné par Bastien Dechepy, arbitre de Ligue 1. Installation du centre, communication avec les officiels, choix des images, ralentis et situations nécessitant une intervention : il lui explique chaque étape du processus.\n\nQuand la VAR doit-elle intervenir ? Comment les arbitres analysent-ils une action litigieuse ? Qui prend la décision finale ? Cette visite permet de mieux comprendre un système souvent commenté, mais dont le fonctionnement précis reste largement méconnu du public.\n\nAprès la théorie, place à la pratique : installé devant les écrans, François Pinet se glisse dans la peau d’un arbitre vidéo et doit analyser plusieurs actions. Entre pression, angles multiples et décisions à prendre rapidement, l’exercice se révèle particulièrement exigeant.\n\nDécouvrez les coulisses de l’arbitrage vidéo et vivez cette expérience rare au cœur du centre VAR !<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vHEVwSnIIvwm7mLSd9zjsKcgiuA=/0x0:1280x720/800x0/images/Football-J-ai-teste-pour-vous-la-VAR-notre-journaliste-Francois-Pinet-au-coeur-du-centre-VAR-2386375.jpg\" />"
-  },
-  {
-    "id": "81e2dd5b6068d7ad40ccac82f39a02df",
-    "source": "BFMTV",
-    "title": "C'est \"le moteur de l'économie moderne\": une faille informatique majeure menace les systèmes de milliers d'entreprises et pousse plusieurs États à lancer l'alerte",
-    "link": "https://www.bfmtv.com/tech/cybersecurite/c-est-le-moteur-de-l-economie-moderne-une-faille-informatique-majeure-menace-les-systemes-de-milliers-d-entreprises-et-pousse-plusieurs-etats-a-lancer-l-alerte_AN-202611180840.html",
-    "date": "Wed, 18 Nov 2026 17:54:28 GMT",
-    "summary": "À l'aide de l'IA, l'entreprise technologique Calif a découvert une faille de sécurité dans Java, troisième langage de programmation au monde. Elle pourrait permettre à des pirates informatiques d'exécuter du code à distance ou de provoquer le plantage de systèmes. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1B03a2zXmQXj8PBaWw6QtAtoJ48=/7x131:2039x1274/800x0/images/Cyber-2325821.jpg\" />"
-  },
-  {
-    "id": "43df3ae2b24b991961052fc57ffa5871",
-    "source": "BFMTV",
-    "title": "\"Il ne faut pas oublier que les visiteurs paient 17 euros\": le Salon de l'agriculture veut éviter le défilé des politiques durant la présidentielle pour ne pas devenir champ de bataille électoral",
-    "link": "https://www.bfmtv.com/economie/entreprises/agriculture/il-ne-faut-pas-oublier-que-les-visiteurs-paient-17-euros-le-salon-de-l-agriculture-veut-eviter-le-defile-des-politiques-durant-la-presidentielle-pour-ne-pas-devenir-champ-de-bataille-electoral_AN-202611180837.html",
-    "date": "Wed, 18 Nov 2026 17:53:25 GMT",
-    "summary": "Rendez-vous incontournable du monde politique, la prochaine édition du Salon de l'agriculture à Paris se tiendra à quelques semaines du premier tour de l'élection présidentielle. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/eDA8MTdXI6bSJHZyUIyNJlCW08Q=/0x107:2048x1259/800x0/images/Salon-Agriculture-2027062.jpg\" />"
-  },
-  {
-    "id": "c9d44c20eff85690d040c8ef19080353",
-    "source": "BFMTV",
-    "title": "Seize personnes blessées après une collision entre deux tramways à Thiais",
-    "link": "https://rmc.bfmtv.com/actualites/societe/transports/seize-personnes-blessees-apres-une-collision-entre-deux-tramways-a-thiais_AN-202611180836.html",
-    "date": "Wed, 18 Nov 2026 17:51:27 GMT",
-    "summary": "Mardi 17 novembre, seize personnes ont été légèrement blessées après une collision entre deux tramways à Thiais, dans le Val-de-Marne. Une enquête a été ouverte. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Y5esAjqQQt1ul8qvlOE12QLwdIQ=/0x106:2048x1258/800x0/images/Les-numeros-d-urgence-sur-un-fourgon-des-pompiers-image-d-illustration-2115587.jpg\" />"
-  },
-  {
-    "id": "0620df145f210aac05d9fba5b17cd043",
-    "source": "BFMTV",
-    "title": "Marschall Truchot : Les policiers en colère ont été reçus à Beauvau - 18/11",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-story/video-marschall-truchot-les-policiers-en-colere-ont-ete-recus-a-beauvau-18-11_VN-202611180839.html",
-    "date": "Wed, 18 Nov 2026 17:50:12 GMT",
-    "summary": "Marschall Truchot, du lundi au jeudi de 17h à 18h45 avec Olivier Truchot & Alain Marschall. Deux heures pour faire un tour complet de l’actualité en présence d’invités pour expliquer et débattre sur les grands sujets qui ont marqué la journée.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/UP4p0FNM8406iaockWTKqIQvdzg=/0x0:1280x720/800x0/images/Marschall-Truchot-Les-policiers-en-colere-ont-ete-recus-a-Beauvau-18-11-2386368.jpg\" />"
+    "title": "Embouteillage: des moutons ralentissent un train",
+    "link": "https://www.bfmtv.com/societe/insolite/video-embouteillage-des-moutons-ralentissent-un-train_VN-202611181020.html",
+    "date": "Wed, 18 Nov 2026 22:08:02 GMT",
+    "summary": "Cette scène insolite s'est déroulée à Charbonnières-les-Bains, près de Lyon, où des moutons ont ralenti un TER.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/deMjot6m2qAIWjzjKAzwR7-KLQw=/0x0:1280x720/800x0/images/Embouteillage-des-moutons-ralentissent-un-train-2386486.jpg\" />"
   }
 ]
