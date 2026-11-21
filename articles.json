@@ -1,5 +1,13 @@
 [
   {
+    "id": "cf75044a003ceafd0be6995a2a517ccd",
+    "source": "Mediapart",
+    "title": "Affaire Zecler: la justice reconnaît enfin le racisme des policiers",
+    "link": "https://www.mediapart.fr/journal/france/201126/affaire-zecler-la-justice-reconnait-enfin-le-racisme-des-policiers",
+    "date": "Fri, 20 Nov 2026 23:42:39 +0100",
+    "summary": "Les trois policiers qui avaient tabassé Michel Zecler en 2020 ont été condamnés vendredi à des peines allant d’un an à deux ans ferme. La cour criminelle de Paris a finalement reconnu la circonstance aggravante de racisme, et tous trois ont l’interdiction d’exercer le métier de policier."
+  },
+  {
     "id": "fa165be0fc70a47088a805fad9b3764f",
     "source": "Mediapart",
     "title": "Violences policières, racisme: contre l’impunité, l’éclat de la justice",
@@ -72,20 +80,12 @@
     "summary": "Le candidat conservateur a mis en avant sa capacité de «gestion», éreintant le bilan des gauches au pouvoir depuis huit ans, de la crise de Ceuta aux catastrophes ferroviaires. Le chef du gouvernement, Pedro Sánchez, a renvoyé la droite à l’alliance qu’elle prépare avec l’extrême droite."
   },
   {
-    "id": "a4a29cf077636b204964d6e2dfe42394",
-    "source": "Mediapart",
-    "title": "115 morts en neuf mois: l’Espagne découvre les failles de son TGV",
-    "link": "https://www.mediapart.fr/journal/international/201126/115-morts-en-neuf-mois-l-espagne-decouvre-les-failles-de-son-tgv",
-    "date": "Fri, 20 Nov 2026 14:08:11 +0100",
-    "summary": "Le syndicat des conducteurs de train appelle à une journée de mobilisation lundi 23 novembre. Joyau industriel de l’Espagne, le deuxième réseau à grande vitesse du monde peine à absorber l’explosion du nombre de voyageurs, qui a presque doublé en quatre ans."
-  },
-  {
-    "id": "4225c4777768991eb7ab34ec4eb1650c",
+    "id": "e48e9d5b892a776ca90e6e883b89ffc2",
     "source": "Le Monde",
-    "title": "Interpellation violente de Michel Zecler : de un an à deux ans de prison ferme pour les trois policiers, le caractère raciste de l’agression retenu",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/20/interpellation-violente-de-michel-zecler-les-trois-policiers-condamnes-a-cinq-ans-de-prison-le-caractere-raciste-de-l-agression-retenue_6813712_3224.html",
-    "date": "Fri, 20 Nov 2026 22:10:49 +0100",
-    "summary": "En novembre 2020, Michel Zecler avait subi un passage à tabac dans l’entrée de son studio de musique par les trois policiers qui voulaient le contrôler pour non-port du masque – le pays connaissait alors son deuxième confinement pour endiguer la pandémie de Covid-19."
+    "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
+    "date": "Sat, 21 Nov 2026 00:46:36 +0100",
+    "summary": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu sur procès-verbal qu’il les avait agressés. Une version démentie par les images filmées par une caméra de surveillance."
   },
   {
     "id": "798e7838854c915ae6bce5111642d8a7",
@@ -96,6 +96,14 @@
     "summary": "La gauche sénatoriale a d’ores et déjà annoncé qu’elle saisirait en commun le Conseil constitutionnel pour faire barrage à la promulgation de ce qu’elle considère comme l’instauration d’un « permis de tuer » pour les policiers."
   },
   {
+    "id": "95f564517531e23d6f9a5676e4ae9005",
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+    "date": "Fri, 20 Nov 2026 23:25:50 +0100",
+    "summary": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre les différents partis."
+  },
+  {
     "id": "3b665b2af395baa6c202d3d7069a0ece",
     "source": "Le Monde",
     "title": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
@@ -104,12 +112,12 @@
     "summary": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a annoncé ce 20 novembre l’expulsion de l’attaché militaire russe en poste au Danemark."
   },
   {
-    "id": "9de52d4b722e5fa10c8f99acacfa7195",
+    "id": "4b7b18d2ea5ad9b37b53d97cad2fb46c",
     "source": "Le Monde",
-    "title": "Présidentielle 2027 : la bataille délétère du « vote utile »",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-la-bataille-deletere-du-vote-utile_6813664_823448.html",
-    "date": "Fri, 20 Nov 2026 17:30:03 +0100",
-    "summary": "La notion de vote utile, qui alimente les débats de l’automne et s’impose dans le champ politique, nie le débat d’idées en se concentrant exclusivement sur les sondages, estime Matthieu Goar, l’un des chefs du service Politique du « Monde »."
+    "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+    "date": "Sat, 21 Nov 2026 01:33:30 +0100",
+    "summary": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine vivant une de ses pires semaines depuis la crise liée au Covid."
   },
   {
     "id": "5ede9e87fb046eae443ad7577845d8b3",
@@ -118,14 +126,6 @@
     "link": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
     "date": "Fri, 20 Nov 2026 21:38:52 +0100",
     "summary": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, cet arrêt pourrait faire jurisprudence."
-  },
-  {
-    "id": "0460e170795f42c980f40179e7d3f937",
-    "source": "Le Monde",
-    "title": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
-    "link": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
-    "date": "Fri, 20 Nov 2026 18:56:59 +0100",
-    "summary": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta."
   },
   {
     "id": "d2a090b96ccf7da3310790634db22809",
@@ -152,6 +152,14 @@
     "summary": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026. Trouver un compromis sur le budget 2027, rejeté à l’Assemblée et jugé « suicidaire » au Sénat, s’annonce plus ardu."
   },
   {
+    "id": "3386ae52d24cc4a1104b626820fd965f",
+    "source": "Le Monde",
+    "title": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+    "date": "Sat, 21 Nov 2026 01:13:13 +0100",
+    "summary": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto », en 2013. Le jeu vidéo, lancé jeudi, a été salué par la critique."
+  },
+  {
     "id": "e05fa015a865f070f15528ca7415ae1e",
     "source": "Le Monde",
     "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
@@ -160,12 +168,20 @@
     "summary": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise climatique alimentaient les slogans."
   },
   {
-    "id": "61b461384e5dbac893d74a47d323dda6",
+    "id": "974e9b8790c926bc092a85151fbb5ae7",
     "source": "Le Monde",
-    "title": "Projet de loi logement : les députés n’ont pas revoté sur le droit de louer les passoires thermiques",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
-    "date": "Fri, 20 Nov 2026 20:34:01 +0100",
-    "summary": "L’examen de ce texte qui ambitionne de relancer la création de logements s’est achevé vendredi. Le gouvernement mise sur une suppression ultérieure de l’amendement RN qui réautorise la mise en location des logements les plus énergivores."
+    "title": "La formule 1 va renouer avec les moteurs V8 à partir de 2030 pour retrouver son « ADN »",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/21/la-formule-1-va-renouer-avec-les-moteurs-v8-a-partir-de-2030-pour-retrouver-son-adn_6813877_3242.html",
+    "date": "Sat, 21 Nov 2026 03:39:09 +0100",
+    "summary": "Le retour du V8, avec « une hybridation limitée », est plébiscité par les pilotes. Le spectacle devrait davantage s’appuyer sur leurs talents purs de pilotage que la gestion de la batterie, comme c’est le cas actuellement."
+  },
+  {
+    "id": "40856ce12317877abb0cb27d1ffead2d",
+    "source": "Le Monde",
+    "title": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
+    "date": "Fri, 20 Nov 2026 19:00:27 +0100",
+    "summary": "Le ministère des mines kényan a choisi, jeudi 19 novembre, le consortium Frontier Minerals pour exploiter le site de Mrima Hill. Une victoire pour Washington, qui cherche à pallier la restriction des exportations chinoises en minerais."
   },
   {
     "id": "5434451f23c1c7eabeb6a46aa80773f5",
@@ -176,28 +192,36 @@
     "summary": "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens. Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire."
   },
   {
-    "id": "1a2fb51396d3efcab96b077ebf8a119a",
+    "id": "04450ae77ba24965530dbe3f66acbe72",
     "source": "Le Monde",
-    "title": "« L’entrée en Bourse d’Anthropic est probablement davantage dictée par la peur que par la foi en l’avenir de l’IA »",
-    "link": "https://www.lemonde.fr/idees/article/2026/11/20/l-entree-en-bourse-d-anthropic-est-probablement-davantage-dictee-par-la-peur-que-par-la-foi-en-l-avenir-de-l-ia_6813694_3232.html",
-    "date": "Fri, 20 Nov 2026 20:00:11 +0100",
-    "summary": "La décision du créateur de Claude ne répond pas à un besoin de financement ou de liquidité mais trahit plutôt la volonté de ses dirigeants de transférer les risques du secteur de l’intelligence artificielle vers les épargnants et la société, estime l’entrepreneur Guy Halfteck, dans une tribune au « Monde »."
+    "title": "Cisjordanie occupée : un Palestinien tué par un garde de sécurité d’une colonie israélienne près de Ramallah",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/cisjordanie-occupee-un-palestinien-tue-par-un-garde-de-securite-d-une-colonie-israelienne-pres-de-ramallah_6813716_3210.html",
+    "date": "Fri, 20 Nov 2026 23:38:27 +0100",
+    "summary": "L’armée israélienne a annoncé l’interpellation d’un homme qui se trouvait avec la victime."
   },
   {
-    "id": "00612048ef25e214171a0be87e56b462",
-    "source": "Le Monde",
-    "title": "COP31 : dans la dernière ligne droite des négociations, les énergies fossiles et les financements au centre du jeu",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
-    "date": "Fri, 20 Nov 2026 17:28:48 +0100",
-    "summary": "Les pourparlers de la 31ᵉ conférence mondiale sur le climat, à Antalya, en Turquie, étaient censés s’achever vendredi 20 novembre. Ils jouaient les prolongations faute d’accord sur des sujets-clés, comme les énergies fossiles et les financements."
+    "id": "7366d429ec16e26e37825837069132e0",
+    "source": "Libération",
+    "title": "Eunice : dix universités, et autant de frontières à faire tomber",
+    "link": "https://www.liberation.fr/forums/eunice-dix-universites-et-autant-de-frontieres-a-faire-tomber-20261121_QH2FRJYEGBF7XGGZSYKXBGTQNY/",
+    "date": "Sat, 21 Nov 2026 01:19:00 +0000",
+    "summary": "Un étudiant de Valenciennes pourrait-il effectuer une partie de son cursus en Finlande, le poursuivre en Espagne et ainsi obtenir un diplôme multi-universités ? C’est la promesse d’Eunice (European University for Customised Education) qui réunit dix établissements depuis 2020."
   },
   {
-    "id": "6468a061acf832fb9795ee7bacdb23b6",
-    "source": "Le Monde",
-    "title": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-les-pluies-significatives-diminuent-apres-des-inondations-de-maisons-et-de-routes_6813624_3245.html",
-    "date": "Fri, 20 Nov 2026 20:50:23 +0100",
-    "summary": "Il est tombé jusqu’à plus de 150 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoyait la fin des pluies importantes pour le cours de l’après-midi de vendredi."
+    "id": "79069466c2c1ecfa88839ef1740595db",
+    "source": "Libération",
+    "title": "En Seine-Maritime, le Cailly refait son lit",
+    "link": "https://www.liberation.fr/forums/en-seine-maritime-le-cailly-refait-son-lit-20261121_WB2WVL5V6ZCGZL76BIRNKECBFA/",
+    "date": "Sat, 21 Nov 2026 00:50:00 +0000",
+    "summary": "Enterrée dans les années 60, la rivière va refaire surface grâce à des travaux, prévus en 2027, qui permettront de recréer une continuité écologique avec la Seine."
+  },
+  {
+    "id": "5cbdc0880745c38ff739163d8957feb2",
+    "source": "Libération",
+    "title": "Transition écologique : nous serons ce que nous produirons",
+    "link": "https://www.liberation.fr/forums/transition-ecologique-nous-serons-ce-que-nous-produirons-20261121_I54L6QPHZZGPBBUGYRBOGZOY3Y/",
+    "date": "Fri, 20 Nov 2026 23:20:00 +0000",
+    "summary": "Produire en France ou en Europe est un choix de société et un impératif pour nos économies et notre indépendance énergétique."
   },
   {
     "id": "901f293308ca272f466add6c1692c021",
@@ -205,7 +229,7 @@
     "title": "Procès de l’agression de Michel Zecler : les trois policiers condamnés à de la prison ferme, le caractère raciste retenu",
     "link": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
     "date": "Fri, 20 Nov 2026 21:20:11 +0000",
-    "summary": "Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier ont été condamnés à des peines allant d’une à deux années fermes  ce vendredi 20 novembre pour le faux procès-verbal et pour les violences volontaires sur le producteur de musique fin 2020. La cour criminelle départementale de Paris a finalement reconnu la circonstance aggravante du racisme."
+    "summary": "Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier ont été condamnés à des peines allant d’une à deux années fermes ce vendredi 20 novembre. La cour criminelle départementale de Paris a finalement reconnu la circonstance aggravante du racisme. L’avocat de Michel Zecler a parlé de «succès» et de «décision qui fait date»"
   },
   {
     "id": "7826a61e06073d56938f0656dc32be31",
@@ -294,30 +318,6 @@
     "link": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
     "date": "Fri, 20 Nov 2026 19:14:48 +0000",
     "summary": "Le candidat ultralibéral au succès sondagier surprise ne cache pas sa proximité avec Eric Ciotti ou Sarah Knafo. Jusqu’où ?"
-  },
-  {
-    "id": "95e85661b59d38970f7c0ad4a7e1d75d",
-    "source": "Libération",
-    "title": "MeToo stand-up : classement sans suite en faveur de Seb Mellia, la plaignante, Tania Dutel, annonce un recours",
-    "link": "https://www.liberation.fr/societe/police-justice/metoo-stand-up-classement-sans-suite-en-faveur-de-seb-mellia-la-plaignante-tania-dutel-annonce-un-recours-20261120_2GPX2C6YGVGTVKNN3QAOMEXIVE/",
-    "date": "Fri, 20 Nov 2026 19:10:00 +0000",
-    "summary": "L’enquête pour viol visant l’humoriste, a été classée sans suite en octobre pour infraction insuffisamment caractérisée, a appris ce vendredi 20 novembre l’AFP de sources proches du dossier."
-  },
-  {
-    "id": "c94858683cfd971738d5d0fcd331d14b",
-    "source": "Libération",
-    "title": "«Ce n’est pas tous les jours qu’un navire s’échoue» : sur les côtes landaises, un cargo sous l’œil des badauds et la surveillance des secours",
-    "link": "https://www.liberation.fr/societe/ce-nest-pas-tous-les-jours-quun-navire-sechoue-sur-les-cotes-landaises-un-cargo-sous-loeil-des-badauds-et-la-surveillance-des-secours-20261120_TBAHKDLFIZEVZLBS3ZCVVWPKQQ/",
-    "date": "Fri, 20 Nov 2026 19:04:51 +0000",
-    "summary": "Un cargo battant pavillon maltais s’est échoué sur la plage de Lit-et-Mixe durant la nuit du 19 au 20 novembre. Son destin est suspendu à la possibilité – ou non – de le remorquer vers le large."
-  },
-  {
-    "id": "a8b711fb993225d3a526eccecef06637",
-    "source": "Libération",
-    "title": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
-    "link": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
-    "date": "Fri, 20 Nov 2026 18:47:00 +0000",
-    "summary": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit comme un «permis de tuer» par la gauche et plusieurs associations."
   },
   {
     "id": "1e6f06594b35c5ae99ec1b05a76dc841",
@@ -440,6 +440,86 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/alessandro-santoro-f_-_q9moxsce-unsplash-61bd1.jpg?1795094736\" width=\"700\" />\n<p>Pas de doute, la Métropole de Lyon est bien passée à droite. Elle a annoncé le 16 novembre le rétablissement de la circulation à double sens sur une partie de l'avenue Rockefeller, à Lyon, alors qu'une large piste cyclable avait été aménagée en 2024. <br class=\"autobr\" />\nLa décision de Véronique Sarselli (Les Républicains), la présidente de la collectivité territoriale qui regroupe près de 60 communes, suscite la colère des écologistes locaux… qui se sont vus ravir la Métropole en mars suite aux dernières (…)</p>\n\n            <a href=\"https://reporterre.net/Velo-la-droite-supprime-une-grande-piste-cyclable-a-Lyon?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Transports\" rel=\"tag\">Transports</a>"
   },
   {
+    "id": "24afd9fb03ec7b9a90205ed47335519c",
+    "source": "BFMTV",
+    "title": "Tondelier tentée par Mélenchon, Jadot claque la porte - 20/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-tondelier-tentee-par-melenchon-jadot-claque-la-porte-20-11_VN-202611200997.html",
+    "date": "Fri, 20 Nov 2026 23:38:32 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2d46mhLdyJK_oyVFjPu4SJCtszA=/0x0:1280x720/800x0/images/Tondelier-tentee-par-Melenchon-Jadot-claque-la-porte-20-11-2388024.jpg\" />"
+  },
+  {
+    "id": "56ae981efb21df866fcbfb01c21148ea",
+    "source": "BFMTV",
+    "title": "Manifestations : comment apaiser la colère sociale ? - 20/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-manifestations-comment-apaiser-la-colere-sociale-20-11_VN-202611200982.html",
+    "date": "Fri, 20 Nov 2026 23:04:11 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/tySNEtEYj9V0oxV8Etqyw6Y3JxQ=/0x0:1280x720/800x0/images/Manifestations-comment-apaiser-la-colere-sociale-20-11-2388019.jpg\" />"
+  },
+  {
+    "id": "0f3b4091add410de71f4b5f0e2aa5e5e",
+    "source": "BFMTV",
+    "title": "2027 : Édouard Philippe est-il en perte de vitesse ? - 20/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-edouard-philippe-est-il-en-perte-de-vitesse-20-11_VN-202611200979.html",
+    "date": "Fri, 20 Nov 2026 22:52:31 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rXLZ9n0nLVTAofi-12FFPQ6fywk=/0x0:1280x720/800x0/images/2027-Edouard-Philippe-est-il-en-perte-de-vitesse-20-11-2388018.jpg\" />"
+  },
+  {
+    "id": "fb94482f7e49bcf66166ab30056c867b",
+    "source": "BFMTV",
+    "title": "Affaire Michel Zecler: \"C'est une décision extrêmement importante\", estime Cyrielle Chatelain, députée de l'Isère, présidente du groupe \"Écologiste et Social\" à l'Assemblée",
+    "link": "https://www.bfmtv.com/politique/video-affaire-michel-zecler-c-est-une-decision-extremement-importante-estime-cyrielle-chatelain-deputee-de-l-isere-presidente-du-groupe-ecologiste-et-social-a-l-assemblee_VN-202611200975.html",
+    "date": "Fri, 20 Nov 2026 22:49:15 GMT",
+    "summary": "Le verdict est tombé, six ans presque jour pour jour après l'agression de Michel Zecler. Les trois policiers accusés d'avoir violemment agressé le producteur de musique, le 21 novembre 2020 à Paris, dans son studio ont été condamnés, ce vendredi 20 novembre, à cinq ans de prison. La circonstance aggravante de racisme a été retenue à l'encontre des trois accusés. Ils écopent également d'une interdiction d'exercer le métier de policier assorti d'une exécution provisoire.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/I7pIWBWPpSL7jmWlFvOn406ceI4=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-C-est-une-decision-extremement-importante-estime-Cyrielle-Chatelain-deputee-de-l-Isere-presidente-du-groupe-Ecologiste-et-Social-a-l-Assemblee-2388015.jpg\" />"
+  },
+  {
+    "id": "fef675641ab21283bf3467dca87ae52e",
+    "source": "BFMTV",
+    "title": "\"La jurisprudence Zecler\": après un verdict historique, l'avocat de Michel Zecler se félicite d'une \"décision\" qui \"fait date\"",
+    "link": "https://www.bfmtv.com/police-justice/la-jurisprudence-zecler-apres-un-verdict-historique-l-avocat-de-michel-zecler-se-felicite-d-une-decision-qui-fait-date_AV-202611200974.html",
+    "date": "Fri, 20 Nov 2026 22:45:42 GMT",
+    "summary": "Ce vendredi 20 novembre, l'avocat de Michel Zecler, Serge Money a été ovationné à la sortie de la salle d'audience. Quelques minutes plus tôt, les trois policiers à Paris, dans son studio, ont été condamnés à des peines de prison pour avoir agressé le producteur de musique.   <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/98iW6mK_4SSsuNBK23hQQjJ9wQA=/0x40:768x472/800x0/images/Le-producteur-de-musique-Michel-Zecler-g-se-tient-aux-cotes-de-son-avocat-Serge-Money-alors-qu-il-s-adresse-aux-medias-au-Palais-de-Justice-le-principal-tribunal-de-Paris-situe-sur-l-Ile-de-la-Cite-dans-le-centre-de-Paris-le-9-novembre-2026-2387300.jpg\" />"
+  },
+  {
+    "id": "8a0e7fbe07b4e018bd2df1610e0624dd",
+    "source": "BFMTV",
+    "title": "\"Déconne pas Édouard\": Vincent Jeanbrun, ministre du Logement, appelle Édouard Philippe à rejoindre la primaire de la droite et du centre",
+    "link": "https://www.bfmtv.com/politique/deconne-pas-edouard-vincent-jeanbrun-ministre-du-logement-appelle-edouard-philippe-a-rejoindre-la-primaire-de-la-droite-et-du-centre_AN-202611200972.html",
+    "date": "Fri, 20 Nov 2026 22:40:32 GMT",
+    "summary": "Ce vendredi 20 novembre, au micro de Télématin, le LR Vincent Jeanbrun, ministre de la Ville et du Logement a appelé Édouard Philippe à participer à la primaire de la droite et du centre aux côtés de Gabriel Attal, David Lisnard et Bruno Retailleau. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/YLaItNdBeGJ9A3NTwS4Wle7an58=/0x40:768x472/800x0/images/Le-ministre-francais-du-Logement-Vincent-Jeanbrun-quitte-l-Elysee-a-Paris-le-28-octobre-2026-2387296.jpg\" />"
+  },
+  {
+    "id": "4ac59a60561fcee4f788dee8afa4a6d2",
+    "source": "BFMTV",
+    "title": "Procès Zecler : « La justice est passée » (avocat) - 20/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-proces-zecler-la-justice-est-passee-avocat-20-11_VN-202611200973.html",
+    "date": "Fri, 20 Nov 2026 22:38:02 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2rxTu8I9e0riNSOMrij0IEhoVCs=/0x0:1280x720/800x0/images/Proces-Zecler-La-justice-est-passee-avocat-20-11-2388014.jpg\" />"
+  },
+  {
+    "id": "d57ab4604a323f22eef6faa808acbafd",
+    "source": "BFMTV",
+    "title": "\"Une adorable petite femelle d’environ 8 kg\": un bébé hippopotame nain est né dans un parc en Normandie",
+    "link": "https://www.bfmtv.com/normandie/calvados/une-adorable-petite-femelle-d-environ-8-kg-un-bebe-hippopotame-nain-est-ne-dans-un-parc-en-normandie_AN-202611200970.html",
+    "date": "Fri, 20 Nov 2026 22:36:22 GMT",
+    "summary": "Ce vendredi 20 novembre, le parc de Cerza a annoncé la naissance d'un bébé hippopotame nain. Une \"bonne nouvelle\" pour l'espèce menacée. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Y6Duv2AtE7TqeODNuBJN6Snadt4=/0x0:1920x1080/800x0/images/Un-bebe-hippopotame-nain-est-ne-au-parc-de-Cerza-en-Normandie-2387851.jpg\" />"
+  },
+  {
+    "id": "9a43db2a5bec2d9574c0030d921db6b3",
+    "source": "BFMTV",
+    "title": "Plus d'une heure de tentatives pour exécuter un condamné à mort aux États-Unis, nouveau loupé au Texas",
+    "link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/plus-d-une-heure-de-tentatives-pour-executer-un-condamne-a-mort-aux-etats-unis-nouveau-loupe-au-texas_AD-202611200968.html",
+    "date": "Fri, 20 Nov 2026 22:34:28 GMT",
+    "summary": "Reinaldo Dennes, 70 ans, avait été condamné à la peine capitale pour le meurtre en 1996 d'un joaillier lors d'un braquage à Houston. Exécuté jeudi soir par injection, l'homme est mort plus d'une heure après avoir crié de douleur. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/G_t0nJVHJvCYZx17wveQTTENiS8=/0x29:512x317/800x0/images/-353106.jpg\" />"
+  },
+  {
+    "id": "a27015502f05485d69f5701ba8d63cd4",
+    "source": "BFMTV",
+    "title": "Affaire Michel Zecler: \"La justice est passée\", déclare l'avocat du producteur de musique",
+    "link": "https://www.bfmtv.com/police-justice/video-affaire-michel-zecler-la-justice-est-passee-declare-l-avocat-du-producteur-de-musique_VN-202611200969.html",
+    "date": "Fri, 20 Nov 2026 22:32:23 GMT",
+    "summary": "Le verdict est tombé, six ans presque jour pour jour après l'agression de Michel Zecler. Les trois policiers accusés d'avoir violemment agressé le producteur de musique, le 21 novembre 2020 à Paris, dans son studio ont été condamnés, ce vendredi 20 novembre, à cinq ans de prison. La circonstance aggravante de racisme a été retenue à l'encontre des trois accusés. Ils écopent également d'une interdiction d'exercer le métier de policier assorti d'une exécution provisoire.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Nk8T1sxh6YALRBOqw123-pa_7NE=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-La-justice-est-passee-declare-l-avocat-du-producteur-de-musique-2388013.jpg\" />"
+  },
+  {
     "id": "8d2ec3e1d0ff78012294279ac48a9fcc",
     "source": "BFMTV",
     "title": "Résultats EuroMillions: le tirage du vendredi 20 novembre 2026",
@@ -478,85 +558,5 @@
     "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-avoir-ete-au-pouvoir-5-ans-10-ans-est-aujourd-hui-un-handicap-tres-important-assume-bruno-le-maire-ancien-ministre-de-l-economie_VN-202611200956.html",
     "date": "Fri, 20 Nov 2026 21:58:49 GMT",
     "summary": "Bruno Le Maire, ancien ministre de l'Économie, était l'invité de BFMTV ce 20 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Eszm8R47hpVlP120U9-JnSj8An0=/0x0:1280x720/800x0/images/Avoir-ete-au-pouvoir-5-ans-10-ans-est-aujourd-hui-un-handicap-tres-important-assume-Bruno-Le-Maire-ancien-ministre-de-l-Economie-2388004.jpg\" />"
-  },
-  {
-    "id": "dc37c3fa90dedee0c91b4bae38d780c6",
-    "source": "BFMTV",
-    "title": "Présidentielle 2027: \"Il y a beaucoup de candidats et peu de projets\", observe Bruno Le Maire, ancien ministre de l'Économie",
-    "link": "https://www.bfmtv.com/politique/video-presidentielle-2027-il-y-a-beaucoup-de-candidats-et-peu-de-projets-observe-bruno-le-maire-ancien-ministre-de-l-economie_VN-202611200955.html",
-    "date": "Fri, 20 Nov 2026 21:52:39 GMT",
-    "summary": "Bruno Le Maire, ancien ministre de l'Économie,était l'invité de BFMTV ce 20 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/4ros-OsHwxR3iJH9eUm9YtHkxOM=/0x0:1280x720/800x0/images/Presidentielle-2027-Il-y-a-beaucoup-de-candidats-et-peu-de-projets-observe-Bruno-Le-Maire-ancien-ministre-de-l-Economie-2388003.jpg\" />"
-  },
-  {
-    "id": "30b166028fcbbe7a777d9fa83e285f65",
-    "source": "BFMTV",
-    "title": "Troyes-Le Havre: les Troyens enfoncent les Normands et sortent provisoirement de la zone rouge",
-    "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-troyes-le-havre-suivez-le-match-d-ouverture-de-la-11e-journee-de-ligue-1_LS-202611200719.html",
-    "date": "Fri, 20 Nov 2026 17:30:00 GMT",
-    "summary": "Pour sa grande première sur le banc du Havre (18e), Valérien Ismaël a eu un aperçu de l'immense chantier qui l'attend. Malgré une ouverture du score rapide de Josh Maja (3e), les Normands ont coulé face à un Troyes (13e) qui n'a pas laissé le doute l'envahir. Auteur d'un doublé, Antoine Mille (19e, 69e) a brillé, tandis que Renaud Ripart (90e) a participé à la fête en fin de match (3-1). Les Troyens sortent provisoirement de la zone rouge, tandis que les Havrais restent à la dernière place. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/l4RiM1hFgZSlvqQfqXRAHdUlO_c=/0x106:2048x1258/800x0/images/Au-stade-de-l-Aube-Troyes-s-est-impose-face-au-Havre-grace-a-un-double-d-Antoine-Mille-et-un-but-de-Renaud-Ripart-le-20-novembre-2026-2388002.jpg\" />"
-  },
-  {
-    "id": "3058451a20899055c8dd3f9f1ae1882e",
-    "source": "BFMTV",
-    "title": "Affaire Michel Zecler: cinq ans de prison contre les trois policiers, le caractère raciste retenu",
-    "link": "https://www.bfmtv.com/police-justice/video-affaire-michel-zecler-cinq-ans-de-prison-contre-les-trois-policiers-le-caractere-raciste-retenu_VN-202611200952.html",
-    "date": "Fri, 20 Nov 2026 21:46:25 GMT",
-    "summary": "Le verdict est tombé, six ans presque jour pour jour après l'agression de Michel Zecler. Les trois policiers accusés d'avoir violemment agressé le producteur de musique, le 21 novembre 2020 à Paris, dans son studio ont été condamnés, ce vendredi 20 novembre, à cinq ans de prison. La circonstance aggravante de racisme a été retenue à l'encontre des trois accusés. Ils écopent également d'une interdiction d'exercer le métier de policier assorti d'une exécution provisoire.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mcXq5Vdwkm_oihEu1qbTWmJbYRI=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-cinq-ans-de-prison-contre-les-trois-policiers-le-caractere-raciste-retenu-2388000.jpg\" />"
-  },
-  {
-    "id": "13498b9ca8bcb6c5cc0b5aae90c56cf0",
-    "source": "BFMTV",
-    "title": "Affaire Michel Zecler: les peines détaillées prononcées à l'encontre des trois policiers",
-    "link": "https://www.bfmtv.com/police-justice/video-affaire-michel-zecler-les-peines-detaillees-prononcees-a-l-encontre-des-trois-policiers_VN-202611200951.html",
-    "date": "Fri, 20 Nov 2026 21:45:14 GMT",
-    "summary": "L'avocate générale avait requis quatre, cinq et six ans de prison ferme contre les trois policiers poursuivis pour l'agression du producteur Michel Zecler survenue le 21 novembre 2020.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/xl7enIQjcSHq9ddJlTyQIy9z97s=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-les-peines-detaillees-prononcees-a-l-encontre-des-trois-policiers-2387999.jpg\" />"
-  },
-  {
-    "id": "8d1adbc330b4ffcc8426c7d86af0ff11",
-    "source": "BFMTV",
-    "title": "Procès Michel Zecler : le caractère raciste retenu - 20/11",
-    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-proces-michel-zecler-le-caractere-raciste-retenu-20-11_VN-202611200948.html",
-    "date": "Fri, 20 Nov 2026 21:37:12 GMT",
-    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LQVvP0eZ_hBUH5F1Z6ItFVYmDcQ=/0x0:1280x720/800x0/images/Proces-Michel-Zecler-le-caractere-raciste-retenu-20-11-2387997.jpg\" />"
-  },
-  {
-    "id": "840a2b83f9c379e326a3b9caeea3520a",
-    "source": "BFMTV",
-    "title": "Agression de Michel Zecler: les trois policiers condamnés à des peines de cinq ans de prison",
-    "link": "https://www.bfmtv.com/police-justice/video-agression-de-michel-zecler-les-trois-policiers-condamnes-a-des-peines-de-cinq-ans-de-prison_VN-202611200941.html",
-    "date": "Fri, 20 Nov 2026 21:27:43 GMT",
-    "summary": "L'avocate générale avait requis quatre, cinq et six ans de prison ferme contre les trois policiers poursuivis pour l'agression du producteur Michel Zecler survenue le 21 novembre 2020.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MquHHR3_vmX_N8DmzYUvbzF0KzA=/0x0:1280x720/800x0/images/Agression-de-Michel-Zecler-les-trois-policiers-condamnes-a-des-peines-de-cinq-ans-de-prison-2387993.jpg\" />"
-  },
-  {
-    "id": "07bc7ff6da2f7d699aaa681deb1b1ee2",
-    "source": "BFMTV",
-    "title": "La semaine de votre argent - 20/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-votre-argent-20-11_VN-202611200944.html",
-    "date": "Fri, 20 Nov 2026 21:24:14 GMT",
-    "summary": "Ce vendredi 20 novembre, Isabelle Job-Bazille, directrice des études économiques de Crédit Agricole S.A, Hervé Goulletquer, conseiller économique senior chez Accuracy, Pascale Seivy, directrice commerciale France du Groupe Lombard Odier, et Eric Lewin, stratégiste actions chez Bourse Direct, sont revenus sur la chute des marchés cette semaine, et les placements suggérés par rapport au contexte actuel, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/FuSiQP7Xl1pkfuKHb6TRgx_MPEk=/0x0:1280x720/800x0/images/La-semaine-de-votre-argent-20-11-2387994.jpg\" />"
-  },
-  {
-    "id": "c533251b5ee59f1dc374d98b457d7b45",
-    "source": "BFMTV",
-    "title": "Affaire Michel Zecler: les trois policiers accusés ont été condamnés à 5 ans de prison pour l'agression du producteur de musique",
-    "link": "https://www.bfmtv.com/police-justice/video-affaire-michel-zecler-les-trois-policiers-accuses-ont-ete-condamnes-a-5-ans-de-prison-pour-l-agression-du-producteur-de-musique_VN-202611200933.html",
-    "date": "Fri, 20 Nov 2026 21:20:28 GMT",
-    "summary": "Dans l'affaire Michel Zecler, les trois policiers accusés ont été condamnés à 5 ans de prison pour l'agression du producteur de musique.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1lg7Ga0LSBX6eppJrBpLBSqnjnQ=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-les-trois-policiers-accuses-ont-ete-condamnes-a-5-ans-de-prison-pour-l-agression-du-producteur-de-musique-2387990.jpg\" />"
-  },
-  {
-    "id": "6083e5c1210066dfc66c059dbc648fe8",
-    "source": "BFMTV",
-    "title": "La semaine de l'économie - 20/11",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-20-11_VN-202611200938.html",
-    "date": "Fri, 20 Nov 2026 21:16:22 GMT",
-    "summary": "Ce vendredi 20 novembre, Isabelle Job-Bazille, directrice des études économiques de Crédit Agricole S.A, Hervé Goulletquer, conseiller économique senior chez Accuracy, Pascale Seivy, directrice commerciale France du Groupe Lombard Odier, et Eric Lewin, stratégiste actions chez Bourse Direct, sont revenus sur le départ du patron d’Nvidia, une bonne nouvelle pour la bulle d’IA, dans la semaine de Marc dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/t9Z4gvBBV5A6WfhFuczFn39Hg6k=/0x0:1280x720/800x0/images/La-semaine-de-l-economie-20-11-2387992.jpg\" />"
-  },
-  {
-    "id": "28df873d4590311c4485e9d1aa94ab2e",
-    "source": "BFMTV",
-    "title": "Affaire Michel Zecler: la circonstance aggravante de racisme a été retenue à l'encontre des trois accusés",
-    "link": "https://www.bfmtv.com/police-justice/video-affaire-michel-zecler-la-circonstance-aggravante-de-racisme-a-ete-retenue-a-l-encontre-des-trois-accuses_VN-202611200931.html",
-    "date": "Fri, 20 Nov 2026 21:15:47 GMT",
-    "summary": "Dans l'affaire Michel Zecler, la circonstance aggravante de racisme a été retenue à l'encontre des trois accusés<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/u5Z_jCTkDqf5ISk3dGEDLT4y58o=/0x0:1280x720/800x0/images/Affaire-Michel-Zecler-la-circonstance-aggravante-de-racisme-a-ete-retenue-a-l-encontre-des-trois-accuses-2387989.jpg\" />"
   }
 ]
