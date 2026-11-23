@@ -80,6 +80,14 @@
     "summary": "Au Porge, la commune la plus touchée par les feux qui ont ravagé la Gironde l’été dernier, les habitants se désespèrent. Loin des promesses de l’exécutif, la reconstruction s’avère un parcours d’obstacle pour les sinistrés."
   },
   {
+    "id": "11040cce91e31ef808e08fca8ea165bf",
+    "source": "Le Monde",
+    "title": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
+    "date": "Sun, 22 Nov 2026 20:08:00 +0100",
+    "summary": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffement sont en cause."
+  },
+  {
     "id": "8249fecda42a4d94015d6d0bba7f8409",
     "source": "Le Monde",
     "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
@@ -88,20 +96,12 @@
     "summary": "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution. Le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités."
   },
   {
-    "id": "11040cce91e31ef808e08fca8ea165bf",
+    "id": "147802ad147a40567186ca029339d0df",
     "source": "Le Monde",
-    "title": "A la COP31, la communauté internationale se déchire sur la sortie des énergies fossiles et le financement de l’adaptation",
-    "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
-    "date": "Sun, 22 Nov 2026 20:08:00 +0100",
-    "summary": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffement sont en cause."
-  },
-  {
-    "id": "84c1090b98c01673d9a8d5a4f3bcd35b",
-    "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-    "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-    "date": "Sun, 22 Nov 2026 19:43:43 +0100",
-    "summary": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se ravitailler en carburant et en vivres »."
+    "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+    "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+    "date": "Sun, 22 Nov 2026 23:57:04 +0100",
+    "summary": "Les autorités de l’est de la Libye ont annoncé dimanche qu’un deuxième navire avait subi une attaque de drone au large de Benghazi, quelques heures après qu’un bateau russe a été pris pour cible dans le port de cette ville."
   },
   {
     "id": "119b44a02b79189f94b5fe8eb809e081",
@@ -120,12 +120,20 @@
     "summary": "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle."
   },
   {
-    "id": "a043d4bc14b88ad01516abacf02f8f91",
+    "id": "d692f58a973f06d9c2f244a0052df861",
     "source": "Le Monde",
-    "title": "Le « poisson à poumons » éclaire l’énigme de la sortie de la mer des vertébrés",
-    "link": "https://www.lemonde.fr/sciences/article/2026/11/22/le-poisson-a-poumons-eclaire-l-enigme-de-la-sortie-de-la-mer-des-vertebres_6814219_1650684.html",
-    "date": "Sun, 22 Nov 2026 15:30:05 +0100",
-    "summary": "L’été venu, le dipneuste africain s’enterre et transforme sa peau grâce à une toxine véhiculée par le système immunitaire. Et si nos ancêtres avaient emprunté le même chemin il y a 400 millions d’années ?"
+    "title": "Carlos Alcaraz, sacré pour la première fois aux finales ATP, complète sa collection",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/22/carlos-alcaraz-sacre-pour-la-premiere-fois-aux-finales-atp-complete-sa-collection_6814247_3242.html",
+    "date": "Sun, 22 Nov 2026 22:21:31 +0100",
+    "summary": "Déjà vainqueur des quatre tournois du Grand Chelem, le tennisman espagnol a remporté, dimanche à Turin, le « tournoi des maîtres » en battant le numéro 1 mondial, Alexander Zverev (6-2, 7-6 [9-7]), au terme d’une explication qui a tourné court."
+  },
+  {
+    "id": "452b06bb9c78498ac02c1314144d1ab2",
+    "source": "Le Monde",
+    "title": "A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs »",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html",
+    "date": "Sun, 22 Nov 2026 23:42:42 +0100",
+    "summary": "L’agression de trois étudiants, le 2 octobre sur la terrasse d’un bar à Angers, a mobilisé, dimanche, 200 activistes de l’ultradroite identitaire."
   },
   {
     "id": "91261580b6fe8b8ab938f67e4d864809",
@@ -140,7 +148,7 @@
     "source": "Le Monde",
     "title": "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores",
     "link": "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html",
-    "date": "Sun, 22 Nov 2026 19:42:12 +0100",
+    "date": "Sun, 22 Nov 2026 19:42:11 +0100",
     "summary": "Cette édition, réservée aux entreprises françaises qui investissent dans le pays, décompte 14,9 milliards d’euros d’investissements nouveaux, soit 81 projets inédits, notamment dans les secteurs de la santé, de la cosmétique, ou des biocarburants."
   },
   {
@@ -148,40 +156,40 @@
     "source": "Le Monde",
     "title": "Aux Etats-Unis, Melat Kiros, 29 ans, démocrate, socialiste et première femme de la génération Z à entrer au Congrès",
     "link": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html",
-    "date": "Sun, 22 Nov 2026 17:00:04 +0100",
+    "date": "Sun, 22 Nov 2026 17:00:02 +0100",
     "summary": "Née en Ethiopie et élue à la Chambre des représentants lors des midterms dans le Colorado, cette ex-avocate incarne une jeune génération de parlementaires qui renouvellent aussi bien la forme que le fond de leurs messages."
   },
   {
-    "id": "6a79bf49c7480d40a376fc4286cef325",
+    "id": "6e6fa5903516fc71fe7383617a671ee7",
     "source": "Le Monde",
-    "title": "L’Italie secouée par le suicide de l’ancien chef de la police Gianni De Gennaro",
-    "link": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html",
-    "date": "Sun, 22 Nov 2026 14:10:18 +0100",
-    "summary": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même année, il avait joué un rôle déterminant pour retourner certains parrains."
+    "title": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
+    "link": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
+    "date": "Sun, 22 Nov 2026 22:54:52 +0100",
+    "summary": "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée « sur la semaine qui vient » afin de « réserver la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyadier."
   },
   {
-    "id": "4777530650f30734ad477ecef6be5c08",
+    "id": "a043d4bc14b88ad01516abacf02f8f91",
     "source": "Le Monde",
-    "title": "L’ascension éclair de la paire française Arribagé-Olivetti, sacrés « maîtres » des finales ATP à peine un an après leurs débuts",
-    "link": "https://www.lemonde.fr/sport/article/2026/11/22/l-ascension-eclair-de-la-paire-francaise-arribage-olivetti-sacres-maitres-des-finales-atp-a-peine-un-an-apres-leurs-debuts_6814235_3242.html",
-    "date": "Sun, 22 Nov 2026 18:09:44 +0100",
-    "summary": "Les Français l’ont emporté, dimanche à Turin, en finale du tournoi des maîtres face à la paire Arévalo-Pavic (3-6, 7-6, 10-6). Une victoire qui vient couronner une première saison presque parfaite."
+    "title": "Le « poisson à poumons » éclaire l’énigme de la sortie de la mer des vertébrés",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/22/le-poisson-a-poumons-eclaire-l-enigme-de-la-sortie-de-la-mer-des-vertebres_6814219_1650684.html",
+    "date": "Sun, 22 Nov 2026 15:30:02 +0100",
+    "summary": "L’été venu, le dipneuste africain s’enterre et transforme sa peau grâce à une toxine véhiculée par le système immunitaire. Et si nos ancêtres avaient emprunté le même chemin il y a 400 millions d’années ?"
   },
   {
-    "id": "7cd4f09d2e9c4517710b6b34f651074c",
+    "id": "8f594d645999e3536c1b891ca0e62fcb",
     "source": "Le Monde",
-    "title": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
-    "date": "Sun, 22 Nov 2026 17:00:02 +0100",
-    "summary": "Dans ce département, où la filière textile a été balayée par les importations asiatiques, une entreprise familiale installée à Nieppe s’emploie à relancer du linge de maison entièrement fabriqué en France. Un pari, alors que les produits tricolores pâtissent de la crise du pouvoir d’achat."
+    "title": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
+    "link": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
+    "date": "Sun, 22 Nov 2026 20:58:35 +0100",
+    "summary": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de ses dirigeants arrêtés, et un administrateur nommé à sa tête par le gouvernement."
   },
   {
-    "id": "7abd714927bac3ebb9537f5bce901e78",
+    "id": "6b1bbb936be4cd50ed0b8b19c4898dd8",
     "source": "Le Monde",
-    "title": "Après l’attentat de Trappes, un entrepreneur de Millau lance une nouvelle marche nationale contre le racisme, au départ de Marseille",
-    "link": "https://www.lemonde.fr/societe/article/2026/11/22/apres-l-attentat-de-trappes-un-entrepreneur-de-millau-lance-une-nouvelle-marche-nationale-contre-le-racisme-au-depart-de-marseille_6814223_3224.html",
-    "date": "Sun, 22 Nov 2026 16:30:09 +0100",
-    "summary": "Le parcours démarrera lundi 23 novembre avec l’objectif de rejoindre la ville des Yvelines. Sollicités, certains marcheurs de 1983 sont circonspects sur l’impact d’une nouvelle édition."
+    "title": "En Martinique, tous les chemins mènent au rhum",
+    "link": "https://www.lemonde.fr/m-styles/article/2026/11/22/en-martinique-tous-les-chemins-menent-au-rhum_6814232_4497319.html",
+    "date": "Sun, 22 Nov 2026 18:00:11 +0100",
+    "summary": "En obtenant son appellation d’origine contrôlée il y a trente ans, le rhum produit sur l’île antillaise a fait du passage dans les distilleries une étape incontournable pour les touristes. Un engouement qui profite à tous les établissements, des plus connus aux plus confidentiels."
   },
   {
     "id": "bf90da7985c6fc881be0f6b1032b9eaa",
@@ -190,14 +198,6 @@
     "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
     "date": "Sun, 22 Nov 2026 19:09:17 +0100",
     "summary": "Des pointes jusqu’à 170 km/h seront possibles dans la péninsule du Cap-Corse, lundi, alors que des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, dimanche. Dans le Pas-de-Calais, la vigilance orange est maintenue pour la Canche."
-  },
-  {
-    "id": "4fd5733956b219040abc434950b8258e",
-    "source": "Le Monde",
-    "title": "Pierre Adrian, écrivain : « Après coup, je revois ces années-là comme une belle période alors que j’étais déchiré par les angoisses »",
-    "link": "https://www.lemonde.fr/campus/article/2026/11/22/pierre-adrian-ecrivain-apres-coup-je-revois-ces-annees-la-comme-une-belle-periode-alors-que-j-etais-dechire-par-les-angoisses_6814212_4401467.html",
-    "date": "Sun, 22 Nov 2026 14:00:11 +0100",
-    "summary": "« J’avais 20 ans ». « Le Monde » interroge une personnalité sur ses années d’études et son passage à l’âge adulte. Ce mois-ci, l’écrivain de 35 ans, qui vient de publier « Le Pays des étés », raconte cette transition qui fut pour lui pleine d’ambivalences, entre moments de gravité et « puissant appétit pour la vie »."
   },
   {
     "id": "0d260f6b9ac1c054768f370c275209bf",
@@ -440,123 +440,123 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/marineraphaeletjeanlucsontsurunecandidature-57690.jpg?1795164011\" width=\"700\" />\n<p>Marine Tondelier a annoncé être prête à soutenir Jean-Luc Mélenchon en 2027. Les adhérents des Écologistes devront voter début décembre entre sa propre candidature, un soutien à Raphaël Glucksmann ou un ralliement aux insoumis. <br class=\"autobr\" /> Le brouillard dans lequel avancent Les Écologistes en vue de l'élection présidentielle serait-il en train de se dissiper<small class=\"fine d-inline\"> </small>? Invitée sur le plateau de France 2, le 18 novembre, Marine Tondelier a envoyé la balle tout droit dans le camp des insoumis. «<small class=\"fine d-inline\"> </small>La dynamique de (…)</p>\n\n            <a href=\"https://reporterre.net/Marine-Tondelier-prete-a-rallier-Jean-Luc-Melenchon-de-nombreux-soutiens-et-quelques?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Autres-infos\" rel=\"directory\">Info</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Politique\" rel=\"tag\">Politique</a>\n            , \n                <a href=\"https://reporterre.net/Presidentielle\" rel=\"tag\">Présidentielle</a>"
   },
   {
+    "id": "17b4c93fce486e60697fb050112468ff",
+    "source": "BFMTV",
+    "title": "2027 : vers de nouveaux candidats surprise ? - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-vers-de-nouveaux-candidats-surprise-22-11_VN-202611220475.html",
+    "date": "Sun, 22 Nov 2026 23:07:22 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/he1RZJb5I3xH8hiozTg343CC8XM=/0x0:1280x720/800x0/images/2027-vers-de-nouveaux-candidats-surprise-22-11-2388631.jpg\" />"
+  },
+  {
+    "id": "39cfb20bc801cbebaf44e6a2aed8d5d6",
+    "source": "BFMTV",
+    "title": "Après l'euphorie, retour à la réalité: l'OM s'est-il vu trop beau?",
+    "link": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/apres-l-euphorie-retour-a-la-realite-l-om-s-est-il-vu-trop-beau_AV-202611220471.html",
+    "date": "Sun, 22 Nov 2026 22:59:54 GMT",
+    "summary": "Après cinq victoires d'affilée en Ligue 1, la série de l'OM s'est achevée ce dimanche soir au Vélodrome, sur la victoire renversante du Mans (3-2) en clôture de la 11e journée de championnat. Comme un brutal retour sur terre pour une équipe retombée dans ses travers du début de saison.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5FS9mIxVKwOufTv6m3gglQAnJ18=/0x106:2048x1258/800x0/images/Amine-Gouiri-et-Angel-Gomes-apres-la-defaite-de-l-OM-face-au-Mans-22-novembre-2026-2388616.jpg\" />"
+  },
+  {
+    "id": "afdd5899c7e448c477959f387b84edf6",
+    "source": "BFMTV",
+    "title": "2027 : vers de nouveaux candidats surprise ? - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-vers-de-nouveaux-candidats-surprise-22-11_VN-202611220473.html",
+    "date": "Sun, 22 Nov 2026 22:56:11 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/MyVzbXcecNVMzO_ufPIaDi9wPZY=/0x0:1280x720/800x0/images/2027-vers-de-nouveaux-candidats-surprise-22-11-2388629.jpg\" />"
+  },
+  {
+    "id": "fad18b033974fe3ff0c3655a15c42bb3",
+    "source": "BFMTV",
+    "title": "\"On a senti l’équipe se liquéfier\": les explications de Bruno Genesio sur l’effondrement de l’OM face au Mans",
+    "link": "https://rmcsport.bfmtv.com/football/ligue-1/on-a-senti-l-equipe-se-liquefier-les-explications-de-bruno-genesio-sur-l-effondrement-de-l-om-face-au-mans_AV-202611220468.html",
+    "date": "Sun, 22 Nov 2026 22:53:28 GMT",
+    "summary": "Après avoir mené 2-0 à la pause, l’OM s’est fait renverser par Le Mans devant son public, ce dimanche, en clôture de la 11e journée de Ligue 1 (2-3). Un revers difficile à avaler pour Bruno Genesio, qui a vu son équipe perdre totalement pied en fin de match sur la pelouse du Vélodrome.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/fuIS--5HlPrW0CM4nxo54XqgQeI=/0x106:2048x1258/800x0/images/Bruno-Genesio-le-25-octobre-2026-2372238.jpg\" />"
+  },
+  {
+    "id": "b7e638fa2d2bdcff2f231ba024fe6b27",
+    "source": "BFMTV",
+    "title": "\"C’est de l’ordre de l’évidence\": François Ruffin revient sur BFMTV sur son choix de retirer sa candidature à la présidentielle",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-david-lisnard-voit-une-primaire-de-la-droite-et-du-centre-comme-un-moyen-d-exclure-les-macronistes_LN-202611220111.html",
+    "date": "Sun, 22 Nov 2026 05:24:34 GMT",
+    "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/BcbWzua9m8Z6FG5xtvFBxNugIgk=/0x0:1920x1080/800x0/images/Francois-Ruffin-sur-BFMTV-le-22-novembre-2026-2388582.jpg\" />"
+  },
+  {
+    "id": "3723142d38a619a09e610c9663664bf6",
+    "source": "BFMTV",
+    "title": "Tondelier, Ruffin : la gauche capitule face à Mélenchon ? - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-tondelier-ruffin-la-gauche-capitule-face-a-melenchon-22-11_VN-202611220469.html",
+    "date": "Sun, 22 Nov 2026 22:51:54 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5STg5OyHcCS2Vwciz-IXvvFqPUo=/0x0:1280x720/800x0/images/Tondelier-Ruffin-la-gauche-capitule-face-a-Melenchon-22-11-2388627.jpg\" />"
+  },
+  {
+    "id": "9bb9db5798ea9c313520d0a0381195b1",
+    "source": "BFMTV",
+    "title": "\"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent",
+    "link": "https://www.bfmtv.com/societe/j-ai-senti-les-francais-unis-les-s-urs-de-pengo-bossio-wangi-tue-dans-l-attentat-raciste-de-trappes-temoignent_AN-202611220464.html",
+    "date": "Sun, 22 Nov 2026 22:48:01 GMT",
+    "summary": "Dans un entretien fleuve accordé à nos confrères de Libération les deux sœurs, Ritsia et Tiffany Brou, de Pengo Bossio Wangi, 26 ans, mort dans l'attentat raciste de Trappes, témoignent de leur sidération et de leur crainte de voir le racisme monter en France. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/nBR-61vtexkRX93tDBEVIXEhcek=/0x40:768x472/800x0/images/Marche-blanche-le-15-novembre-2026-a-Cergy-dans-le-Val-d-Oise-en-hommage-a-Pengo-Bossio-Wangi-victime-de-l-attaque-raciste-du-23-octobre-dans-les-Yvelines-2384334.jpg\" />"
+  },
+  {
+    "id": "3b8c2065c858407ecf502dc11c4343a9",
+    "source": "BFMTV",
+    "title": "Ruffin se retire : \"Je leur souhaite bonne chance\" - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-ruffin-se-retire-je-leur-souhaite-bonne-chance-22-11_VN-202611220465.html",
+    "date": "Sun, 22 Nov 2026 22:44:02 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/wDgLQId_KGpyplDhMwMkle0yeyg=/0x0:1280x720/800x0/images/Ruffin-se-retire-Je-leur-souhaite-bonne-chance-22-11-2388625.jpg\" />"
+  },
+  {
+    "id": "7af0be87bdcd5e62d4686869f27caf4f",
+    "source": "BFMTV",
+    "title": "Retrait de la candidature de François Ruffin à l'élection présidentielle: \"Il a été extrêmement responsable\", déclare Léa Balage El Mariky, députée Les Écologistes",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-retrait-de-la-candidature-de-francois-ruffin-a-l-election-presidentielle-il-a-ete-extremement-responsable-declare-lea-balage-el-mariky-deputee-les-ecologistes_VN-202611220460.html",
+    "date": "Sun, 22 Nov 2026 22:41:42 GMT",
+    "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/EKw0gbCNjru5WFx--gxYJrQQL2U=/0x0:1280x720/800x0/images/Retrait-de-la-candidature-de-Francois-Ruffin-a-l-election-presidentielle-Il-a-ete-extremement-responsable-declare-Lea-Balage-El-Mariky-deputee-Les-Ecologistes-2388623.jpg\" />"
+  },
+  {
+    "id": "4688587244a195c03b6162b2f9a13284",
+    "source": "BFMTV",
+    "title": "\"Les réseaux sociaux et on le voit dans cette présidentielle, pourront impacter jusqu'à trois, quatre,cinq points\", analyse Richard Ramos, député Modem",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-les-reseaux-sociaux-et-on-le-voit-dans-cette-presidentielle-pourront-impacter-jusqu-a-trois-quatre-cinq-points-analyse-richard-ramos-depute-modem_VN-202611220459.html",
+    "date": "Sun, 22 Nov 2026 22:40:26 GMT",
+    "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/aIkTfjfLwWObLp4fELrz8sQaQNU=/0x0:1280x720/800x0/images/Les-reseaux-sociaux-et-on-le-voit-dans-cette-presidentielle-pourront-impacter-jusqu-a-trois-quatre-cinq-points-analyse-Richard-Ramos-depute-Modem-2388622.jpg\" />"
+  },
+  {
     "id": "2a7787b72bb544fe5bf699d901fdf99b",
     "source": "BFMTV",
-    "title": "DIRECT. OM-Le Mans: Marseille vise le podium, suivez le dernier match de la 11e journée de Ligue 1 en live",
+    "title": "OM-Le Mans: scénario renversant au Vélodrome, fin de l'euphorie pour les Marseillais",
     "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-om-le-mans-marseille-vise-le-podium-suivez-le-dernier-match-de-la-11e-journee-de-ligue-1-en-live_LS-202611220354.html",
     "date": "Sun, 22 Nov 2026 17:18:04 GMT",
-    "summary": "L'OM vise une sixième victoire de suite en championnat ce dimanche, avec la réception du Mans en clôture de la 11e journée de Ligue 1. Marseille-Le Mans, coup d'envoi à 20h45 au Vélodrome, à suivre dans notre direct commenté sur RMC Sport.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bi9vZ853XfnIVc6cs1F_K-cLmbI=/0x52:2048x1204/800x0/images/L-attaquant-de-l-OM-Amine-Gouiri-5-novembre-2026-2388536.jpg\" />"
+    "summary": "La 11e journée de Ligue 1 s'est conclue sur un scénario renversant ce dimanche. Après avoir mené 2-0 face au Mans, l'OM s'est littéralement sabordé et s'incline 2-3 face au promu sarthois dans les ultimes secondes de la rencontre. Si les hommes de Bruno Genesio peuvent nourrir des regrets, les joueurs de Patrick Videira ont fait une très belle impression ce soir et sont récompensés après avoir joué crânement leur chance.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/f7wxz-buCFFWS-lQ3OGLs5hvTcE=/0x106:2048x1258/800x0/images/Les-joueurs-du-Mans-ont-arrache-la-victoire-au-Velodrome-face-a-l-OM-22-novembre-2026-2388608.jpg\" />"
   },
   {
-    "id": "00790e936ecb5532fb5cac7a543af6c0",
+    "id": "693be49e558cef89138781481626fede",
     "source": "BFMTV",
-    "title": "Laurent Nuñez estime que les \"débats\" sur l'antisémitisme ne doivent pas devenir un \"thème de bataille électorale\"",
-    "link": "https://www.bfmtv.com/politique/gouvernement/laurent-nunez-estime-que-les-debats-sur-l-antisemitisme-ne-doivent-pas-devenir-un-theme-de-bataille-electorale_AD-202611220412.html",
-    "date": "Sun, 22 Nov 2026 19:49:42 GMT",
-    "summary": "Ce dimanche 22 novembre, en clôture de la convention annuelle du Conseil représentatif des institutions juives de France, le ministre de l’Intérieur, Laurent Nuñez s'est inquiété que l'antisémitisme devienne un \"thème de bataille électorale\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/SworYtG3ZXvyXACMzqpno7bK_l8=/0x40:768x472/800x0/images/Le-ministre-de-l-Interieur-Laurent-Nunez-a-l-issue-d-une-conference-de-presse-consacree-aux-mesures-de-securite-prevues-pour-les-manifestations-nationales-du-7-novembre-2026-au-ministere-de-l-Interieur-place-Beauvau-a-Paris-le-6-novembre-2026-2379433.jpg\" />"
+    "title": "David Lisnard : \"Je serai au second tour\" en 2027 - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-david-lisnard-je-serai-au-second-tour-en-2027-22-11_VN-202611220461.html",
+    "date": "Sun, 22 Nov 2026 22:35:10 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.\n<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KXPMW-ay5wBzh00RzGzYbWAFCR0=/0x0:1280x720/800x0/images/David-Lisnard-Je-serai-au-second-tour-en-2027-22-11-2388624.jpg\" />"
   },
   {
-    "id": "243800c8f3f12a21a4df6142f8fc4120",
+    "id": "ea9a24135b38597c52a4c551e6499720",
     "source": "BFMTV",
-    "title": "\"Les politiques ont perdu tout humour\", dénonce Didier Barbelivien, auteur, compositeur, et interprète",
-    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-les-politiques-ont-perdu-tout-humour-denonce-didier-barbelivien-auteur-compositeur-et-interprete_VN-202611220411.html",
-    "date": "Sun, 22 Nov 2026 19:43:54 GMT",
-    "summary": "Didier Barbelivien, auteur, compositeur, et interprète, était l'invité de BFMTV ce dimanche 22 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/rdd_k8TpXHVFhXsSXqaThIHvl5A=/0x0:1280x720/800x0/images/Les-politiques-ont-perdu-tout-humour-denonce-Didier-Barbelivien-auteur-compositeur-et-interprete-2388579.jpg\" />"
+    "title": "Primaire de la droite et du centre: sans Édouard Philippe, \"ça n'aurait pas de sens\", estime Hervé Morin, président de la région Normandie",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-sans-edouard-philippe-ca-n-aurait-pas-de-sens-estime-herve-morin-president-de-la-region-normandie_VN-202611220454.html",
+    "date": "Sun, 22 Nov 2026 22:14:36 GMT",
+    "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/X08vvWU2qlX-a2hXQCdeYCWxsGQ=/0x0:1280x720/800x0/images/Primaire-de-la-droite-et-du-centre-sans-Edouard-Philippe-ca-n-aurait-pas-de-sens-estime-Herve-Morin-president-de-la-region-Normandie-2388618.jpg\" />"
   },
   {
-    "id": "d55e181be345ce2fcd4fb913dfc24243",
+    "id": "29356b83297c9caf6e44f8e156823e1a",
     "source": "BFMTV",
-    "title": "Les habitants de La Garnache ont tranché, le carillon de leur église continuera à sonner tous les quarts d'heure la nuit",
-    "link": "https://www.bfmtv.com/societe/les-habitants-de-la-garnache-ont-tranche-le-carillon-de-leur-eglise-continuera-a-sonner-tous-les-quarts-d-heure-la-nuit_AN-202611220405.html",
-    "date": "Sun, 22 Nov 2026 19:36:26 GMT",
-    "summary": "Les habitants de cette commune de Vendée étaient appelés ce dimanche à dire s'ils souhaitaient ou non que le carillon de leur église arrête de sonner tous les quarts d'heure de 22h à 7h du matin. Le \"non\" l'a largement emporté.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LA2A46-WXN86yqQI9rJZQPv3454=/2x0:962x540/800x0/images/Notre-Dame-de-l-Assomption-a-Garnache-en-Vendee-2388419.jpg\" />"
+    "title": "Fonctionnaires : faut-il « sabrer » dans les dépenses ? - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-fonctionnaires-faut-il-sabrer-dans-les-depenses-22-11_VN-202611220453.html",
+    "date": "Sun, 22 Nov 2026 22:10:22 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/LOWcagPkbSIlD6mDKcoMsnoFaXw=/0x0:1280x720/800x0/images/Fonctionnaires-faut-il-sabrer-dans-les-depenses-22-11-2388617.jpg\" />"
   },
   {
-    "id": "0ddc47b9d9c07226b08e74bcf00dc1a5",
+    "id": "9037f0708d23e2c3aaa628530afe6e54",
     "source": "BFMTV",
-    "title": "Lorient 1-1 Rennes : \"Vous voulez que je sois inquiet...\" Haise soucieux",
-    "link": "https://rmcsport.bfmtv.com/football/ligue-1/video-lorient-1-1-rennes-vous-voulez-que-je-sois-inquiet-haise-soucieux_VN-202611220409.html",
-    "date": "Sun, 22 Nov 2026 19:34:15 GMT",
-    "summary": "Rennes revient de Lorient avec le point du nul (1-1), ce dimanche pour la 11e journée de Ligue 1. C'est le quatrième match sans victoire de l'équipe de Franck Haise.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/7erTJi8lFc3RZfqZm1D3gId7Q-o=/0x0:1280x720/800x0/images/Lorient-1-1-Rennes-Vous-voulez-que-je-sois-inquiet-Haise-soucieux-2388578.jpg\" />"
-  },
-  {
-    "id": "6d6511e3604206f3ac28f76a2f3f002b",
-    "source": "BFMTV",
-    "title": "\"Je pensais très souvent à Samuel Paty\", raconte Didier Barbelivien, auteur, compositeur, et interprète",
-    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-je-pensais-tres-souvent-a-samuel-paty-raconte-didier-barbelivien-auteur-compositeur-et-interprete_VN-202611220402.html",
-    "date": "Sun, 22 Nov 2026 19:26:27 GMT",
-    "summary": "Didier Barbelivien, auteur, compositeur, et interprète, était l'invité de BFMTV ce 22 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/uFlxHngvjVn_fhEBeMuSCPlPGz0=/0x0:1280x720/800x0/images/Je-pensais-tres-souvent-a-Samuel-Paty-raconte-Didier-Barbelivien-auteur-compositeur-et-interprete-2388572.jpg\" />"
-  },
-  {
-    "id": "a063d305d711b907629743f2bf2159ab",
-    "source": "BFMTV",
-    "title": "Coup d'envoi des illuminations de Noël 2026 sur les Champs-Élysées avec Cate Blanchett",
-    "link": "https://www.bfmtv.com/societe/video-coup-d-envoi-des-illuminations-de-noel-2026-sur-les-champs-elysees-avec-cate-blanchett_VN-202611220403.html",
-    "date": "Sun, 22 Nov 2026 19:04:07 GMT",
-    "summary": "Revivez la soirée de lancement des illuminations de Noël 2026 sur les Champs-Élysées avec Cate Blanchett, ce dimanche 22 novembre 2026, diffusées en intégralité sur #BFM2 <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Pw4Mllrmq1AwdfWqtVGE_oUD6RE=/0x0:1280x720/800x0/images/Coup-d-envoi-des-illuminations-de-Noel-2026-sur-les-Champs-Elysees-avec-Cate-Blanchett-2388574.jpg\" />"
-  },
-  {
-    "id": "1816719079801e6d44809fc886bd86e6",
-    "source": "BFMTV",
-    "title": "David Lisnard: “Je voterai tout candidat contre Jean-Luc Mélenchon”",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-david-lisnard-je-voterai-tout-candidat-contre-jean-luc-melenchon_VN-202611220397.html",
-    "date": "Sun, 22 Nov 2026 19:03:53 GMT",
-    "summary": "David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/VYU5T0lVmbrD1-6m-DZnQK0U4w0=/0x0:1280x720/800x0/images/David-Lisnard-Je-voterai-tout-candidat-contre-Jean-Luc-Melenchon-2388568.jpg\" />"
-  },
-  {
-    "id": "7832370090ab8f054bd13f6410885dd9",
-    "source": "BFMTV",
-    "title": "Un maire d'un village de la Vienne et son fils agressés alors qu'ils intervenaient pour du tapage nocturne",
-    "link": "https://www.bfmtv.com/police-justice/un-maire-d-un-village-de-la-vienne-et-son-fils-agresses-alors-qu-ils-intervenaient-pour-du-tapage-noctunre_AD-202611220394.html",
-    "date": "Sun, 22 Nov 2026 18:53:02 GMT",
-    "summary": "Maire de Mirebeau, bourg de 2.000 habitants, Jean-Paul Roulet a été alerté d'un tapage nocturne par son voisin en fin de soirée samedi et est allé avec son fils au-devant d'un groupe de quatre personnes alcoolisées pour leur demander de cesser les nuisances.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Wz1M1Mj6EfpjkWEDTIlRYKqSnU4=/2x641:1362x1406/800x0/images/Un-maire-portant-l-echarpe-tricolore-image-d-illustration-2040648.jpg\" />"
-  },
-  {
-    "id": "e43fc9a6408046ee4899a02c7ba14360",
-    "source": "BFMTV",
-    "title": "\"Un pré-premier tour\": David Lisnard souhaite qu’Édouard Philippe et Éric Zemmour participent à la primaire de la droite et du centre",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/un-pre-premier-tour-david-lisnard-souhaite-qu-edouard-philippe-et-eric-zemmour-participent-a-la-primaire-de-la-droite-et-du-centre_AN-202611220392.html",
-    "date": "Sun, 22 Nov 2026 18:51:30 GMT",
-    "summary": "Sur le plateau du Grand Oral de BFMTV, David Lisnard a renouvelé son désir d'une primaire de la droite et du centre, qu'il imagine comme \"un quart de finale\" et à laquelle doivent participer tous ceux qui \"se réclament de la droite\". <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/p-VoxyNy6iTs48vZAH-GVl1nKC0=/0x0:1920x1080/800x0/images/David-Lisnard-maire-de-Cannes-le-22-novembre-2026-sur-BFMTV-2388533.jpg\" />"
-  },
-  {
-    "id": "0ec4751a5c9e9d50c59f8b2a78b33e15",
-    "source": "BFMTV",
-    "title": "Fêtes de fin d'année: Cate Blanchett donne le coup d’envoi des illuminations sur les Champs-Élysées",
-    "link": "https://www.bfmtv.com/societe/video-fetes-de-fin-d-annee-cate-blanchett-donne-le-coup-d-envoi-des-illuminations-sur-les-champs-elysees_VN-202611220393.html",
-    "date": "Sun, 22 Nov 2026 18:49:42 GMT",
-    "summary": "Cate Blanchett donne le coup d’envoi des illuminations sur les Champs-Élysées à Paris pour les fêtes de fin d'année.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/P-kComkrV5D71_cvWVuk0ZIaWU8=/0x0:1280x720/800x0/images/Fetes-de-fin-d-annee-Cate-Blanchett-donne-le-coup-d-envoi-des-illuminations-sur-les-Champs-Elysees-2388566.jpg\" />"
-  },
-  {
-    "id": "909ac24650a08b7a8d6f5c183df504f8",
-    "source": "BFMTV",
-    "title": "L'avenue des Champs-Élysées s'illumine pour Noël ce dimanche 22 novembre",
-    "link": "https://www.bfmtv.com/societe/video-l-avenue-des-champs-elysees-s-illumine-pour-noel-ce-dimanche-22-novembre_VN-202611220391.html",
-    "date": "Sun, 22 Nov 2026 18:48:34 GMT",
-    "summary": "L'avenue des Champs-Élysées s'illumine pour Noël ce dimanche 22 novembre<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/r8J1P58wvrS_5ARSGE8prgoQ278=/0x0:1280x720/800x0/images/L-avenue-des-Champs-Elysees-s-illumine-pour-Noel-ce-dimanche-22-novembre-2388565.jpg\" />"
-  },
-  {
-    "id": "585c2efa684789ff0796aad814c5e713",
-    "source": "BFMTV",
-    "title": "\"Il y a une telle détestation d'Emmanuel Macron, qu'il bénéficie de cela\", analyse Robert Ménard, maire DVD de Béziers, interrogé sur la candidature de David Lisnard, candidat Nouvelle Énergie à l'élection présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-il-y-a-une-telle-detestation-d-emmanuel-macron-qu-il-beneficie-de-cela-analyse-robert-menard-maire-dvd-de-beziers-interroge-sur-la-candidature-de-david-lisnard-candidat-nouvelle-energie-a-l-election-presidentielle_VN-202611220385.html",
-    "date": "Sun, 22 Nov 2026 18:36:26 GMT",
-    "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. Invité de 100% Mabrouk, Robert Ménard, maire DVD de Béziers réagit sur BFMTV.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/1rEASi7nPe7Iplg98SNuP5nWeiI=/0x0:1280x720/800x0/images/Il-y-a-une-telle-detestation-d-Emmanuel-Macron-qu-il-beneficie-de-cela-analyse-Robert-Menard-maire-DVD-de-Beziers-interroge-sur-la-candidature-de-David-Lisnard-candidat-Nouvelle-Energie-a-l-election-presidentielle-2388561.jpg\" />"
-  },
-  {
-    "id": "0833f4fbf27d4160e69b4f51e3801f53",
-    "source": "BFMTV",
-    "title": "Le Grand Oral 2027 : David Lisnard, candidat, évoque les enjeux de la présidentielle",
-    "link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-grand-oral-2027-david-lisnard-candidat-evoque-les-enjeux-de-la-presidentielle_VN-202611220388.html",
-    "date": "Sun, 22 Nov 2026 18:30:28 GMT",
-    "summary": "David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV. Il a notamment été interrogé sur son souhait d'organiser une primaire du centre et de la droite ainsi que sur son programme. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/mXEWdSr7eozbREwNbNgWJQT0lrU=/0x0:1280x720/800x0/images/Le-Grand-Oral-2027-David-Lisnard-candidat-evoque-les-enjeux-de-la-presidentielle-2388562.jpg\" />"
-  },
-  {
-    "id": "fbb59940be6e549f67cd3f9e6dba1f7c",
-    "source": "BFMTV",
-    "title": "\"On modernise la réunion Tupperware\": pourquoi Vorwerk, géant allemand de l’électroménager high-tech avec ses marques Thermomix et Kobold, envoie encore des conseillers aspirer votre salon",
-    "link": "https://www.bfmtv.com/tech/objets-connectes/on-modernise-la-reunion-tupperware-pourquoi-vorwerk-geant-allemand-de-l-electromenager-high-tech-avec-ses-marques-thermomix-et-kobold-envoie-encore-des-conseillers-aspirer-votre-salon_AV-202611220383.html",
-    "date": "Sun, 22 Nov 2026 18:28:52 GMT",
-    "summary": "Groupe haut de gamme, propriétaire des marques et produits Thermomix et Kobold, Vorwerk continue d'organiser des réunions à domicile pour faire connaître et vendre ses produits d'entretien tech. Balai aspirateur, laveur, nettoyeur… en suivant une méthode éprouvée, des conseillers viennent rassurer des clients indécis, dont le profil est bien plus divers qu'on ne le croit. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/SN1acbYEuPsKCm_UaIcAjvks45k=/4x178:1220x862/800x0/images/Kobold-demo-VK7-2383503.jpg\" />"
+    "title": "Pour Lisnard, une primaire avec Philippe ou rien ? - 22/11",
+    "link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-pour-lisnard-une-primaire-avec-philippe-ou-rien-22-11_VN-202611220452.html",
+    "date": "Sun, 22 Nov 2026 22:01:22 GMT",
+    "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/bG61yRd5vLdt-RckJ5oGa1G4u0E=/0x0:1280x720/800x0/images/Pour-Lisnard-une-primaire-avec-Philippe-ou-rien-22-11-2388614.jpg\" />"
   }
 ]
