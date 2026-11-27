@@ -80,6 +80,14 @@
     "summary": "Pour protéger ses sources, «Mediapart» n’avait pu révéler qu’une partie des messages antisémites de Jordan Bardella sur Messenger en 2013. Face aux dénégations du patron du RN, l’une d’elles a accepté que nous en publiions d’autres. «Je ne peux pas laisser Jordan mentir à la France entière», explique-t-elle."
   },
   {
+    "id": "77502e9c66a02c458327a3cd4ad1686a",
+    "source": "Le Monde",
+    "title": "Les discussions sur le budget de l’Union européenne menacées par les échéances électorales françaises",
+    "link": "https://www.lemonde.fr/international/article/2026/11/27/les-discussions-sur-le-budget-de-l-union-europeenne-menacees-par-les-echeances-electorales-francaises_6815793_3210.html",
+    "date": "Fri, 27 Nov 2026 05:29:34 +0100",
+    "summary": "Pendant le sommet européen jeudi 26 novembre, Emmanuel Macron a confirmé qu’il ne poursuivrait pas les discussions sur le budget européen au-delà de la fin de l’année. Il a dénoncé l’arrogance de Marine Le Pen, qui a qualifié ces négociations de « basses manœuvres politiciennes »."
+  },
+  {
     "id": "b6ae933751b02a2da0ea20ba4165cf0d",
     "source": "Le Monde",
     "title": "Messages antisémites de Jordan Bardella : les 19 preuves que le président du RN est bien l’auteur des propos incriminés sur Messenger",
@@ -96,20 +104,20 @@
     "summary": "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système américain Palantir. L’exercice a eu lieu dans le contexte d’une lutte impitoyable entre industriels de l’armement, licornes de l’intelligence artificielle et états-majors pour faire face à des changements majeurs sur le plan de la souveraineté et de la conduite de la guerre en Europe."
   },
   {
-    "id": "2f4f94931eefc5fb6a7342a014956e5b",
+    "id": "b3eb4e7a61165adc84c15fe316c3145e",
     "source": "Le Monde",
-    "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
-    "link": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
-    "date": "Thu, 26 Nov 2026 22:31:24 +0100",
-    "summary": "La candidate du parti d’extrême droite avait auparavant dénoncé « de basses manœuvres politiciennes » pour conclure d’ici la fin de l’année un accord sur le budget européen pluriannuel qui serait difficile à remettre en cause si elle remportait la présidentielle."
+    "title": "Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html",
+    "date": "Thu, 26 Nov 2026 21:42:09 +0100",
+    "summary": "Aux exceptions notables de Marine Le Pen et de Jean-Luc Mélenchon, les postulants à l’Elysée sont venus, mercredi, au Parc des expositions à Paris, prendre le pouls des élus locaux et chercher, pour certains, les précieux parrainages."
   },
   {
-    "id": "85d7be8759a427f9ffa0dda410741f6e",
+    "id": "db297060bd47e615c48c0056d923d001",
     "source": "Le Monde",
-    "title": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
-    "link": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukrainiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html",
-    "date": "Thu, 26 Nov 2026 20:25:06 +0100",
-    "summary": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO."
+    "title": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+    "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+    "date": "Fri, 27 Nov 2026 00:45:02 +0100",
+    "summary": "Andrii Sybiha dit avoir expliqué à son homologue libyen, Taher Al-Baour, « qu’aucune des actions de l’Ukraine n’a jamais été dirigée contre la Libye ou le peuple libyen, uniquement contre des objets militaires russes servant directement à la guerre de la Russie contre l’Ukraine ». Kiev a revendiqué lundi des frappes contre deux navires russes, près de Benghazi."
   },
   {
     "id": "596587a2395320f3c8cf65b2399650ea",
@@ -120,20 +128,28 @@
     "summary": "Une semaine après sa sortie, nous avons vu le générique de fin de la superproduction de Rockstar Games. Retour sur une fresque explosive, monumentale mais poussive dans sa conclusion."
   },
   {
-    "id": "1e823c3d956c0ae02f882f92f683b4d4",
+    "id": "389fc9c47dc8d12f8cd94c17a4102b33",
     "source": "Le Monde",
-    "title": "RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/26/rtl-les-journalistes-denoncent-le-management-de-la-direction-de-la-redaction-sur-fond-d-inquietudes-sur-la-baisse-des-moyens-alloues_6815588_3234.html",
-    "date": "Thu, 26 Nov 2026 19:00:14 +0100",
-    "summary": "Le directeur général, Jonathan Curiel, a pris la parole, jeudi, devant la rédaction pour tenter d’apaiser les tensions au sein de la radio du groupe M6. La maison mère est aussi accusée « d’appauvrir » la station."
+    "title": "Au procès de l’explosion de la rue de Trévise, les avocats des parties civiles rendent hommage aux victimes et réfutent la thèse de « la fatalité »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/27/au-proces-de-l-explosion-de-la-rue-de-trevise-les-avocats-des-parties-civiles-rendent-hommage-aux-victimes-et-refutent-la-these-de-la-fatalite_6815760_3224.html",
+    "date": "Fri, 27 Nov 2026 05:00:14 +0100",
+    "summary": "Jeudi 26 novembre ont pris fin trois jours de plaidoiries qui ont souligné « la négligence et l’imprudence institutionnalisées » de la Ville de Paris et de la société Cipa, le syndic du n° 6 de la rue de Trévise."
   },
   {
-    "id": "9b9498f3de14365d0e968a50901273b9",
+    "id": "83292072e132cf94ad2767548479d9ca",
     "source": "Le Monde",
-    "title": "Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement",
-    "link": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html",
-    "date": "Thu, 26 Nov 2026 18:08:19 +0100",
-    "summary": "Les discussions entre les deux partis avaient été rompues mardi, faute d’entente sur la répartition des portefeuilles ministériels."
+    "title": "A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/26/a-nice-dix-membres-d-un-groupe-anticasseurs-devant-la-justice-on-etait-la-pour-les-commercants_6815626_3224.html",
+    "date": "Thu, 26 Nov 2026 23:43:09 +0100",
+    "summary": "Dix membres présumés d’un « groupe d’autodéfense » constitué face aux manifestations de l’automne, soupçonnés d’être proches de l’ultradroite locale, comparaissaient jeudi 26 octobre devant le tribunal correctionnel de Nice pour association de malfaiteurs et transport d’armes."
+  },
+  {
+    "id": "72a881baf95cce73cd6202062d348ebd",
+    "source": "Le Monde",
+    "title": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+    "date": "Fri, 27 Nov 2026 03:27:04 +0100",
+    "summary": "Les affrontements survenus avant la rencontre de Ligue Europa entre l’Olympique de Marseille et le Levski Sofia, jeudi, au Stade-Vélodrome, ont fait une douzaine de blessés parmi les supporteurs bulgares, selon la préfecture de police des Bouches-du-Rhône."
   },
   {
     "id": "47ceccfd25d00d36e1ced78bd32858ea",
@@ -160,20 +176,20 @@
     "summary": "Quelques milliers de jeunes ont manifesté dans la capitale, jeudi 26 novembre, entre volonté de ne rien lâcher sur les revendications et doutes sur les conséquences de la mobilisation sur leur année scolaire et universitaire."
   },
   {
-    "id": "4146fdd6e7c54717dce39884f1dadf21",
-    "source": "Le Monde",
-    "title": "En Turquie, le maréchal Haftar concrétise son rapprochement avec Recep Tayyip Erdogan",
-    "link": "https://www.lemonde.fr/afrique/article/2026/11/26/en-turquie-le-marechal-haftar-concretise-son-rapprochement-avec-recep-tayyip-erdogan_6815587_3212.html",
-    "date": "Thu, 26 Nov 2026 19:00:01 +0100",
-    "summary": "La visite officielle de l’« homme fort » de la Cyrénaïque à Ankara, mercredi 25 novembre, constitue une étape décisive du rapprochement entre les autorités turques et l’Est libyen. La Turquie dispose déjà d’une présence militaire importante dans l’ouest du pays."
-  },
-  {
     "id": "f513da700ec6fdc780f5cce0cfbee95d",
     "source": "Le Monde",
     "title": "A Nanterre et Pantin, deux projets de réhabilitation qui dessinent le visage du Grand Paris",
     "link": "https://www.lemonde.fr/culture/article/2026/11/26/a-nanterre-et-pantin-deux-projets-de-rehabilitation-qui-dessinent-le-visage-du-grand-paris_6815580_3246.html",
     "date": "Thu, 26 Nov 2026 18:30:02 +0100",
     "summary": "La rénovation de l’école d’architecture de Nanterre et la reconversion des usines Pouchard témoignent de l’intérêt du secteur privé pour ces projets de transformation, plus complexes mais plus écologiques que la construction d’équipements neufs."
+  },
+  {
+    "id": "a976413def2b7946923e14eb019b0695",
+    "source": "Le Monde",
+    "title": "La rapporteuse spéciale des Nations unies pour les territoires palestiniens se voit refuser l’entrée au Costa Rica",
+    "link": "https://www.lemonde.fr/international/article/2026/11/27/la-rapporteuse-speciale-des-nations-unies-pour-les-territoires-palestiniens-se-voit-refuser-l-entree-au-costa-rica_6815792_3210.html",
+    "date": "Fri, 27 Nov 2026 05:16:06 +0100",
+    "summary": "Francesca Albanese venait recevoir un titre de docteure honoris causa de l’université du Costa Rica. Mais elle a été interdite d’entrée dans le pays, car sous le coup d’une « alerte internationale pour liens avec des actes terroristes », ont affirmé les services d’immigration."
   },
   {
     "id": "58e649b26618d84cd2969c796fd136ee",
@@ -184,20 +200,20 @@
     "summary": "La campagne des élections locales prévues dimanche 29 novembre a été largement modifiée par la mise hors de course de plusieurs candidats et formations."
   },
   {
-    "id": "d63550ec91e3203f3a12b416cbd17bfc",
-    "source": "Le Monde",
-    "title": "L’Agence France-Presse dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images",
-    "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html",
-    "date": "Thu, 26 Nov 2026 20:38:05 +0100",
-    "summary": "L’AFP a dit, jeudi soir, ne disposer « d’aucun élément sur l’identité des auteurs » de cette attaque. AFP Forum, l’un de ses principaux sites, est inaccessible."
+    "id": "5fa7f63abd7c76f3e88204b1ffc394cb",
+    "source": "Libération",
+    "title": "Puisse Teddy repenser au jour où il alluma la vasque… Et éteindre sa candidature",
+    "link": "https://www.liberation.fr/idees-et-debats/puisse-teddy-repenser-au-jour-ou-il-alluma-la-vasque-et-eteindre-sa-candidature-20261127_CXPGPUWZPJD4XKRJ7BIUNFZ7MM/",
+    "date": "Fri, 27 Nov 2026 04:20:00 +0000",
+    "summary": "Alors qu’il n’a toujours pas dévoilé de programme présidentiel, le champion enchaîne propos et déplacement douteux. On en vient à souhaiter que le héros des JO de 2024 jette l’éponge."
   },
   {
-    "id": "fa1576165bf7ac0f1bef9e055bb4ce48",
-    "source": "Le Monde",
-    "title": "Le Louvre, un monument modèle résumé en 300 photographies",
-    "link": "https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html",
-    "date": "Thu, 26 Nov 2026 19:00:22 +0100",
-    "summary": "L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes."
+    "id": "bdc98283579af7c30d5c4bca7520459e",
+    "source": "Libération",
+    "title": "«Singin’ in the Rain» : le théâtre du Lido fait la pluie et le bon temps",
+    "link": "https://www.liberation.fr/culture/singin-in-the-rain-le-theatre-du-lido-fait-la-pluie-et-le-bon-temps-20261127_WYALSOBHXBBWPKJ52CXF6YOMMQ/",
+    "date": "Fri, 27 Nov 2026 04:11:00 +0000",
+    "summary": "Joie communicative, numéros musicaux irrésistibles… La nouvelle production de la comédie musicale hollywoodienne de Gene Kelly et Stanley Donen, signée Robert Carsen, triomphe actuellement à Paris."
   },
   {
     "id": "799dfc7beae522dbbef599e2c5e4a6e8",
@@ -302,22 +318,6 @@
     "link": "https://www.liberation.fr/environnement/animaux/en-italie-les-citoyens-selevent-contre-le-projet-de-loi-tire-a-tout-va-la-nature-se-regule-delle-meme-pas-besoin-de-fusils-pour-cela-20261126_TH2K7A3FOVBA3MDR5WXXXCTQK4/",
     "date": "Thu, 26 Nov 2026 19:08:20 +0000",
     "summary": "Ce jeudi 26 novembre, plus de 70 organisations ont appelé à manifester dans le centre de Rome contre un projet de loi défendu par le parti d’extrême droite Fratelli d’Italia qui vise à autoriser très largement la chasse. Le texte est examiné par les députés à compter de vendredi."
-  },
-  {
-    "id": "8e1c6af5c4c3afd355a89b63e59cd8a8",
-    "source": "Libération",
-    "title": "«Notre fille nous demande tous les jours si elle va redoubler» : à Arcueil, des parents d’élèves mobilisés contre le non-remplacement d’un enseignant",
-    "link": "https://www.liberation.fr/societe/education/notre-fille-nous-demande-tous-les-jours-si-elle-va-redoubler-a-arcueil-des-parents-deleves-mobilises-contre-le-non-remplacement-dun-enseignant-20261126_BUHB7QWSTJFCLGCUFE654ST5SY/",
-    "date": "Thu, 26 Nov 2026 19:06:23 +0000",
-    "summary": "La classe de CE2 de l’école Jules-Ferry, dans le Val-de-Marne, cumule soixante-six heures d’absence non remplacées, faute d’effectifs et de budget. Les sollicitations auprès de l’académie de Créteil restent lettre morte."
-  },
-  {
-    "id": "e1eba48c5d1764ec5b6d990f32237d1d",
-    "source": "Libération",
-    "title": "Hausse du smic au 1er décembre : un baromètre de la CGT pointe le retard des négociations dans les branches",
-    "link": "https://www.liberation.fr/economie/social/hausse-du-smic-au-1er-decembre-un-barometre-de-la-cgt-pointe-le-retard-des-negociations-dans-les-branches-20261126_CEK25OSKZNGPRFBOOYC7DQT42Q/",
-    "date": "Thu, 26 Nov 2026 18:53:16 +0000",
-    "summary": "Selon le syndicat, seules 55 branches - sur les 164 où les premiers niveaux de rémunérations sont inférieurs au salaire minimum - ont engagé des négociations salariales. Ces dernières doivent pourtant en théorie être lancées avant le 15 décembre."
   },
   {
     "id": "0bc929cb22f66a54aaabf9f05903b806",
@@ -440,6 +440,94 @@
     "summary": "<img alt=\"\" class=\"spip_logo\" height=\"467\" src=\"https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250429__hl_fpetry_2710732__v1__highres__francehuntingillustration_1_-073fc.jpg?1795613260\" width=\"700\" />\n<p>C'est une pratique particulièrement cruelle, interdite presque partout dans le monde et rejetée par 78<small class=\"fine d-inline\"> </small>% des Français. Pourtant, quelque 10 000 personnes pratiquent encore la chasse à courre pour tuer chaque année plusieurs centaines de cerfs, chevreuils et sangliers. Également appelée vénerie, elle consiste à traquer un animal avec une meute de chiens jusqu'à l'épuisement, pour ensuite le mettre à mort à l'arme blanche. <br class=\"autobr\" />\nUne pétition réclamant son abolition, déposée début novembre sur le (…)</p>\n\n            <a href=\"https://reporterre.net/Chasse-a-courre-une-petition-reclamant-son-abolition-depasse-100-000-signatures?utm_source=RSS&amp;utm_medium=RSS\">Lire la suite</a>\n            \n            -\n                <a href=\"https://reporterre.net/Breves-20\" rel=\"directory\">En bref</a>\n            \n            \n            / \n                <a href=\"https://reporterre.net/Chasse\" rel=\"tag\">Chasse</a>"
   },
   {
+    "id": "8e9d4681552a0b058250761839547968",
+    "source": "BFMTV",
+    "title": "NEC Nimègue-Rennes: la colère des supporters bretons, qui jettent des gobelets contre leurs joueurs",
+    "link": "https://rmcsport.bfmtv.com/football/europa-league/nec-nimegue-rennes-la-colere-des-supporters-bretons-qui-jettent-des-gobelets-contre-leurs-joueurs_AV-202611261059.html",
+    "date": "Thu, 26 Nov 2026 23:46:19 GMT",
+    "summary": "Alors que leur équipe a concédé une piteuse défaite sur la pelouse de NEC Nimègue, jeudi soir à l'occasion de la 5e journée de Ligue Europa (3-1), les supporters du Stade rennais ont fait part de leur ras-le-bol au moment où les joueurs sont venus à leur rencontre. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/ZO4KYPfjYQhnSklMkxlDX6QAqRY=/163x460:1491x1207/800x0/images/Les-joueurs-de-Rennes-apres-le-match-de-Ligue-Europa-contre-NEC-Nimegue-le-26-11-2026-2391499.jpg\" />"
+  },
+  {
+    "id": "8a701d1bcab6c96da14f6e79bde42a0a",
+    "source": "BFMTV",
+    "title": "Le Forum BFMTV – Impôts, argent public : le grand gâchis",
+    "link": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-le-forum-bfmtv-impots-argent-public-le-grand-gachis_VN-202611261063.html",
+    "date": "Thu, 26 Nov 2026 23:45:22 GMT",
+    "summary": "Revoir notre grande émission spéciale \"Forum BFMTV – Impôts, argent public : le grand gâchis\" présentée par Maxime Switek ce jeudi 26 novembre 2026 sur BFMTV. À moins de cinq mois de l'élection présidentielle, les invités y ont exposé leurs points de vue sur les impôts et les services publics.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Z1tEmS4qGRbQrWpdWWLbmJgoRRY=/0x0:1280x720/800x0/images/Le-Forum-BFMTV-Impots-argent-public-le-grand-gachis-2391503.jpg\" />"
+  },
+  {
+    "id": "322f43b2ceeb15cbb818455e6f3b69da",
+    "source": "BFMTV",
+    "title": "Présidentielle: après les propos de Teddy Riner, Emmanuel Macron estime qu'il ne \"faut pas créer de doute et de trouble\" sur l'aide à l'Ukraine",
+    "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-emmanuel-macron-en-route-pour-bruxelle-pour-negocier-avec-les-dirigeants-de-l-ue-sur-le-budget-europeen_LN-202611260221.html",
+    "date": "Thu, 26 Nov 2026 06:03:32 GMT",
+    "summary": "Le 108e Congrès des maires de France s'est achevé ce jeudi 26 novembre à Paris. Sébastien Lecornu, David Lisnard et Gérard Larcher s'y sont retrouvés pour un débat retransmis sur BFMTV. Huit députés LR ont laché Bruno Retailleau pour soutenir David Lisnard et Emmanuel Macron a appelé à ne pas \"créer de doute et de trouble\" sur l'aide à l'Ukraine.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/deWl2r4PcdiFhyNCsueDtdYB9TA=/0x106:2048x1258/800x0/images/Emmanuel-Macron-2391421.jpg\" />"
+  },
+  {
+    "id": "d2011dd4e0c10c0e759aaab61e7193a4",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - IMPÔTS, ARGENT PUBLIC: LE GRAND GÂCHIS",
+    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-impots-argent-public-le-grand-gachis_VN-202611261062.html",
+    "date": "Thu, 26 Nov 2026 23:11:46 GMT",
+    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/5-THTIXH5XjTpeyPVR5EZmOPWCQ=/0x0:1280x720/800x0/images/FORUM-BFMTV-IMPOTS-ARGENT-PUBLIC-LE-GRAND-GACHIS-2391502.jpg\" />"
+  },
+  {
+    "id": "50f5919a13c94d3f5e57b2fc6dbf2025",
+    "source": "BFMTV",
+    "title": "OM-Levski Sofia: un supporter bulgare filmé en train d'effectuer un salut nazi",
+    "link": "https://rmcsport.bfmtv.com/football/europa-league/om-levski-sofia-un-supporter-bulgare-filme-en-train-d-effectuer-un-salut-nazi_AV-202611261045.html",
+    "date": "Thu, 26 Nov 2026 23:06:26 GMT",
+    "summary": "Alors que l'avant-match de Ligue Europa entre l'OM et le Levski Sofia a été marqué par de violents incidents en tribunes, jeudi soir (1-0), un supporter du club bulgare a également été filmé en train d'effectuer un salut nazi.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/qu8-c68nr3EVMFONfXN1I4_GO8M=/0x212:2048x1364/800x0/images/Les-tribunes-du-Velodrome-pendant-le-match-de-Ligue-Europa-OM-Levski-Sofia-le-26-11-2026-2391490.jpg\" />"
+  },
+  {
+    "id": "4822b58e49375f651286aadc2a018af0",
+    "source": "BFMTV",
+    "title": "Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", témoigne ce salarié chez Amazon",
+    "link": "https://www.bfmtv.com/societe/video-superprofits-en-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-temoigne-ce-salarie-chez-amazon_VN-202611261041.html",
+    "date": "Thu, 26 Nov 2026 22:58:40 GMT",
+    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/smINdi3gVVUInbH5-SZHriV844s=/0x0:1280x720/800x0/images/Superprofits-En-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-temoigne-ce-salarie-chez-Amazon-2391492.jpg\" />"
+  },
+  {
+    "id": "b573818f8218f2760972dc387caef0ed",
+    "source": "BFMTV",
+    "title": "OM-Levski Sofia: une victoire poussive mais précieuse pour Marseille, qui se relance pour la qualification",
+    "link": "https://rmcsport.bfmtv.com/football/europa-league/direct-om-levski-sofia-suivez-le-match-de-la-cinquieme-journee-de-ligue-europa-au-velodrome-en-live_LS-202611260432.html",
+    "date": "Thu, 26 Nov 2026 08:54:17 GMT",
+    "summary": "Grâce à un penalty d'Amine Gouiri, l'OM s'impose 1-0 face au Levski Sofia lors de la 5e journée de Ligue Europa. Malgré un deuxième penalty manqué par l'attaquant marseillais, les Olympiens assurent une victoire précieuse dans la course à la qualification. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2Dz-AB4kE-fWkdigsCRKIg9USf4=/0x14:1200x689/800x0/images/Ligue-Europa-OM-Levski-Sofia-Pierre-Emile-Hojbjerg-le-26-novembre-2026-2391375.jpg\" />"
+  },
+  {
+    "id": "86d89ab14eafcf5e09e77ef56e0ea5c3",
+    "source": "BFMTV",
+    "title": "FORUM BFMTV - Allocations familiales: Jennifer, salariée en Ehpad, juge \"la redistribution trop importante\"",
+    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-allocations-familiales-jennifer-salariee-en-ehpad-juge-la-redistribution-trop-importante_VN-202611261039.html",
+    "date": "Thu, 26 Nov 2026 22:51:28 GMT",
+    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/dKfrs4jobINB-nLZzIHdXKmSap4=/0x0:1280x720/800x0/images/FORUM-BFMTV-Allocations-familiales-Jennifer-salariee-en-Ehpad-juge-la-redistribution-trop-importante-2391489.jpg\" />"
+  },
+  {
+    "id": "9463f6bd82907ef06f4cee6d548a3338",
+    "source": "BFMTV",
+    "title": "Nimègue-Rennes: les Bretons coulent aux Pays-Bas et se mettent en danger au classement",
+    "link": "https://rmcsport.bfmtv.com/football/europa-league/direct-nimegue-rennes-suivez-en-direct-le-match-de-la-5e-journee-de-ligue-europa_LS-202611260548.html",
+    "date": "Thu, 26 Nov 2026 16:55:00 GMT",
+    "summary": "Sur la pelouse du NEC Nimègue, Rennes (22e) connaît sa première défaite de la saison en Ligue Europa (3-1). Parfois malmenés par des Néerlandais qui ont joué sans complexe, les Bretons pensaient avoir pris l'ascendant après une égalisation d'Adrien Thomasson (36e) et une seconde période intéressante. Mais les hommes de Franck Haise ont craqué en fin de match après un penalty concédé. Rennes reste dans le top 24 mais est à égalité de points avec deux équipes ne figurant pas parmi les barragistes. Les Rennais devront renouer avec la victoire, le 10 décembre contre le Dinamo Zagreb.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/EJlpiTNdsynQtB2_5nu_1ZDAunY=/0x106:2048x1258/800x0/images/La-deception-de-Brice-Samba-et-des-Rennais-battus-par-le-NEC-Nimegue-le-26-novembre-2026-2391474.jpg\" />"
+  },
+  {
+    "id": "d39253f3f4896fa9e35a3789441815e6",
+    "source": "BFMTV",
+    "title": "\"Que plus aucun match de Coupe d’Europe ne soit disputé dans ce stade\": le Levski Sofia demande une lourde sanction contre l'OM après les incidents au Vélodrome",
+    "link": "https://rmcsport.bfmtv.com/football/europa-league/que-plus-aucun-match-de-coupe-d-europe-ne-soit-dispute-dans-ce-stade-le-levski-sofia-demande-une-lourde-sanction-contre-l-om-apres-les-incidents-au-velodrome_AV-202611261037.html",
+    "date": "Thu, 26 Nov 2026 22:43:11 GMT",
+    "summary": "Jeudi soir, le match de la 5e journée de Ligue Europa entre l'OM et le Levski Sofia (1-0) a été émaillé par de violents incidents entre supporters en tribune. Daniel Borimirov, directeur exécutif du club bulgare, a réclamé des sanctions contre les Marseillais.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/KH4yK3-e9T99TKrAvkT9vNwyBEc=/0x106:2048x1258/800x0/images/Le-match-de-la-5e-journee-de-Ligue-Europa-entre-l-OM-et-le-Levski-Sofia-1-0-a-ete-emaille-par-de-violents-incidents-entre-supporters-en-tribune-26-11-2026-2391485.jpg\" />"
+  },
+  {
+    "id": "eac36b1fcdaaa486e6211215bd1deed9",
+    "source": "BFMTV",
+    "title": "Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", confie ce salarié chez Amazon",
+    "link": "https://www.bfmtv.com/societe/video-superprofits-en-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-confie-ce-salarie-chez-amazon_VN-202611261036.html",
+    "date": "Thu, 26 Nov 2026 22:38:44 GMT",
+    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/PUu85Wp1917IojqVBKYDopX6SMM=/0x0:1280x720/800x0/images/Superprofits-En-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-confie-ce-salarie-chez-Amazon-2391487.jpg\" />"
+  },
+  {
     "id": "343092583d4a724026a6cbc1bf21c3fb",
     "source": "BFMTV",
     "title": "NEC 3 - 1 Rennes : \"Il y a un problème qui est plus profond dans ce club\"",
@@ -470,93 +558,5 @@
     "link": "https://www.bfmtv.com/societe/c-est-un-investissement-cher-trois-statues-geantes-de-la-nativite-voulues-par-la-mairie-rn-de-perpignan-font-polemique_AD-202611261028.html",
     "date": "Thu, 26 Nov 2026 22:19:06 GMT",
     "summary": "À Perpignan, la mairie RN a souhaité installer des statues de la Nativité en lien avec les fêtes de Noël sur la place de la République. Une décision qui fait polémique.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/6FAAgKIdhNxVHX1AUSM-Wh9yZF0=/0x39:768x471/800x0/images/Trois-statues-geantes-de-l-enfant-Jesus-et-de-ses-parents-Marie-et-Joseph-installees-sur-la-place-de-la-Republique-a-Perpignan-le-26-novembre-2026-dans-les-Pyrenees-Orientales-2391288.jpg\" />"
-  },
-  {
-    "id": "b573818f8218f2760972dc387caef0ed",
-    "source": "BFMTV",
-    "title": "OM-Levski Sofia: une victoire poussive mais précieuse pour Marseille, qui se relance pour la qualification",
-    "link": "https://rmcsport.bfmtv.com/football/europa-league/direct-om-levski-sofia-suivez-le-match-de-la-cinquieme-journee-de-ligue-europa-au-velodrome-en-live_LS-202611260432.html",
-    "date": "Thu, 26 Nov 2026 08:54:17 GMT",
-    "summary": "Grâce à un penalty d'Amine Gouiri, l'OM s'impose 1-0 face au Levski Sofia lors de la 5e journée de Ligue Europa. Malgré un deuxième penalty manqué par l'attaquant marseillais, les Olympiens assurent une victoire précieuse dans la course à la qualification. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/2Dz-AB4kE-fWkdigsCRKIg9USf4=/0x14:1200x689/800x0/images/Ligue-Europa-OM-Levski-Sofia-Pierre-Emile-Hojbjerg-le-26-novembre-2026-2391375.jpg\" />"
-  },
-  {
-    "id": "9463f6bd82907ef06f4cee6d548a3338",
-    "source": "BFMTV",
-    "title": "Nimègue-Rennes: les Bretons coulent aux Pays-Bas et se mettent en danger au classement",
-    "link": "https://rmcsport.bfmtv.com/football/europa-league/direct-nimegue-rennes-suivez-en-direct-le-match-de-la-5e-journee-de-ligue-europa_LS-202611260548.html",
-    "date": "Thu, 26 Nov 2026 16:55:00 GMT",
-    "summary": "Sur la pelouse du NEC Nimègue, Rennes (22e) connaît sa première défaite de la saison en Ligue Europa (3-1). Parfois malmenés par des Néerlandais qui ont joué sans complexe, les Bretons pensaient avoir pris l'ascendant après une égalisation d'Adrien Thomasson (36e) et une seconde période intéressante. Mais les hommes de Franck Haise ont craqué en fin de match après un penalty concédé. Rennes reste dans le top 24 mais est à égalité de points avec deux équipes ne figurant pas parmi les barragistes. Les Rennais devront renouer avec la victoire, le 10 décembre contre le Dinamo Zagreb.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/EJlpiTNdsynQtB2_5nu_1ZDAunY=/0x106:2048x1258/800x0/images/La-deception-de-Brice-Samba-et-des-Rennais-battus-par-le-NEC-Nimegue-le-26-novembre-2026-2391474.jpg\" />"
-  },
-  {
-    "id": "281bf7f03cea3dccc9148ed961548e7e",
-    "source": "BFMTV",
-    "title": "Ligue Europa: OM, OL, Rennes... le classement général complet de la C3 après la 5e journée",
-    "link": "https://rmcsport.bfmtv.com/football/europa-league/ligue-europa-om-ol-rennes-le-classement-general-complet-de-la-c3-apres-la-3e-journee_AV-202610220974.html",
-    "date": "Thu, 22 Oct 2026 21:05:28 GMT",
-    "summary": "La Ligue Europa 2026-2027 se poursuivait cette semaine avec la cinquième journée au programme. Découvrez le classement général complet, avec des fortunes diverses pour l'OM, l'OL et le Stade Rennais. <br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/P3Ve6tTGXSMflbx18VWmuIt-QQ8=/0x212:2048x1364/800x0/images/Le-trophee-de-la-Ligue-Europa-2323896.jpg\" />"
-  },
-  {
-    "id": "f7f3d774a48a904620388af23261fde4",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Pour Tidjan, en recherche d'emploi dans le Val-de-Marne, il faut \"rééquilibrer la dynamique capital travail\"",
-    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-pour-tidjan-en-recherche-d-emploi-dans-le-val-de-marne-il-faut-reequilibrer-la-dynamique-capital-travail_VN-202611261024.html",
-    "date": "Thu, 26 Nov 2026 22:00:28 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/0g5oUEtNk0S6TUT5mNyCcHvV3AU=/0x0:1280x720/800x0/images/FORUM-BFMTV-Pour-Tidjan-en-recherche-d-emploi-dans-le-Val-de-Marne-il-faut-reequilibrer-la-dynamique-capital-travail-2391475.jpg\" />"
-  },
-  {
-    "id": "c8a50f3ba0af2d62581ab5c43de7da42",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - \"Avec quel argent on pourrait financer les services publics? C'est plutôt ça le débat\", soutient Aurélien Taché, député LFI",
-    "link": "https://www.bfmtv.com/politique/video-forum-bfmtv-avec-quel-argent-on-pourrait-financer-les-services-publics-c-est-plutot-ca-le-debat-soutient-aurelien-tache-depute-lfi_VN-202611261025.html",
-    "date": "Thu, 26 Nov 2026 21:59:42 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/vMQKCr9-X0vrGtQuG8KoFu5WOBA=/0x0:1280x720/800x0/images/FORUM-BFMTV-Avec-quel-argent-on-pourrait-financer-les-services-publics-C-est-plutot-ca-le-debat-soutient-Aurelien-Tache-depute-LFI-2391476.jpg\" />"
-  },
-  {
-    "id": "322f43b2ceeb15cbb818455e6f3b69da",
-    "source": "BFMTV",
-    "title": "DIRECT. Présidentielle: après les propos de Teddy Riner, Emmanuel Macron estime qu'il ne \"faut pas créer de doute et de trouble\" sur l'aide à l'Ukraine",
-    "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-emmanuel-macron-en-route-pour-bruxelle-pour-negocier-avec-les-dirigeants-de-l-ue-sur-le-budget-europeen_LN-202611260221.html",
-    "date": "Thu, 26 Nov 2026 06:03:32 GMT",
-    "summary": "Le 108e Congrès des maires de France s'est achevé ce jeudi 26 novembre à Paris. Sébastien Lecornu, David Lisnard et Gérard Larcher s'y sont retrouvés pour un débat retransmis sur BFMTV. Huit députés LR ont laché Bruno Retailleau pour soutenir David Lisnard et Emmanuel Macron a appelé à ne pas \"créer de doute et de trouble\" sur l'aide à l'Ukraine.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/deWl2r4PcdiFhyNCsueDtdYB9TA=/0x106:2048x1258/800x0/images/Emmanuel-Macron-2391421.jpg\" />"
-  },
-  {
-    "id": "c1dc25e75a8ff5aa0a1ba922729de6af",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Retraites, santé, éducation... Que financent 1.000 euros d'impôts?",
-    "link": "https://www.bfmtv.com/economie/patrimoine/retraite/video-forum-bfmtv-retraites-sante-education-que-financent-1-000-euros-d-impots_VN-202611261023.html",
-    "date": "Thu, 26 Nov 2026 21:56:36 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/c1j57hFOKqg9hl-YbDp5RMFKseM=/0x0:1280x720/800x0/images/FORUM-BFMTV-Retraites-sante-education-Que-financent-1-000-euros-d-impots-2391473.jpg\" />"
-  },
-  {
-    "id": "2ec2d46feece46c7a719c9cc672b7e30",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - \"Tout ce qui est superprofits, nous en tant qu'employé, on ne reçoit rien\", indique Jérémy, agent logistique chez Amazon",
-    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-tout-ce-qui-est-superprofits-nous-en-tant-qu-employe-on-ne-recoit-rien-indique-jeremy-agent-logistique-chez-amazon_VN-202611261021.html",
-    "date": "Thu, 26 Nov 2026 21:55:21 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/zYMpAJSS_KqKqBsc0Bb4Agw1dQ0=/0x0:1280x720/800x0/images/FORUM-BFMTV-Tout-ce-qui-est-superprofits-nous-en-tant-qu-employe-on-ne-recoit-rien-indique-Jeremy-agent-logistique-chez-Amazon-2391472.jpg\" />"
-  },
-  {
-    "id": "accaf02d2b1926606249710a75e5a97f",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - \"Les agents publics subissent la situation qui est la leur\", assure Christian Grolier, secrétaire général de FO Fonction Publique",
-    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-les-agents-publics-subissent-la-situation-qui-est-la-leur-assure-christian-grolier-secretaire-general-de-fo-fonction-publique_VN-202611261019.html",
-    "date": "Thu, 26 Nov 2026 21:39:27 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/c7PVG_AUaQRNs4wTBhDoQO7_tuU=/0x0:1280x720/800x0/images/FORUM-BFMTV-Les-agents-publics-subissent-la-situation-qui-est-la-leur-assure-Christian-Grolier-secretaire-general-de-FO-Fonction-Publique-2391468.jpg\" />"
-  },
-  {
-    "id": "d3d0a71c9c7fccb954257c29ce28f7a8",
-    "source": "BFMTV",
-    "title": "FORUM BFMTV - Services publics: \"Dans chaque salle, il y a une prise électrique pour 36 ordinateurs\", note Jean-Baptiste, professeur d'histoire-géographie en lycée public",
-    "link": "https://www.bfmtv.com/societe/video-forum-bfmtv-services-publics-dans-chaque-salle-il-y-a-une-prise-electrique-pour-36-ordinateurs-note-jean-baptiste-professeur-d-histoire-geographie-en-lycee-public_VN-202611261017.html",
-    "date": "Thu, 26 Nov 2026 21:28:56 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/Esw0KPZ-yUk_L2FRqCskJ3dfRo0=/0x0:1280x720/800x0/images/FORUM-BFMTV-Services-publics-Dans-chaque-salle-il-y-a-une-prise-electrique-pour-36-ordinateurs-note-Jean-Baptiste-professeur-d-histoire-geographie-en-lycee-public-2391465.jpg\" />"
-  },
-  {
-    "id": "ef24a5c26160cde367e17d5d3726c388",
-    "source": "BFMTV",
-    "title": "Maxime, boulanger, dénonce \"un combat permanent pour faire renouveler un titre de séjour\" pour ses employés",
-    "link": "https://www.bfmtv.com/societe/video-maxime-boulanger-denonce-un-combat-permanent-pour-faire-renouveler-un-titre-de-sejour-pour-ses-employes_VN-202611261016.html",
-    "date": "Thu, 26 Nov 2026 21:27:32 GMT",
-    "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou encore salariée en Ehpad afin de confronter leurs points de vue sur le coût de la vie et les mobilisations citoyennes du moment.<br /><br /><img src=\"https://io-fsly-bfmtv.cdn.nextradiotv.com/S5NHOHtDUfW7p6AGW39qjV_2Xwc=/0x0:1280x720/800x0/images/Maxime-boulanger-denonce-un-combat-permanent-pour-faire-renouveler-un-titre-de-sejour-pour-ses-employes-2391464.jpg\" />"
   }
 ]
